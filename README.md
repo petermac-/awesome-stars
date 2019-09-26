@@ -62,2063 +62,2063 @@
 - [vagrant-examples](https://github.com/patrickdlee/vagrant-examples) - A collection of sample Vagrant configurations using Puppet. Starting out simple and getting more complex.  
 
 ## AutoHotkey
-- [AutoMirror](https://github.com/DizzyduckAR/AutoMirror) - One click Full Gui in ahk for windows. Multi mirror and more  
-- [Quick-Picto-Viewer](https://github.com/marius-sucan/Quick-Picto-Viewer) - A relatively simple picture viewer with options to organize files and generate and maintaing large  lists of image files for slideshows.  
-- [Subtitle](https://github.com/iseahound/Subtitle) - Easy to use, painless gdi+ interpreter written in AutoHotkey.  
-- [KeyPress-OSD](https://github.com/marius-sucan/KeyPress-OSD) - This program is an On-Screen Display or a Heads-Up Display for keys. It displays every key press at a clearly visible text size. It is developed for people with poor eye sight. It is meant to aid desktop computer usage. It is especially useful while chatting or for occasional typing. The user no longer has to squint or zoom in the entire screen to see what s/he writes in small text fields.  
-- [AutoHotkey](https://github.com/MasterFocus/AutoHotkey) - My AHK libraries, functions, templates, etc.  
-- [WatchFolder](https://github.com/AHK-just-me/WatchFolder) -   
-- [ezMenu](https://github.com/davebrny/ezMenu) - easy menu creation using indentation  
-- [Chrome.ahk](https://github.com/G33kDude/Chrome.ahk) - Automate Google Chrome using native AutoHotkey  
-- [long-press](https://github.com/davebrny/long-press) - long press a key to send an alternate key, symbol or string  
-- [AutoHotkey-Facade](https://github.com/Shambles-Dev/AutoHotkey-Facade) - A Set of Functional Programming Libraries  
-- [AhkHook](https://github.com/Daniel-Lobo/AhkHook) -   
-- [AutoHotkey-Lib-WinGetPosEx](https://github.com/pacobyte/AutoHotkey-Lib-WinGetPosEx) -   
-- [RunAny](https://github.com/hui-Zz/RunAny) - 【RunAny】一劳永逸的快速启动多功能菜单软件，拥有三键启动、一键直达、批量搜索、全局热键、短语输出、热键映射、脚本插件等功能  
-- [NSSPinC](https://github.com/cyruz-git/NSSPinC) - Not So Sucky Pinboard Client - Minimalist Pinboard client with caching support  
-- [texter](https://github.com/adampash/texter) - Text replacement/substitution application written in AutoHotkey scripting language.  
-- [TypingAid](https://github.com/ManiacDC/TypingAid) - Word AutoCompletion Utility  
-- [Autocomplete](https://github.com/thdoan/Autocomplete) - Suggests and completes words as you type! Write faster and more efficiently.  
-- [ahkdll-v2-release](https://github.com/HotKeyIt/ahkdll-v2-release) - AutoHotkey_H v2 release  
-- [ahkdll-v1-release](https://github.com/HotKeyIt/ahkdll-v1-release) - AutoHotkey_H v1 release  
-- [AHK-ZeeGrid](https://github.com/kczx3/AHK-ZeeGrid) - An AutoHotkey class that wraps the usage of the ZeeGrid control  
-- [toStr.ahk](https://github.com/SALZKARTOFFEEEL/toStr.ahk) - An AutoHotkey function for displaying any type of value as a string, so that it can be worked with easily.  
-- [Webapp.ahk](https://github.com/joedf/Webapp.ahk) - &#34;AHK-Webkit&#34; / Webapp.ahk - Library for developing web-based apps with AutoHotkey.  
-- [Vis2](https://github.com/iseahound/Vis2) - Simple OCR using Tesseract  
-- [Autohotkey---Mouse-scroll](https://github.com/Mikhail22/Autohotkey---Mouse-scroll) - AHK scripts  
-- [AHK](https://github.com/xcv58/AHK) -   
-- [AHKCommandPicker](https://github.com/deadlydog/AHKCommandPicker) - An AutoHotkey (AHK) script that allows you to easily run AHK functions. Instead of having to remember what shortcut key maps to each of your AHK scripts, this displays a list of all your AHK functions and allows you to easily run them.  
-- [autohotkey-scripts](https://github.com/aviaryan/autohotkey-scripts) - :ok_hand: A collection of Autohotkey scripts and functions authored by me (Avi Aryan).  
-- [AHK-Rare](https://github.com/Ixiko/AHK-Rare) - My collection of rare and maybe very useful functions  
-- [Socket.ahk](https://github.com/G33kDude/Socket.ahk) - AutoHotkey socket class based on Bentschi's  
-- [log4ahk](https://github.com/AutoHotkey-V2/log4ahk) - Logging for AutoHotkey  
-- [AHK-libs-and-classes-collection](https://github.com/Ixiko/AHK-libs-and-classes-collection) - This is a collection of currently around 2500 Autohotkey libraries and classes.  
-- [AHK_v2_64bit_Scripts](https://github.com/oif2003/AHK_v2_64bit_Scripts) - My collection of AutoHotkey v2 64-bit scripts  
-- [dual](https://github.com/lydell/dual) - Dual is an AutoHotkey script that lets you define dual-role modifier keys easily.  
-- [DockWin](https://github.com/rwese/DockWin) - Autohotkey Script to save and restore positions of windows.  
-- [PuloversMacroCreator](https://github.com/Pulover/PuloversMacroCreator) - Automation Utility - Recorder & Script Generator  
-- [Class_LV_Rows](https://github.com/Pulover/Class_LV_Rows) - Additional functions for AHK ListView controls  
-- [global-IntelliSense-everywhere](https://github.com/sl5net/global-IntelliSense-everywhere) - global IntelliSense everywhere for windows with autohotkey  
-- [eAutocomplete](https://github.com/A-AhkUser/eAutocomplete) - The class provides a programmable interface allowing to easily integrate a custom word autocomplete function in a given ahk script or project.  
-- [HotVoice](https://github.com/evilC/HotVoice) - Adds Speech Recognition support to AutoHotkey, via a C# DLL  
-- [AHK_Gui_Constants](https://github.com/AHK-just-me/AHK_Gui_Constants) - Some WIndows constants useful for AHK Guis and GuiControls  
-- [autohotkey.misc](https://github.com/alburthoffman/autohotkey.misc) - all useful codes  
-- [Library-Helper](https://github.com/DelPyth/Library-Helper) - An AHK Library helper.  
-- [ScriptUp](https://github.com/Masonjar13/ScriptUp) - All AutoHotkey scripts under one process.  
-- [Menu-Maker](https://github.com/maestrith/Menu-Maker) -   
-- [TapHoldManager](https://github.com/evilC/TapHoldManager) - An AHK library for Long Press / Multi tap / Multi tap and hold  
-- [AutoHotkey](https://github.com/denolfe/AutoHotkey) - :gear: My Autohotkey productivity suite that includes shortcuts, hotstrings, hotkeys, apps/utilities, AutoCorrect  
-- [Class_ImageButton](https://github.com/tmplinshi/Class_ImageButton) - Image Buttons for AHK GUIs.  
-- [Exo](https://github.com/Aurelain/Exo) - Write AHK with JavaScript  
-- [windows10DesktopManager](https://github.com/jpginc/windows10DesktopManager) - An autohotkey desktop manager  
-- [AutoHotkey-Scripts](https://github.com/russelldavis/AutoHotkey-Scripts) -   
-- [AHK-Library](https://github.com/Masonjar13/AHK-Library) - Most of my personal AHK stdlib.  
-- [FoldersPopup](https://github.com/JnLlnd/FoldersPopup) - Popup menu to jump instantly from one folder to another. Freeware.  
-- [Class_ImageButton](https://github.com/AHK-just-me/Class_ImageButton) - Image Buttons for AHK GUIs.  
-- [High-Contrast-Theme-Creator](https://github.com/acorns/High-Contrast-Theme-Creator) - It makes uglies  
 - [2nd-keyboard](https://github.com/TaranVH/2nd-keyboard) - ALL of Taran's scripts - not just for the 2nd keyboard.  
-- [Autohotkey-Scripts](https://github.com/dufferzafar/Autohotkey-Scripts) - Windows utilities written in Autohorkey. Mostly just proof-of-concepts.  
+- [AHK](https://github.com/xcv58/AHK) -   
+- [AHK_Gui_Constants](https://github.com/AHK-just-me/AHK_Gui_Constants) - Some WIndows constants useful for AHK Guis and GuiControls  
+- [AHK_v2_64bit_Scripts](https://github.com/oif2003/AHK_v2_64bit_Scripts) - My collection of AutoHotkey v2 64-bit scripts  
+- [AHK-Library](https://github.com/Masonjar13/AHK-Library) - Most of my personal AHK stdlib.  
+- [AHK-libs-and-classes-collection](https://github.com/Ixiko/AHK-libs-and-classes-collection) - This is a collection of currently around 2500 Autohotkey libraries and classes.  
+- [AHK-Rare](https://github.com/Ixiko/AHK-Rare) - My collection of rare and maybe very useful functions  
+- [AHK-ZeeGrid](https://github.com/kczx3/AHK-ZeeGrid) - An AutoHotkey class that wraps the usage of the ZeeGrid control  
+- [AHKCommandPicker](https://github.com/deadlydog/AHKCommandPicker) - An AutoHotkey (AHK) script that allows you to easily run AHK functions. Instead of having to remember what shortcut key maps to each of your AHK scripts, this displays a list of all your AHK functions and allows you to easily run them.  
+- [ahkdll-v1-release](https://github.com/HotKeyIt/ahkdll-v1-release) - AutoHotkey_H v1 release  
+- [ahkdll-v2-release](https://github.com/HotKeyIt/ahkdll-v2-release) - AutoHotkey_H v2 release  
+- [AhkHook](https://github.com/Daniel-Lobo/AhkHook) -   
+- [Autocomplete](https://github.com/thdoan/Autocomplete) - Suggests and completes words as you type! Write faster and more efficiently.  
+- [AutoHotkey](https://github.com/MasterFocus/AutoHotkey) - My AHK libraries, functions, templates, etc.  
+- [AutoHotkey](https://github.com/denolfe/AutoHotkey) - :gear: My Autohotkey productivity suite that includes shortcuts, hotstrings, hotkeys, apps/utilities, AutoCorrect  
 - [AutoHotKey](https://github.com/Aatoz/AutoHotKey) - Auto  
-- [Class_TransparentListBox](https://github.com/AHK-just-me/Class_TransparentListBox) - Provides transparent listbox controls for AHK GUIs.  
-- [lintalist](https://github.com/lintalist/lintalist) - Searchable interactive texts to copy & paste text, run scripts, using easily exchangeable bundles  
+- [Autohotkey---Mouse-scroll](https://github.com/Mikhail22/Autohotkey---Mouse-scroll) - AHK scripts  
+- [AutoHotkey-Facade](https://github.com/Shambles-Dev/AutoHotkey-Facade) - A Set of Functional Programming Libraries  
+- [AutoHotkey-Lib-WinGetPosEx](https://github.com/pacobyte/AutoHotkey-Lib-WinGetPosEx) -   
+- [autohotkey-scripts](https://github.com/aviaryan/autohotkey-scripts) - :ok_hand: A collection of Autohotkey scripts and functions authored by me (Avi Aryan).  
+- [AutoHotkey-Scripts](https://github.com/russelldavis/AutoHotkey-Scripts) -   
+- [Autohotkey-Scripts](https://github.com/dufferzafar/Autohotkey-Scripts) - Windows utilities written in Autohorkey. Mostly just proof-of-concepts.  
 - [AutoHotkey-Scripts](https://github.com/Paris/AutoHotkey-Scripts) - A collection of my AutoHotkey scripts and libraries  
-- [bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows  
-- [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) - Donationware launcher for Windows.  
 - [Autohotkey-scripts-.ahk](https://github.com/Drugoy/Autohotkey-scripts-.ahk) - My collection of autohotkey scripts. Some scripts are written by me, some are modified by me, some are completely created by others.  
 - [AutoHotkey-Util](https://github.com/cocobelgica/AutoHotkey-Util) - Utility functions for AutoHotkey. Works on both AHK v1.1 and v2.0-a builds.  
+- [autohotkey.misc](https://github.com/alburthoffman/autohotkey.misc) - all useful codes  
+- [AutoMirror](https://github.com/DizzyduckAR/AutoMirror) - One click Full Gui in ahk for windows. Multi mirror and more  
 - [belvedere](https://github.com/mshorts/belvedere) - Automated file manager  
+- [bug.n](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager for Windows  
+- [Chrome.ahk](https://github.com/G33kDude/Chrome.ahk) - Automate Google Chrome using native AutoHotkey  
+- [Class_ImageButton](https://github.com/tmplinshi/Class_ImageButton) - Image Buttons for AHK GUIs.  
+- [Class_ImageButton](https://github.com/AHK-just-me/Class_ImageButton) - Image Buttons for AHK GUIs.  
+- [Class_LV_Rows](https://github.com/Pulover/Class_LV_Rows) - Additional functions for AHK ListView controls  
+- [Class_TransparentListBox](https://github.com/AHK-just-me/Class_TransparentListBox) - Provides transparent listbox controls for AHK GUIs.  
+- [DockWin](https://github.com/rwese/DockWin) - Autohotkey Script to save and restore positions of windows.  
+- [dual](https://github.com/lydell/dual) - Dual is an AutoHotkey script that lets you define dual-role modifier keys easily.  
+- [eAutocomplete](https://github.com/A-AhkUser/eAutocomplete) - The class provides a programmable interface allowing to easily integrate a custom word autocomplete function in a given ahk script or project.  
+- [Exo](https://github.com/Aurelain/Exo) - Write AHK with JavaScript  
+- [ezMenu](https://github.com/davebrny/ezMenu) - easy menu creation using indentation  
+- [FoldersPopup](https://github.com/JnLlnd/FoldersPopup) - Popup menu to jump instantly from one folder to another. Freeware.  
+- [global-IntelliSense-everywhere](https://github.com/sl5net/global-IntelliSense-everywhere) - global IntelliSense everywhere for windows with autohotkey  
+- [High-Contrast-Theme-Creator](https://github.com/acorns/High-Contrast-Theme-Creator) - It makes uglies  
+- [HotVoice](https://github.com/evilC/HotVoice) - Adds Speech Recognition support to AutoHotkey, via a C# DLL  
+- [KeyPress-OSD](https://github.com/marius-sucan/KeyPress-OSD) - This program is an On-Screen Display or a Heads-Up Display for keys. It displays every key press at a clearly visible text size. It is developed for people with poor eye sight. It is meant to aid desktop computer usage. It is especially useful while chatting or for occasional typing. The user no longer has to squint or zoom in the entire screen to see what s/he writes in small text fields.  
+- [Library-Helper](https://github.com/DelPyth/Library-Helper) - An AHK Library helper.  
+- [lintalist](https://github.com/lintalist/lintalist) - Searchable interactive texts to copy & paste text, run scripts, using easily exchangeable bundles  
+- [log4ahk](https://github.com/AutoHotkey-V2/log4ahk) - Logging for AutoHotkey  
+- [long-press](https://github.com/davebrny/long-press) - long press a key to send an alternate key, symbol or string  
+- [Menu-Maker](https://github.com/maestrith/Menu-Maker) -   
+- [NSSPinC](https://github.com/cyruz-git/NSSPinC) - Not So Sucky Pinboard Client - Minimalist Pinboard client with caching support  
+- [PuloversMacroCreator](https://github.com/Pulover/PuloversMacroCreator) - Automation Utility - Recorder & Script Generator  
+- [Quick-Picto-Viewer](https://github.com/marius-sucan/Quick-Picto-Viewer) - A relatively simple picture viewer with options to organize files and generate and maintaing large  lists of image files for slideshows.  
+- [QuickAccessPopup](https://github.com/JnLlnd/QuickAccessPopup) - Donationware launcher for Windows.  
+- [RunAny](https://github.com/hui-Zz/RunAny) - 【RunAny】一劳永逸的快速启动多功能菜单软件，拥有三键启动、一键直达、批量搜索、全局热键、短语输出、热键映射、脚本插件等功能  
+- [ScriptUp](https://github.com/Masonjar13/ScriptUp) - All AutoHotkey scripts under one process.  
+- [Socket.ahk](https://github.com/G33kDude/Socket.ahk) - AutoHotkey socket class based on Bentschi's  
+- [Subtitle](https://github.com/iseahound/Subtitle) - Easy to use, painless gdi+ interpreter written in AutoHotkey.  
+- [TapHoldManager](https://github.com/evilC/TapHoldManager) - An AHK library for Long Press / Multi tap / Multi tap and hold  
+- [texter](https://github.com/adampash/texter) - Text replacement/substitution application written in AutoHotkey scripting language.  
+- [toStr.ahk](https://github.com/SALZKARTOFFEEEL/toStr.ahk) - An AutoHotkey function for displaying any type of value as a string, so that it can be worked with easily.  
+- [TypingAid](https://github.com/ManiacDC/TypingAid) - Word AutoCompletion Utility  
+- [Vis2](https://github.com/iseahound/Vis2) - Simple OCR using Tesseract  
+- [WatchFolder](https://github.com/AHK-just-me/WatchFolder) -   
+- [Webapp.ahk](https://github.com/joedf/Webapp.ahk) - &#34;AHK-Webkit&#34; / Webapp.ahk - Library for developing web-based apps with AutoHotkey.  
+- [windows10DesktopManager](https://github.com/jpginc/windows10DesktopManager) - An autohotkey desktop manager  
 
 ## Batchfile
-- [Windows-10-batch-optimizer](https://github.com/SeregaSPb/Windows-10-batch-optimizer) - Autotuner Windows 10 for awesome perfomance setting, privacy and security.  
-- [Microsoft-Windows-10-Media-Creation-Tool-Helper](https://github.com/CHEF-KOCH/Microsoft-Windows-10-Media-Creation-Tool-Helper) - Unofficial MCT batch helper  
-- [tron](https://github.com/bmrf/tron) - Tron  
-- [regtweaks](https://github.com/CHEF-KOCH/regtweaks) - Windows Registry Tweaks (Win 7 - Win 10)  
-- [win-clipboard](https://github.com/sindresorhus/win-clipboard) - Access the Windows clipboard (copy/paste)  
-- [Ultimate.Hosts.Blacklist](https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected with Malware or Ransomware.  
-- [enableallExtensions](https://github.com/myfreeer/enableallExtensions) - Automatically add all existing Chrome extensions to ExtensionInstallWhitelist, including non-webstore ones  
 - [adb-toolkit](https://github.com/esc0rtd3w/adb-toolkit) - ADB Toolkit for Android, iOS and Other Mobile Devices Driverpack Rooting More Windows Linux Mac  
-- [Toggle-Tweaker](https://github.com/YasserDRIF/Toggle-Tweaker) - A script for windows 10 with purpose of tweaking your windows install by removing stuff like windows apps _ Cortana _ Edge, you can also tweak the personalization settings that are hidden and almost everything have a restore option  
 - [APK-Multi-Tool](https://github.com/APK-Multi-Tool/APK-Multi-Tool) - Main body of the script  
+- [enableallExtensions](https://github.com/myfreeer/enableallExtensions) - Automatically add all existing Chrome extensions to ExtensionInstallWhitelist, including non-webstore ones  
+- [Microsoft-Windows-10-Media-Creation-Tool-Helper](https://github.com/CHEF-KOCH/Microsoft-Windows-10-Media-Creation-Tool-Helper) - Unofficial MCT batch helper  
+- [regtweaks](https://github.com/CHEF-KOCH/regtweaks) - Windows Registry Tweaks (Win 7 - Win 10)  
+- [Toggle-Tweaker](https://github.com/YasserDRIF/Toggle-Tweaker) - A script for windows 10 with purpose of tweaking your windows install by removing stuff like windows apps _ Cortana _ Edge, you can also tweak the personalization settings that are hidden and almost everything have a restore option  
+- [tron](https://github.com/bmrf/tron) - Tron  
+- [Ultimate.Hosts.Blacklist](https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected with Malware or Ransomware.  
+- [win-clipboard](https://github.com/sindresorhus/win-clipboard) - Access the Windows clipboard (copy/paste)  
+- [Windows-10-batch-optimizer](https://github.com/SeregaSPb/Windows-10-batch-optimizer) - Autotuner Windows 10 for awesome perfomance setting, privacy and security.  
 
 ## Brainfuck
 - [FiraFlott](https://github.com/kosimst/FiraFlott) - Free Operator Mono Alternative based on FiraCode and FlottFlott  
 
 ## C
-- [TorWall](https://github.com/basil00/TorWall) - Tallow - Transparent Tor for Windows  
-- [mpv](https://github.com/mpv-player/mpv) - 🎥 Video player based on MPlayer/mplayer2  
-- [scrcpy](https://github.com/Lurker00/scrcpy) - Display and control your Android device  
-- [sl4a](https://github.com/damonkohler/sl4a) - SL4A brings scripting languages to Android by allowing you to edit and execute scripts and interactive interpreters directly on the Android device.  
-- [MacType-Patch](https://github.com/silight-jp/MacType-Patch) - MacType Patch for DirectWrite Hook  
-- [altdrag](https://github.com/stefansundin/altdrag) - :file_folder: Easily drag windows when pressing the alt key. (Windows)  
-- [hstr](https://github.com/dvorka/hstr) - Bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.  
-- [rng](https://github.com/nickolasburr/rng) - Stream range of input to stdout.  
-- [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)  
-- [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.  
-- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X  
-- [bcal](https://github.com/jarun/bcal) - :1234: Storage and general-purpose calculator  
-- [dupd](https://github.com/jvirkki/dupd) - CLI utility to find duplicate files  
-- [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.  
-- [coinhive-block](https://github.com/ZeroDot1/coinhive-block) - To block the malware domains of coin-hive systemwide.  
-- [chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.  
-- [jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.  
-- [tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards  
-- [openssh-portable](https://github.com/PowerShell/openssh-portable) - Portable OpenSSH, all Win32-OpenSSH releases and wiki are managed at https://github.com/powershell/Win32-OpenSSH  
-- [jq](https://github.com/stedolan/jq) - Command-line JSON processor  
-- [haxm](https://github.com/intel/haxm) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)  
-- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.  
-- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device  
-- [clink](https://github.com/Stanzilla/clink) - Bash's powerful command line editing in cmd.exe  
-- [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.  
-- [winspy](https://github.com/m417z/winspy) - WinSpy++  
-- [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click  
-- [tidy-html5](https://github.com/lovasoa/tidy-html5) - Experimental fork of Tidy for HTML5 documents  
-- [SwiftKeyExi](https://github.com/Nordskog/SwiftKeyExi) - Xposed module that adds many  features to the Swiftkey keyboard  
-- [fb-adb](https://github.com/facebook/fb-adb) - A better shell for Android devices  
 - [AdAway](https://github.com/PerfectSlayer/AdAway) - AdAway is an open source ad blocker for Android using the hosts file.  
-- [inotify-tools](https://github.com/rvoicilas/inotify-tools) - inotify-tools is a C library and a set of command-line programs for Linux providing a simple interface to inotify.  
-- [wxHexEditor](https://github.com/EUA/wxHexEditor) - wxHexEditor official GIT repo  
-- [MX_FFmpeg](https://github.com/USBhost/MX_FFmpeg) - MX Player custom codec / https://sites.google.com/site/mxvpen/download / Source not mine  
-- [wget-android](https://github.com/pelya/wget-android) - Wget ported to Android  
-- [gcc_termux](https://github.com/its-pointless/gcc_termux) - Gcc for termux with fortran scipy etc... Use apt for newest updates instructions in README.txt  
-- [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.  
-- [T-Clock](https://github.com/White-Tiger/T-Clock) - Highly configurable Windows taskbar clock  
 - [AdAway](https://github.com/AdAway/AdAway) - AdAway is an open source ad blocker for Android using the hosts file.  
-- [setools-android](https://github.com/xmikos/setools-android) - Unofficial port of setools to Android with additional sepolicy-inject utility included  
-- [multirom](https://github.com/multirom-nexus6p/multirom) - MultiROM for Nexus 6P (Angler)  
-- [fed-patcher](https://github.com/gladiac1337/fed-patcher) - FED-Patcher (ForceEncrypt Disable Patcher) for custom Android ROMs  
-- [textfairy](https://github.com/renard314/textfairy) - Android OCR App  
-- [flinux](https://github.com/wishstudio/flinux) - Foreign LINUX - Run unmodified Linux applications inside Windows.  
-- [viper4android_fx](https://github.com/vipersaudio/viper4android_fx) - ViPER4Android FX Control Panel  
-- [git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.  
+- [altdrag](https://github.com/stefansundin/altdrag) - :file_folder: Easily drag windows when pressing the alt key. (Windows)  
+- [bcal](https://github.com/jarun/bcal) - :1234: Storage and general-purpose calculator  
+- [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.  
+- [chrlauncher](https://github.com/henrypp/chrlauncher) - Small and very fast portable launcher and updater for Chromium.  
+- [clink](https://github.com/Stanzilla/clink) - Bash's powerful command line editing in cmd.exe  
 - [clink](https://github.com/mridgers/clink) - Bash's powerful command line editing in cmd.exe  
+- [cmd-key-happy](https://github.com/frobware/cmd-key-happy) - Swap cmd and alt keys in Terminal (useful when running emacs over ssh)  
+- [coinhive-block](https://github.com/ZeroDot1/coinhive-block) - To block the malware domains of coin-hive systemwide.  
+- [dupd](https://github.com/jvirkki/dupd) - CLI utility to find duplicate files  
+- [fb-adb](https://github.com/facebook/fb-adb) - A better shell for Android devices  
+- [fed-patcher](https://github.com/gladiac1337/fed-patcher) - FED-Patcher (ForceEncrypt Disable Patcher) for custom Android ROMs  
+- [flinux](https://github.com/wishstudio/flinux) - Foreign LINUX - Run unmodified Linux applications inside Windows.  
+- [gcc_termux](https://github.com/its-pointless/gcc_termux) - Gcc for termux with fortran scipy etc... Use apt for newest updates instructions in README.txt  
+- [git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.  
+- [goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.  
+- [haxm](https://github.com/intel/haxm) - Intel® Hardware Accelerated Execution Manager (Intel® HAXM)  
+- [hstr](https://github.com/dvorka/hstr) - Bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.  
+- [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.  
+- [inotify-tools](https://github.com/rvoicilas/inotify-tools) - inotify-tools is a C library and a set of command-line programs for Linux providing a simple interface to inotify.  
+- [jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.  
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor  
+- [libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.  
+- [MacType-Patch](https://github.com/silight-jp/MacType-Patch) - MacType Patch for DirectWrite Hook  
+- [mpv](https://github.com/mpv-player/mpv) - 🎥 Video player based on MPlayer/mplayer2  
+- [multirom](https://github.com/multirom-nexus6p/multirom) - MultiROM for Nexus 6P (Angler)  
+- [MX_FFmpeg](https://github.com/USBhost/MX_FFmpeg) - MX Player custom codec / https://sites.google.com/site/mxvpen/download / Source not mine  
 - [ngx_cache_purge](https://github.com/FRiCKLE/ngx_cache_purge) - nginx module which adds ability to purge content from FastCGI, proxy, SCGI and uWSGI caches.  
 - [ngx-fancyindex](https://github.com/aperezdc/ngx-fancyindex) - Fancy indexes module for the Nginx web server  
-- [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.  
-- [toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.  
-- [cmd-key-happy](https://github.com/frobware/cmd-key-happy) - Swap cmd and alt keys in Terminal (useful when running emacs over ssh)  
-- [xnomad](https://github.com/fjolnir/xnomad) - A tiling window manager for OS X, written in tranquil.  
+- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X  
+- [openssh-portable](https://github.com/PowerShell/openssh-portable) - Portable OpenSSH, all Win32-OpenSSH releases and wiki are managed at https://github.com/powershell/Win32-OpenSSH  
+- [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)  
+- [rng](https://github.com/nickolasburr/rng) - Stream range of input to stdout.  
+- [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.  
+- [scrcpy](https://github.com/Lurker00/scrcpy) - Display and control your Android device  
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device  
+- [setools-android](https://github.com/xmikos/setools-android) - Unofficial port of setools to Android with additional sepolicy-inject utility included  
+- [sl4a](https://github.com/damonkohler/sl4a) - SL4A brings scripting languages to Android by allowing you to edit and execute scripts and interactive interpreters directly on the Android device.  
+- [SwiftKeyExi](https://github.com/Nordskog/SwiftKeyExi) - Xposed module that adds many  features to the Swiftkey keyboard  
+- [T-Clock](https://github.com/White-Tiger/T-Clock) - Highly configurable Windows taskbar clock  
+- [textfairy](https://github.com/renard314/textfairy) - Android OCR App  
+- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.  
+- [tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards  
+- [tidy-html5](https://github.com/lovasoa/tidy-html5) - Experimental fork of Tidy for HTML5 documents  
 - [toggle-osx-shadows](https://github.com/puffnfresh/toggle-osx-shadows) - Tiny tool to toggle window shadows on OS X  
-- [libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.  
+- [TorWall](https://github.com/basil00/TorWall) - Tallow - Transparent Tor for Windows  
+- [toxcore](https://github.com/irungentoo/toxcore) - The future of online communications.  
+- [viper4android_fx](https://github.com/vipersaudio/viper4android_fx) - ViPER4Android FX Control Panel  
+- [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click  
+- [wget-android](https://github.com/pelya/wget-android) - Wget ported to Android  
+- [winspy](https://github.com/m417z/winspy) - WinSpy++  
+- [wxHexEditor](https://github.com/EUA/wxHexEditor) - wxHexEditor official GIT repo  
+- [xnomad](https://github.com/fjolnir/xnomad) - A tiling window manager for OS X, written in tranquil.  
+- [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.  
 
 ## C#
-- [downtify-premium](https://github.com/Superhackman/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.  
-- [ImageResizer](https://github.com/bricelam/ImageResizer) - Image Resizer for Windows - Lets you resize images by right-clicking  
-- [FileMasta](https://github.com/ohhsoash/FileMasta) - A search application to explore, discover and share online files  
-- [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform  
-- [CSStoUserScriptConverter](https://github.com/Spiderpig86/CSStoUserScriptConverter) - A simple application that converts CSS to UserScripts for GreaseMonkey, TamperMonkey, and other UserScript clients.  
-- [when_changed](https://github.com/benblamey/when_changed) - Windows utility to run a command when a file (or files) change  
-- [Win10_BrightnessSlider](https://github.com/blackholeearth/Win10_BrightnessSlider) - this app puts a Monitor Brightness icon on Taskbar Tray.  for win 7, 8, 10  
-- [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time  
-- [wmie2](https://github.com/vinaypamnani/wmie2) -   
-- [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!  
-- [gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).  
-- [logrotatewin](https://github.com/plecos/logrotatewin) - This is a Windows implementation of the logrotate utility found in Linux platforms. The goal is to use the same command line parameters and files as the Linux version.  
-- [lessmsi](https://github.com/activescott/lessmsi) - A tool to view and extract the contents of an Windows Installer (.msi) file.  
-- [Ombi](https://github.com/tidusjar/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi!  
-- [GitVersion](https://github.com/GitTools/GitVersion) - Easy Semantic Versioning (http://semver.org) for projects using Git  
-- [subtle](https://github.com/tvdburgt/subtle) - Unobtrusive subtitle downloader  
-- [TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Check for NVIDIA GPU driver updates!  
-- [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice (on Windows).  
-- [EZBlocker2](https://github.com/MatrixDJ96/EZBlocker2) - EZBlocker 2 - Ad muter/blocker for Spotify  
-- [Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows  
 - [AutoHotInterception](https://github.com/evilC/AutoHotInterception) - An AutoHotkey wrapper for the Interception driver  
-- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows  
-- [ImageGlass](https://github.com/d2phap/ImageGlass) - A lightweight, versatile image viewer  
-- [Lidarr](https://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.  
-- [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) - Prevent hard-drives from going into sleep mode.  
-- [myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client  
-- [MicroTimer](https://github.com/evilC/MicroTimer) - A DLL Wrapper for Ken Loveday's MicroLibrary, with AutoHotkey interop demo  
-- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]  
-- [youtube-dl-gui](https://github.com/murrty/youtube-dl-gui) - Download/Convert videos from websites without needing to learn command line  
 - [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows  
 - [ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey  
-- [youtube-dl-gui](https://github.com/obscurename/youtube-dl-gui) - Download videos from youtube (and other websites)  
 - [ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter) - ColorHighlighter - is a plugin for the Sublime text 2 and 3, which underlays selected hexadecimal colorcodes (like &#34;#FFFFFF&#34;, &#34;rgb(255,255,255)&#34;, &#34;white&#34;, etc.) with their real color. Also, plugin adds color picker to easily modify colors. Documentation: https://monnoroch.github.io/ColorHighlighter.  
-- [SWYH](https://github.com/StreamWhatYouHear/SWYH) - Stream the sound from your PC to an UPnP/DLNA device  
-- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.  
-- [Packages](https://github.com/sublimehq/Packages) -   
-- [dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows  
-- [Disable-Nvidia-Telemetry](https://github.com/NateShoffner/Disable-Nvidia-Telemetry) - Windows utility to disable Nvidia's telemetry services  
-- [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows  
-- [GoogleImageShell](https://github.com/apsun/GoogleImageShell) - Google image search extension for Windows Explorer.  
-- [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system  
-- [GitHubFolderDownloader](https://github.com/VahidN/GitHubFolderDownloader) - It lets you to download a single folder of a repository without cloning or downloading the whole repository.  
-- [inputsimulator](https://github.com/Ulterius/inputsimulator) - Windows Input Simulator (C# SendInput Wrapper - Simulate Keyboard and Mouse)  
-- [server](https://github.com/Ulterius/server) - [WIP] Ulterius™ server where all the magic happens :rocket: :feelsgood:  
-- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.  
-- [Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.  
-- [TaskbarTools](https://github.com/Elestriel/TaskbarTools) - Grants the ability to set the Windows Taskbar to any opacity and colour desired.  
-- [Switcheroo](https://github.com/kvakulo/Switcheroo) - The humble incremental-search task switcher for Windows  
-- [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) -   
-- [openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor  
-- [MouseTester](https://github.com/dobragab/MouseTester) -   
+- [CSStoUserScriptConverter](https://github.com/Spiderpig86/CSStoUserScriptConverter) - A simple application that converts CSS to UserScripts for GreaseMonkey, TamperMonkey, and other UserScript clients.  
 - [Destroy-Windows-10-Spying](https://github.com/Nummer/Destroy-Windows-10-Spying) - Destroy Windows Spying tool  
-- [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.  
-- [SublimeText-Overlay](https://github.com/avarayr/SublimeText-Overlay) - OS X like overlay on Sublime Text for Windows.  
-- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.  
+- [Disable-Nvidia-Telemetry](https://github.com/NateShoffner/Disable-Nvidia-Telemetry) - Windows utility to disable Nvidia's telemetry services  
+- [dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows  
+- [downtify-premium](https://github.com/Superhackman/downtify-premium) - Downtify is an open source Spofity downloader which makes it possible to download all your favourite songs and/or playlists directly from spotify. A Spotify Premium account is required.  
+- [DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]  
+- [EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows  
+- [EZBlocker2](https://github.com/MatrixDJ96/EZBlocker2) - EZBlocker 2 - Ad muter/blocker for Spotify  
+- [FileMasta](https://github.com/ohhsoash/FileMasta) - A search application to explore, discover and share online files  
+- [gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).  
+- [GitHubFolderDownloader](https://github.com/VahidN/GitHubFolderDownloader) - It lets you to download a single folder of a repository without cloning or downloading the whole repository.  
+- [GitVersion](https://github.com/GitTools/GitVersion) - Easy Semantic Versioning (http://semver.org) for projects using Git  
+- [GoogleImageShell](https://github.com/apsun/GoogleImageShell) - Google image search extension for Windows Explorer.  
+- [ImageGlass](https://github.com/d2phap/ImageGlass) - A lightweight, versatile image viewer  
+- [ImageResizer](https://github.com/bricelam/ImageResizer) - Image Resizer for Windows - Lets you resize images by right-clicking  
+- [inputsimulator](https://github.com/Ulterius/inputsimulator) - Windows Input Simulator (C# SendInput Wrapper - Simulate Keyboard and Mouse)  
+- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.  
+- [KeepAliveHD](https://github.com/stsrki/KeepAliveHD) - Prevent hard-drives from going into sleep mode.  
+- [lessmsi](https://github.com/activescott/lessmsi) - A tool to view and extract the contents of an Windows Installer (.msi) file.  
+- [Lidarr](https://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.  
+- [LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time  
+- [logrotatewin](https://github.com/plecos/logrotatewin) - This is a Windows implementation of the logrotate utility found in Linux platforms. The goal is to use the same command line parameters and files as the Linux version.  
+- [MicroTimer](https://github.com/evilC/MicroTimer) - A DLL Wrapper for Ken Loveday's MicroLibrary, with AutoHotkey interop demo  
+- [MouseTester](https://github.com/dobragab/MouseTester) -   
+- [myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client  
+- [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!  
 - [NohBoard](https://github.com/ThoNohT/NohBoard) - A Keyboard Visualizer  
+- [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) -   
+- [Ombi](https://github.com/tidusjar/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi!  
+- [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) - A real-time always-on-top “replica” of a window of your choice (on Windows).  
+- [openhardwaremonitor](https://github.com/openhardwaremonitor/openhardwaremonitor) - Open Hardware Monitor  
+- [Packages](https://github.com/sublimehq/Packages) -   
+- [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows  
+- [Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.  
+- [server](https://github.com/Ulterius/server) - [WIP] Ulterius™ server where all the magic happens :rocket: :feelsgood:  
+- [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.  
+- [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system  
+- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.  
+- [Spotify-Ad-Blocker](https://github.com/Xeroday/Spotify-Ad-Blocker) - EZBlocker - A Spotify Ad Blocker for Windows  
+- [SublimeText-Overlay](https://github.com/avarayr/SublimeText-Overlay) - OS X like overlay on Sublime Text for Windows.  
+- [subtle](https://github.com/tvdburgt/subtle) - Unobtrusive subtitle downloader  
+- [Switcheroo](https://github.com/kvakulo/Switcheroo) - The humble incremental-search task switcher for Windows  
+- [SWYH](https://github.com/StreamWhatYouHear/SWYH) - Stream the sound from your PC to an UPnP/DLNA device  
+- [TaskbarTools](https://github.com/Elestriel/TaskbarTools) - Grants the ability to set the Windows Taskbar to any opacity and colour desired.  
+- [TinyNvidiaUpdateChecker](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) - Check for NVIDIA GPU driver updates!  
+- [videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform  
+- [when_changed](https://github.com/benblamey/when_changed) - Windows utility to run a command when a file (or files) change  
+- [Win10_BrightnessSlider](https://github.com/blackholeearth/Win10_BrightnessSlider) - this app puts a Monitor Brightness icon on Taskbar Tray.  for win 7, 8, 10  
+- [wmie2](https://github.com/vinaypamnani/wmie2) -   
+- [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.  
+- [youtube-dl-gui](https://github.com/murrty/youtube-dl-gui) - Download/Convert videos from websites without needing to learn command line  
+- [youtube-dl-gui](https://github.com/obscurename/youtube-dl-gui) - Download videos from youtube (and other websites)  
 
 ## C++
-- [TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.  
-- [native-image-diff](https://github.com/Prior99/native-image-diff) - A simple library for comparing two images using a native C++ binding.  
-- [colorgrab](https://github.com/nielssp/colorgrab) - A cross-platform color picker  
-- [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser  
-- [taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows  
-- [launchy](https://github.com/ksophocleous/launchy) - Launchy is a free cross-platform utility designed to help you forget about your start menu, the icons on your desktop, and even your file manager.  
-- [qimgv](https://github.com/easymodo/qimgv) - Qt5 image viewer with optional video support  
-- [qView](https://github.com/jurplel/qView) - Practical and minimal image viewer  
-- [winscp](https://github.com/winscp/winscp) - WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It supports also Amazon S3, FTPS, SCP and WebDAV protocols. Power users can automate WinSCP using .NET assembly.  
-- [grepWin](https://github.com/stefankueng/grepWin) - A powerful and fast search tool using regular expressions  
-- [jnotify](https://github.com/redbooth/jnotify) - Java bindings for native notification libraries.  
-- [PyNode](https://github.com/fridgerator/PyNode) - Node - Python Interop  
-- [node-window-manager](https://github.com/sentialx/node-window-manager) - Manage windows in Windows, macOS and Linux using Node.js  
-- [Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Reborn of Classic Shell.  
-- [mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool  
-- [Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.  
-- [node-lodepng](https://github.com/LinusU/node-lodepng) - LodePNG Node.js bindings  
-- [lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.  
-- [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads  
-- [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - A command line program monitor systray for Windows  
-- [tools](https://github.com/stefankueng/tools) - a collection of useful tools, including SKTimeStamp and StExBar  
-- [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.  
-- [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++  
-- [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.  
-- [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.  
-- [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for TypeScript & JavaScript backends  
-- [node-microtime](https://github.com/wadey/node-microtime) - Get the current time in microseconds  
-- [mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.  
-- [nixnote2](https://github.com/baumgarr/nixnote2) - Nixnote - A clone of Evernote for Linux  
-- [ResetPermission](https://github.com/lallousx86/ResetPermission) - Reset NTFS permission  
-- [LoWe](https://github.com/kpocza/LoWe) - Linux on Windows extender  
-- [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor  
-- [Pengwin](https://github.com/WhitewaterFoundry/Pengwin) - A Linux distro optimized for WSL based on Debian.  
-- [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4  
-- [glogg](https://github.com/nickbnf/glogg) - A fast, advanced log explorer.  
-- [LevelDbOneTab](https://github.com/anpsoft/LevelDbOneTab) - LevelDbOneTab  
-- [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.  
-- [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher  
-- [uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web I/O for the most demanding of applications  
-- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features  
-- [nomacs-plugins](https://github.com/nomacs/nomacs-plugins) - 3dparty plugins for nomacs  
-- [nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.  
-- [Windows-10-Color-Control](https://github.com/m417z/Windows-10-Color-Control) - A tool for Windows 10 to modify the system colors  
-- [quickviewer](https://github.com/kanryu/quickviewer) - A image/comic viewer application for Windows, Mac and Linux, it can show images very fast  
-- [simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.  
-- [wslbridge](https://github.com/rprichard/wslbridge) - Bridge from Cygwin to WSL pty/pipe I/O  
-- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!  
-- [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  Encryption.  
-- [ahkdll](https://github.com/HotKeyIt/ahkdll) - AutoHotkey_H  
-- [ffmpeg-windows-build-helpers](https://github.com/rdp/ffmpeg-windows-build-helpers) - Helper script for cross compiling some media tools for windows, like customizable ffmpeg.exe (with or without non-free components, etc), and some other bonuses like mplayer, mp4box, mxf, etc.  
-- [console](https://github.com/cbucher/console) - This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.  
-- [ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server  
-- [napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime  
-- [Textify](https://github.com/m417z/Textify) - A tool for Windows to copy text from dialogs and controls which don’t allow it otherwise  
-- [ContextIcons](https://github.com/Fleex255/ContextIcons) - Allows setting icons for standard Windows context menu items like &#34;Copy&#34; and &#34;Paste&#34;  
-- [pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions  
-- [node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass  
-- [xposed_art_n](https://github.com/abforce/xposed_art_n) - ART module for a built-in enabled Xposed firmware based on AOSP 7  
-- [wxMEdit](https://github.com/wxMEdit/wxMEdit) - wxMEdit, a cross-platform Text/Hex Editor, an improved version of MadEdit  
-- [HexEdit](https://github.com/AndrewWPhillips/HexEdit) - Binary file editor for Windows  
-- [hexed](https://github.com/samizzo/hexed) - Windows console-based hex editor  
-- [picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.  
-- [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly  
-- [apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.  
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.  
 - [actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool  
-- [explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows  
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client  
-- [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).  
-- [winnfsd](https://github.com/winnfsd/winnfsd) -   
-- [gpick](https://github.com/thezbyg/gpick) - Advanced color picker written in C++ using GTK+ toolkit  
-- [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at:  
-- [notepad2-mod](https://github.com/XhmikosR/notepad2-mod) - LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting  
-- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more  
-- [Rinput-Library](https://github.com/VolsandJezuz/Rinput-Library) - Alternative for m_rawinput 1 & raw input for games that lack it.  
-- [LxMultiTool](https://github.com/lexmazter/LxMultiTool) -   
-- [nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader  
-- [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.  
+- [ahkdll](https://github.com/HotKeyIt/ahkdll) - AutoHotkey_H  
+- [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher  
+- [anitomy](https://github.com/erengy/anitomy) - Anime video filename parser  
+- [apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.  
+- [Beeftext](https://github.com/xmichelo/Beeftext) - A text snippet tool for Windows.  
+- [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.  
 - [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows  
-- [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.  
-- [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash  
+- [colorgrab](https://github.com/nielssp/colorgrab) - A cross-platform color picker  
+- [CommandTrayHost](https://github.com/rexdf/CommandTrayHost) - A command line program monitor systray for Windows  
+- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more  
+- [console](https://github.com/cbucher/console) - This is a modified version of Console 2 for a better experience under Windows Vista/7/8/10 and a better visual rendering.  
 - [console](https://github.com/zippy1981/console) - Public Console repo  
 - [console](https://github.com/bozho/console) - Public Console repo  
-- [Sublime-Notepad-Replacement](https://github.com/grumpydev/Sublime-Notepad-Replacement) - A simple launcher app to allow Sublime Text to replace Notepad on Windows.  
+- [ContextIcons](https://github.com/Fleex255/ContextIcons) - Allows setting icons for standard Windows context menu items like &#34;Copy&#34; and &#34;Paste&#34;  
+- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features  
+- [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++  
+- [explorerplusplus](https://github.com/derceg/explorerplusplus) - Explorer++ is a lightweight and fast file manager for Windows  
+- [ffmpeg-windows-build-helpers](https://github.com/rdp/ffmpeg-windows-build-helpers) - Helper script for cross compiling some media tools for windows, like customizable ffmpeg.exe (with or without non-free components, etc), and some other bonuses like mplayer, mp4box, mxf, etc.  
+- [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  Encryption.  
+- [glogg](https://github.com/nickbnf/glogg) - A fast, advanced log explorer.  
+- [gpick](https://github.com/thezbyg/gpick) - Advanced color picker written in C++ using GTK+ toolkit  
+- [grepWin](https://github.com/stefankueng/grepWin) - A powerful and fast search tool using regular expressions  
+- [hexed](https://github.com/samizzo/hexed) - Windows console-based hex editor  
+- [HexEdit](https://github.com/AndrewWPhillips/HexEdit) - Binary file editor for Windows  
+- [jnotify](https://github.com/redbooth/jnotify) - Java bindings for native notification libraries.  
+- [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor  
+- [launchy](https://github.com/ksophocleous/launchy) - Launchy is a free cross-platform utility designed to help you forget about your start menu, the icons on your desktop, and even your file manager.  
+- [LevelDbOneTab](https://github.com/anpsoft/LevelDbOneTab) - LevelDbOneTab  
 - [libsass](https://github.com/sass/libsass) - A C/C++ implementation of a Sass compiler  
+- [lodepng](https://github.com/lvandeve/lodepng) - PNG encoder and decoder in C and C++.  
+- [LoWe](https://github.com/kpocza/LoWe) - Linux on Windows extender  
+- [LxMultiTool](https://github.com/lexmazter/LxMultiTool) -   
+- [mach2](https://github.com/riverar/mach2) - Windows Feature Control Multi-tool  
+- [mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.  
+- [Magisk](https://github.com/topjohnwu/Magisk) - A Magic Mask to Alter Android System Systemless-ly  
+- [napajs](https://github.com/microsoft/napajs) - Napa.js: a multi-threaded JavaScript runtime  
+- [native-image-diff](https://github.com/Prior99/native-image-diff) - A simple library for comparing two images using a native C++ binding.  
+- [nixnote2](https://github.com/baumgarr/nixnote2) - Nixnote - A clone of Evernote for Linux  
+- [node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.  
+- [node-lodepng](https://github.com/LinusU/node-lodepng) - LodePNG Node.js bindings  
+- [node-microtime](https://github.com/wadey/node-microtime) - Get the current time in microseconds  
+- [node-sass](https://github.com/sass/node-sass) - :rainbow: Node.js bindings to libsass  
+- [node-webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads  
+- [node-window-manager](https://github.com/sentialx/node-window-manager) - Manage windows in Windows, macOS and Linux using Node.js  
+- [nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.  
+- [nomacs-plugins](https://github.com/nomacs/nomacs-plugins) - 3dparty plugins for nomacs  
+- [notepad2-mod](https://github.com/XhmikosR/notepad2-mod) - LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting  
+- [nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.  
+- [nzbget](https://github.com/nzbget/nzbget) - Efficient Usenet Downloader  
+- [Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Reborn of Classic Shell.  
+- [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4  
+- [Pengwin](https://github.com/WhitewaterFoundry/Pengwin) - A Linux distro optimized for WSL based on Debian.  
+- [picotorrent](https://github.com/picotorrent/picotorrent) - A tiny, hackable BitTorrent client.  
+- [PyNode](https://github.com/fridgerator/PyNode) - Node - Python Interop  
+- [pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions  
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client  
+- [qimgv](https://github.com/easymodo/qimgv) - Qt5 image viewer with optional video support  
+- [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.  
+- [quickviewer](https://github.com/kanryu/quickviewer) - A image/comic viewer application for Windows, Mac and Linux, it can show images very fast  
+- [qView](https://github.com/jurplel/qView) - Practical and minimal image viewer  
+- [ResetPermission](https://github.com/lallousx86/ResetPermission) - Reset NTFS permission  
+- [Rinput-Library](https://github.com/VolsandJezuz/Rinput-Library) - Alternative for m_rawinput 1 & raw input for games that lack it.  
+- [simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.  
+- [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at:  
+- [Sublime-Notepad-Replacement](https://github.com/grumpydev/Sublime-Notepad-Replacement) - A simple launcher app to allow Sublime Text to replace Notepad on Windows.  
+- [taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows  
+- [TensorRT](https://github.com/NVIDIA/TensorRT) - TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.  
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal, and the original Windows console host -- all in the same place!  
+- [Textify](https://github.com/m417z/Textify) - A tool for Windows to copy text from dialogs and controls which don’t allow it otherwise  
+- [tools](https://github.com/stefankueng/tools) - a collection of useful tools, including SKTimeStamp and StExBar  
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.  
+- [uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web I/O for the most demanding of applications  
+- [uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for TypeScript & JavaScript backends  
+- [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.  
+- [Windows-10-Color-Control](https://github.com/m417z/Windows-10-Color-Control) - A tool for Windows 10 to modify the system colors  
+- [winnfsd](https://github.com/winnfsd/winnfsd) -   
+- [winscp](https://github.com/winscp/winscp) - WinSCP is a popular free SFTP and FTP client for Windows, a powerful file manager that will improve your productivity. It supports also Amazon S3, FTPS, SCP and WebDAV protocols. Power users can automate WinSCP using .NET assembly.  
+- [wslbridge](https://github.com/rprichard/wslbridge) - Bridge from Cygwin to WSL pty/pipe I/O  
+- [wxMEdit](https://github.com/wxMEdit/wxMEdit) - wxMEdit, a cross-platform Text/Hex Editor, an improved version of MadEdit  
+- [xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.  
+- [Xposed](https://github.com/rovo89/Xposed) - The native part of the Xposed framework (mainly the modified app_process binary).  
+- [xposed_art_n](https://github.com/abforce/xposed_art_n) - ART module for a built-in enabled Xposed firmware based on AOSP 7  
+- [ycmd](https://github.com/ycm-core/ycmd) - A code-completion & code-comprehension server  
+- [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash  
 
 ## CSS
-- [devicon](https://github.com/konpa/devicon) - Set of icons representing programming languages, designing & development tools  
-- [boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons  
-- [unicons](https://github.com/Iconscout/unicons) - 1000+ Pixel-perfect vector icons and Iconfont for your next project.  
-- [devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers  
-- [mononoki](https://github.com/madmalik/mononoki) - a programming typeface  
-- [coraline](https://github.com/isradeleon/coraline) - CSS and JS framework based on Flexbox  
-- [GoodTwitter](https://github.com/ZusorCode/GoodTwitter) -   
-- [Stylus-Dark](https://github.com/overdodactyl/Stylus-Dark) - A dark theme for Stylus to match Firefox's dark mode  
-- [AHK-generator](https://github.com/mshafer1/AHK-generator) - A single page website to provide a UI for the 3 most common uses for AHK and defining custom hotstrings and hotkeys to trigger them  
-- [simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.  
-- [atomic-grid](https://github.com/leetheguy/atomic-grid) - A lightweight grid system using CSS grid.  
-- [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.  
-- [codeblock-beautifier](https://github.com/Haixiang6123/codeblock-beautifier) - A chrome extension for highlighting codes of Medium Articles  
-- [MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox  
-- [sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash.  
-- [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS  
-- [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS  
-- [SpinThatShit](https://github.com/MatejKustec/SpinThatShit) - A set of SCSS mixins for single element loaders and spinners  
-- [awesome-web-styling](https://github.com/Dev-Jeromebaek/awesome-web-styling) - Awesome Web Styling with CSS Animation Effects ⭐️  
-- [css-loader](https://github.com/raphaelfabeni/css-loader) - Simple loaders for your web applications using only one div and pure CSS :heart:  
-- [mburger-css](https://github.com/FrDH/mburger-css) - A small collection of CSS animated hamburgers. All set up to work out of the box with the mmenu.js plugin.  
-- [material-dev-tools](https://github.com/jaysuz/material-dev-tools) - A color theme inspired by the wonderful Material Theme for IntelliJ IDEA.  
-- [markserv](https://github.com/markserv/markserv) - 🏁  serve markdown as html (GitHub style), index directories, live-reload as you edit  
-- [livereload-js](https://github.com/livereload/livereload-js) - LiveReload JavaScript code that communicates with the server and implements reloading  
-- [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source  
-- [stepper](https://github.com/alikinvv/stepper) - Animated numeric stepper component which can be used to increment or decrement a value by clicking arrows.  
-- [water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer  
-- [Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs  
-- [typography-baseline](https://github.com/paceaux/typography-baseline) - A good start to your CSS typography that covers all the semantic nooks and crannies  
-- [tampermonkey-layout](https://github.com/Tampermonkey/tampermonkey-layout) -   
-- [SSCSS](https://github.com/sebastianmusial/SSCSS) - Light Sass lib for managing your font-size, margin, padding, and position values across breakpoints.  
-- [three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.  
-- [RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system  
-- [pesticide](https://github.com/mrmrs/pesticide) - Kill your css layout bugs  
-- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets  
-- [css-star-rating](https://github.com/BioPhoton/css-star-rating) - Css Star Rating is a css only star rating lib based on best practice UX/UI methodes. It is written in scss and fully customizable.  
-- [pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.  
-- [npmjs-dark-theme](https://github.com/rosivanov/npmjs-dark-theme) - Npmjs.com Dark Theme  
-- [ostrich-sans](https://github.com/theleagueof/ostrich-sans) - A gorgeous modern sans-serif with a very long neck.  
-- [codyhouse-framework](https://github.com/CodyHouse/codyhouse-framework) - A lightweight front-end framework for building accessible, bespoke interfaces.  
-- [StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites  
-- [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style  
-- [adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines  
-- [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux  
+- [_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.  
 - [2013](https://github.com/kevinburke/2013) - Flat UI website redesign  
-- [SublimeSass](https://github.com/braver/SublimeSass) - Sass and SCSS syntax for Sublime Text  
-- [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3 and 4  
-- [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.  
-- [boilerform](https://github.com/hankchizljaw/boilerform) - Boilerform is a little HTML and CSS boilerplate to take the pain away from working with forms.  
-- [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 33 kinds of fantastic fonts!  
-- [Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS  
-- [iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.  
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more  
-- [google-search-sidebar](https://github.com/jmlntw/google-search-sidebar) - A user script and user style to move Google search tools to sidebar.  
-- [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents  
-- [Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit  
-- [Monokai-GRS](https://github.com/GoliafRS/Monokai-GRS) - Monokai theme for Visual Studio Code.  
-- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments  
-- [chromeEyeDropper](https://github.com/kepi/chromeEyeDropper) - Eye Dropper and Color picker extension for Google Chrome  
-- [gmusic-theme.js](https://github.com/gmusic-utils/gmusic-theme.js) - Generic theming library extracted from Google Play Music Desktop Player  
-- [shine-unofficial](https://github.com/dotvhs/shine-unofficial) - Unofficial fork of SHINE for Reddit.  
-- [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook  
-- [UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox  
-- [Dark-youtube-plugin-chrome](https://github.com/georgyangelov/Dark-youtube-plugin-chrome) - Dark youtube plugin for Google Chrome & Opera 15+  
-- [pinboard-viewer](https://github.com/lmartel/pinboard-viewer) - Chrome extension to browse and search pinboard bookmarks without going to the site  
-- [sublime-molokai](https://github.com/gerardroche/sublime-molokai) - A port of tomasr/molokai colorscheme for Sublime Text.  
-- [devtools-author](https://github.com/micjamking/devtools-author) - A selection of author settings for Chrome Developer Tools.  
-- [website](https://github.com/Ulterius/website) - The source code for ulterius.io  
-- [darkness](https://github.com/liorgrossman/darkness) - Dark Themes for Popular Websites  
+- [adapta-gtk-theme](https://github.com/adapta-project/adapta-gtk-theme) - An adaptive Gtk+ theme based on Material Design Guidelines  
+- [AHK-generator](https://github.com/mshafer1/AHK-generator) - A single page website to provide a UI for the 3 most common uses for AHK and defining custom hotstrings and hotkeys to trigger them  
 - [android_vendor_resurrection](https://github.com/ResurrectionRemix/android_vendor_resurrection) -   
-- [source-sans-pro](https://github.com/adobe-fonts/source-sans-pro) - Sans serif font family for user interface environments  
-- [formhack](https://github.com/ireade/formhack) - A hackable css form reset  
-- [Stylish-Google-Drive-Dark](https://github.com/SicariusNoctis/Stylish-Google-Drive-Dark) - Dark userstyle for Google Drive for Stylish  
-- [github-dark](https://github.com/cquanu/github-dark) - :flashlight: GitHub Dark - Browse GitHub in nighttime mode.  
-- [Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.  
-- [family.scss](https://github.com/LukyVj/family.scss) - Family.scss is a set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.  
-- [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox  
+- [Angular-Wordpress-Theme](https://github.com/royboy789/Angular-Wordpress-Theme) - AngularJS Wordpress Theme - used for building single page client side applications using WordPress.  
+- [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.  
 - [appolo](https://github.com/nicnocquee/appolo) - Plugins and Themes for Jekyll to create App Portfolio for Developers  
-- [open-sans](https://github.com/FontFaceKit/open-sans) - Open Sans @font-face kit  
-- [localFont](https://github.com/jaicab/localFont) - Implement localStorage web font caching in seconds  
-- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google  
-- [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.  
-- [typecsset](https://github.com/csswizardry/typecsset) - A small Sass library for setting type on the web.  
-- [modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass  
-- [NotificationStyles](https://github.com/codrops/NotificationStyles) - Various simple ideas and effects for unobtrusive notifications on a website.  
-- [white-space](https://github.com/dotnetCarpenter/white-space) - white-space: none polyfill  
-- [sassline](https://github.com/jakegiltsoff/sassline) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.  
+- [atomic-grid](https://github.com/leetheguy/atomic-grid) - A lightweight grid system using CSS grid.  
+- [awesome-web-styling](https://github.com/Dev-Jeromebaek/awesome-web-styling) - Awesome Web Styling with CSS Animation Effects ⭐️  
+- [boilerform](https://github.com/hankchizljaw/boilerform) - Boilerform is a little HTML and CSS boilerplate to take the pain away from working with forms.  
+- [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3 and 4  
+- [boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons  
+- [breakpoint](https://github.com/at-import/breakpoint) - Really simple media queries in Sass  
+- [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox  
 - [card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code  
-- [profoundgrid](https://github.com/artofrawr/profoundgrid) - Responsive grid for fixed & fluid layouts.  
-- [refills](https://github.com/thoughtbot/refills) - [no longer maintained]  
+- [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets  
+- [chromeEyeDropper](https://github.com/kepi/chromeEyeDropper) - Eye Dropper and Color picker extension for Google Chrome  
+- [codeblock-beautifier](https://github.com/Haixiang6123/codeblock-beautifier) - A chrome extension for highlighting codes of Medium Articles  
+- [codyhouse-framework](https://github.com/CodyHouse/codyhouse-framework) - A lightweight front-end framework for building accessible, bespoke interfaces.  
+- [compass](https://github.com/Compass/compass) - Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.  
+- [compass-recipes](https://github.com/MoOx/compass-recipes) - UNMAINTAINED compass/sass mixins and snippets.  
+- [compass-twitter-bootstrap](https://github.com/vwall/compass-twitter-bootstrap) - The twitter bootstrap ported to compass  
+- [coraline](https://github.com/isradeleon/coraline) - CSS and JS framework based on Flexbox  
+- [css-loader](https://github.com/raphaelfabeni/css-loader) - Simple loaders for your web applications using only one div and pure CSS :heart:  
+- [css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS  
+- [css-star-rating](https://github.com/BioPhoton/css-star-rating) - Css Star Rating is a css only star rating lib based on best practice UX/UI methodes. It is written in scss and fully customizable.  
+- [Dark-youtube-plugin-chrome](https://github.com/georgyangelov/Dark-youtube-plugin-chrome) - Dark youtube plugin for Google Chrome & Opera 15+  
+- [darkness](https://github.com/liorgrossman/darkness) - Dark Themes for Popular Websites  
 - [devices.css](https://github.com/marvelapp/devices.css) - Pure CSS phones and tablets  
-- [stylestats](https://github.com/t32k/stylestats) - StyleStats is a library to collect CSS statistics.  
-- [stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique &#34;multi-color&#34; option in CSS for over 60 social brands.  
+- [devicon](https://github.com/konpa/devicon) - Set of icons representing programming languages, designing & development tools  
+- [devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers  
+- [devtools-author](https://github.com/micjamking/devtools-author) - A selection of author settings for Chrome Developer Tools.  
+- [Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!  
+- [essential-image-optimization](https://github.com/GoogleChrome/essential-image-optimization) - Essential Image Optimization - an eBook  
+- [family.scss](https://github.com/LukyVj/family.scss) - Family.scss is a set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.  
+- [Fira](https://github.com/mozilla/Fira) - Mozilla's new typeface, used in Firefox OS  
+- [Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit  
+- [formhack](https://github.com/ireade/formhack) - A hackable css form reset  
+- [Frameless](https://github.com/jonikorpi/Frameless) - The spiritual successor to Less Framework  
+- [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style  
+- [github-dark](https://github.com/cquanu/github-dark) - :flashlight: GitHub Dark - Browse GitHub in nighttime mode.  
+- [gmusic-theme.js](https://github.com/gmusic-utils/gmusic-theme.js) - Generic theming library extracted from Google Play Music Desktop Player  
+- [GoodTwitter](https://github.com/ZusorCode/GoodTwitter) -   
+- [google-search-sidebar](https://github.com/jmlntw/google-search-sidebar) - A user script and user style to move Google search tools to sidebar.  
+- [graphene](https://github.com/jondot/graphene) - Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.  
+- [Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.  
+- [hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.  
+- [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.  
+- [inuit.css](https://github.com/csswizardry/inuit.css) - Powerful, scalable, Sass-based, BEM, OOCSS framework.  
+- [IVORY](https://github.com/kanthvallampati/IVORY) - IVORY is simple and highly customizable CSS framework, gives you all to build your pages faster and easier.  
+- [iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.  
+- [league-gothic](https://github.com/theleagueof/league-gothic) - A revival of an old classic, Alternate Gothic #1  
+- [livereload-js](https://github.com/livereload/livereload-js) - LiveReload JavaScript code that communicates with the server and implements reloading  
+- [localFont](https://github.com/jaicab/localFont) - Implement localStorage web font caching in seconds  
+- [markserv](https://github.com/markserv/markserv) - 🏁  serve markdown as html (GitHub style), index directories, live-reload as you edit  
+- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google  
+- [material-dev-tools](https://github.com/jaysuz/material-dev-tools) - A color theme inspired by the wonderful Material Theme for IntelliJ IDEA.  
+- [MaterialFox](https://github.com/muckSponge/MaterialFox) - A Material Design-inspired userChrome.css theme for Firefox  
+- [mburger-css](https://github.com/FrDH/mburger-css) - A small collection of CSS animated hamburgers. All set up to work out of the box with the mmenu.js plugin.  
+- [Micromodal](https://github.com/ghosh/Micromodal) - ⭕   Tiny javascript library for creating accessible modal dialogs  
+- [modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass  
+- [Monokai-GRS](https://github.com/GoliafRS/Monokai-GRS) - Monokai theme for Visual Studio Code.  
+- [mononoki](https://github.com/madmalik/mononoki) - a programming typeface  
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more  
+- [nib](https://github.com/stylus/nib) - Stylus mixins, utilities, components, and gradient image generation  
+- [normalize-scss](https://github.com/JohnAlbin/normalize-scss) - This is the Sass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.  
 - [normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets  
 - [north](https://github.com/north/north) - Design and development standards to align and guide your project.  
-- [sassaparilla](https://github.com/fffunction/sassaparilla) - Start your web projects fast with Sassaparilla  
-- [scut](https://github.com/davidtheclark/scut) - Sass utilities for the frontend laborer.  
+- [NotificationStyles](https://github.com/codrops/NotificationStyles) - Various simple ideas and effects for unobtrusive notifications on a website.  
+- [npmjs-dark-theme](https://github.com/rosivanov/npmjs-dark-theme) - Npmjs.com Dark Theme  
+- [open-sans](https://github.com/FontFaceKit/open-sans) - Open Sans @font-face kit  
+- [ostrich-sans](https://github.com/theleagueof/ostrich-sans) - A gorgeous modern sans-serif with a very long neck.  
+- [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source  
+- [paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents  
+- [pesticide](https://github.com/mrmrs/pesticide) - Kill your css layout bugs  
 - [php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web  
-- [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.  
-- [league-gothic](https://github.com/theleagueof/league-gothic) - A revival of an old classic, Alternate Gothic #1  
-- [animate.css](https://github.com/daneden/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.  
-- [Effeckt.css](https://github.com/h5bp/Effeckt.css) - This repo is archived. Thanks!  
-- [Angular-Wordpress-Theme](https://github.com/royboy789/Angular-Wordpress-Theme) - AngularJS Wordpress Theme - used for building single page client side applications using WordPress.  
-- [_s](https://github.com/Automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.  
-- [Syntax-highlighting-for-Sass](https://github.com/P233/Syntax-highlighting-for-Sass) - A Sublime Text 3 package for highlighting both Sass and SCSS syntax.  
-- [susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass  
-- [inuit.css](https://github.com/csswizardry/inuit.css) - Powerful, scalable, Sass-based, BEM, OOCSS framework.  
-- [compass](https://github.com/Compass/compass) - Compass is no longer actively maintained. Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.  
-- [normalize-scss](https://github.com/JohnAlbin/normalize-scss) - This is the Sass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.  
-- [sass-globbing](https://github.com/chriseppstein/sass-globbing) - Adds glob-based imports to Sass  
-- [graphene](https://github.com/jondot/graphene) - Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.  
+- [pinboard-viewer](https://github.com/lmartel/pinboard-viewer) - Chrome extension to browse and search pinboard bookmarks without going to the site  
+- [pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.  
+- [profoundgrid](https://github.com/artofrawr/profoundgrid) - Responsive grid for fixed & fluid layouts.  
+- [ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) - This is a collection of programming fonts,just share this with the programmers.Now there are 33 kinds of fantastic fonts!  
+- [refills](https://github.com/thoughtbot/refills) - [no longer maintained]  
+- [RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system  
 - [sass-bootstrap-defunct](https://github.com/jlong/sass-bootstrap-defunct) - This project has been superceeded by an official Bootstrap Sass port. Please use:  
-- [compass-twitter-bootstrap](https://github.com/vwall/compass-twitter-bootstrap) - The twitter bootstrap ported to compass  
-- [IVORY](https://github.com/kanthvallampati/IVORY) - IVORY is simple and highly customizable CSS framework, gives you all to build your pages faster and easier.  
-- [unsemantic](https://github.com/nathansmith/unsemantic) - Fluid grid for mobile, tablet, and desktop.  
-- [Frameless](https://github.com/jonikorpi/Frameless) - The spiritual successor to Less Framework  
-- [compass-recipes](https://github.com/MoOx/compass-recipes) - UNMAINTAINED compass/sass mixins and snippets.  
+- [sass-globbing](https://github.com/chriseppstein/sass-globbing) - Adds glob-based imports to Sass  
+- [sassaparilla](https://github.com/fffunction/sassaparilla) - Start your web projects fast with Sassaparilla  
+- [sassdash](https://github.com/davidkpiano/sassdash) - The Sass implementation of lodash.  
+- [sassline](https://github.com/jakegiltsoff/sassline) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.  
 - [Sassy-Buttons](https://github.com/jhardy/Sassy-Buttons) -   
-- [breakpoint](https://github.com/at-import/breakpoint) - Really simple media queries in Sass  
-- [nib](https://github.com/stylus/nib) - Stylus mixins, utilities, components, and gradient image generation  
+- [scut](https://github.com/davidtheclark/scut) - Sass utilities for the frontend laborer.  
+- [shine-unofficial](https://github.com/dotvhs/shine-unofficial) - Unofficial fork of SHINE for Reddit.  
+- [simplebar](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla javascript library with native scroll, done simple, lightweight, easy to use and cross-browser.  
+- [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.  
+- [solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.  
+- [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments  
+- [source-sans-pro](https://github.com/adobe-fonts/source-sans-pro) - Sans serif font family for user interface environments  
+- [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS  
+- [SpinThatShit](https://github.com/MatejKustec/SpinThatShit) - A set of SCSS mixins for single element loaders and spinners  
+- [SSCSS](https://github.com/sebastianmusial/SSCSS) - Light Sass lib for managing your font-size, margin, padding, and position values across breakpoints.  
+- [stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique &#34;multi-color&#34; option in CSS for over 60 social brands.  
+- [StackOverflow-Dark](https://github.com/StylishThemes/StackOverflow-Dark) - 📚 Dark theme for Stack Overflow & most Stack Exchange network sites  
+- [stepper](https://github.com/alikinvv/stepper) - Animated numeric stepper component which can be used to increment or decrement a value by clicking arrows.  
+- [stylestats](https://github.com/t32k/stylestats) - StyleStats is a library to collect CSS statistics.  
+- [Stylish-Google-Drive-Dark](https://github.com/SicariusNoctis/Stylish-Google-Drive-Dark) - Dark userstyle for Google Drive for Stylish  
+- [Stylus-Dark](https://github.com/overdodactyl/Stylus-Dark) - A dark theme for Stylus to match Firefox's dark mode  
+- [sublime-molokai](https://github.com/gerardroche/sublime-molokai) - A port of tomasr/molokai colorscheme for Sublime Text.  
+- [SublimeSass](https://github.com/braver/SublimeSass) - Sass and SCSS syntax for Sublime Text  
+- [susy](https://github.com/oddbird/susy) - Responsive layout toolkit for Sass  
+- [Syntax-highlighting-for-Sass](https://github.com/P233/Syntax-highlighting-for-Sass) - A Sublime Text 3 package for highlighting both Sass and SCSS syntax.  
+- [tampermonkey-layout](https://github.com/Tampermonkey/tampermonkey-layout) -   
+- [three-dots](https://github.com/nzbin/three-dots) - 🔮 CSS loading animations made by single element.  
+- [typecsset](https://github.com/csswizardry/typecsset) - A small Sass library for setting type on the web.  
+- [typography-baseline](https://github.com/paceaux/typography-baseline) - A good start to your CSS typography that covers all the semantic nooks and crannies  
+- [unicons](https://github.com/Iconscout/unicons) - 1000+ Pixel-perfect vector icons and Iconfont for your next project.  
+- [unsemantic](https://github.com/nathansmith/unsemantic) - Fluid grid for mobile, tablet, and desktop.  
+- [UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox  
+- [water.css](https://github.com/kognise/water.css) - A just-add-css collection of styles to make simple websites just a little nicer  
+- [website](https://github.com/Ulterius/website) - The source code for ulterius.io  
+- [white-space](https://github.com/dotnetCarpenter/white-space) - white-space: none polyfill  
+- [WSL-Programs](https://github.com/ethanhs/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux  
 
 ## Clojure
-- [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures  
 - [block-the-eu-cookie-shit-list](https://github.com/r4vi/block-the-eu-cookie-shit-list) - Adblock / Adblock plus filter list for blocking cookie notifications  
+- [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures  
 
 ## CoffeeScript
 - [bal-util](https://github.com/bevry-archive/bal-util) - Utility functions for JavaScript and Node.js used and maintained by Benjamin Lupton  
-- [onedollar-unistroke-coffee](https://github.com/nok/onedollar-unistroke-coffee) - Implementation of the $1 Unistroke Recognizer, a two-dimensional template based gesture recognition, in CoffeeScript.  
-- [livereload-extensions](https://github.com/livereload/livereload-extensions) - LiveReload Browser Extensions  
-- [node-tail](https://github.com/lucagrulla/node-tail) - The zero dependency Node.js module for tailing a file  
-- [Log.io](https://github.com/NarrativeScience/Log.io) - Real-time log monitoring in your browser  
+- [docpad](https://github.com/docpad/docpad) - Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before.  
+- [eco](https://github.com/sstephenson/eco) - Embedded CoffeeScript templates  
 - [funcster](https://github.com/jeffomatic/funcster) - node.js function serialization/deserialization  
-- [url-pattern](https://github.com/snd/url-pattern) - easier than regex string matching patterns for urls and other strings. turn strings into data or data into strings.  
+- [grunt-ftpush](https://github.com/inossidabile/grunt-ftpush) - Grunt task for incremental code deployment over ftp  
+- [gulp-tap](https://github.com/geejs/gulp-tap) - Easily tap into a gulp pipeline without creating a plugin.  
+- [highlights](https://github.com/atom/highlights) - Syntax highlighter  
+- [Keypress](https://github.com/braintripping/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.  
+- [Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.  
+- [livereload-extensions](https://github.com/livereload/livereload-extensions) - LiveReload Browser Extensions  
+- [Log.io](https://github.com/NarrativeScience/Log.io) - Real-time log monitoring in your browser  
+- [mondrian](https://github.com/artursapek/mondrian) - Web-based vector graphics editor  
+- [node-tail](https://github.com/lucagrulla/node-tail) - The zero dependency Node.js module for tailing a file  
 - [node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.  
+- [onedollar-unistroke-coffee](https://github.com/nok/onedollar-unistroke-coffee) - Implementation of the $1 Unistroke Recognizer, a two-dimensional template based gesture recognition, in CoffeeScript.  
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) - See node.js errors with less clutter  
 - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.  
 - [tastebin](https://github.com/andreineculau/tastebin) - A pastebin with taste i.e. minimalistic  
-- [gulp-tap](https://github.com/geejs/gulp-tap) - Easily tap into a gulp pipeline without creating a plugin.  
-- [Keypress](https://github.com/braintripping/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.  
-- [Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.  
+- [url-pattern](https://github.com/snd/url-pattern) - easier than regex string matching patterns for urls and other strings. turn strings into data or data into strings.  
 - [webbooost](https://github.com/mr-mig/webbooost) - Chrome extension for faster web browsing.  
-- [highlights](https://github.com/atom/highlights) - Syntax highlighter  
-- [mondrian](https://github.com/artursapek/mondrian) - Web-based vector graphics editor  
-- [grunt-ftpush](https://github.com/inossidabile/grunt-ftpush) - Grunt task for incremental code deployment over ftp  
-- [docpad](https://github.com/docpad/docpad) - Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. DocPad will streamline your web development process allowing you to craft powerful static sites quicker than ever before.  
-- [eco](https://github.com/sstephenson/eco) - Embedded CoffeeScript templates  
 
 ## D
 - [search-deflector](https://github.com/spikespaz/search-deflector) - A small program that forwards searches from Cortana to your preferred browser and search engine.  
 
 ## Dart
-- [netflix_clone](https://github.com/dvmjoshi/netflix_clone) - Netflix type clone app to learn animation and basic UI components..  
 - [dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.  
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.  
+- [netflix_clone](https://github.com/dvmjoshi/netflix_clone) - Netflix type clone app to learn animation and basic UI components..  
 
 ## Dockerfile
-- [Excavator](https://github.com/ScoopInstaller/Excavator) - 🕳️ This container runs the updating services for all scoop manifest repos  
-- [wapps](https://github.com/MichaelSchmidle/wapps) - Selection of self-hosted Docker web apps  
-- [npm-vs-yarn](https://github.com/appleboy/npm-vs-yarn) - npm vs yarn install speed testing.  
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.  
+- [Excavator](https://github.com/ScoopInstaller/Excavator) - 🕳️ This container runs the updating services for all scoop manifest repos  
+- [npm-vs-yarn](https://github.com/appleboy/npm-vs-yarn) - npm vs yarn install speed testing.  
+- [wapps](https://github.com/MichaelSchmidle/wapps) - Selection of self-hosted Docker web apps  
 
 ## Elixir
 - [iris_server](https://github.com/7-iris/iris_server) - Self hosted push notifications  
 
 ## Go
-- [listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + React.  
-- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple  
-- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.  
-- [go-cheat](https://github.com/m3nu/go-cheat) - A Go implementation of Chris Allen's Python tool for sysadmins  
-- [namebench](https://github.com/viking76/namebench) - namebench  
-- [NAMEinator](https://github.com/mwiora/NAMEinator) - NAMEinator DNS Benchmark tool (namebench successor)  
-- [namebench](https://github.com/google/namebench) - namebench  
-- [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker  
-- [dep](https://github.com/golang/dep) - Go dependency management tool  
-- [tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go  
-- [modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes  
-- [devd](https://github.com/cortesi/devd) - A local webserver for developers  
-- [httplab](https://github.com/gchaincl/httplab) - The interactive web server  
-- [direnv](https://github.com/direnv/direnv) - unclutter your .profile  
-- [sufr](https://github.com/kyleterry/sufr) - SUFR (Simple URL and Fact Repository) is a self-hosted URL bookmarker.  
-- [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.  
-- [hapttic](https://github.com/jsoendermann/hapttic) - :fast_forward: Hapttic is a simple HTTP server that forwards all requests to a shell script.  
-- [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)  
-- [the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.  
-- [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations  
-- [gunk](https://github.com/gunk/gunk) - Modern frontend and syntax for Protocol Buffers  
-- [forego](https://github.com/ddollar/forego) - Foreman in Go  
-- [ghq](https://github.com/motemen/ghq) - Remote repository management made easy  
-- [diskusage](https://github.com/aleksaan/diskusage) - Command line utility for getting information about usage of disk(s) or folder(s) space.  
-- [go](https://github.com/golang/go) - The Go programming language  
-- [lsp](https://github.com/dborzov/lsp) - lsp is like ls command but more human-friendly  
-- [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`  
-- [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser which can be used as a middleware or standalone app.  
 - [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software  
-- [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder  
-- [shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.  
-- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.  
-- [geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service  
-- [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.  
-- [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.  
-- [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor  
-- [imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images  
-- [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - 🛡 Block spying and tracking on Windows  
-- [sudo](https://github.com/mattn/sudo) - sudo for windows  
-- [linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers  
-- [GoSublime](https://github.com/DisposaBoy/GoSublime) - A Golang plugin collection for SublimeText 3, providing code completion and other IDE-like features.  
 - [backend](https://github.com/limetext/backend) - Backend for LimeText  
-- [roots-cli](https://github.com/roots/roots-cli) - *Pre-alpha* Start a new Roots project with one command  
+- [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.  
+- [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`  
+- [crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks.  
+- [dep](https://github.com/golang/dep) - Go dependency management tool  
+- [devd](https://github.com/cortesi/devd) - A local webserver for developers  
+- [direnv](https://github.com/direnv/direnv) - unclutter your .profile  
+- [diskusage](https://github.com/aleksaan/diskusage) - Command line utility for getting information about usage of disk(s) or folder(s) space.  
+- [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple  
+- [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser which can be used as a middleware or standalone app.  
+- [forego](https://github.com/ddollar/forego) - Foreman in Go  
+- [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder  
+- [geekmarks](https://github.com/dimonomid/geekmarks) - API-Driven, Geeky Bookmarking Service  
+- [ghq](https://github.com/motemen/ghq) - Remote repository management made easy  
+- [go](https://github.com/golang/go) - The Go programming language  
+- [go-cheat](https://github.com/m3nu/go-cheat) - A Go implementation of Chris Allen's Python tool for sysadmins  
+- [GoSublime](https://github.com/DisposaBoy/GoSublime) - A Golang plugin collection for SublimeText 3, providing code completion and other IDE-like features.  
+- [gunk](https://github.com/gunk/gunk) - Modern frontend and syntax for Protocol Buffers  
+- [hapttic](https://github.com/jsoendermann/hapttic) - :fast_forward: Hapttic is a simple HTTP server that forwards all requests to a shell script.  
+- [httplab](https://github.com/gchaincl/httplab) - The interactive web server  
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.  
+- [imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images  
+- [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations  
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker  
+- [linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers  
+- [listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. Go + React.  
+- [lsp](https://github.com/dborzov/lsp) - lsp is like ls command but more human-friendly  
 - [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor  
+- [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor  
+- [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.  
+- [modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes  
+- [namebench](https://github.com/viking76/namebench) - namebench  
+- [namebench](https://github.com/google/namebench) - namebench  
+- [NAMEinator](https://github.com/mwiora/NAMEinator) - NAMEinator DNS Benchmark tool (namebench successor)  
+- [nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.  
+- [roots-cli](https://github.com/roots/roots-cli) - *Pre-alpha* Start a new Roots project with one command  
+- [server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)  
+- [shuttle](https://github.com/sipt/shuttle) - A web proxy in Golang with amazing features.  
+- [sudo](https://github.com/mattn/sudo) - sudo for windows  
+- [sufr](https://github.com/kyleterry/sufr) - SUFR (Simple URL and Fact Repository) is a self-hosted URL bookmarker.  
+- [the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.  
+- [tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go  
+- [websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.  
+- [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - 🛡 Block spying and tracking on Windows  
 
 ## Groff
 - [slugify](https://github.com/benlinton/slugify) - Bash command that converts filenames and directories to a web friendly format.  
 
 ## HTML
+- [AListApart](https://github.com/alistapart/AListApart) - The A List Apart front end repo  
+- [anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.  
+- [ApplySyntax](https://github.com/facelessuser/ApplySyntax) - Syntax detector for Sublime Text http://facelessuser.github.io/ApplySyntax/  
+- [atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book  
+- [base16-textmate](https://github.com/chriskempson/base16-textmate) - Base16 for TextMate & Sublime  
+- [beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com  
+- [Bebas-Neue](https://github.com/dharmatype/Bebas-Neue) - Bebas Neue font  
 - [bootstrap-tags](https://github.com/Serhioromano/bootstrap-tags) - Twitter Bootstrap UI component element to manage article tags or in other words it is a mix of typeahead and pills.  
-- [IcoMoon-Free](https://github.com/Keyamoon/IcoMoon-Free) - A package of flat vector icons together with an installable ligature font  
+- [brick](https://github.com/alfredxing/brick) - Open-source webfont service  
+- [Building-Blocks](https://github.com/buildingfirefoxos/Building-Blocks) - Reusable components for Firefox OS  
+- [BypassCors](https://github.com/chrishham/BypassCors) - Bypass CORS restrictions Client Side.  
+- [code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.  
+- [colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.  
 - [coordinator](https://github.com/spotify/coordinator) - A visual interface for turning an SVG into XY coördinates.  
-- [reliable-get](https://github.com/tes/reliable-get) - Extraction of the get then cache functions from Compoxure into a stand alone library.  
-- [dripicons](https://github.com/amitjakhu/dripicons) - A completely free vector line iconset by Amit Jakhu.  
-- [taiga-moe](https://github.com/erengy/taiga-moe) - Home page of Taiga  
-- [primeicons](https://github.com/primefaces/primeicons) - Icon Library for Prime UI Libraries  
-- [iwanthue](https://github.com/medialab/iwanthue) - Colors for data scientists.  
-- [IsometricSass](https://github.com/MorganCaron/IsometricSass) - Sass library to make isometric 2D without javascript  
-- [svelte-grid](https://github.com/vaheqelyan/svelte-grid) - A responsive, draggable and resizable grid layout, for Svelte.  
-- [DOMinion-build-demo](https://github.com/propjockey/DOMinion-build-demo) - Demo of a build produced by a 3D CSS editor in development  
+- [CSS-Checkbox-Library](https://github.com/hunzaboy/CSS-Checkbox-Library) - A huge library of CSS Checkboxes for every taste.  
 - [ctx-core](https://github.com/ctx-core/ctx-core) - A composable monorepo web-service/front-end toolkit  
+- [depbud](https://github.com/madsobel/depbud) - A nifty little dashboard that helps you manage your npm dependencies.  
+- [destyle.css](https://github.com/nicolas-cusan/destyle.css) - Opinionated reset stylesheet that provides a clean styling slate for your project.  
+- [devtools-snippets](https://github.com/bgrins/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools  
+- [docker-sync-boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate) - A simple boilerplate for docker-sync  
+- [docsBuildAPKs](https://github.com/SDRausty/docsBuildAPKs) - docsBuildAPKs https://sdrausty.github.io/docsBuildAPKs/  
+- [DOMinion-build-demo](https://github.com/propjockey/DOMinion-build-demo) - Demo of a build produced by a 3D CSS editor in development  
+- [dripicons](https://github.com/amitjakhu/dripicons) - A completely free vector line iconset by Amit Jakhu.  
+- [dropcss](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner  
+- [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial  
+- [examples](https://github.com/riot/examples) - Demos and examples for Riot and submodules  
+- [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs  
+- [fetch-progress-indicators](https://github.com/AnthumChris/fetch-progress-indicators) - Progress indicators/bars using Streams, Service Workers, and Fetch APIs  
+- [fetch-site](https://github.com/futurist/fetch-site) - Fetch website with all the resources/responses/requests to local files, using puppeteer.  
+- [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.  
+- [geek-cookbook](https://github.com/funkypenguin/geek-cookbook) - The &#34;Geek's Cookbook&#34; is a collection of guides for establishing your own highly-available &#34;private cloud&#34; and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.  
+- [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!  
+- [grunticon](https://github.com/filamentgroup/grunticon) - A mystical CSS icon solution.  
+- [Guna](https://github.com/poucotm/Guna) - 🍁 Most Innovative Theme for Sublime Text 3  
 - [htmlextract](https://github.com/go-xmlfmt/htmlextract) - HTML Extraction Tool  
+- [hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative  
+- [IcoMoon-Free](https://github.com/Keyamoon/IcoMoon-Free) - A package of flat vector icons together with an installable ligature font  
+- [inline-or-cache-svg---both](https://github.com/chriscoyier/inline-or-cache-svg---both) - Let's see how possible this is.  
+- [IsometricSass](https://github.com/MorganCaron/IsometricSass) - Sass library to make isometric 2D without javascript  
+- [isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts  
+- [iwanthue](https://github.com/medialab/iwanthue) - Colors for data scientists.  
+- [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns  
+- [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web  
+- [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.  
+- [Light-Modal](https://github.com/hunzaboy/Light-Modal) - A new lightweight, powerful and easy to use CSS Modal.  
+- [live-file](https://github.com/bhelx/live-file) - node.js application to view a file in realtime over the browser  
+- [markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.  
+- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉  
 - [ninecat-ui](https://github.com/ninecat-ui/ninecat-ui) - A Vue.js 2.0 UI Toolkit for Web  
-- [tinytabs](https://github.com/knadh/tinytabs) - A tiny (1.3 KB minified) Javascript tabbing library for rendering tabbed UIs. Zero dependencies.  
+- [normalize-opentype.css](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.  
+- [outdated-browser](https://github.com/outdatedbrowser/outdated-browser) - A simple tool to identify and upgrade old browsers.  
+- [PageZipper](https://github.com/davidar/PageZipper) -   
+- [PageZipper](https://github.com/jkoomjian/PageZipper) -   
+- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser  
+- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.  
+- [PotPlayerPortable](https://github.com/2wayne/PotPlayerPortable) - PotPlayer in PortableApps.com Format  
+- [primeicons](https://github.com/primefaces/primeicons) - Icon Library for Prime UI Libraries  
+- [progressive-image.js](https://github.com/craigbuckler/progressive-image.js) - A lazy-loading progressive image similar to those seen on Facebook and Medium.  
+- [proxify](https://github.com/clubajax/proxify) -   
+- [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line  
+- [reimg](https://github.com/gillyb/reimg) - reimg - A javascript library for converting image formats  
+- [reliable-get](https://github.com/tes/reliable-get) - Extraction of the get then cache functions from Compoxure into a stand alone library.  
+- [rrssb](https://github.com/kni-labs/rrssb) - :arrow_right_hook: Ridiculously Responsive Social Sharing Buttons  
+- [SaveImageRouter](https://github.com/alexopus/SaveImageRouter) - Chrome plugin to save images to custom locations from the context menu  
+- [saveSvgAsPng](https://github.com/exupero/saveSvgAsPng) - Save SVGs as PNGs from the browser.  
+- [scout-app](https://github.com/scout-app/scout-app) - Scout-App - The simplest Sass processor  
+- [settingizer](https://github.com/martyboggs/settingizer) - Create settings pages from JS objects  
 - [shaarli-2004licious-theme](https://github.com/ManufacturaInd/shaarli-2004licious-theme) - Homage to an early web memory  
 - [Shaarli-Material](https://github.com/kalvn/Shaarli-Material) - Shaarli Material is a theme for Shaarli, the famous personal, minimalist, super-fast, database free, bookmarking service.  
-- [static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks  
-- [geek-cookbook](https://github.com/funkypenguin/geek-cookbook) - The &#34;Geek's Cookbook&#34; is a collection of guides for establishing your own highly-available &#34;private cloud&#34; and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.  
-- [hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative  
-- [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial  
-- [progressive-image.js](https://github.com/craigbuckler/progressive-image.js) - A lazy-loading progressive image similar to those seen on Facebook and Medium.  
-- [webpivottable](https://github.com/bright-sea/webpivottable) - Pure Javascript Pivot table and Pivot Chart Component  
 - [sifrr](https://github.com/sifrr/sifrr) - :zap: Set of tiny, independent libraries for creating modern and fast webapps with javascript  
-- [docsBuildAPKs](https://github.com/SDRausty/docsBuildAPKs) - docsBuildAPKs https://sdrausty.github.io/docsBuildAPKs/  
-- [depbud](https://github.com/madsobel/depbud) - A nifty little dashboard that helps you manage your npm dependencies.  
-- [text-zoom-resize](https://github.com/zoltan-dulac/text-zoom-resize) -   
-- [saveSvgAsPng](https://github.com/exupero/saveSvgAsPng) - Save SVGs as PNGs from the browser.  
-- [torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api) - Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Extratorrent)  
-- [anchorjs](https://github.com/bryanbraun/anchorjs) - Add deep anchor links to your docs.  
-- [fetch-site](https://github.com/futurist/fetch-site) - Fetch website with all the resources/responses/requests to local files, using puppeteer.  
-- [inline-or-cache-svg---both](https://github.com/chriscoyier/inline-or-cache-svg---both) - Let's see how possible this is.  
-- [destyle.css](https://github.com/nicolas-cusan/destyle.css) - Opinionated reset stylesheet that provides a clean styling slate for your project.  
-- [reimg](https://github.com/gillyb/reimg) - reimg - A javascript library for converting image formats  
-- [live-file](https://github.com/bhelx/live-file) - node.js application to view a file in realtime over the browser  
-- [settingizer](https://github.com/martyboggs/settingizer) - Create settings pages from JS objects  
-- [proxify](https://github.com/clubajax/proxify) -   
-- [BypassCors](https://github.com/chrishham/BypassCors) - Bypass CORS restrictions Client Side.  
-- [dropcss](https://github.com/leeoniya/dropcss) - An exceptionally fast, thorough and tiny unused-CSS cleaner  
-- [Guna](https://github.com/poucotm/Guna) - 🍁 Most Innovative Theme for Sublime Text 3  
-- [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line  
-- [Bebas-Neue](https://github.com/dharmatype/Bebas-Neue) - Bebas Neue font  
-- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGiИX config generator on steroids 💉  
-- [Light-Modal](https://github.com/hunzaboy/Light-Modal) - A new lightweight, powerful and easy to use CSS Modal.  
-- [wrist](https://github.com/WebReflection/wrist) - Minimalistic utility for generic one/two ways data bindings.  
-- [fetch-progress-indicators](https://github.com/AnthumChris/fetch-progress-indicators) - Progress indicators/bars using Streams, Service Workers, and Fetch APIs  
-- [TableFilter](https://github.com/koalyptus/TableFilter) - A Javascript library making HTML tables filterable and a bit more :)  
-- [examples](https://github.com/riot/examples) - Demos and examples for Riot and submodules  
-- [templating-benchmarks](https://github.com/marko-js/templating-benchmarks) - Benchmarking framework for multiple templating engines  
-- [PageZipper](https://github.com/davidar/PageZipper) -   
-- [phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser  
-- [docker-sync-boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate) - A simple boilerplate for docker-sync  
-- [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns  
-- [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io  
-- [github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!  
-- [PageZipper](https://github.com/jkoomjian/PageZipper) -   
-- [sublime-enhanced](https://github.com/shagabutdinov/sublime-enhanced) - Set of plugins for beloved sublime text editor  
-- [CSS-Checkbox-Library](https://github.com/hunzaboy/CSS-Checkbox-Library) - A huge library of CSS Checkboxes for every taste.  
-- [devtools-snippets](https://github.com/bgrins/devtools-snippets) - A collection of helpful snippets to use inside of browser devtools  
-- [ApplySyntax](https://github.com/facelessuser/ApplySyntax) - Syntax detector for Sublime Text http://facelessuser.github.io/ApplySyntax/  
-- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.  
-- [SaveImageRouter](https://github.com/alexopus/SaveImageRouter) - Chrome plugin to save images to custom locations from the context menu  
-- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos  
-- [PotPlayerPortable](https://github.com/2wayne/PotPlayerPortable) - PotPlayer in PortableApps.com Format  
-- [isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts  
-- [beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com  
-- [markdown-mark](https://github.com/dcurtis/markdown-mark) - Use this mark to identify Markdown.  
-- [web.svg.min](https://github.com/larsenwork/web.svg.min) - Vector icons, badges, flags etc. über optimised for web use.  
-- [YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more.  
-- [grunticon](https://github.com/filamentgroup/grunticon) - A mystical CSS icon solution.  
-- [atomic-design](https://github.com/bradfrost/atomic-design) - The repository for the Atomic Design book  
-- [normalize-opentype.css](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.  
-- [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development  
-- [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites  
-- [outdated-browser](https://github.com/outdatedbrowser/outdated-browser) - A simple tool to identify and upgrade old browsers.  
+- [static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks  
 - [style](https://github.com/bensmithett/style) - An opinionated starting point for scalable, maintainable CSS architecture.  
-- [brick](https://github.com/alfredxing/brick) - Open-source webfont service  
-- [code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.  
-- [rrssb](https://github.com/kni-labs/rrssb) - :arrow_right_hook: Ridiculously Responsive Social Sharing Buttons  
+- [sublime-enhanced](https://github.com/shagabutdinov/sublime-enhanced) - Set of plugins for beloved sublime text editor  
+- [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos  
+- [svelte-grid](https://github.com/vaheqelyan/svelte-grid) - A responsive, draggable and resizable grid layout, for Svelte.  
+- [TableFilter](https://github.com/koalyptus/TableFilter) - A Javascript library making HTML tables filterable and a bit more :)  
+- [taiga-moe](https://github.com/erengy/taiga-moe) - Home page of Taiga  
+- [templating-benchmarks](https://github.com/marko-js/templating-benchmarks) - Benchmarking framework for multiple templating engines  
+- [text-zoom-resize](https://github.com/zoltan-dulac/text-zoom-resize) -   
+- [tinytabs](https://github.com/knadh/tinytabs) - A tiny (1.3 KB minified) Javascript tabbing library for rendering tabbed UIs. Zero dependencies.  
+- [torrent-search-api](https://github.com/JimmyLaurent/torrent-search-api) - Yet another node torrent scraper (supports iptorrents, torrentleech, torrent9, torrentz2, 1337x, thepiratebay, Yggtorrent, TorrentProject, Extratorrent)  
 - [typeplate.github.io](https://github.com/typeplate/typeplate.github.io) - Official Website for Typeplate: “A Typographic Starter Kit.”  
-- [js-the-right-way](https://github.com/braziljs/js-the-right-way) - An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web  
-- [AListApart](https://github.com/alistapart/AListApart) - The A List Apart front end repo  
-- [fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs  
-- [Building-Blocks](https://github.com/buildingfirefoxos/Building-Blocks) - Reusable components for Firefox OS  
-- [FitVids.js](https://github.com/davatron5000/FitVids.js) - A lightweight, easy-to-use jQuery plugin for fluid width video embeds.  
-- [Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.  
-- [base16-textmate](https://github.com/chriskempson/base16-textmate) - Base16 for TextMate & Sublime  
-- [colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.  
-- [scout-app](https://github.com/scout-app/scout-app) - Scout-App - The simplest Sass processor  
+- [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites  
+- [web.svg.min](https://github.com/larsenwork/web.svg.min) - Vector icons, badges, flags etc. über optimised for web use.  
+- [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development  
+- [webpivottable](https://github.com/bright-sea/webpivottable) - Pure Javascript Pivot table and Pivot Chart Component  
+- [Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io  
+- [wrist](https://github.com/WebReflection/wrist) - Minimalistic utility for generic one/two ways data bindings.  
+- [YouTubeCenter](https://github.com/YePpHa/YouTubeCenter) - YouTube Center is a userscript designed to expand the functionality of YouTube. It includes the ability to download the video you're watching, auto selecting your preferred video quality and much more.  
 
 ## Haskell
-- [unused](https://github.com/joshuaclayton/unused) - A command line tool to identify unused code.  
 - [bench](https://github.com/Gabriel439/bench) - Command-line benchmark tool  
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts  
+- [unused](https://github.com/joshuaclayton/unused) - A command line tool to identify unused code.  
 
 ## Java
-- [ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB  
-- [SAI](https://github.com/Aefyr/SAI) - Android split APKs installer  
-- [axesso-java-client](https://github.com/Axesso/axesso-java-client) - Java SDK for the axesso rest API  
-- [swim](https://github.com/swimos/swim) - Distributed software platform for building stateful, massively real-time streaming applications.  
-- [LTweaksSystem](https://github.com/bluesky139/LTweaksSystem) - An advanced implementation on L Tweaks.  
-- [LTweaks](https://github.com/bluesky139/LTweaks) - This is my little tweaks for some Android apps and system, Xposed is needed for most functions.  
-- [EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.  
-- [apkgrabber](https://github.com/hemker/apkgrabber) - APKGrabber is a tool that simplifies the process of finding updates for your installed apps.  
-- [zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project  
-- [nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search  
-- [Elephant](https://github.com/jusu/Elephant) - Notetaker with a classic interface.  
-- [ChromePie](https://github.com/JayT5/ChromePie) - Add Pie Controls to Google Chrome with Xposed  
-- [SwiftKeyGoodnessOnMoreFields](https://github.com/qwerty12/SwiftKeyGoodnessOnMoreFields) - An Xposed mod to let SwiftKey work on more fields  
-- [920-text-editor-v2](https://github.com/jecelyin/920-text-editor-v2) - 920 Text Editor is a Free, Open Source and no Ad software for android  
-- [ShaderEditor](https://github.com/markusfisch/ShaderEditor) - Android app to create GLSL shaders and use them as live wallpaper  
-- [walt](https://github.com/google/walt) - A device for measuring latency of physical sensors and outputs on phones and computers  
 - [9-Patch-Resizer](https://github.com/redwarp/9-Patch-Resizer) - A resizer tool to automaticaly resize png files and 9 patches in several densities  
-- [PinDroid](https://github.com/maxpower47/PinDroid) - Pinboard Bookmarks for Android  
-- [qpython](https://github.com/qpython-android/qpython) - QPython is a script engine that runs Python on android devices.  
-- [behe-keyboard](https://github.com/VladThodo/behe-keyboard) - A lightweight hacking & programming keyboard with material design  
-- [android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions  
-- [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android  
-- [dummydroid](https://github.com/onyxbits/dummydroid) - Google Play checkin utility. Creates a configurable hardware profile and gets a GSF ID for it.  
-- [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.  
-- [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS  
-- [focus-android](https://github.com/mozilla-mobile/focus-android) - Firefox Focus: The privacy browser - Browse like no one’s watching.  
-- [Noizer](https://github.com/ZorgeR/Noizer) -   
-- [raccoon4](https://github.com/onyxbits/raccoon4) - APK Downloader for Google Play  
-- [ApkDownloader](https://github.com/jackpf/ApkDownloader) -   
-- [ApkTrack](https://github.com/JusticeRage/ApkTrack) - ApkTrack is an Android app which checks if updates for installed APKs are available.  
-- [XposedInstaller](https://github.com/DVDAndroid/XposedInstaller) - Materialised Xposed Installer  
-- [MagiskManager](https://github.com/topjohnwu/MagiskManager) - Companion Android application for Magisk  
-- [Phonograph](https://github.com/ezio84/Phonograph) - A material designed music player for Android  
-- [oandbackup](https://github.com/jensstein/oandbackup) - backup manager for android  
-- [sigspoof-checker](https://github.com/Lanchon/sigspoof-checker) - Signature Spoofing Checker  
-- [haystack](https://github.com/Lanchon/haystack) - Signature Spoofing Patcher for Android  
-- [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.  
-- [candybar-library](https://github.com/danimahardhika/candybar-library) - Android icon pack material dashboard  
-- [Shuttle](https://github.com/timusus/Shuttle) - Shuttle Music Player  
-- [YalpStore](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store  
-- [radare2-installer](https://github.com/radare/radare2-installer) - Application to easily download and install radare2 on android devices  
-- [vimtouch](https://github.com/momodalo/vimtouch) - vimtouch  
-- [text-editor-8000](https://github.com/adrianmalacoda/text-editor-8000) - Text editor for Android. Under sporadic development. See also this repository on my GitLab instance.  
-- [turbo-editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android. All is licensed under the GPLv3 license.  
-- [connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.  
-- [RootTools](https://github.com/Stericson/RootTools) - RootTools Library  
-- [Universal-init.d](https://github.com/Androguide/Universal-init.d) - A simple Android application which emulates the behavior of the init.d kernel mechanism (automatic execution of the scripts contained within the /system/etc/init.d folder at each boot)  
-- [GSamBatteryMonitor-RootCompanion](https://github.com/GSamLabs/GSamBatteryMonitor-RootCompanion) - Companion App to provide Battery Statistics access on KitKat  
-- [getChromium](https://github.com/andDevW/getChromium) - Installs the latest build of Chromium on Android & Chrome OS.  
-- [apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is a tool that simplifies the process of finding updates for your installed apps.  
-- [StylishForDolphin](https://github.com/Pmmlabs/StylishForDolphin) - Stylish add-on for the Dolphin Browser  
-- [DroidShows](https://github.com/ltGuillaume/DroidShows) - A Reboot of DroidSeries Offline TV Shows Tracker  
-- [SpotifySkip](https://github.com/MrYawnie/SpotifySkip) - SpotifySkip lets you enable tablet-only Spotify freemium features on mobile devices.  
-- [qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android  
-- [AFZC](https://github.com/nikhilmenghani/AFZC) - This is v4.0 of android flashable zip creator project which is used to create zip files that can be flashed in rooted android phones.  
-- [Torchie-Android](https://github.com/anselm94/Torchie-Android) - Innovative torch solution for Android  
-- [AndroidN-ify](https://github.com/wasdennnoch/AndroidN-ify) - [Xposed] Use features introduced in Android N on your LP+ Device!  
-- [Xposed-NougatNavigationBar](https://github.com/michaelschattgen/Xposed-NougatNavigationBar) - Get the new navigationbar buttons from the leaked Nexus renders. This module will replace the stock navbar buttons with nougat's new filled ones.  
-- [NoUsbNotification](https://github.com/apsun/NoUsbNotification) - Removes the USB debugging and MTP/PTP notifications on Android.  
-- [Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar  
-- [Xposed-ScreenOffAnimation](https://github.com/zst123/Xposed-ScreenOffAnimation) - Xposed: Custom Screen Off Animations for all ROMs  
-- [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files  
-- [GravityBox](https://github.com/GravityBox/GravityBox) - Xposed Tweak Box for devices running Android 4.1/4.2/4.3/4.4/5.0/5.1/6.0/7/8/9  
-- [Opengur](https://github.com/Kennyc1012/Opengur) - Open source Imgur Android App  
-- [Native-Clip-Board](https://github.com/DHM47/Native-Clip-Board) - Add native clip board functionality to android using Xposed Framework  
-- [SudoHide](https://github.com/SudoCode755/SudoHide) - Xposed module hide android apps from other android apps  
-- [Android-Studio-Tips-by-Philippe-Breault](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault) - Every Android Studio Tip posted by Phillipe Breault  
-- [Commandr-Android](https://github.com/RSenApps/Commandr-Android) - Add commands to Google Now, no root required!  
-- [Rashr](https://github.com/DsLNeXuS/Rashr) - Rashr - Flash your device from your device - Android App  
-- [ForceTouch](https://github.com/tkgktyk/ForceTouch) -   
-- [NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per application  
+- [920-text-editor-v2](https://github.com/jecelyin/920-text-editor-v2) - 920 Text Editor is a Free, Open Source and no Ad software for android  
+- [ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB  
 - [afwall](https://github.com/ukanth/afwall) - AFWall+ (Android Firewall +) - iptables based firewall for Android  
-- [PocketHub](https://github.com/pockethub/PocketHub) - PocketHub Android App  
+- [AFZC](https://github.com/nikhilmenghani/AFZC) - This is v4.0 of android flashable zip creator project which is used to create zip files that can be flashed in rooted android phones.  
+- [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android  
+- [android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) - Your Cheat Sheet For Android Interview - Android Interview Questions  
+- [Android-Studio-Tips-by-Philippe-Breault](https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault) - Every Android Studio Tip posted by Phillipe Breault  
+- [Android-Terminal-Emulator](https://github.com/jackpal/Android-Terminal-Emulator) - A VT-100 terminal emulator for the Android OS  
+- [AndroidN-ify](https://github.com/wasdennnoch/AndroidN-ify) - [Xposed] Use features introduced in Android N on your LP+ Device!  
+- [ApkDownloader](https://github.com/jackpf/ApkDownloader) -   
+- [apkgrabber](https://github.com/hemker/apkgrabber) - APKGrabber is a tool that simplifies the process of finding updates for your installed apps.  
+- [Apktool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files  
+- [ApkTrack](https://github.com/JusticeRage/ApkTrack) - ApkTrack is an Android app which checks if updates for installed APKs are available.  
+- [apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is a tool that simplifies the process of finding updates for your installed apps.  
+- [axesso-java-client](https://github.com/Axesso/axesso-java-client) - Java SDK for the axesso rest API  
+- [behe-keyboard](https://github.com/VladThodo/behe-keyboard) - A lightweight hacking & programming keyboard with material design  
+- [candybar-library](https://github.com/danimahardhika/candybar-library) - Android icon pack material dashboard  
+- [ChromePie](https://github.com/JayT5/ChromePie) - Add Pie Controls to Google Chrome with Xposed  
+- [Commandr-Android](https://github.com/RSenApps/Commandr-Android) - Add commands to Google Now, no root required!  
+- [connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.  
+- [CrappaLinks](https://github.com/GermainZ/CrappaLinks) - Xposed module that removes link masking and shortening  
+- [DroidShows](https://github.com/ltGuillaume/DroidShows) - A Reboot of DroidSeries Offline TV Shows Tracker  
+- [dummydroid](https://github.com/onyxbits/dummydroid) - Google Play checkin utility. Creates a configurable hardware profile and gets a GSF ID for it.  
+- [EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.  
+- [Elephant](https://github.com/jusu/Elephant) - Notetaker with a classic interface.  
+- [Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar  
+- [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.  
+- [focus-android](https://github.com/mozilla-mobile/focus-android) - Firefox Focus: The privacy browser - Browse like no one’s watching.  
+- [ForceTouch](https://github.com/tkgktyk/ForceTouch) -   
+- [getChromium](https://github.com/andDevW/getChromium) - Installs the latest build of Chromium on Android & Chrome OS.  
+- [GravityBox](https://github.com/GravityBox/GravityBox) - Xposed Tweak Box for devices running Android 4.1/4.2/4.3/4.4/5.0/5.1/6.0/7/8/9  
+- [GSamBatteryMonitor-RootCompanion](https://github.com/GSamLabs/GSamBatteryMonitor-RootCompanion) - Companion App to provide Battery Statistics access on KitKat  
+- [haystack](https://github.com/Lanchon/haystack) - Signature Spoofing Patcher for Android  
+- [InstallerOpt](https://github.com/afxefx/InstallerOpt) - Xposed module for install/uninstall processes  
+- [k-9](https://github.com/k9mail/k-9) - K-9 Mail – Advanced Email for Android 📧  
+- [LTweaks](https://github.com/bluesky139/LTweaks) - This is my little tweaks for some Android apps and system, Xposed is needed for most functions.  
+- [LTweaksSystem](https://github.com/bluesky139/LTweaksSystem) - An advanced implementation on L Tweaks.  
+- [MagiskManager](https://github.com/topjohnwu/MagiskManager) - Companion Android application for Magisk  
+- [Native-Clip-Board](https://github.com/DHM47/Native-Clip-Board) - Add native clip board functionality to android using Xposed Framework  
+- [NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per application  
+- [Noizer](https://github.com/ZorgeR/Noizer) -   
+- [NoUsbNotification](https://github.com/apsun/NoUsbNotification) - Removes the USB debugging and MTP/PTP notifications on Android.  
+- [nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search  
+- [oandbackup](https://github.com/jensstein/oandbackup) - backup manager for android  
 - [Omni-Notes](https://github.com/federicoiosue/Omni-Notes) - Open source note-taking application for Android  
-- [XPrivacy](https://github.com/M66B/XPrivacy) - XPrivacy - The ultimate, yet easy to use, privacy manager  
+- [Opengur](https://github.com/Kennyc1012/Opengur) - Open source Imgur Android App  
+- [Phonograph](https://github.com/ezio84/Phonograph) - A material designed music player for Android  
+- [PinDroid](https://github.com/maxpower47/PinDroid) - Pinboard Bookmarks for Android  
 - [PlayMusicExporter](https://github.com/ddonuts4/PlayMusicExporter) - This Android app exports your Play Music mp3 files directly to your sdcard.  
 - [PlayMusicExporter](https://github.com/Arcus92/PlayMusicExporter) - This Android app exports your Play Music mp3 files directly to your sdcard.  
-- [CrappaLinks](https://github.com/GermainZ/CrappaLinks) - Xposed module that removes link masking and shortening  
-- [InstallerOpt](https://github.com/afxefx/InstallerOpt) - Xposed module for install/uninstall processes  
 - [PlayStoreChangelog](https://github.com/P1nGu1n/PlayStoreChangelog) - Show apps their full changelog in the Play Store  
-- [viper4android_xhifi](https://github.com/vipersaudio/viper4android_xhifi) - ViPER4Android XHiFi Control Panel  
-- [XInstaller](https://github.com/pylerSM/XInstaller) - [Xposed module] Various tweaks for Package Installer  
+- [PocketHub](https://github.com/pockethub/PocketHub) - PocketHub Android App  
+- [qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android  
+- [qpython](https://github.com/qpython-android/qpython) - QPython is a script engine that runs Python on android devices.  
+- [raccoon4](https://github.com/onyxbits/raccoon4) - APK Downloader for Google Play  
+- [radare2-installer](https://github.com/radare/radare2-installer) - Application to easily download and install radare2 on android devices  
+- [Rashr](https://github.com/DsLNeXuS/Rashr) - Rashr - Flash your device from your device - Android App  
+- [RootTools](https://github.com/Stericson/RootTools) - RootTools Library  
+- [SAI](https://github.com/Aefyr/SAI) - Android split APKs installer  
+- [ShaderEditor](https://github.com/markusfisch/ShaderEditor) - Android app to create GLSL shaders and use them as live wallpaper  
+- [Shuttle](https://github.com/timusus/Shuttle) - Shuttle Music Player  
+- [sigspoof-checker](https://github.com/Lanchon/sigspoof-checker) - Signature Spoofing Checker  
+- [SpotifySkip](https://github.com/MrYawnie/SpotifySkip) - SpotifySkip lets you enable tablet-only Spotify freemium features on mobile devices.  
+- [StylishForDolphin](https://github.com/Pmmlabs/StylishForDolphin) - Stylish add-on for the Dolphin Browser  
 - [SublimeLauncher](https://github.com/Connorelsea/SublimeLauncher) - A project launcher for Sublime Text  
-- [k-9](https://github.com/k9mail/k-9) - K-9 Mail – Advanced Email for Android 📧  
+- [SudoHide](https://github.com/SudoCode755/SudoHide) - Xposed module hide android apps from other android apps  
+- [SwiftKeyGoodnessOnMoreFields](https://github.com/qwerty12/SwiftKeyGoodnessOnMoreFields) - An Xposed mod to let SwiftKey work on more fields  
+- [swim](https://github.com/swimos/swim) - Distributed software platform for building stateful, massively real-time streaming applications.  
+- [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.  
+- [text-editor-8000](https://github.com/adrianmalacoda/text-editor-8000) - Text editor for Android. Under sporadic development. See also this repository on my GitLab instance.  
+- [Torchie-Android](https://github.com/anselm94/Torchie-Android) - Innovative torch solution for Android  
+- [turbo-editor](https://github.com/vmihalachi/turbo-editor) - Simple and powerful File Editor for Android. All is licensed under the GPLv3 license.  
+- [Universal-init.d](https://github.com/Androguide/Universal-init.d) - A simple Android application which emulates the behavior of the init.d kernel mechanism (automatic execution of the scripts contained within the /system/etc/init.d folder at each boot)  
+- [vimtouch](https://github.com/momodalo/vimtouch) - vimtouch  
+- [viper4android_xhifi](https://github.com/vipersaudio/viper4android_xhifi) - ViPER4Android XHiFi Control Panel  
+- [walt](https://github.com/google/walt) - A device for measuring latency of physical sensors and outputs on phones and computers  
+- [XInstaller](https://github.com/pylerSM/XInstaller) - [Xposed module] Various tweaks for Package Installer  
+- [Xposed-NougatNavigationBar](https://github.com/michaelschattgen/Xposed-NougatNavigationBar) - Get the new navigationbar buttons from the leaked Nexus renders. This module will replace the stock navbar buttons with nougat's new filled ones.  
+- [Xposed-ScreenOffAnimation](https://github.com/zst123/Xposed-ScreenOffAnimation) - Xposed: Custom Screen Off Animations for all ROMs  
+- [XposedInstaller](https://github.com/DVDAndroid/XposedInstaller) - Materialised Xposed Installer  
+- [XPrivacy](https://github.com/M66B/XPrivacy) - XPrivacy - The ultimate, yet easy to use, privacy manager  
+- [YalpStore](https://github.com/yeriomin/YalpStore) - Download apks from Google Play Store  
+- [zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project  
 
 ## JavaScript
-- [dr-js](https://github.com/dr-js/dr-js) - A collection of strange functions  
-- [stargazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!  
-- [nested-object-diff](https://github.com/eraykose/nested-object-diff) - A lightweight javascript diff library for comparing two javascript object nested with supporting matching by value of the object's choosen key name in array.  
-- [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)  
-- [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of React spinners components with pure css  
-- [web-components-angular-react](https://github.com/andrewdacenko/web-components-angular-react) - Multiple apps as components POC  
-- [Dotgrid](https://github.com/hundredrabbits/Dotgrid) - Minimalist Vector Tool  
-- [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser  
-- [router-elements](https://github.com/Seanmclem/router-elements) - Native Web Component SPA Router  
-- [Web-Component-Dev-Environment](https://github.com/Seanmclem/Web-Component-Dev-Environment) - Easily build and use components and javascript  
-- [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps  
-- [tor-browser-portable](https://github.com/garethflowers/tor-browser-portable) - Portable version of the Tor Browser, for Windows  
-- [fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网  
-- [functional-finite-state-machine](https://github.com/TBPixel/functional-finite-state-machine) - A dead simple finite-state-machine for JavaScript  
-- [libgfi](https://github.com/cutenode/libgfi) - A module for finding good-first-issues in open source projects.  
-- [use-tensorflow](https://github.com/franciscop/use-tensorflow) - A React hook to use tensorflow.js easily  
-- [collections](https://github.com/superchargejs/collections) - async/await-ready Array & Collection utilities  
-- [data-telemetry](https://github.com/WebReflection/data-telemetry) - A simple event tracker for user surfing sessions  
-- [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html  
-- [face-recognition.js](https://github.com/justadudewhohacks/face-recognition.js) - Simple Node.js package for robust face detection and face recognition. JavaScript and TypeScript API.  
-- [packd](https://github.com/Rich-Harris/packd) - Rollup as a service (with a little help from Browserify)  
-- [p-cancelable](https://github.com/sindresorhus/p-cancelable) - Create a promise that can be canceled  
-- [p-timeout](https://github.com/sindresorhus/p-timeout) - Timeout a promise after a specified amount of time  
-- [solid](https://github.com/ryansolid/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.  
-- [starter-project-cli](https://github.com/maliMirkec/starter-project-cli) - Starter Project CLI creates a perfect Gulp development environment within a few minutes.  
-- [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / FSEvents  
-- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub  
-- [vivid](https://github.com/webkul/vivid) - a JavaScript library which is built to easily customize and use the SVG Icons with a blaze.  
-- [ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons  
-- [js-joda](https://github.com/js-joda/js-joda) - :clock2: Immutable date and time library for javascript  
-- [gumshoe](https://github.com/cferdinandi/gumshoe) - A simple vanilla JS scrollspy script.  
-- [smooth-scroll](https://github.com/cferdinandi/smooth-scroll) - A lightweight script to animate scrolling to anchor links.  
-- [subcolor](https://github.com/ibrahimtelman/subcolor) - Subcolor is a tool to generate colors between two colors  
-- [Matlock-Breadcrumbs](https://github.com/getmatlock/Matlock-Breadcrumbs) - Matlock Breadcrumbs used for technology discovery.  
-- [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage.  
-- [promise-waitlist](https://github.com/indutny/promise-waitlist) - Promise-based Wait List for your apps  
-- [read-cmd-shim](https://github.com/npm/read-cmd-shim) - Read the path a cmd-shim is pointing at. Acts like fs.readlink but for cmd-shims.  
-- [latest-semver](https://github.com/sindresorhus/latest-semver) - Get the latest stable semver version from an array of versions  
-- [to-semver](https://github.com/sindresorhus/to-semver) - Get an array of valid, sorted, and cleaned semver versions from an array of strings  
-- [find-versions](https://github.com/sindresorhus/find-versions) - Find semver versions in a string: `unicorn v1.2.3` → `1.2.3`  
-- [semver-regex](https://github.com/sindresorhus/semver-regex) - Regular expression for matching semver versions  
-- [one-click-screenshot](https://github.com/stefansundin/one-click-screenshot) - :camera: Take full-page screenshots in Chrome and Firefox.  
-- [Blipshot](https://github.com/folletto/Blipshot) - Google Chrome Extension to make screenshots  
-- [screenshot-capture](https://github.com/simov/screenshot-capture) - Screenshot Capture / Browser Extension  
-- [DoNotDiscard](https://github.com/WorldLanguages/DoNotDiscard) - 🗑️❌ Stops Chrome from suspending tabs, and reloading them when you switch to them. 2000+ users on Chrome Web Store.  
-- [smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping  
-- [cato.js](https://github.com/herrfugbaum/cato.js) - Dependency-free library for (image) comparison sliders.  
-- [subimage-match](https://github.com/dieterwalckiers/subimage-match) - Lightweight library that finds matches of an image within another image  
-- [img-ssim](https://github.com/IonicaBizau/img-ssim) - :mount_fuji: Get the structural similarity between two images.  
-- [roya](https://github.com/mouafa/roya) - 🔎 Find diff between two images  
-- [js-imagediff](https://github.com/HumbleSoftware/js-imagediff) - JavaScript / Canvas based image diff utility with Jasmine matchers for testing canvas.  
-- [rembrandt](https://github.com/imgly/rembrandt) - Image comparison using node-canvas  
-- [blink-diff](https://github.com/yahoo/blink-diff) - A lightweight image comparison tool.  
-- [queue-microtask](https://github.com/feross/queue-microtask) - fast, tiny `queueMicrotask` shim for modern engines  
-- [logarr](https://github.com/Monitorr/logarr) - &#34;Logarr&#34; is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.  
-- [Spectral](https://github.com/jxnblk/Spectral) - Click the Rainbow  
-- [couleur](https://github.com/wonderbright/couleur) - A colour palette keeper app based on electron.js + vue.js.  
-- [get-online-img](https://github.com/ahmadawais/get-online-img) - 📥 Download an image by providing a URL and path in Node.js.  
-- [Tools-for-Instagram](https://github.com/linkfy/Tools-for-Instagram) - Automation scripts for Instagram  
-- [chromatism](https://github.com/toish/chromatism) - :rainbow: A simple set of utility functions for colours.  
-- [web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.  
-- [adsbypasser](https://github.com/leoncastro/adsbypasser) -   
-- [js-us](https://github.com/leoncastro/js-us) - general userscripts  
-- [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.  
-- [deeptissuejs](https://github.com/docluv/deeptissuejs) - A Touch Abstraction Library for MSPointer andWebKit touch APIs  
-- [prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts.  
-- [parse-conflict-json](https://github.com/npm/parse-conflict-json) - Parse a JSON string that has git merge conflicts, resolving if possible  
-- [hast-util-to-text](https://github.com/syntax-tree/hast-util-to-text) - utility to get the plain-text value of a node according to the `innerText` algorithm  
-- [r](https://github.com/ariiiman/r) - 🌿 A light JavaScript library.  
-- [node-pushnotifications](https://github.com/appfeel/node-pushnotifications) - Push notifications for GCM, APNS, MPNS, AMZ (automatic detection from device token)  
-- [reactime](https://github.com/open-source-labs/reactime) - chrome extension for react debugging and time travel  
-- [radialMenu](https://github.com/victorqribeiro/radialMenu) - A highly customizable radial menu that's very easy to setup.  
-- [coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches  
-- [components](https://github.com/serverless/components) - An easier way to build and share serverless applications w/ the Serverless Framework -  
-- [NflxMultiSubs](https://github.com/dannvix/NflxMultiSubs) - (Discontinued) Multiple Subtitles and Enhanced Experiences for Netflix on Chrome & Firefox  
-- [colorpicker.js](https://github.com/Kiuryy/colorpicker.js) -   
-- [Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Chrome extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.  
-- [Leftside_Back](https://github.com/Kiuryy/Leftside_Back) - Chrome extension, which allows you to navigate back by just hitting the mouse on the left side of your screen.  
-- [rollup-plugin-cdn](https://github.com/WebReflection/rollup-plugin-cdn) - Resolve locally all dependencies loaded through fully qualified CDN urls.  
-- [create-react-extension](https://github.com/VasilyShelkov/create-react-extension) - Set up a modern React browser extension by running one command.  
-- [tasklemon](https://github.com/Cykelero/tasklemon) - Painless automation in JavaScript.  
-- [google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results  
-- [styled-icons](https://github.com/jacobwgillespie/styled-icons) - 💅 Popular icon packs like Font Awesome, Material Design, and Octicons, available as React Styled Components  
-- [dimensions](https://github.com/mrflix/dimensions) - A Chrome extension for measuring screen dimensions  
-- [UserScripts](https://github.com/SO-Close-Vote-Reviewers/UserScripts) - Various user scripts that add features to the review queue or to the chat room  
-- [tamperchrome](https://github.com/google/tamperchrome) - Tamper Chrome is a Chrome extension that allows you to modify HTTP requests on the fly and aid on web security testing. Tamper Chrome works across all operating systems (including Chrome OS).  
-- [xhook](https://github.com/jpillora/xhook) - Easily intercept and modify XHR request and response  
-- [opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.  
-- [googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th.  
-- [outlines](https://github.com/francoislaberge/outlines) - Pointcloud Shape Recognizer  
-- [darkmodejs](https://github.com/Assortment/darkmodejs) - Utility package for managing Dark Mode on the web  
-- [bounds.js](https://github.com/ChrisCavs/bounds.js) - Asynchronous boundary detection - lazy-loading, infinite scroll, and more  
-- [refined-hacker-news](https://github.com/plibither8/refined-hacker-news) - ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better  
-- [Cover-Image-Generator](https://github.com/PJijin/Cover-Image-Generator) - 📕 Generate a cover image for your blog post 📝 https://blogcover.now.sh/  
-- [reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.  
-- [nice-try](https://github.com/electerious/nice-try) - Tries to execute a function and discards any error that occurs.  
-- [data-store](https://github.com/jonschlinkert/data-store) - Easily get, set and persist config data. Fast. Supports dot-notation in keys. No dependencies.  
-- [bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await  
-- [postcss-inline-svg](https://github.com/TrySound/postcss-inline-svg) - PostCSS plugin to reference an SVG file and control its attributes with CSS syntax  
-- [webframe](https://github.com/1productaweek/webframe) - A showcase of beautiful and well designed web app screens for design inspiration  
-- [react-easy-boilerplates](https://github.com/nimahkh/react-easy-boilerplates) - react boilerplate generator  
-- [resize-optimize-images](https://github.com/ahmadawais/resize-optimize-images) - 🗃 Resize and optimize bmp, gif, jpeg, png, & tiff images in Node.js.  
-- [nve](https://github.com/ehmicky/nve) - Run any Node.js version  
-- [http2spy](https://github.com/bcoe/http2spy) - test helpers for working with Node.js' http2 module  
-- [Aris](https://github.com/Vectorized/Aris) - Aris - A fast and powerful tool to write HTML in JS easily. Includes syntax highlighting, templates, SVG, CSS autofixing, debugger support and more...  
-- [safe-await](https://github.com/DavidWells/safe-await) - Safely use async/await without all the try catch blocks  
-- [console-badge](https://github.com/dennis47528/console-badge) - 🎨 Create simple badges in the browser console  
-- [rondel](https://github.com/alfdocimo/rondel) - Rondel is a library that makes use of the JavaScript Proxy API and exposes certain functionalities to control objects through the use of handlers.  
-- [domponent](https://github.com/tamb/domponent) - Build components with the HTML you already have.  
-- [ego-cli](https://github.com/egodigital/ego-cli) - Command Line Interface, which is designed to handle things, like Dev(Ops) tasks, much faster.  
-- [snippet](https://github.com/opensource-matrix/snippet) - A library of code snippets.  
-- [Tobi](https://github.com/rqrauhvmra/Tobi) - An accessible, simple and light-weight open source lightbox script with no dependencies.  
-- [itemizejs](https://github.com/Kosmoon/itemizejs) - Turn any container's children into manageable items  
-- [subjx](https://github.com/nichollascarter/subjx) - Drag and drop pure javascript library(no dependencies)  
-- [Studddent](https://github.com/calumptrck/Studddent) - ✨ Curated online discounts for students. 🎒  
-- [x-ray-puppeteer](https://github.com/brandonmp/x-ray-puppeteer) - Chromium Puppeteer driver for x-ray, for the discerning scrapist.  
-- [responsive-sidebar-navigation](https://github.com/CodyHouse/responsive-sidebar-navigation) - An easy-to-integrate side, vertical navigation, ideal for dashboards and admin areas.  
-- [anti-paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls  
-- [myicons](https://github.com/shanzi/myicons) - Your flat icons manager and font builder.  
-- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit  
-- [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.  
-- [babelify](https://github.com/babel/babelify) - Browserify transform for Babel  
-- [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.  
-- [egjs-axes](https://github.com/naver/egjs-axes) - A module used to change the information of user action entered by various input devices such as touch screen or mouse into the logical virtual coordinates.  
-- [builder](https://github.com/daybrush/builder) -   
-- [print-sizes](https://github.com/daybrush/print-sizes) - Prints a list of files in the directory.  
-- [es-iife](https://github.com/eight04/es-iife) - Transform ES module into a simple IIFE  
-- [rollup-plugin-iife](https://github.com/eight04/rollup-plugin-iife) - Convert ES modules into IIFEs.  
-- [import-http](https://github.com/egoist/import-http) - Import modules from URL instead of local node_modules  
-- [make-fetch-happen](https://github.com/zkat/make-fetch-happen) - Get in loser, we're making requests!  
-- [silver-request](https://github.com/silverboyir/silver-request) -   
-- [git-copy-history](https://github.com/pfrankov/git-copy-history) - Copy commit history from another repository  
-- [function-sniffer](https://github.com/wall-wxk/function-sniffer) - js方法嗅探器  
-- [zethus](https://github.com/rapyuta-robotics/zethus) - Realtime robot data visualization in the browser  
-- [gramma](https://github.com/caderek/gramma) - command-line grammar checker  
-- [ip-finder-node](https://github.com/ipfinder-io/ip-finder-node) - Official Node.js client library for IPfinder  
-- [saasify](https://github.com/saasify-sh/saasify) - The easiest way to launch your own SaaS. (Active WIP)  
-- [map-events](https://github.com/PerimeterX/map-events) - events mapped out completely cross browsers  
-- [iris-ql](https://github.com/staeco/iris-ql) - User friendly API query language  
-- [hyperstatic](https://github.com/loteoo/hyperstatic) - Routing, code-splitting and pre-rendering for hyperapp  
-- [virtual-scroller](https://github.com/catamphetamine/virtual-scroller) - A component for efficiently rendering large lists of variable height items  
-- [zip-text-nodes](https://github.com/fregante/zip-text-nodes) - Merge the DOM of 2 elements with the same textContent.  
-- [bundle-stats](https://github.com/bundle-stats/bundle-stats) - In-depth bundle analyzer for webpack(bundle size, assets, modules, packages)  
-- [nodepack](https://github.com/Akryum/nodepack) - 📦 A progressive Node.js framework  
-- [snap-state](https://github.com/andrevenancio/snap-state) - State management in a snap 👌  
-- [noapi](https://github.com/hiowenluke/noapi) - The easiest framework for node.js API application, create one in under 5 minutes.  
-- [cessie](https://github.com/bjarneo/cessie) - Transpile your CSS bundle to support CSS variables, calc, and future CSS for legacy browsers.  
-- [rollup-plugin-url-resolve](https://github.com/mjackson/rollup-plugin-url-resolve) - Use URLs in your Rollup imports  
-- [doma](https://github.com/fregante/doma) - Parse an HTML string into `DocumentFragment` or one `Element`, in a few bytes (in browser)  
-- [es6-delegate](https://github.com/MichaelBunting/es6-delegate) - Delegate function built with ES6  
-- [pauseable.js](https://github.com/fent/pauseable.js) - Create event emitters, intervals, and timeouts that can be paused and resumed.  
-- [wConsequence](https://github.com/Wandalen/wConsequence) - Advanced synchronization mechanism. Asynchronous routines may use Consequence to wrap postponed result, what allows classify callback for such routines as output, not input, what improves analyzability of a program. Consequence may be used to make a queue for mutually exclusive access to a resource.  
-- [thumbnail-rating-bar-for-youtube](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Chrome Extension: Show the rating bar (likes/dislikes) on the bottom of every YouTube thumbnail.  
-- [jexcel](https://github.com/paulhodel/jexcel) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.  
-- [bind-methods](https://github.com/sindresorhus/bind-methods) - Bind all methods in an object to itself or a specified context  
-- [rollup-plugin-multi-entry](https://github.com/rollup/rollup-plugin-multi-entry) - Use multiple entry points in your rollup bundle.  
-- [rollup-starter-lib](https://github.com/rollup/rollup-starter-lib) - Bare-bones example of how to create a library using Rollup  
-- [moses](https://github.com/ifrost/moses) - JavaScript mouse/touch gesture recognition library  
-- [dollar-p](https://github.com/indolering/dollar-p) - Clone of js $P (dollar p) gesture recognition library.  
-- [wanda](https://github.com/clemmy/wanda) - Simple Javascript Gesture Recognition.  
-- [gesture-helper](https://github.com/glomotion/gesture-helper) - a *tiny* touch & mouse library to help make tracking interactions more simple.  
-- [HTML5-Gesture-Recognition](https://github.com/dmackenz/HTML5-Gesture-Recognition) - Gesture recognition for the browser  
-- [fast-input](https://github.com/fxnoob/fast-input) - Fastest way to interact with web pages on chrome browser  
-- [Claw](https://github.com/SeregPie/Claw) - [WIP] A very small gesture recognizer.  
-- [jsonstore](https://github.com/bluzi/jsonstore) - :rocket: jsonstore offers a free and secured JSON-based cloud datastore for small projects  
-- [bench-chain](https://github.com/fluents/bench-chain) - benchmark recording - averages & graphs.  
-- [apk-cli](https://github.com/prattheev/apk-cli) - Download APKs from CLI  
-- [buttercup-browser-extension](https://github.com/buttercup/buttercup-browser-extension) - :earth_asia: Buttercup browser extension  
-- [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Secrets Vault - Multi-Platform Desktop Application  
-- [rax](https://github.com/alibaba/rax) - The fastest way to build universal application.  
-- [hypersimple](https://github.com/WebReflection/hypersimple) - The easiest way to use hyperHTML  
-- [tabstops](https://github.com/jonschlinkert/tabstops) - Empower your text editor or prompt with full-featured code snippets! JavaScript library and API for parsing and compiling code snippets with tabstops. Supports variables, placeholders, transforms, unlimited nesting, and all of the features of popular text editor snippets, including VSCode, Atom, TextMate and Sublime Text.  
-- [dot-bee](https://github.com/Dvs-Bilisim/dot-bee) - a bee-queue based minimalist toolkit for building fast, decentralized, scalable and fault tolerant microservices  
-- [clear-any-console](https://github.com/ahmadawais/clear-any-console) - 📟 Cross platform console clear for your next Node.js CLI  
-- [incarnate](https://github.com/resistdesign/incarnate) - Runtime Dependency Lifecycle Management for JavaScript.  
-- [node-newsemitter](https://github.com/fent/node-newsemitter) - An event emitter that emits only new events.  
-- [dot-event](https://github.com/dot-event/dot-event) - Javascript event emitter, foundation of everything  
-- [long-press-event](https://github.com/john-doherty/long-press-event) - Adds `long-press` event to the DOM in 0.5k of pure JavaScript  
-- [input-event](https://github.com/song940/input-event) - :musical_keyboard: Read and parse input device(like mouse, keyboard, joystick and IR-Remote)'s event data.  
-- [resize-event](https://github.com/shama/resize-event) - Detect resize on an element without polling or iframes  
-- [ws-wrapper](https://github.com/bminer/ws-wrapper) - Lightweight WebSocket lib with socket.io-like event handling, requests, and channels  
-- [ui-event-observer](https://github.com/azu/ui-event-observer) - Provide performant way to subscribe to browser UI Events.  
-- [keysim.js](https://github.com/eventualbuddha/keysim.js) - Simulate user keyboard DOM events in tests.  
-- [finger-mover](https://github.com/HcySunYang/finger-mover) - 🥊A motion effect library that integrates Fingerd and Moved  
-- [node-google-calendar](https://github.com/yuhong90/node-google-calendar) - Simple node module that supports Google Calendar API  
-- [p-immediate](https://github.com/sindresorhus/p-immediate) - Returns a promise resolved in the next event loop - think `setImmediate()`  
-- [code-library](https://github.com/odopod/code-library) - A collection of vanilla JavaScript components used in Odopod projects.  
-- [esc-exit](https://github.com/sindresorhus/esc-exit) - Exit the process when the `esc` key is pressed  
-- [p-min-delay](https://github.com/sindresorhus/p-min-delay) - Delay a promise a minimum amount of time  
-- [unique-selector](https://github.com/ericclemmons/unique-selector) - Given a DOM node, return a unique CSS selector matching only that element  
-- [element-resize-event](https://github.com/KyleAMathews/element-resize-event) - Library to make it easy to listen for element resize events  
-- [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar  
-- [defer-to-connect](https://github.com/szmarczak/defer-to-connect) - The safe way to handle the `connect ` socket event  
-- [is-hotkey](https://github.com/ianstormtaylor/is-hotkey) - Check whether a browser event matches a hotkey.  
-- [propagate](https://github.com/nock/propagate) - Propagate events from one event emitter into another  
-- [ws-server-wrapper](https://github.com/bminer/ws-server-wrapper) - Lightweight WebSocketServer wrapper lib using ws-wrapper to wrap connected WebSockets  
-- [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)  
-- [jsonbin](https://github.com/remy/jsonbin) - A personal JSON store as a RESTful service  
-- [dumper](https://github.com/notable/dumper) - Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.  
-- [mrgit](https://github.com/cksource/mrgit) - A tool for managing projects build using multiple repositories.  
-- [heresy](https://github.com/WebReflection/heresy) - React-like Custom Elements via V1 API builtin extends.  
-- [locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤 Detection of elements in viewport & smooth scrolling with parallax.  
-- [toast](https://github.com/pyrsmk/toast) - A modern JS/CSS asset loader  
-- [evernote-sdk-js](https://github.com/evernote/evernote-sdk-js) - Evernote SDK for JavaScript  
-- [bytesish](https://github.com/mikeal/bytesish) - Cross-Platform Binary API  
-- [mpm](https://github.com/doronoded/mpm) - Multiple Package Manager  
-- [diffler](https://github.com/omgaz/diffler) - A recursive JSON comparison script for humans  
-- [myscale](https://github.com/webkul/myscale) - myScale - Quick SVG Icon Resizer  
-- [dockerserver](https://github.com/freaker2k7/dockerserver) - Super lightweight & simple RESTFul distributed server for running docker containers on a remote machine(s).  
-- [js2bin](https://github.com/criblio/js2bin) - NodeJS application to native executable  
-- [nexline](https://github.com/sharpart555/nexline) - Read file, stream, string, buffer line by line. Great for execute async job over line by line in large file.  
-- [xo](https://github.com/xojs/xo) - ❤️ JavaScript linter with great defaults  
-- [CSS-Used-ChromeExt](https://github.com/painty/CSS-Used-ChromeExt) - Get all css rules used by the selected DOM and its children.  
-- [burla](https://github.com/franciscop/burla) - Advanced URL manipulation library using the History API  
-- [scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.  
-- [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL  
-- [spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.  
-- [mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!  
-- [bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript  
-- [npm-addict](https://github.com/mvila/npm-addict) - Your daily injection of npm packages  
-- [web-components-todo](https://github.com/shprink/web-components-todo) - A simple todo list built with various Web Components technologies  
-- [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.  
-- [urls-tool](https://github.com/raut-andrey/urls-tool) - Tool for simple work with url, params, hash  
-- [gulp-inject](https://github.com/klei/gulp-inject) - A javascript, stylesheet and webcomponent injection plugin for Gulp  
-- [gulp-file-include](https://github.com/haoxins/gulp-file-include) - MAINTAINER WANTED ~ [gulp-file-include] a gulp plugin for file include  
-- [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds  
-- [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS  
-- [mv-sorter](https://github.com/aigan/mv-sorter) - A custom element that makes the content sortable  
-- [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.  
-- [DragDropGrid](https://github.com/FireMuse/DragDropGrid) - Visual DB view for organizing, changing and creating records using drag and drop tags on a grid  
-- [sortable](https://github.com/davidfig/sortable) - Vanilla drag-and-drop sortable list(s)  
-- [displace](https://github.com/catc/displace) - Minimal javascript library for creating movable DOM elements  
-- [table-dragger](https://github.com/sindu12jun/table-dragger) - Turn your old table to drag-and-drop table with columns and rows sorting like magic!  
-- [dollar-q](https://github.com/wcchoi/dollar-q) - JavaScript Implementation & Demo UI of $Q Super-Quick Recognizer  
-- [selection](https://github.com/Simonwep/selection) - 🖱️ Selection - A simple and lightweight library to realize visual DOM Selections, like on your Desktop. No jQuery. Supports any CSS library, e.g. Bootstrap. Including vertical & horizontal scroll support.  
-- [slip](https://github.com/kornelski/slip) - Slip.js — UI library for manipulating lists via swipe and drag gestures  
-- [jager](https://github.com/vmikhav/jager) - Javascript touch gesture recognition library  
-- [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the given or current directory repo  
-- [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page, Yarn page, or GitHub repo of a package  
-- [bdiefinder](https://github.com/Benzhaomin/bdiefinder) - Find Samsung B-Die DDR 4 memory kits on Amazon, Newegg and many more  
-- [unused-filename](https://github.com/sindresorhus/unused-filename) - Get an unused filename by appending a number if it exists: `file.txt` → `file (1).txt`  
-- [filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid safe filename  
-- [Simple-JavaScript-DOM-Inspector](https://github.com/oldprojects/Simple-JavaScript-DOM-Inspector) - A simple JavaScript DOM inspector that highlights elements on mouseover and can perform actions on click (by default, finds the element's full or optimised CSS path.)  
-- [js-keyboard-only-outlines](https://github.com/moxystudio/js-keyboard-only-outlines) - Disable outlines caused by navigation methods other than keyboard  
-- [focus-outline-manager](https://github.com/vladimirsiljkovic/focus-outline-manager) - Watch users keyboard input and manage the focus outline visibility  
-- [outline-stroke-cli](https://github.com/elrumordelaluz/outline-stroke-cli) - Convert stroked SVG into the outlined version  
-- [outline-stroke](https://github.com/elrumordelaluz/outline-stroke) - Convert stroked SVG into the outlined version  
-- [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps  
-- [webpack-plugin-ramdisk](https://github.com/shellscape/webpack-plugin-ramdisk) - 🐏 A webpack plugin for blazing fast builds on a RAM disk / drive  
-- [browser-do](https://github.com/3cp/browser-do) - Run JavaScript in a browser, forward browser console log to stdout, great for running unit tests in browser.  
-- [theroomjs](https://github.com/hsynlms/theroomjs) - a vanilla javascript plugin that allows you to outline dom elements like web inspectors  
-- [swheel](https://github.com/qutran/swheel) - ☸Ultimate svelte router  
-- [litedom](https://github.com/mardix/litedom) - A reactive Web Component library to create Custom Element and turns any HTML sections into components  
-- [webpack-external-import](https://github.com/ScriptedAlchemy/webpack-external-import) - Load other Webpack bundles or chunk from the frontend. Without providing any context at build time  
-- [mojs-player](https://github.com/mojs/mojs-player) - GUI player to control your animations  
-- [fast-on-load](https://github.com/hyperdivision/fast-on-load) - Faster and simplified version of on-load without dom diffing support  
-- [node-cli-boilerplate](https://github.com/sindresorhus/node-cli-boilerplate) - Boilerplate to kickstart creating a Node.js command-line tool  
-- [smartup](https://github.com/zimocode/smartup) -   
-- [search-all-tabs](https://github.com/lunu-bounir/search-all-tabs) - search all opened tabs in a browser popup and see the matching previews  
-- [node-mime](https://github.com/broofa/node-mime) - Mime types for JavaScript  
-- [clean-css](https://github.com/jakubpawlowicz/clean-css) - Fast and efficient CSS optimizer for node.js and the Web  
-- [sushi-browser](https://github.com/kura52/sushi-browser) - Sushi Browser is the next generation browser which mounts the multi-panel and the video support function and so on.  Its goal is to be as fantastic as sushi. :sushi:  
-- [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go  
-- [Userscripts](https://github.com/AdguardTeam/Userscripts) - Userscripts made by our team  
-- [Scriptlets](https://github.com/AdguardTeam/Scriptlets) - AdGuard scriptlets library  
-- [RemoveAMP](https://github.com/bentasker/RemoveAMP) - A small script to be pulled in by Greasemonkey, attempting to locate non AMP versions of pages and direct the user there  
-- [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit  
-- [terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+  
-- [reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager  
-- [rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser) - Rollup plugin to minify generated bundle  
-- [dragonbinder](https://github.com/Masquerade-Circus/dragonbinder) - 1kb progressive state management library inspired by Vuex.  
-- [truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.  
-- [google-play-api](https://github.com/facundoolano/google-play-api) - Turns google-play-scraper into a RESTful API  
-- [chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript  
-- [ems](https://github.com/mogill/ems) - Extended Memory Semantics - Persistent shared object memory and parallelism for Node.js and Python  
-- [exthouse](https://github.com/treosh/exthouse) - Analyze the impact of a browser extension on web performance.  
-- [vanilla-caret-js](https://github.com/abhas9/vanilla-caret-js) - Set and get Caret position (contenteditable or TextArea) using Vanilla JavaScript  
-- [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) - A custom element that allows you to easily put a Dark Mode 🌒 toggle or switch on your site:  
-- [oh](https://github.com/cesarferreira/oh) - Quickly open any app in the folder you're currently in (Open Here)  
-- [cogent-js](https://github.com/joelwmale/cogent-js) - A simple and elegant way to build urls for your REST API  
-- [fast-gateway](https://github.com/jkyberneees/fast-gateway) - A faster Node.js API Gateway for the masses!  
-- [fluidsocket](https://github.com/filipemacedo/fluidsocket) - Package to create socket events dynamically and at high level.  
-- [hes-gallery](https://github.com/demtario/hes-gallery) - Light, jQuery free, responsive gallery script  
-- [axios-rate-limit](https://github.com/aishek/axios-rate-limit) - Rate limit for axios  
-- [dashflow](https://github.com/freewheel/dashflow) - Automate local development tasks  
-- [WhatFont-Bookmarklet](https://github.com/chengyin/WhatFont-Bookmarklet) - The core of WhatFont Tool  
-- [await-timeout](https://github.com/vitalets/await-timeout) - A Promise-based API for setTimeout / clearTimeout  
-- [Subl-AutoHotkey](https://github.com/cocobelgica/Subl-AutoHotkey) - AutoHotkey package for Sublime Text  
-- [TypeScript-Sublime-Plugin](https://github.com/microsoft/TypeScript-Sublime-Plugin) - IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins  
-- [wmjs](https://github.com/zacanger/wmjs) - [WIP] Tiling X window manager in Node  
-- [cli-window-manager](https://github.com/ismanapa/cli-window-manager) - cli tool to manage your openend windows  
-- [tinytime](https://github.com/aweary/tinytime) - ⏰ A straightforward date and time formatter in &lt;1kb  
-- [FunctionScript](https://github.com/FunctionScript/FunctionScript) - A language and specification for turning JavaScript functions into typed HTTP APIs  
-- [pupa](https://github.com/sindresorhus/pupa) - Simple micro templating  
-- [ms](https://github.com/zeit/ms) - Tiny milisecond conversion utility  
-- [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router  
-- [fetch-github-profile](https://github.com/ericjiang97/fetch-github-profile) - Fetching GitHub Profile into Your Terminal  
-- [observable](https://github.com/riot/observable) - Simple script to send and receive events  
-- [macOSNotifJS](https://github.com/MattIPv4/macOSNotifJS) - A simple Javascript plugin to create simulated macOS notifications on your website.  
-- [skaler](https://github.com/terkelg/skaler) - A 329B client-side image resizer  
-- [inline-loops.macro](https://github.com/planttheidea/inline-loops.macro) - Iteration helpers that inline to native loops for performance  
-- [datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloads ICS files for adding events to popular calendar apps.  
-- [textblock](https://github.com/glyphic-co/textblock) - Continuously responsive typesetting — Demo:  
-- [express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Basic rate-limiting middleware for express  
-- [tornis](https://github.com/robb0wen/tornis) - Tornis helps you watch and respond to changes in your browser's viewport 🌲  
-- [pickr](https://github.com/Simonwep/pickr) - 🍭 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!  
-- [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash  
-- [astexplorer](https://github.com/fkling/astexplorer) - A web tool to explore the ASTs generated by various parsers.  
-- [nerv](https://github.com/NervJS/nerv) - A blazing fast React alternative, compatible with IE8 and React 16.  
-- [csswand](https://github.com/oliver-gomes/csswand) - 🎨✨ Hover your wand and use your magic spell to copy beautiful css  
-- [entropic](https://github.com/entropic-dev/entropic) - 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝  
-- [realworld](https://github.com/gothinkster/realworld) - &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅  
-- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.  
-- [var-diff](https://github.com/flfwzgl/var-diff) - javascript variable diff algorithm  
-- [Stein](https://github.com/SteinHQ/Stein) - Use Google Sheets as your no-setup database  
-- [dotdocker](https://github.com/aj-may/dotdocker) - 🐳 A utility to help setup a docker development environment with host based routing  
-- [Fluture](https://github.com/fluture-js/Fluture) - :butterfly: Fantasy Land compliant (monadic) alternative to Promises  
-- [code-prettify](https://github.com/google/code-prettify) - An embeddable script that makes source-code snippets in HTML prettier.  
-- [flru](https://github.com/lukeed/flru) - A tiny (215B) and fast Least Recently Used (LRU) cache  
-- [omniclone](https://github.com/jfet97/omniclone) - An isomorphic and configurable javascript utility for objects deep cloning that supports circular references.  
-- [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.  
-- [domc](https://github.com/Freak613/domc) - DOM compiler  
-- [dyo](https://github.com/dyo/dyo) - Dyo is a JavaScript library for building user interfaces.  
-- [surplus](https://github.com/adamhaile/surplus) - High performance JSX web views for S.js applications  
-- [petit-dom](https://github.com/yelouafi/petit-dom) - minimalist virtual dom library  
-- [skatejs](https://github.com/skatejs/skatejs) - Effortless custom elements powered by modern view libraries.  
-- [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架  
-- [hybrids](https://github.com/hybridsjs/hybrids) - 👾 Web Components with a strong declarative and functional approach based on plain objects and pure functions  
-- [matcher-js](https://github.com/telenko/matcher-js) - Article about using matcher-js  
-- [TableOfContents](https://github.com/nikkas/TableOfContents) - Chrome-extension that creates an expandable table-of-contents on any web-page with heading-elements.  
-- [outliner](https://github.com/scottcheng/outliner) - A Chrome extension that outlines the page  
-- [github-toc](https://github.com/arthurhammer/github-toc) - :book: Browser extension that adds a table of contents to GitHub repos, wikis and gists.  
-- [table-of-contents-sidebar](https://github.com/table-of-contents-sidebar/table-of-contents-sidebar) - An extension for Chrome. An outline tool makes it easier to navigate your novel. Automatically creates table of contents in the sidebar that can be clicked through, for easy document navigation.  
-- [jsconsole](https://github.com/remy/jsconsole) - Web based console - for presentations and workshops  
-- [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Makes any webpage feel like an artboard via a little extension https://visbug.page.link/extension  
-- [webscrapbook](https://github.com/danny0838/webscrapbook) - A browser extension that captures the web page faithfully with highly customizable configurations. This project inherits from ScrapBook X.  
-- [chrome-medium-unlimited-reading](https://github.com/Gyvastis/chrome-medium-unlimited-reading) - Chrome extension to remove Medium.com member-only article read limit. https://chrome.google.com/webstore/detail/mediumcom-unlimited-readi/keckgflodjmhejpbhfbfoioonoeeckng  
-- [medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.  
-- [MMRA](https://github.com/thebaer/MMRA) - Make Medium Readable Again — a browser extension  
-- [medium-draft](https://github.com/brijeshb42/medium-draft) - 📝 A medium like Rich Text Editor built on draft-js with a focus on keyboard shortcuts.  
-- [medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - :computer: A CLI for Medium Stories.  
-- [csstree](https://github.com/csstree/csstree) - A tool set for working with CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations  
-- [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - SingleFileZ is a Web Extension for saving web pages as self-extracting HTML/ZIP hybrid files.  
-- [skyscanner-flights-scraping](https://github.com/TheJoin95/skyscanner-flights-scraping) - A scraping tool (for personal use, not commercial) to get some information about flights  
-- [zuckerjs](https://github.com/saposs-org/zuckerjs) - A simple Javascript library to build any SPA(Single Page Application) web application in a new way(component-based architecture + all uncoupled components).  
-- [nmmes-module-normalize](https://github.com/NMMES/nmmes-module-normalize) -   
-- [nmmes-cli](https://github.com/NMMES/nmmes-cli) - Node Modular Media Encoding System Command Line Frontend  
-- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.  
-- [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.  
-- [tinydate](https://github.com/lukeed/tinydate) - A tiny (349B) reusable date formatter. Extremely fast!  
-- [form-data](https://github.com/form-data/form-data) - A module to create readable `&#34;multipart/form-data&#34;` streams.  Can be used to submit forms and file uploads to other web applications.  
-- [flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥  
-- [gulp-inject-string](https://github.com/mikehazell/gulp-inject-string) - Inject snippets in build  
-- [wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com  
-- [share-info](https://github.com/catcto/share-info) - Metadata Crawler, Scraping meta information, Get Sharing content  
-- [sdk-for-js](https://github.com/appwrite/sdk-for-js) - [READ-ONLY] Official Appwrite JS SDK  
-- [to-query](https://github.com/Kikobeats/to-query) - Get query object from a request url  
-- [sylvanas](https://github.com/umijs/sylvanas) - Convert TypeScript to JavaScript  
-- [prioqueue](https://github.com/klaussinani/prioqueue) - Priority queues for ES6  
-- [undoer](https://github.com/samthor/undoer) - Native undo/redo behavior for web  
-- [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl  
-- [httpe](https://github.com/jonathantneal/httpe) - An http & https compatible module. Simultanious ports & protocols. Set & generate certificates & charsets & mimetypes. Glob & chain requests. Stream & process files.  
-- [scrape-github-trending](https://github.com/transitive-bullshit/scrape-github-trending) - Tutorial for web scraping / crawling with Node.js.  
-- [silkrouter](https://github.com/scssyworks/silkrouter) - Silk router is a library for creating single page apps  
-- [tosin](https://github.com/FullHuman/tosin) - Initialize a npm package with everything included, from CI to documentation website  
-- [spinnies](https://github.com/jcarpanelli/spinnies) - Node.js module to create and manage multiple spinners in command-line interface programs  
-- [dom-testing-library](https://github.com/testing-library/dom-testing-library) - 🐙 Simple and complete DOM testing utilities that encourage good testing practices.  
-- [safer-pass](https://github.com/WebReflection/safer-pass) - A safer and easy way to protect with password text or files.  
-- [popup-multiselect](https://github.com/harshniketseta/popup-multiselect) - A popup with options. Allows multi select.  
-- [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps  
-- [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥  
-- [FileIcons](https://github.com/braver/FileIcons) - File icons for Sublime Text  
 - [1-liners](https://github.com/1-liners/1-liners) - Functional tools that couldn’t be simpler.  
-- [benefit](https://github.com/cdonohue/benefit) - ✨ Utility CSS-in-JS library that provides a set of low-level, configurable, ready-to-use styles  
-- [litestate](https://github.com/mardix/litestate) - An ambitiously tiny, gizp ~800b, flux-like library to manage your state  
-- [undo](https://github.com/storeon/undo) - Module for storeon which allows undoing or redoing the latest event  
-- [shr](https://github.com/sampotts/shr) - Simple, clean, and customizable social sharing buttons.  
-- [bossy](https://github.com/hapijs/bossy) - Command line options parser  
-- [JSFrame.js](https://github.com/riversun/JSFrame.js) - An independent lightweight multi-window library for javascript.  
-- [dem](https://github.com/aaronshaf/dem) - Download an ECMAScript module and its relative dependencies  
-- [androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js  
-- [bootstrap-dark](https://github.com/ForEvolve/bootstrap-dark) - A Bootstrap 4 Dark theme.  
-- [columns.js](https://github.com/mladenilic/columns.js) - A minimalist masonry layout written in vanila JS, with no dependancies  
-- [themer.js](https://github.com/krestaino/themer.js) - 🌗 Automatically switch between dark and light themes at sunset and sunrise using the user's location.  
-- [form-serialize](https://github.com/riverside/form-serialize) - HTML form serialization  
-- [thetool](https://github.com/sfninja/thetool) - thetool is a CLI tool to capture different cpu, memory and other profiles for your node app in Chrome DevTools friendly format  
-- [filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor) - Edit, resize, and filter any image!  
-- [typography.js](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful design  
-- [JQuery2JS](https://github.com/The-Code-Monkey/JQuery2JS) - Turns Jquery into Vanilla JS. Go To The Link To Test.  
-- [nVidia-modded-Inf](https://github.com/CHEF-KOCH/nVidia-modded-Inf) - Modified nVidia .inf files to run drivers on all video cards, research & telemetry free drivers  
-- [reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google) - Simple userscript that adds a button to your Google searches to search only for Reddit posts  
-- [google-tracking-b-gone](https://github.com/stacybrock/google-tracking-b-gone) - Userscript to strip click tracking junk from Google search results URLs  
-- [awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features  
-- [server](https://github.com/turtl/server) - The new Turtl server  
-- [download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.  
-- [inline-js](https://github.com/eight04/inline-js) - A static assets inliner, like PHP's include, with transformer!  
-- [rollup-plugin-inline-js](https://github.com/eight04/rollup-plugin-inline-js) - Rollup with inline-js.  
-- [rollup-plugin-smart-asset](https://github.com/sormy/rollup-plugin-smart-asset) - Rollup plugin to rebase, inline or copy assets referenced from the code  
-- [rollup-plugin-url](https://github.com/rollup/rollup-plugin-url) - Inline import files as data-URIs, or copy them to output  
-- [rollup-plugin-replace](https://github.com/rollup/rollup-plugin-replace) - Replace content while bundling  
-- [rollup-plugin-url-import](https://github.com/thgh/rollup-plugin-url-import) - Resolve URL imports just like Deno  
-- [rollup-plugin-import-file](https://github.com/jlocoding/rollup-plugin-import-file) - A rollup plugin that allows you to import any file type in your project  
-- [gulp-better-rollup](https://github.com/MikeKovarik/gulp-better-rollup) - 📦 Better Gulp plugin for Rollup ES6 module bundler  
-- [table-turn](https://github.com/spencermountain/table-turn) - html-table parser on the command line  
-- [vBookmarks](https://github.com/windviki/vBookmarks) - A mod of Neat Bookmarks  
-- [neater-bookmarks](https://github.com/evanshultz/neater-bookmarks) - A neater bookmarks tree popup extension for Chrome  
-- [boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal  
-- [putout](https://github.com/coderaiser/putout) - the pluggable code transformer  
-- [node-unused](https://github.com/Kami/node-unused) - A module which reports defined, but unused variables in your code.  
-- [depcheck](https://github.com/pxpeterxu/depcheck) - A tool for checking for unused dependencies  
-- [js-unused-exports](https://github.com/devbridge/js-unused-exports) -   
-- [tree-cli](https://github.com/MrRaindrop/tree-cli) - List contents of directories in tree-like format.  
-- [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player  
-- [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat  
-- [sharp-cli](https://github.com/vseventer/sharp-cli) - CLI for sharp.  
-- [FileAPI](https://github.com/mailru/FileAPI) - FileAPI — a set of  javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.  
-- [element-resize-detector](https://github.com/wnr/element-resize-detector) - Optimized cross-browser resize listener for elements.  
-- [pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed  
-- [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications if CLI apps fail  
-- [nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js  
-- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which of your dependencies are slowing you down 🐢  
-- [yargs-parser](https://github.com/yargs/yargs-parser) - :muscle: the mighty option parser used by yargs  
-- [minimist](https://github.com/substack/minimist) - parse argument options  
-- [cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables for the command line  
-- [get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer  
-- [yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.  
-- [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support  
-- [json-apis-with-github](https://github.com/mddanishyusuf/json-apis-with-github) - 🔨 Tool to make Simple and Quick JSON APIs with GitHub.  
-- [dat-node](https://github.com/datproject/dat-node) - Node module for creating Dat applications with distributed file systems.  
-- [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter  
-- [hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views  
-- [json-strictify](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without unintended loss of data or going into an infinite loop due to circular references.  
-- [import-lazy](https://github.com/sindresorhus/import-lazy) - Import a module lazily  
-- [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js  
-- [import-fresh](https://github.com/sindresorhus/import-fresh) - Import a module while bypassing the cache  
-- [detect-newline](https://github.com/sindresorhus/detect-newline) - Detect the dominant newline character of a string  
-- [log-process-errors](https://github.com/ehmicky/log-process-errors) - Show some ❤️ to Node.js process errors  
-- [uncaught](https://github.com/aleksandr-oleynikov/uncaught) - Module for handle uncaught errors and promises rejections  
-- [rarbg](https://github.com/grantholle/rarbg) - A wrapper for RARBG's api in Node  
-- [compromise](https://github.com/spencermountain/compromise) - modest natural-language processing in javascript  
-- [futurelink](https://github.com/SamKnows/futurelink) - :crystal_ball: Predicts when a link is about to be clicked  
-- [autolink.js](https://github.com/egoist/autolink.js) - Auto-link url and images, email, video, music, &lt;br/&gt; in text.  
-- [stardog.js](https://github.com/stardog-union/stardog.js) - Stardog JavaScript Framework for node.js and the browser  
-- [anchorate](https://github.com/AndersDJohnson/anchorate) - Scroll to anchor links.  
-- [sdk](https://github.com/microlinkhq/sdk) - Turn any URL into a beautiful link preview.  
-- [gulp-cssimport](https://github.com/unlight/gulp-cssimport) - Parses a CSS file, finds imports, grabs the content of the linked file and replaces the import statement with it.  
-- [wml](https://github.com/wix/wml) - An alternative to symlinks that actually copies changed files from source to destination folders  
-- [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time  
-- [web-resource-inliner](https://github.com/jrit/web-resource-inliner) - Inlines img, script and link tags into the same file  
-- [terminal-link](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal  
-- [chrome-extension-imagus](https://github.com/Zren/chrome-extension-imagus) - &#34;Mirror&#34; of the official Imagus source hosted on Google Drive  
-- [zoomify](https://github.com/craigfrancis/zoomify) - Absolutely minimal version of GSIV to work with touch screens and very slow processors.  
-- [panzoom](https://github.com/anvaka/panzoom) - Universal pan and zoom library  
-- [wheelzoom](https://github.com/jackmoore/wheelzoom) - A small script for zooming IMG elements with the mousewheel/trackpad.  
-- [pixi-viewport](https://github.com/davidfig/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js  
-- [drift](https://github.com/imgix/drift) - Easily add &#34;zoom on hover&#34; functionality to your site's images. Lightweight, no-dependency JavaScript.  
-- [openlayers](https://github.com/openlayers/openlayers) - OpenLayers  
-- [livereload-plugins](https://github.com/livereload/livereload-plugins) - LiveReload 2 plugin repository  
-- [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.  
-- [jp](https://github.com/therealklanni/jp) - A tiny commandline tool for parsing JSON from any source.  
-- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.  
-- [doclt](https://github.com/omgimanerd/doclt) - Digital Ocean Command Line Tool  
-- [themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).  
-- [organize-cli](https://github.com/manrajgrover/organize-cli) - 📋 Organize your files, imagine cleaning up your downloads in an instant  
-- [alder](https://github.com/aweary/alder) - A minimal implementation of the UNIX tree command with colors!  
-- [console-log-div](https://github.com/bahmutov/console-log-div) - Clones console.log calls to a created div in the page. Great for demos and experiments.  
-- [simple-console](https://github.com/1j01/simple-console) - Add an elegant command-line interface to any page  
-- [screenlog.js](https://github.com/chinchang/screenlog.js) - Bring console.log on the screen  
-- [console-remote](https://github.com/kurdin/console-remote) - Remote JavaScript Console.Re Connector for Node.js and Browsers  
-- [recent-history](https://github.com/umarsheikh13/recent-history) - A chrome extension which displays your history in a pop-up.  
-- [textocry](https://github.com/rinormaloku/textocry) - Textocry - Copy text from Images (chrome extension)  
-- [enhanced-history](https://github.com/chrome-enhanced-history/enhanced-history) - Non-hijacked fork of Better History for Chrome  
-- [urlparser](https://github.com/petkaantonov/urlparser) - Fast url parser  
-- [cssstats](https://github.com/cssstats/cssstats) - Visualize various stats about your CSS  
-- [medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium  
-- [htcrawl](https://github.com/fcavallarin/htcrawl) - Htcrawl is nodejs module for the recursive crawling of single page applications (SPA) using javascript  
-- [find-css-matches](https://github.com/raingerber/find-css-matches) - Find the CSS selectors that apply to an HTML snippet.  
-- [headless-crawler](https://github.com/gajus/headless-crawler) - A crawler implemented using a headless browser (Chrome).  
-- [puppeteer-infinite-scroll](https://github.com/tawsbob/puppeteer-infinite-scroll) - aabstraction to help scrape data from sites with infinite scroll  
-- [critical-css-generator](https://github.com/indirap/critical-css-generator) - Generate critical CSS  
-- [website-scraper-puppeteer](https://github.com/website-scraper/website-scraper-puppeteer) - Plugin for website-scraper which returns html for dynamic websites using puppeteer  
-- [easy_web_crawler](https://github.com/vivekg13186/easy_web_crawler) - Web crawler around puppeteer to crawler ajax/java script enabled pages.  
-- [puppeteer-browser](https://github.com/EasyWebApp/puppeteer-browser) - Multiple Web browser controller based on Puppeteer API  
-- [puppeteer-page-object](https://github.com/lamartire/puppeteer-page-object) - 📄 Tiny page object implementation with puppeteer  
-- [wayang](https://github.com/lukluk/wayang) - Remote Chrome Headless , bypass reCAPTCHA dan anything that needs to be done by human  
-- [puppeteer-extensions](https://github.com/HuddleEng/puppeteer-extensions) - Convenience functions for the Puppeteer  
-- [puppeteer-extra-commands](https://github.com/k03mad/puppeteer-extra-commands) - Tiny library with additional puppeteer commands  
-- [Puppeteer-IE](https://github.com/TechQuery/Puppeteer-IE) - Headless Internet Explorer NodeJS API inspired by Puppeteer  
-- [puppeteer-service](https://github.com/shenfe/puppeteer-service) - 🎠 Run headless Chrome (aka Puppeteer) as a service.  
-- [puppeteer-recorder](https://github.com/clipisode/puppeteer-recorder) - Record animations using puppeteer. Based on electron-recorder.  
-- [webpage-capture](https://github.com/b4dnewz/webpage-capture) - :camera: Capture the web using headless browser with many options  
-- [browserless](https://github.com/Kikobeats/browserless) - A puppeter-like Node.js library for interacting with Headless production scenarios.  
-- [lipo](https://github.com/lipojs/lipo) - :lips: Free image manipulation API service built on top of Sharp (an alternative to Jimp, Graphics Magic, Image Magick, and PhantomJS)  
-- [webparsy](https://github.com/joseconstela/webparsy) - Node.JS library and cli for scraping websites using Puppeteer (or not) and YAML definitions  
-- [capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - Capture screenshots of websites from the command-line  
-- [differencify](https://github.com/NimaSoroush/differencify) - Differencify is a library for visual regression testing  
-- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots  
-- [minimalcss](https://github.com/peterbe/minimalcss) - Extract the minimal CSS used in a set of URLs with puppeteer  
-- [buster](https://github.com/dessant/buster) - Captcha solver extension for humans  
-- [adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.  
-- [file-explorer](https://github.com/Kloudless/file-explorer) - The Kloudless File Explorer is a file picker and uploader for apps that integrates with 20+ cloud storage services with a few lines of code  
-- [json-tree-view](https://github.com/luyuan/json-tree-view) - JavaScript JSON explorer with styles similar to Chrome's devtools  
-- [substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.  
-- [static-module](https://github.com/browserify/static-module) - convert module usage to inline expressions  
-- [serv](https://github.com/ramlmn/serv) - 💻 A development server for serving static files  
-- [shrimpit](https://github.com/yamafaktory/shrimpit) - Shrimpit 🍤 is a small CLI analysis tool for checking unused JavaScript, JSX & Vue templates ES6 exports in your project.  
-- [unrequired](https://github.com/spencermountain/unrequired) - find unused javascript files in your project  
-- [fela](https://github.com/robinweser/fela) - State-Driven Styling in JavaScript  
-- [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js  
-- [broccoli](https://github.com/broccolijs/broccoli) - Browser compilation library – an asset pipeline for applications that run in the browser  
-- [superstatic](https://github.com/firebase/superstatic) - Superstatic: a static file server for fancy apps.  
-- [gohttpserver](https://github.com/codeskyblue/gohttpserver) - The best HTTP Static File Server, write with golang+vue  
-- [http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server  
-- [html-pages](https://github.com/danielcardoso/html-pages) - Simple development http server for file serving and directory listing made by a Designer. Use it for hacking your HTML/JavaScript/CSS files, but not for deploying your final site.  
-- [x-ray-phantom](https://github.com/lapwinglabs/x-ray-phantom) - phantom driver for x-ray.  
-- [bkmrkd](https://github.com/mike-engel/bkmrkd) - Bkmrkd is a self-hosted, lightweight bookmarking service run on node.js and rethinkdb  
-- [edinote](https://github.com/haeringer/edinote) - Note taking web application for self-hosting. Offers tagging & Markdown support; can be used as a simple alternative to Evernote.  
-- [droppy](https://github.com/silverwind/droppy) - Self-hosted file storage  
-- [homehost](https://github.com/ridhwaans/homehost) - self-hosted, Netflix-like app made for streaming  
-- [string-argv](https://github.com/mccormicka/string-argv) -   
-- [winreg-cli](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying the Windows registry  
-- [reading-position-indicator](https://github.com/kunukn/reading-position-indicator) -   
-- [colorette](https://github.com/jorgebucaran/colorette) - Color your terminal using pure idiomatic JavaScript.  
-- [captcha-solver](https://github.com/transitive-bullshit/captcha-solver) - Library and CLI for automating captcha verification across multiple providers.  
-- [puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯 Teach puppeteer new tricks through plugins.  
-- [hotkey](https://github.com/github/hotkey) - Trigger an action on an element with a keyboard shortcut.  
-- [handtrack.js](https://github.com/victordibia/handtrack.js) - A library for prototyping realtime hand detection (bounding box), directly in the browser.  
-- [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page  
-- [matter](https://github.com/finnhvman/matter) - Material Design Components in Pure CSS. Materializing HTML at just one class per component 🍰  
-- [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js  
-- [capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites  
-- [github-stars-tagger](https://github.com/benoitgrelard/github-stars-tagger) - A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub  
-- [github-stars-manager](https://github.com/gabrielgodoy/github-stars-manager) - Chrome extension that allows you to manage your Github stars with tags, and to create a bookmark folder with all your stars organized by the tags you created  
-- [dubium](https://github.com/eddiejibson/dubium) - Light Javascript date and time utilities (formatting, ranges e.t.c)  
-- [bulk-decaffeinate](https://github.com/decaffeinate/bulk-decaffeinate) - Run decaffeinate and related operations on a whole codebase, or just part of one.  
-- [logagent-js](https://github.com/sematext/logagent-js) - Extensible log shipper with input/output plugins, buffering, parsing, data masking, and small memory/CPU footprint  
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on  
-- [frontail](https://github.com/mthenw/frontail) - 📝 streaming logs to the browser  
-- [websocket-driver-node](https://github.com/faye/websocket-driver-node) - WebSocket protocol handler with pluggable I/O  
-- [websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets  
-- [request-stats](https://github.com/watson/request-stats) - Get stats on your Node.js HTTP server requests  
-- [hooks-fixed](https://github.com/vkarpov15/hooks-fixed) - Augment your methods with pre and post hooks  
-- [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa  
-- [file2json-stream](https://github.com/MGardner02/file2json-stream) -   
-- [whistle](https://github.com/avwo/whistle) - HTTP, HTTPS, WebSocket debugging proxy  
+- [1click-webpage-screenshot](https://github.com/1click-extensions/1click-webpage-screenshot) - Entire page Screenshot extension for Google Chrome. I'm developing open source extension for Google Chrome. All extension are free for use. Let's make Chrome great again!  
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.  
-- [connect-prism](https://github.com/seglo/connect-prism) - Record, mock, and proxy HTTP traffic as middleware for the connect middleware framework.  
-- [console.history](https://github.com/lesander/console.history) - :scroll: Store all javascript console logs in console.history  
-- [js-dom-console](https://github.com/burdiuz/js-dom-console) - Small UI helper to display console output on the page  
-- [scramjet](https://github.com/signicode/scramjet) - Simple yet powerful live data computation framework  
-- [node-draftlog](https://github.com/ivanseidel/node-draftlog) - 📜 Create updatable log lines into the terminal, and give life to your logs!  
-- [gafas](https://github.com/souravray/gafas) - A JSON beautifier, that you have always longed for!  
-- [runnerty](https://github.com/runnerty/runnerty) - Orchestrator of processes  
-- [lad](https://github.com/ladjs/lad) - :boy: Lad scaffolds a Koa webapp and API framework for Node.js  
-- [lass](https://github.com/lassjs/lass) - :girl: Lass scaffolds a modern package boilerplate for Node.js  
-- [env-paths](https://github.com/sindresorhus/env-paths) - Get paths for storing things like data, config, cache, etc  
-- [sanic.js](https://github.com/kb-dev/sanic.js) - JS Gotta go fast ! | Increase native JS functions performances  
-- [ftdomdelegate](https://github.com/Financial-Times/ftdomdelegate) - Create and manage a DOM event delegator  
-- [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) - Data Structures and Algorithms explained and implemented in JavaScript  
-- [match-tags](https://github.com/mistval/match-tags) - Extract an HTML element and its children from a string  
-- [node-https-proxy-agent](https://github.com/TooTallNate/node-https-proxy-agent) - An HTTP(s) proxy `http.Agent` implementation for HTTPS endpoints  
-- [proxy-supervisor](https://github.com/Vladislao/proxy-supervisor) - Refresh, monitor and balance your proxies  
-- [free-proxy](https://github.com/lenconda/free-proxy) - Fetch free proxies from https://www.free-proxy-list.com  
-- [proxy-list-builder](https://github.com/asadhaider13/proxy-list-builder) - NodeJS application to scrape proxies from internet from many different websites and store them into MongoDb  
-- [doasync](https://github.com/doasync/doasync) - Promisify functions and objects immutably  
-- [thundermole](https://github.com/springernature/thundermole) - Proxy or redirect requests to different applications based on an API response  
-- [bsocks](https://github.com/bcoin-org/bsocks) - SOCKS client for node.js  
-- [node-http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) - HTTP Man In The Middle (MITM) Proxy  
-- [proxy-lists](https://github.com/chill117/proxy-lists) - Node.js module and CLI tool to get proxies from publicly available proxy lists.  
-- [tunnel-agent](https://github.com/request/tunnel-agent) - HTTP proxy tunneling agent. Formerly part of mikeal/request, now a standalone module.  
-- [get-proxy](https://github.com/kevva/get-proxy) - Get configured proxy  
-- [caw](https://github.com/kevva/caw) - Construct HTTP/HTTPS agents for tunneling proxies  
-- [node-socks-proxy-agent](https://github.com/TooTallNate/node-socks-proxy-agent) - A SOCKS (v4a) proxy `http.Agent` implementation for HTTP and HTTPS  
-- [node-proxying-agent](https://github.com/capriza/node-proxying-agent) - Node HTTP/HTTPS Forward Proxy Agent  
-- [shunter](https://github.com/springernature/shunter) - A Node.js application built to read JSON and translate it into HTML  
-- [node-proxy-agent](https://github.com/TooTallNate/node-proxy-agent) - Maps proxy protocols to `http.Agent` implementations  
-- [hijax](https://github.com/mobify/hijax) - XHR Proxy to intercept AJAX calls independent of libraries.  
-- [cors-escape](https://github.com/shalvah/cors-escape) -   
-- [cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.  
-- [userscript-proxy](https://github.com/eBay/userscript-proxy) - HTTP proxy to inject scripts and stylesheets into existing sites.  
-- [greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.  
-- [Script-Handler](https://github.com/stefanXO/Script-Handler) - Greasemonkey-like script handler for the Chrome browser  
-- [unset-value](https://github.com/jonschlinkert/unset-value) - Delete nested properties from an object using dot notation.  
-- [rollup-plugin-node-resolve](https://github.com/rollup/rollup-plugin-node-resolve) - Use the Node.js resolution algorithm with Rollup (formerly rollup-plugin-npm)  
-- [dumpenvy](https://github.com/SouthbankSoftware/dumpenvy) - Serialize and deserialize any JS objects to JSON  
-- [node-tosource](https://github.com/marcello3d/node-tosource) - Converts JavaScript objects to source  
-- [serializator](https://github.com/jsreport/serializator) - Serialize javascript objects to JSON with support for rich data structures  
-- [json-dry](https://github.com/skerit/json-dry) - 🌞 JSON-dry allows you to serialize & revive objects containing circular references, dates, regexes, class instances,...  
-- [serialijse](https://github.com/erossignon/serialijse) - serialize and deserialize javascript object, preserve your object model  
-- [indexeddb-export-import](https://github.com/Polarisation/indexeddb-export-import) - Export/import an IndexedDB database to/from JSON. Can be used to backup and restore.  
-- [cryo](https://github.com/hunterloftis/cryo) - JSON on steroids.  
-- [dom-serialization](https://github.com/swimyoung/dom-serialization) - Serialize the DOM  
-- [msgpuck.js](https://github.com/AlexMasterov/msgpuck.js) - A fast and memory-efficient MessagePack serialization library  
-- [serialize-to-js](https://github.com/commenthol/serialize-to-js) - serialize objects to javascript  
-- [serialize-json](https://github.com/node-modules/serialize-json) - A serialize algorithm for JSON  
-- [fast-redact](https://github.com/davidmarkclements/fast-redact) - very fast object redaction  
-- [json-serializer](https://github.com/QubitProducts/json-serializer) - Library for parsing and serializing javascript. JSON compatible, supports also pretty print, no object prototype pollution, functions and many more.  
-- [state-copy](https://github.com/jekrb/state-copy) - takes an object as input then serializes it as JSON and copies it to your clipboard from the browser  
-- [fast-safe-stringify](https://github.com/davidmarkclements/fast-safe-stringify) - Safely and quickly serialize JavaScript objects  
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know.  
+- [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.  
+- [2017-conferences](https://github.com/ryanburgess/2017-conferences) - A list of 2017 web development conferences.  
+- [a-s-minus](https://github.com/rojer/a-s-minus) - Awesome Screenshot Minus  
 - [aalib.js](https://github.com/mir3z/aalib.js) - ASCII art library in JavaScript  
-- [introversion](https://github.com/GeneZharov/introversion) - Swiss army knife for debugging JavaScript expressions and performance measurements  
-- [javali](https://github.com/diogomoretti/javali) - 🐗 Create a modern JavaScript library that uses ES6 + Jest  
-- [panic-overlay](https://github.com/xpl/panic-overlay) - Displays JS errors in browsers. Shows sources. Use with any framework. 💥✨  
-- [webpack-userscript](https://github.com/momocow/webpack-userscript) - A Webpack4+ plugin for userscript projects. 🙈  
-- [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - 🦎 A jQuery plugin for extracting the dominant color from images and applying the color to their parent.  
-- [serve](https://github.com/zeit/serve) - Static file serving and directory listing  
-- [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome  
-- [node-js-8-the-right-way](https://github.com/zucchinidev/node-js-8-the-right-way) - Objective: Continue learning advanced concepts of Node.js  
-- [servicebus](https://github.com/mateodelnorte/servicebus) - Simple service bus for sending events between processes using amqp.  
-- [msngr.js](https://github.com/KrisSiegel/msngr.js) - An asynchronous messaging library, written in JavaScript, for node and the web browser  
-- [CSS-Exfil-Protection](https://github.com/mlgualtieri/CSS-Exfil-Protection) - Official repository for the CSS Exfil Protection browser extensions.  
-- [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor  
-- [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor  
-- [scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy hides your scraper behind a cloud. It starts a pool of proxies to send your requests. Now, you can crawl without thinking about blacklisting!  
-- [tamperdav](https://github.com/Tampermonkey/tamperdav) - A WebDAV-like server to sync Tampermonkey scripts and edit them with an external editor  
-- [json-formatter](https://github.com/gera2ld/json-formatter) - A userscript to display JSON data beautifully.  
-- [linearicons](https://github.com/cjpatoilo/linearicons) - Linearicons is the highest quality set of line icons, matching with minimalist UI designs in iOS.  
-- [linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core) - A JavaScript library for linkification stuff. Used by linkify-plus-plus.  
-- [linkify-plus-plus](https://github.com/eight04/linkify-plus-plus) - A userscript/extension which can linkify almost everything. Based on Linkify Plus.  
-- [image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.  
-- [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI  
-- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:  
-- [extensionizr](https://github.com/altryne/extensionizr) - Extensionizr! Create a chrome extension in 15 seconds!  
-- [iframely](https://github.com/itteco/iframely) - oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph  
-- [hardtack](https://github.com/alik0211/hardtack) - An ultra-light (403 bytes) library for working with cookies in JavaScript  
-- [microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.  
-- [reconnecting-websocket](https://github.com/joewalnes/reconnecting-websocket) - A small decorator for the JavaScript WebSocket API that automatically reconnects  
-- [bolt](https://github.com/boltpkg/bolt) - ⚡️ Super-powered JavaScript project management  
-- [gulp-filter](https://github.com/sindresorhus/gulp-filter) - Filter files in a `vinyl` stream  
-- [tiny-warning](https://github.com/alexreardon/tiny-warning) - A tiny warning function  
-- [sockjs-client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - Javascript client  
-- [sockjs-node](https://github.com/sockjs/sockjs-node) - WebSocket emulation - Node.js server  
-- [layout-architect](https://github.com/krasimir/layout-architect) - A small utility for building layouts written in vanilla JavaScript  
-- [binary-extract](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of json without parsing the whole thing  
-- [webrunify](https://github.com/brechtcs/webrunify) - Bundle a CommonJS module and its dependencies into a single ES module  
-- [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings  
-- [frisbee](https://github.com/niftylettuce/frisbee) - :dog2: Modern fetch-based alternative to axios/superagent/request.  Great for React Native.  
-- [chrome-extension-webpack-boilerplate](https://github.com/samuelsimoes/chrome-extension-webpack-boilerplate) - A basic foundation boilerplate for rich Chrome Extensions using Webpack to help you write modular and modern Javascript code, load CSS easily and automatic reload the browser on code changes.  
-- [van11y-accessible-hide-show-aria](https://github.com/nico3333fr/van11y-accessible-hide-show-aria) - ES2015 accessible hide-show system (collapsible regions), using ARIA  
-- [ua-string](https://github.com/sindresorhus/ua-string) - Get the user agent of a recent Chrome version to pretend to be a browser in network requests  
-- [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...  
-- [zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.  
-- [tippyjs](https://github.com/atomiks/tippyjs) - Highly customizable tooltip and popover library  
-- [eventemitter3](https://github.com/primus/eventemitter3) - EventEmitter3 - Because there's also a number 2. And we're faster.  
-- [meetio](https://github.com/mauroreisvieira/meetio) - The most powerful theme for Sublime Text 3  
-- [duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.  
-- [HitUP](https://github.com/wonderbeyond/HitUP) - Find top things in New Tab, including GitHub Trending Repositories.  
-- [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub  
-- [pluginjs](https://github.com/pluginjs/pluginjs) - A flexible modern vanilla JavaScript plugin.  
-- [laxxx](https://github.com/alexfoxy/laxxx) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!  
-- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls for Chrome  
-- [rollup-plugin-string](https://github.com/TrySound/rollup-plugin-string) - Converts text files to modules  
-- [cross-domain-utils](https://github.com/krakenjs/cross-domain-utils) - Cross Domain utilities  
-- [art-template](https://github.com/aui/art-template) - High performance JavaScript templating engine  
-- [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS  
-- [bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check  
+- [acho](https://github.com/achojs/acho) - The Hackable Log  
+- [across-tabs](https://github.com/wingify/across-tabs) - Easy communication between cross-origin browser tabs  
+- [adsbypasser](https://github.com/leoncastro/adsbypasser) -   
+- [adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.  
+- [AHK-v2-script-converter](https://github.com/mmikeww/AHK-v2-script-converter) - AHK v1 -&gt; v2 script converter WORK IN PROGRESS  
+- [alder](https://github.com/aweary/alder) - A minimal implementation of the UNIX tree command with colors!  
 - [alerthub](https://github.com/Ardakilic/alerthub) - AlertHub is a simple tool written with NodeJS to get alerted from GitHub releases.  
-- [just](https://github.com/angus-c/just) - A library of dependency-free JavaScript functions that do just do one thing.  
-- [fill-range](https://github.com/jonschlinkert/fill-range) - Fill in a range of numbers or letters, positive or negative, optionally passing an increment or multiplier to use.  
-- [pws](https://github.com/porsager/pws) - 🤝 Persistent Web Sockets  
-- [Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.  
-- [cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.  
-- [FlexiJsonEditor](https://github.com/DavidDurman/FlexiJsonEditor) - JSON editor jQuery plugin  
-- [x-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery  
-- [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON  
-- [object-observer](https://github.com/gullerya/object-observer) - Implementing JavaScript object observe functionality via native Proxy objects  
-- [confirmation](https://github.com/f/confirmation) - A simple Node tool to replicate Browser's confirm popup on your CLI.  
-- [parse-dates](https://github.com/mugendi/parse-dates) - Easy dates parser that leverages on the power of n-gramify & http://www.datejs.com to parse dates that other parsers would fail. The concept is simple, instead on Regex, tokenize string into 'reducing ngrams' & extract!  
-- [search-comparison](https://github.com/fiatjaf/search-comparison) - visualize { fast-fuzzy, fuzzyset, sifter, lunr, fuse, fuzzy } results at the same time  
-- [sourcemap-validator](https://github.com/ben-ng/sourcemap-validator) - Map all the things, validate all the maps  
-- [history](https://github.com/ReactTraining/history) - Manage session history with JavaScript  
-- [url-to-options](https://github.com/stevenvachon/url-to-options) - Convert a WHATWG URL to an http(s).request options object.  
-- [figgy-pudding](https://github.com/zkat/figgy-pudding) - Cascading, controlled-visibility options object management.  
-- [magic-string](https://github.com/Rich-Harris/magic-string) - Manipulate strings like a wizard  
-- [marky](https://github.com/nolanlawson/marky) - High-resolution JavaScript timer based on performance.mark/measure (461 bytes min+gz)  
-- [jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.  
-- [viewerjs](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer.  
-- [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions  
-- [dom-align](https://github.com/yiminghe/dom-align) - Align DOM Node Flexibly  
-- [lawnchair](https://github.com/brianleroux/lawnchair) - A lightweight clientside JSON document store,  
-- [windows-interact](https://github.com/Arlodotexe/windows-interact) - An npm library of utilities for interacting with and automating Windows  
-- [yourchoice](https://github.com/actano/yourchoice) - :horse_racing: Pure calculation of selection state, no UI involved.  
-- [control-panel](https://github.com/freeman-lab/control-panel) - embeddable panel of inputs for parameter setting  
-- [oui](https://github.com/wearekuva/oui) - Objects go in, UI comes out  
-- [dat.gui](https://github.com/dataarts/dat.gui) - dat.gui is a lightweight controller library for JavaScript.  
-- [getEventListeners](https://github.com/colxi/getEventListeners) - Returns an object containing all the event listeners of a DOM Node  
-- [twm](https://github.com/serapath/twm) - the window manager  
-- [console-panel](https://github.com/webextensions/console-panel) - A console panel within webpage to help in the following use-cases: Get notification on console messages ; Console logging on mobile and tablet devices ; Console logging on Microsoft Edge / Internet Explorer (without opening native Developer Tools)  
-- [jsPanel4](https://github.com/Flyer53/jsPanel4) - A JavaScript library to create highly configurable floating panels, modals, tooltips, hints/notifiers/alerts or contextmenus for use in backend solutions and other web applications.  
-- [Selection-js](https://github.com/prateekkalra/Selection-js) - A lightweight javascipt library which provides users with a set of options in the form of a small popover over the selected portion of text.  
-- [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.  
-- [micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, ava, and many others!  
-- [eustia](https://github.com/liriliri/eustia) - Tool for generating utility libraries  
-- [ntl](https://github.com/ruyadorno/ntl) - Npm Task List: Interactive cli menu to list/run npm tasks  
-- [nps](https://github.com/sezna/nps) - NPM Package Scripts -- All the benefits of npm scripts without the cost of a bloated package.json and limits of json  
-- [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function  
-- [scoop-viewer](https://github.com/prezesp/scoop-viewer) - A gui client for scoop.  
-- [scoop.sh](https://github.com/pakeweb/scoop.sh) - Better documentation for Scoop.sh  
-- [Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection written by me  
-- [caption](https://github.com/gielcobben/caption) - Get Caption, start watching.  
-- [cpy](https://github.com/sindresorhus/cpy) - Copy files  
-- [df](https://github.com/sindresorhus/df) - Get free disk space info from `df -kP`  
-- [throttle-debounce](https://github.com/niksy/throttle-debounce) - Throttle and debounce functions.  
-- [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀  
-- [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.  
-- [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files  
-- [jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.  
-- [gulp-sourcemaps](https://github.com/gulp-sourcemaps/gulp-sourcemaps) - Sourcemap support for gulpjs.  
-- [gulp-terser](https://github.com/duan602728596/gulp-terser) - gulp plugin, compressed es6+ code.  
-- [gulp-size](https://github.com/sindresorhus/gulp-size) - Display the size of your project  
-- [node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)  
-- [commenting](https://github.com/3rd-Eden/commenting) - Wrap content in a comment that is valid for a given file type.  
-- [split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views  
-- [delegate](https://github.com/zenorocha/delegate) - Lightweight event delegation  
-- [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.  
-- [star-rating.js](https://github.com/pryley/star-rating.js) - This zero-dependency plugin transforms a select with numerical-range values (i.e. 1-5) into a dynamic star rating element.  
-- [rater-js](https://github.com/fredolss/rater-js) - Star rating widget for the browser. Unlimited number of stars. No dependencies. No Jquery required.  
-- [delegated-events](https://github.com/dgraham/delegated-events) - A small, fast delegated event library for JavaScript.  
-- [combokeys](https://github.com/avocode/combokeys) - Web browser keyboard shortcuts. CommonJS, NPM.  
-- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet  
-- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥  
-- [node-youtube-dl](https://github.com/przemyslawpluta/node-youtube-dl) - youtube-dl driver for node  
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (September 2019)  
-- [virtualized-list](https://github.com/clauderic/virtualized-list) - A tiny, Vanilla JS, dependency free, virtualization library  
-- [popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces  
-- [replace-in-file](https://github.com/adamreisnz/replace-in-file) - A simple utility to quickly replace contents in one or more files  
-- [consolidate.js](https://github.com/tj/consolidate.js) - Template engine consolidation library for node.js  
-- [rollup-stream](https://github.com/Permutatrix/rollup-stream) - a wrapper around Rollup that returns a stream instead of a Promise  
-- [OctoTern](https://github.com/mattzeunert/OctoTern) - Jump to variable definition on Github  
-- [potential-changes-for-github](https://github.com/dzhavat/potential-changes-for-github) - Potential changes for GitHub: Browser extension that shows which pull requests contain changes related to a file.  
-- [tickedoff](https://github.com/jamiebuilds/tickedoff) - Tiny library (&lt;200B gzip) for deferring something by a &#34;tick&#34;  
-- [jsnice](https://github.com/brettlangdon/jsnice) - Command line interface to http://jsnice.org.  
-- [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)  
-- [xml-js](https://github.com/nashwaan/xml-js) - Converter utility between XML text and Javascript object / JSON text.  
-- [hast-util-parse-selector](https://github.com/syntax-tree/hast-util-parse-selector) - utility to create an element from a simple CSS selector  
-- [concurrent-tasks](https://github.com/samrith-s/concurrent-tasks) - A simple task runner which will run all tasks till completion, while maintaining concurrency limits.  
-- [paginatex](https://github.com/brunobertolini/paginatex) - A generic pagination algorithm  
-- [obj-str](https://github.com/lukeed/obj-str) - A tiny (96B) library for serializing Object values to Strings.  
-- [clsx](https://github.com/lukeed/clsx) - A tiny (223B) utility for constructing `className` strings conditionally.  
-- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters  
-- [hyperlist](https://github.com/tbranyen/hyperlist) - A performant virtual scrolling list utility capable of rendering millions of rows  
-- [simplecrawler](https://github.com/simplecrawler/simplecrawler) - Flexible event driven crawler for node.  
-- [GitHub-Dark-Script](https://github.com/StylishThemes/GitHub-Dark-Script) - :octocat: GitHub Dark as a userscript  
-- [github-custom-tab-size](https://github.com/lukechilds/github-custom-tab-size) - Chrome extension - Set custom tab size for code view on GitHub.com  
-- [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies  
-- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.  
-- [david](https://github.com/alanshaw/david) - :eyeglasses: Node.js module that tells you when your package npm dependencies are out of date.  
-- [rest-hapi](https://github.com/JKHeadley/rest-hapi) - 🚀 A RESTful API generator for Node.js  
-- [pushbullet-backup](https://github.com/rebolyte/pushbullet-backup) - Tool to export and download your data from Pushbullet - https://rebolyte.github.io/pushbullet-backup/  
-- [chromeExtensionAsync](https://github.com/KeithHenry/chromeExtensionAsync) - Promise wrapper for the Chrome extension API so that it can be used with async/await rather than callbacks  
-- [image-data-uri](https://github.com/DiegoZoracKy/image-data-uri) - Library to easily decode/encode Data URI images  
-- [broadcast-channel](https://github.com/pubkey/broadcast-channel) - :satellite: BroadcastChannel to share data between different browser-tabs or nodejs-processes :satellite:  
-- [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json or bower.json allows  
-- [gulp-include](https://github.com/wiledal/gulp-include) - Enables functionality similar to that of snockets / sprockets or other file insertion compilation tools.  
-- [jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript  
-- [gulp-rollup-each](https://github.com/ko-yelie/gulp-rollup-each) - Gulp plugin for Rollup. Yet another gulp-rollup plugin that allows to input/output multiple files.  
-- [x_team_build_tool_round_up](https://github.com/Thoughtscript/x_team_build_tool_round_up) - X-Team Rollup v Webpack v Parcel comparison!  
-- [SelectorListener](https://github.com/csuwildcat/SelectorListener) - Listen for CSS selector rule matches at document or element level  
-- [mutation-summary](https://github.com/rafaelw/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
-- [selector-observer](https://github.com/rkusa/selector-observer) - Observe newly added and removed DOM nodes matching a given selector  
-- [css-box-model](https://github.com/alexreardon/css-box-model) - Get accurate and well named css box model information about an Element 📦  
-- [arrive](https://github.com/uzairfarooq/arrive) - Watch for DOM elements creation and removal  
-- [execa](https://github.com/sindresorhus/execa) - Process execution for humans  
-- [localhostd](https://github.com/layerssss/localhostd) - Run and serve your web apps in .test domains on your develop machine.  
-- [jsesc](https://github.com/mathiasbynens/jsesc) - Given some data, jsesc returns the shortest possible stringified & ASCII-safe representation of that data.  
-- [redbird](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node  
-- [node-wget](https://github.com/bearjaws/node-wget) - A download tool for nodejs that emulates the functionality of wget  
-- [vscode-fix-checksums](https://github.com/lehni/vscode-fix-checksums) - A VSCode extension to adjust checksums after changes to core files  
-- [strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes from a string  
+- [alertify.js](https://github.com/servocoder/alertify.js) - JavaScript Alert/Notification System  
+- [alertify.js](https://github.com/alertifyjs/alertify.js) - JavaScript Alert/Notification System  
+- [alertify.js](https://github.com/fabien-d/alertify.js) - JavaScript Alert/Notification System  
+- [AlertifyJS](https://github.com/MohammadYounes/AlertifyJS) - A javascript framework for developing pretty browser dialogs and notifications.  
+- [algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript  
+- [amazon-autocomplete](https://github.com/caroso1222/amazon-autocomplete) - 🚀  Unlock the full power of the Amazon autocompletion engine right into your search input. JavaScript Plugin.  
+- [anchorate](https://github.com/AndersDJohnson/anchorate) - Scroll to anchor links.  
+- [androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js  
+- [angular-app](https://github.com/angular-app/angular-app) - Reference application for AngularJS  
+- [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!  
 - [ansi-regex](https://github.com/chalk/ansi-regex) - Regular expression for matching ANSI escape codes  
-- [Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for saving and restoring sessions  
-- [cardinal](https://github.com/thlorenz/cardinal) - Syntax highlights JavaScript code with ANSI colors to be printed to the terminal.  
-- [node-osmosis](https://github.com/rchipka/node-osmosis) - Web scraper for NodeJS  
-- [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.  
-- [tingle](https://github.com/robinparisi/tingle) - Vanilla modal plugin with no dependencies  
-- [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the perfomance of a few popular javascript frameworks  
-- [benchmarks-of-javascript-package-managers](https://github.com/pnpm/benchmarks-of-javascript-package-managers) - Benchmarks of JavaScript Package Managers  
-- [observable-slim](https://github.com/ElliotNB/observable-slim) - Observable Slim is a singleton that utilizes ES6 Proxies to observe changes made to an object and any nested children of that object. It is intended to assist with state management and one-way data binding.  
-- [material-table](https://github.com/mbrn/material-table) - Datatable for React based on material-ui's table with additional features  
-- [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs  
-- [Oblecto](https://github.com/robinp7720/Oblecto) - Oblecto is the next generation media server for your home. Made to work for your media consumption needs.  
-- [smart-table-core](https://github.com/smart-table/smart-table-core) - smart table core programmatic behaviors (no view related)  
-- [node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.JS scripts (daemons, eventlog, UAC, etc).  
-- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️  
-- [cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.  
-- [tabio](https://github.com/colebemis/tabio) - An open source tab manager for Chrome  
-- [SlickGrid](https://github.com/6pac/SlickGrid) - A lightning fast JavaScript grid/spreadsheet  
-- [mout](https://github.com/mout/mout) - Modular JavaScript Utilities  
-- [png-to-ico](https://github.com/steambap/png-to-ico) - convert png to windows ico format  
-- [chrome-ext-tabulator](https://github.com/greduan/chrome-ext-tabulator) - Tabulator is a free Google Chrome extension that helps reduce tab clutter and memory usage by saving all your open tabs into lists which can be restored at another time  
-- [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox)  
-- [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.  
+- [anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.  
+- [anti-paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls  
 - [apify-js](https://github.com/apifytech/apify-js) - Apify SDK — The scalable web crawling and scraping library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.  
-- [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding  
-- [Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.  
-- [techoverdose](https://github.com/SCHKN/techoverdose) - Tech aggregator for the trendiest topics (front, devops, ml, cryptos)  
-- [tabtalk](https://github.com/rapid7/tabtalk) - Secure, encrypted cross-tab communication in the browser  
-- [tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript  
-- [idlize](https://github.com/GoogleChromeLabs/idlize) - Helper classes and methods for implementing the idle-until-urgent pattern  
-- [packery](https://github.com/metafizzy/packery) - :bento: Gapless, draggable grid layouts  
-- [flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels  
-- [imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like &#34;You images done yet or what?&#34;  
-- [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin  
-- [dom-testing-library-with-anything](https://github.com/kentcdodds/dom-testing-library-with-anything) - you can use dom-testing-library with anything that renders to the DOM  
-- [gulp-watch](https://github.com/floatdrop/gulp-watch) - Watch, that actually is an endless stream  
-- [Reddit-New-Comments-Highlighter](https://github.com/shadyabhi/Reddit-New-Comments-Highlighter) - Highlights new comments in  a thread on reddit  
+- [apimocker](https://github.com/gstroup/apimocker) - node.js module to run a simple http server for mock service responses.  
+- [apk-cli](https://github.com/prattheev/apk-cli) - Download APKs from CLI  
+- [apk-downloader](https://github.com/Lekensteyn/apk-downloader) - APK Downloader Chrome Extension  
+- [AppendSemiColon](https://github.com/MauriceZ/AppendSemiColon) - Easily place a semicolon at the end of a line with a hotkey  
+- [archived-nodei.co-chrome](https://github.com/rvagg/archived-nodei.co-chrome) - Chrome extension to display nodei.co npm badges on GitHub README files for Node.js packages  
+- [Aris](https://github.com/Vectorized/Aris) - Aris - A fast and powerful tool to write HTML in JS easily. Includes syntax highlighting, templates, SVG, CSS autofixing, debugger support and more...  
+- [arr-diff](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values present in all given arrays using strict equality for comparisons.  
+- [arrive](https://github.com/uzairfarooq/arrive) - Watch for DOM elements creation and removal  
+- [art-template](https://github.com/aui/art-template) - High performance JavaScript templating engine  
+- [asap](https://github.com/kriskowal/asap) - High-priority task queue for Node.js and browsers  
+- [astexplorer](https://github.com/fkling/astexplorer) - A web tool to explore the ASTs generated by various parsers.  
+- [atom](https://github.com/atom/atom) - :atom: The hackable text editor  
+- [auto-bind](https://github.com/sindresorhus/auto-bind) - Automatically bind methods to their class instance  
+- [auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs  
+- [AutoHideDownloadsBar-extension](https://github.com/raingart/AutoHideDownloadsBar-extension) - More information you can read at this link:  
+- [AutoHotkey](https://github.com/aviaryan/AutoHotkey) - :symbols: (Discontinued) Sublime Text Autohotkey package.  
+- [AutoHotKey.js](https://github.com/TheBrokenRail/AutoHotKey.js) - Make AutoHotKey Scripts In JavaScript  
+- [autolink.js](https://github.com/egoist/autolink.js) - Auto-link url and images, email, video, music, &lt;br/&gt; in text.  
+- [automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.  
+- [autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use  
+- [await-timeout](https://github.com/vitalets/await-timeout) - A Promise-based API for setTimeout / clearTimeout  
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.  
+- [awesome-notifications](https://github.com/f3oall/awesome-notifications) - Lightweight JavaScript Notifications Library  
+- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.  
+- [awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features  
+- [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.  
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js  
-- [ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant HTTP client based on window.fetch  
-- [cli](https://github.com/npm/cli) - a package manager for JavaScript, report bugs & get support at:  
-- [js-objectdetect](https://github.com/mtschirs/js-objectdetect) - computer vision in your browser - javascript real-time object detection  
-- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API  
-- [selector-observer](https://github.com/josh/selector-observer) - Allows you to monitor DOM elements that match a CSS selector  
-- [check-all](https://github.com/github/check-all) - Multiple checkbox selection helper.  
-- [signale](https://github.com/klaussinani/signale) - Highly configurable logging utility  
-- [web-worker-proxy](https://github.com/satya164/web-worker-proxy) - A better way of working with web workers  
-- [shimport](https://github.com/Rich-Harris/shimport) - Use JavaScript modules in all browsers, including dynamic imports  
-- [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more  
-- [preact-cli](https://github.com/preactjs/preact-cli) - 😺 Your next Preact PWA starts in 30 seconds.  
-- [nothis](https://github.com/joelnet/nothis) - The complete elimination and eradication of JavaScript's this.  
-- [progress-catalog](https://github.com/SHERlocked93/progress-catalog) - Generate a progress catalog by html tag (h1, h2, h3, h4, h5, h6) 😜  
-- [rollup-plugin-loadz0r](https://github.com/surma/rollup-plugin-loadz0r) - An ill-named rollup plugin that makes code splitting “just work”, even with workers.  
-- [ims](https://github.com/mafintosh/ims) - Install My Stuff - an opinionated npm module installer  
-- [dumper.js](https://github.com/ziishaned/dumper.js) - A better and pretty variable inspector for your Node.js applications  
-- [zii](https://github.com/staltz/zii) - Chain function calls using a prototype function z  
-- [tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support  
-- [tinyify](https://github.com/browserify/tinyify) - a browserify plugin that runs various optimizations, so you don't have to install them all manually. makes your bundles tiny!  
-- [reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js)  
-- [time-profile](https://github.com/node-modules/time-profile) - Measuring execution time of functions  
-- [cloudflare-workers-webpack-boilerplate](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - A superbly simple, minimal-config template for building, bundling and deploying Cloudflare Workers with Webpack 🚀  
-- [ice](https://github.com/alibaba/ice) - 🚀Simple and friendly front-end R&D system（简单友好的前端研发体系 ）  
-- [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily  
+- [axios-rate-limit](https://github.com/aishek/axios-rate-limit) - Rate limit for axios  
+- [babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.  
+- [babel-eslint](https://github.com/babel/babel-eslint) - :tokyo_tower: A wrapper for Babel's parser used for ESLint  
+- [babel-sublime](https://github.com/babel/babel-sublime) - Syntax definitions for ES6 JavaScript with React JSX extensions.  
+- [babelify](https://github.com/babel/babelify) - Browserify transform for Babel  
+- [background-check](https://github.com/Jantwel/background-check) - Automatically switch to a darker or a lighter version of an element depending on the brightness of images behind it.  
+- [background-check](https://github.com/kennethcachia/background-check) - Automatically switch to a darker or a lighter version of an element depending on the brightness of images behind it.  
+- [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript  
+- [baidudl](https://github.com/Kyle-Kyle/baidudl) - Get download links from pan.baidu.com and you don't need to be afraid of getting your account banned  
+- [basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading files with localStorage  
+- [bdiefinder](https://github.com/Benzhaomin/bdiefinder) - Find Samsung B-Die DDR 4 memory kits on Amazon, Newegg and many more  
+- [bench-chain](https://github.com/fluents/bench-chain) - benchmark recording - averages & graphs.  
+- [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.  
+- [benchmarks-of-javascript-package-managers](https://github.com/pnpm/benchmarks-of-javascript-package-managers) - Benchmarks of JavaScript Package Managers  
+- [benefit](https://github.com/cdonohue/benefit) - ✨ Utility CSS-in-JS library that provides a set of low-level, configurable, ready-to-use styles  
+- [bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await  
+- [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox)  
+- [binary-extract](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of json without parsing the whole thing  
+- [bind-methods](https://github.com/sindresorhus/bind-methods) - Bind all methods in an object to itself or a specified context  
+- [bind.js](https://github.com/remy/bind.js) - bind.js - simple two way data binding to HTML and callbacks  
+- [bind.js](https://github.com/mickeyren/bind.js) - bind.js - simple two way data binding to HTML and callbacks  
+- [bkmrkd](https://github.com/mike-engel/bkmrkd) - Bkmrkd is a self-hosted, lightweight bookmarking service run on node.js and rethinkdb  
+- [blink-diff](https://github.com/yahoo/blink-diff) - A lightweight image comparison tool.  
+- [Blipshot](https://github.com/folletto/Blipshot) - Google Chrome Extension to make screenshots  
+- [bliss](https://github.com/LeaVerou/bliss) - Blissful JavaScript  
+- [body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware  
+- [bolt](https://github.com/boltpkg/bolt) - ⚡️ Super-powered JavaScript project management  
+- [Bookmark_Sidebar](https://github.com/Kiuryy/Bookmark_Sidebar) - Chrome extension, which adds a toggleable sidebar with all your bookmarks on the left or right side of your screen.  
+- [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.  
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.  
+- [bootstrap-dark](https://github.com/ForEvolve/bootstrap-dark) - A Bootstrap 4 Dark theme.  
+- [bossy](https://github.com/hapijs/bossy) - Command line options parser  
+- [bottleneck](https://github.com/SGrondin/bottleneck) - Job scheduler and rate limiter, supports Clustering  
+- [bounds.js](https://github.com/ChrisCavs/bounds.js) - Asynchronous boundary detection - lazy-loading, infinite scroll, and more  
+- [bower](https://github.com/bower/bower) - A package manager for the web  
+- [boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal  
+- [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.  
 - [Bragi-Browser](https://github.com/erikhazzard/Bragi-Browser) - Bragi Javascript logger for web browsers  
 - [Bragi-Node](https://github.com/erikhazzard/Bragi-Node) - Bragi is colorful, discrete, and sophisticated NodeJS logging framework  
-- [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields  
-- [datatable](https://github.com/frappe/datatable) - A simple, modern and interactive datatable library for the web  
-- [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js  
-- [Watch.JS](https://github.com/melanke/Watch.JS) - watch the changes of any object or attribute  
-- [nanoid](https://github.com/ai/nanoid) - A tiny (141 bytes), secure, URL-friendly, unique string ID generator for JavaScript  
-- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.  
-- [baidudl](https://github.com/Kyle-Kyle/baidudl) - Get download links from pan.baidu.com and you don't need to be afraid of getting your account banned  
-- [zazu](https://github.com/tinytacoteam/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.  
-- [worker-threads-pool](https://github.com/watson/worker-threads-pool) - Easily manage a pool of Node.js Worker Threads  
-- [deepmerge](https://github.com/TehShrike/deepmerge) - A library for deep (recursive) merging of Javascript objects  
-- [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/  
-- [SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:  
-- [Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies  
-- [get-value](https://github.com/jonschlinkert/get-value) - Use property paths (`a.b.c`) get a nested value from an object.  
-- [dot-prop](https://github.com/sindresorhus/dot-prop) - Get, set, or delete a property from a nested object using a dot path  
-- [GM](https://github.com/lkytal/GM) - UserScripts for Firefox, Chrome and etc  
-- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete web page as a single HTML file  
-- [vissense](https://github.com/vissense/vissense) - A utility library for observing visibility changes of DOM elements.  
-- [Pulsarr](https://github.com/roboticsound/Pulsarr) -   
-- [serialize-javascript](https://github.com/yahoo/serialize-javascript) - Serialize JavaScript to a superset of JSON that includes regular expressions and functions.  
-- [replicator](https://github.com/inikulin/replicator) - Advanced JavaScript objects serialization.  
-- [localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.  
-- [sockette](https://github.com/lukeed/sockette) - The cutest little WebSocket wrapper! 🧦  
-- [primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.  
-- [lando](https://github.com/lando/lando) - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating  
-- [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js  
-- [way.js](https://github.com/gwendall/way.js) - Simple, lightweight, persistent two-way databinding  
-- [url-incrementer](https://github.com/roysix/url-incrementer) - URLI, a URL Incrementer extension for Google Chrome and Mozilla Firefox  
-- [simulacra](https://github.com/daliwali/simulacra) - A data-binding function for the DOM.  
-- [redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.  
-- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building web interfaces.  
-- [tinybind](https://github.com/blikblum/tinybind) - Lightweight and powerful data binding + templating solution  
-- [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding.  
-- [tether](https://github.com/shipshapecode/tether) - A positioning engine to make overlays, tooltips and dropdowns better  
-- [select](https://github.com/HubSpot/select) - Styleable select elements built on Tether. #hubspot-open-source  
-- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019  
-- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.  
-- [prompt-confirm](https://github.com/enquirer/prompt-confirm) - This repository has been archived, use Enquirer instead.  
-- [push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth_americas:  
-- [magnet.js](https://github.com/lf2com/magnet.js) - Magnet.js is a JavaScript library that groups HTML elements and makes them attractable with each other  
-- [marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun  
-- [superfine](https://github.com/jorgebucaran/superfine) - Minimal view layer for building web interfaces.  
-- [vue-devtools](https://github.com/vuejs/vue-devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.  
-- [dragdealer](https://github.com/skidding/dragdealer) - Drag-based vanilla JS component  
-- [move-tab-hotkeys](https://github.com/jmmerz/move-tab-hotkeys) - The Move Tab Hotkeys web extension for moving the current tab around.  
-- [QuicKey](https://github.com/fwextensions/QuicKey) - Jump between recent tabs in Chrome via keyboard shortcuts or a most recently used (MRU) menu.  
-- [tablesaw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables.  
-- [pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.  
-- [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library  
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings  
-- [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript  
-- [riot](https://github.com/riot/riot) - Simple and elegant component-based UI library  
-- [preact-boilerplate](https://github.com/developit/preact-boilerplate) - :guitar: Ready-to-rock Preact starter project, powered by Webpack.  
-- [observer-util](https://github.com/nx-js/observer-util) - Transparent reactivity with 100% language coverage. Made with ❤️ and ES6 Proxies.  
-- [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor  
-- [AppendSemiColon](https://github.com/MauriceZ/AppendSemiColon) - Easily place a semicolon at the end of a line with a hotkey  
-- [husky](https://github.com/typicode/husky) - 🐶 Git hooks made easy  
-- [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.  
-- [node-graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE  
-- [NooBox](https://github.com/AInoob/NooBox) - A Chrome Extension that contains useful tools  
-- [Kantu](https://github.com/A9T9/Kantu) - UI.Vision Kantu for Chrome and Firefox - Modern Web Browser Automation plus Selenium IDE  
-- [lazarus](https://github.com/manfontan/lazarus) - patched version of Lazarus Form Recovery for Chrome  
-- [chrome_patched](https://github.com/lazarus-recovery/chrome_patched) - patched version of Lazarus Form Recovery for Chrome  
-- [negative-array](https://github.com/sindresorhus/negative-array) - Negative array index support `array[-1]` using ES2015 Proxy  
-- [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes  
-- [chrome-tab-modifier](https://github.com/sylouuu/chrome-tab-modifier) - Take control of your tabs  
-- [auto-bind](https://github.com/sindresorhus/auto-bind) - Automatically bind methods to their class instance  
-- [Choices](https://github.com/jshjohnson/Choices) - A vanilla JS customisable select box/text input plugin ⚡️  
-- [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library  
-- [Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison  
-- [listr](https://github.com/SamVerschueren/listr) - Terminal task list  
-- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels  
-- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner  
-- [circular-json](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does  
-- [flatted](https://github.com/WebReflection/flatted) - A fast and minimal circular JSON parser.  
-- [alertify.js](https://github.com/servocoder/alertify.js) - JavaScript Alert/Notification System  
-- [gulp-hub](https://github.com/frankwallis/gulp-hub) - Gulp plugin to run tasks in multiple gulpfiles  
-- [gulp-require-tasks](https://github.com/betsol/gulp-require-tasks) - Splits Gulpfile into multiple individual files  
-- [fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier  
-- [transducer-code-samples](https://github.com/pfrend/transducer-code-samples) -   
-- [acho](https://github.com/achojs/acho) - The Hackable Log  
-- [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration  
-- [json-stable-stringify](https://github.com/substack/json-stable-stringify) - deterministic JSON.stringify() with custom sorting to get deterministic hashes from stringified results  
-- [node-klaw](https://github.com/jprichardson/node-klaw) - A Node.js file system walker with a Readable stream interface. Extracted from fs-extra.  
-- [node-klaw-sync](https://github.com/manidlou/node-klaw-sync) - Node.js recursive synchronous fast file system walker  
-- [log4js-node](https://github.com/log4js-node/log4js-node) - A port of log4js to node.js  
-- [prompt-grid](https://github.com/enquirer/prompt-grid) - Prompt that allows the user to re-arrange the cells in a grid in the terminal. This can be used for configuration for layouts, tables, HTML grids, etc.  
-- [prompt-list](https://github.com/enquirer/prompt-list) - This repository has been archived, use Enquirer instead.  
-- [arr-diff](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values present in all given arrays using strict equality for comparisons.  
-- [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript  
-- [dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts  
-- [dragon-drop](https://github.com/schne324/dragon-drop) - Accessible drag and drop list reorder module  
-- [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.  
-- [muuri](https://github.com/haltu/muuri) - Responsive, sortable, filterable and draggable grid layouts  
-- [Sortable](https://github.com/SortableJS/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.  
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React  
-- [match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript  
-- [mitsuketa](https://github.com/AndrewRedican/mitsuketa) - A Javascript library that enables you to handle deeply nested objects easily.  
-- [fuzzysort](https://github.com/farzher/fuzzysort) - Fast SublimeText-like fuzzy search for JavaScript.  
-- [fuzzy](https://github.com/mattyork/fuzzy) - Filters a list based on a fuzzy string search  
-- [Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript  
-- [voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library  
-- [fuzzyset.js](https://github.com/Glench/fuzzyset.js) - fuzzyset.js - A fuzzy string set for javascript  
-- [react-autocomplete](https://github.com/reactjs/react-autocomplete) - WAI-ARIA compliant React autocomplete (combobox) component  
-- [bind.js](https://github.com/remy/bind.js) - bind.js - simple two way data binding to HTML and callbacks  
-- [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) - Elegant Hyper theme with bright colors  
-- [recipes](https://github.com/BrowserSync/recipes) - Fully working project examples showing how to use BrowserSync in various ways.  
-- [curl](https://github.com/cujojs/curl) - curl.js is small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.  
-- [gulp-umd](https://github.com/eduardolundgren/gulp-umd) - Gulp plugin for build JavaScript files as Universal Module Definition, aka UMD  
-- [umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.  
-- [babel-eslint](https://github.com/babel/babel-eslint) - :tokyo_tower: A wrapper for Babel's parser used for ESLint  
-- [esm](https://github.com/standard-things/esm) - Tomorrow's ECMAScript modules today!  
-- [prettyjson](https://github.com/rafeca/prettyjson) - Package for formatting JSON data in a coloured YAML-style, perfect for CLI output  
-- [json-stringify-pretty-compact](https://github.com/lydell/json-stringify-pretty-compact) - The best of both `JSON.stringify(obj)` and `JSON.stringify(obj, null, indent)`.  
-- [winston-console-formatter](https://github.com/eugeny-dementev/winston-console-formatter) - Pretty print console formatter in yaml like style  
-- [resolve-from](https://github.com/sindresorhus/resolve-from) - Resolve the path of a module like require.resolve() but from a given path  
-- [parent-module](https://github.com/sindresorhus/parent-module) - Get the path of the parent module  
-- [log](https://github.com/adamschwartz/log) - Console.log with style.  
-- [loglevel](https://github.com/pimterry/loglevel) - :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods  
-- [console.log-wrapper](https://github.com/patik/console.log-wrapper) - Clear console logging for every browser  
-- [Conzole](https://github.com/Oaxoa/Conzole) - Oaxoa.github.io  
-- [hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.  
-- [template-colors-web](https://github.com/icodeforlove/template-colors-web) - :art: beautiful color usage within template literals for console.log on the web  
-- [babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.  
-- [Darker-Medium](https://github.com/Mottie/Darker-Medium) - Read Medium stories with happy eyes!  
-- [indices](https://github.com/lunaroyster/indices) - Indices creates a Table of Contents sidebar for Medium articles, and enables you to skip around  
-- [hyperline](https://github.com/Hyperline/hyperline) - ✨ Status line plugin for Hyper ✨  
-- [AlertifyJS](https://github.com/MohammadYounes/AlertifyJS) - A javascript framework for developing pretty browser dialogs and notifications.  
-- [awesome-notifications](https://github.com/f3oall/awesome-notifications) - Lightweight JavaScript Notifications Library  
-- [multimatch](https://github.com/sindresorhus/multimatch) - Extends minimatch.match() with support for multiple patterns  
-- [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching  
-- [bottleneck](https://github.com/SGrondin/bottleneck) - Job scheduler and rate limiter, supports Clustering  
-- [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.  
-- [roast-my-deps](https://github.com/jamiebuilds/roast-my-deps) - Your dependencies are bad and you should feel bad  
-- [Miment](https://github.com/noahlam/Miment) - a fast,light weight,simple and non-dependencies datetime library for javascript ( mini moment )  
-- [glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more  
-- [picojs](https://github.com/tehnokv/picojs) - A face detection library in 200 lines of JavaScript  
 - [brain.js](https://github.com/BrainJS/brain.js) - 🤖 Neural networks in JavaScript  
-- [How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly) - [全文]如何正确的学习Node.js  
-- [consola](https://github.com/nuxt/consola) - 🐨 Elegant Console Logger for Node.js and Browser  
-- [framework](https://github.com/totaljs/framework) - Node.js framework  
-- [crate](https://github.com/atulmy/crate) - 👕👖📦 A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories).  
-- [remote-browser](https://github.com/intoli/remote-browser) - A low-level browser automation framework built on top of the Web Extensions API standard.  
-- [Stubmatic](https://github.com/NaturalIntelligence/Stubmatic) - Mock HTTP calls without coding. Designed specially for testing and testers.  
-- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module  
-- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a Node.js module  
-- [keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends  
-- [next.js](https://github.com/zeit/next.js) - The React Framework  
-- [hyper-site](https://github.com/zeit/hyper-site) - The official website for the Hyper terminal  
-- [hyper](https://github.com/rainglow/hyper) - 320+ color themes for Hyper.  
-- [hyper-run](https://github.com/DanInglis/hyper-run) - Extension for hyper.app terminal. Runs a command before hyperterm starts. Intended to be used with hyperlayout  
-- [hyper-tabs-enhanced](https://github.com/henrikdahl/hyper-tabs-enhanced) - Enhanced Tabs Plugin for Hyper  
-- [hyper-hide-title](https://github.com/sindresorhus/hyper-hide-title) - Hide the Hyper window title when there is only one tab  
-- [hyper-startup](https://github.com/curz46/hyper-startup) - A plugin for https://hyper.is/. Executes commands when Hyper first starts.  
-- [hyperlayout](https://github.com/timolins/hyperlayout) - 📐 Layout presets for Hyper.app  
-- [hyper-final-say](https://github.com/amio/hyper-final-say) - Allows local config override any plugin or theme settings applied on top of the defaults `./.hyper.js`.  
-- [hyper-savetext](https://github.com/neil-orans/hyper-savetext) - A Hyper™ plugin to export text to a file  
-- [hyper-systray](https://github.com/telekommander/hyper-systray) - Hyper.app Systray — Supports Windows  
-- [hyper-pane](https://github.com/chabou/hyper-pane) - Extension for Hyper.app to enhance pane navigation.  
-- [hyper-vertical-tabs](https://github.com/randallsquared/hyper-vertical-tabs) - vertical tabs plugin for Zeit's Hyper terminal  
-- [hyper-match](https://github.com/danieldelcore/hyper-match) - HyperTerm extension which matches regular expressions with predefined commands  
-- [hyperlinks](https://github.com/zeit/hyperlinks) - HyperTerm autolink extension  
-- [hyper-statusline](https://github.com/henrikdahl/hyper-statusline) - Status Line Plugin for Hyper  
-- [verminal](https://github.com/defringe/verminal) - A Hyper theme. 💻  
-- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies  
-- [rest](https://github.com/diegohaz/rest) - REST API generator with Node.js, Express and Mongoose  
-- [apimocker](https://github.com/gstroup/apimocker) - node.js module to run a simple http server for mock service responses.  
-- [fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()  
-- [mern-cli](https://github.com/Hashnode/mern-cli) - ⛔️ DEPRECATED - A cli tool for getting started with MERN  
-- [mern-starter](https://github.com/Hashnode/mern-starter) - ⛔️ DEPRECATED - Boilerplate for getting started with MERN stack  
-- [express-gateway-plugin-rewrite](https://github.com/ExpressGateway/express-gateway-plugin-rewrite) - A plugin to rewrite urls for Express Gateway  
-- [express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of Express.js  
-- [body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware  
-- [generator-express](https://github.com/petecoop/generator-express) - An express generator for Yeoman, based on the express command line tool.  
-- [micro](https://github.com/zeit/micro) - Asynchronous HTTP microservices  
-- [tampermonkey-scripts](https://github.com/moderntribe/tampermonkey-scripts) - Tribe Tampermonkey scripts  
-- [node-restify-mongo-api](https://github.com/GetStream/node-restify-mongo-api) - Starter project for a REST API with Node.js, Restify & MongoDB 🔋  
-- [Passerine](https://github.com/gauthamzz/Passerine) - Product Hunt Desktop Client :rocket:  
-- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.  
-- [auto-tab-discard](https://github.com/rNeomy/auto-tab-discard) - Use native tab discarding method to automatically reduce memory usage of inactive tabs  
-- [thegreatdiscarder](https://github.com/deanoemcke/thegreatdiscarder) -   
-- [hapi](https://github.com/hapijs/hapi) - :office: Server Framework  for Node.js  
-- [linkclump](https://github.com/benblack86/linkclump) - Google chrome extension that allows the user to open multiple links at once.  
-- [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.  
-- [winston](https://github.com/winstonjs/winston) - A logger for just about everything.  
-- [tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap  
-- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.  
-- [remove-web-limits](https://github.com/Cat7373/remove-web-limits) - 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。  
-- [Lepton](https://github.com/hackjutsu/Lepton) - 💻    Democratizing Snippet Management (macOS/Win/Linux)  
-- [Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.  
+- [broadcast-channel](https://github.com/pubkey/broadcast-channel) - :satellite: BroadcastChannel to share data between different browser-tabs or nodejs-processes :satellite:  
+- [broccoli](https://github.com/broccolijs/broccoli) - Browser compilation library – an asset pipeline for applications that run in the browser  
+- [browser-do](https://github.com/3cp/browser-do) - Run JavaScript in a browser, forward browser console log to stdout, great for running unit tests in browser.  
+- [browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io  
+- [browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way  
+- [browserless](https://github.com/Kikobeats/browserless) - A puppeter-like Node.js library for interacting with Headless production scenarios.  
+- [bsocks](https://github.com/bcoin-org/bsocks) - SOCKS client for node.js  
+- [builder](https://github.com/daybrush/builder) -   
+- [bulk-decaffeinate](https://github.com/decaffeinate/bulk-decaffeinate) - Run decaffeinate and related operations on a whole codebase, or just part of one.  
+- [bundle-stats](https://github.com/bundle-stats/bundle-stats) - In-depth bundle analyzer for webpack(bundle size, assets, modules, packages)  
+- [bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check  
+- [burla](https://github.com/franciscop/burla) - Advanced URL manipulation library using the History API  
+- [buster](https://github.com/dessant/buster) - Captcha solver extension for humans  
+- [buttercup-browser-extension](https://github.com/buttercup/buttercup-browser-extension) - :earth_asia: Buttercup browser extension  
+- [buttercup-desktop](https://github.com/buttercup/buttercup-desktop) - :key: Javascript Secrets Vault - Multi-Platform Desktop Application  
+- [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls for Chrome  
+- [bytesish](https://github.com/mikeal/bytesish) - Cross-Platform Binary API  
+- [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support  
+- [caniuse-widget](https://github.com/andismith/caniuse-widget) - Web widget for &#34;When Can I Use&#34; to display browser stats from your blog.  
+- [captcha-solver](https://github.com/transitive-bullshit/captcha-solver) - Library and CLI for automating captcha verification across multiple providers.  
+- [caption](https://github.com/gielcobben/caption) - Get Caption, start watching.  
+- [capture-website](https://github.com/sindresorhus/capture-website) - Capture screenshots of websites  
+- [capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - Capture screenshots of websites from the command-line  
+- [carbon](https://github.com/carbon-app/carbon) - 🎨 Create and share beautiful images of your source code  
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.  
+- [cardinal](https://github.com/thlorenz/cardinal) - Syntax highlights JavaScript code with ANSI colors to be printed to the terminal.  
+- [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6  
+- [cato.js](https://github.com/herrfugbaum/cato.js) - Dependency-free library for (image) comparison sliders.  
+- [caw](https://github.com/kevva/caw) - Construct HTTP/HTTPS agents for tunneling proxies  
+- [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain  
+- [cessie](https://github.com/bjarneo/cessie) - Transpile your CSS bundle to support CSS variables, calc, and future CSS for legacy browsers.  
+- [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right  
+- [challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) -   
+- [check-all](https://github.com/github/check-all) - Multiple checkbox selection helper.  
+- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.  
+- [cheetah-grid](https://github.com/future-architect/cheetah-grid) - The fastest open-source data table for web.  
+- [Choices](https://github.com/jshjohnson/Choices) - A vanilla JS customisable select box/text input plugin ⚡️  
+- [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around node.js fs.watch / fs.watchFile / FSEvents  
+- [chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations  
+- [chromatism](https://github.com/toish/chromatism) - :rainbow: A simple set of utility functions for colours.  
+- [chrome_patched](https://github.com/lazarus-recovery/chrome_patched) - patched version of Lazarus Form Recovery for Chrome  
+- [chrome-devtools-autosave](https://github.com/NV/chrome-devtools-autosave) - Auto-saving CSS and JavaScript changes from the Chrome Developer Tools  
+- [chrome-ext-tabulator](https://github.com/greduan/chrome-ext-tabulator) - Tabulator is a free Google Chrome extension that helps reduce tab clutter and memory usage by saving all your open tabs into lists which can be restored at another time  
+- [chrome-extension-imagus](https://github.com/Zren/chrome-extension-imagus) - &#34;Mirror&#34; of the official Imagus source hosted on Google Drive  
+- [chrome-extension-tabs-queue](https://github.com/rubenmv/chrome-extension-tabs-queue) - Chrome extension that limits opened tabs and queue for new tabs  
+- [chrome-extension-webpack-boilerplate](https://github.com/samuelsimoes/chrome-extension-webpack-boilerplate) - A basic foundation boilerplate for rich Chrome Extensions using Webpack to help you write modular and modern Javascript code, load CSS easily and automatic reload the browser on code changes.  
+- [chrome-github-mate](https://github.com/camsong/chrome-github-mate) - Chrome extension to make single file download effortless and with more features  
+- [chrome-medium-unlimited-reading](https://github.com/Gyvastis/chrome-medium-unlimited-reading) - Chrome extension to remove Medium.com member-only article read limit. https://chrome.google.com/webstore/detail/mediumcom-unlimited-readi/keckgflodjmhejpbhfbfoioonoeeckng  
+- [chrome-remove-affiliate-links](https://github.com/johngodley/chrome-remove-affiliate-links) - Chrome extension to remove Amazon affiliate links  
+- [chrome-tab-modifier](https://github.com/sylouuu/chrome-tab-modifier) - Take control of your tabs  
+- [chrome-tab-unloader](https://github.com/idupree/chrome-tab-unloader) - Chrome extension to unload tabs to save on RAM/etc.  
+- [chrome-tabcounter](https://github.com/asafh/chrome-tabcounter) - Super simple tab/window count indicator for Chrome  
 - [chrome-tabs-switcher](https://github.com/dashukin/chrome-tabs-switcher) - Chrome extension to easily switch between tabs in the same or different browser windows.  
-- [tab-gear](https://github.com/pobedit-instruments/tab-gear) - Tag Gears is an extension for Google Chrome that provides an intuitive tabs management.  
+- [chromeExtensionAsync](https://github.com/KeithHenry/chromeExtensionAsync) - Promise wrapper for the Chrome extension API so that it can be used with async/await rather than callbacks  
+- [chromeExtensionsShare](https://github.com/printminion/chromeExtensionsShare) -   
+- [chrono](https://github.com/wanasit/chrono) - A natural language date parser in Javascript  
+- [circular-json](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does  
+- [classList.js](https://github.com/eligrey/classList.js) - Cross-browser element.classList  
+- [Claw](https://github.com/SeregPie/Claw) - [WIP] A very small gesture recognizer.  
+- [clean-css](https://github.com/jakubpawlowicz/clean-css) - Fast and efficient CSS optimizer for node.js and the Web  
+- [clear-any-console](https://github.com/ahmadawais/clear-any-console) - 📟 Cross platform console clear for your next Node.js CLI  
+- [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...  
+- [cli](https://github.com/npm/cli) - a package manager for JavaScript, report bugs & get support at:  
+- [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications if CLI apps fail  
+- [cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables for the command line  
+- [cli-window-manager](https://github.com/ismanapa/cli-window-manager) - cli tool to manage your openend windows  
+- [cloudcmd](https://github.com/coderaiser/cloudcmd) - ✨☁️📁✨ Cloud Commander file manager for the web with console and editor.  
+- [cloudflare-workers-webpack-boilerplate](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - A superbly simple, minimal-config template for building, bundling and deploying Cloudflare Workers with Webpack 🚀  
+- [cloudhole](https://github.com/scakemyer/cloudhole) - Firefox web extension for cross-website CloudFlare cookies  
+- [clsx](https://github.com/lukeed/clsx) - A tiny (223B) utility for constructing `className` strings conditionally.  
+- [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily  
+- [clut-chrome-extension](https://github.com/harshayburadkar/clut-chrome-extension) - Chrome extension to switch between last used tabs easily using shortcut. This extension tries to mimic the ALT+TAB behavior from Windows(or Command+TAB in Mac) to allow to switch between open tabs in a Most Recently Used fashion.  
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on  
+- [code-library](https://github.com/odopod/code-library) - A collection of vanilla JavaScript components used in Odopod projects.  
+- [code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀  
+- [code-prettify](https://github.com/google/code-prettify) - An embeddable script that makes source-code snippets in HTML prettier.  
+- [codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block  
+- [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor  
+- [cogent-js](https://github.com/joelwmale/cogent-js) - A simple and elegant way to build urls for your REST API  
+- [Collection](https://github.com/kobezzza/Collection) - Minimalistic JavaScript library for working with collections of data.  
+- [collections](https://github.com/superchargejs/collections) - async/await-ready Array & Collection utilities  
+- [color](https://github.com/Qix-/color) - :rainbow: Javascript color conversion and manipulation library  
+- [color-js](https://github.com/brehaut/color-js) - A color management API for javascript  
+- [colorette](https://github.com/jorgebucaran/colorette) - Color your terminal using pure idiomatic JavaScript.  
+- [colorpicker.js](https://github.com/Kiuryy/colorpicker.js) -   
+- [columns.js](https://github.com/mladenilic/columns.js) - A minimalist masonry layout written in vanila JS, with no dependancies  
+- [combokeys](https://github.com/avocode/combokeys) - Web browser keyboard shortcuts. CommonJS, NPM.  
+- [comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.  
+- [commenting](https://github.com/3rd-Eden/commenting) - Wrap content in a comment that is valid for a given file type.  
+- [component](https://github.com/componentjs/component) - frontend package manager and build tool for modular web applications  
+- [components](https://github.com/serverless/components) - An easier way to build and share serverless applications w/ the Serverless Framework -  
+- [compromise](https://github.com/spencermountain/compromise) - modest natural-language processing in javascript  
+- [concurrent-tasks](https://github.com/samrith-s/concurrent-tasks) - A simple task runner which will run all tasks till completion, while maintaining concurrency limits.  
+- [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module  
+- [confirmation](https://github.com/f/confirmation) - A simple Node tool to replicate Browser's confirm popup on your CLI.  
+- [connect-prism](https://github.com/seglo/connect-prism) - Record, mock, and proxy HTTP traffic as middleware for the connect middleware framework.  
+- [consola](https://github.com/nuxt/consola) - 🐨 Elegant Console Logger for Node.js and Browser  
+- [console-badge](https://github.com/dennis47528/console-badge) - 🎨 Create simple badges in the browser console  
+- [console-log-div](https://github.com/bahmutov/console-log-div) - Clones console.log calls to a created div in the page. Great for demos and experiments.  
+- [console-panel](https://github.com/webextensions/console-panel) - A console panel within webpage to help in the following use-cases: Get notification on console messages ; Console logging on mobile and tablet devices ; Console logging on Microsoft Edge / Internet Explorer (without opening native Developer Tools)  
+- [console-remote](https://github.com/kurdin/console-remote) - Remote JavaScript Console.Re Connector for Node.js and Browsers  
+- [console.history](https://github.com/lesander/console.history) - :scroll: Store all javascript console logs in console.history  
+- [console.log-wrapper](https://github.com/patik/console.log-wrapper) - Clear console logging for every browser  
+- [consolidate.js](https://github.com/tj/consolidate.js) - Template engine consolidation library for node.js  
+- [control-panel](https://github.com/freeman-lab/control-panel) - embeddable panel of inputs for parameter setting  
+- [Conzole](https://github.com/Oaxoa/Conzole) - Oaxoa.github.io  
+- [coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches  
+- [cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.  
+- [cors-escape](https://github.com/shalvah/cors-escape) -   
+- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which of your dependencies are slowing you down 🐢  
+- [couleur](https://github.com/wonderbright/couleur) - A colour palette keeper app based on electron.js + vue.js.  
+- [Cover-Image-Generator](https://github.com/PJijin/Cover-Image-Generator) - 📕 Generate a cover image for your blog post 📝 https://blogcover.now.sh/  
+- [cpy](https://github.com/sindresorhus/cpy) - Copy files  
+- [crate](https://github.com/atulmy/crate) - 👕👖📦 A sample web and mobile application built with Node, Express, React, React Native, Redux and GraphQL. Very basic replica of stitchfix.com / krate.in (allows users to get monthly subscription of trendy clothes and accessories).  
+- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.  
+- [create-react-extension](https://github.com/VasilyShelkov/create-react-extension) - Set up a modern React browser extension by running one command.  
+- [critical-css-generator](https://github.com/indirap/critical-css-generator) - Generate critical CSS  
+- [cross-domain-utils](https://github.com/krakenjs/cross-domain-utils) - Cross Domain utilities  
+- [crx-hotreload](https://github.com/xpl/crx-hotreload) - Chrome Extension Hot Reloader  
+- [cryo](https://github.com/hunterloftis/cryo) - JSON on steroids.  
+- [css-box-model](https://github.com/alexreardon/css-box-model) - Get accurate and well named css box model information about an Element 📦  
+- [css-burrito](https://github.com/jasonreece/css-burrito) - An organizational Sass template.  
+- [css-colorguard](https://github.com/SlexAxton/css-colorguard) - Keep a watchful eye on your css colors.  
+- [CSS-Exfil-Protection](https://github.com/mlgualtieri/CSS-Exfil-Protection) - Official repository for the CSS Exfil Protection browser extensions.  
+- [css-modal](https://github.com/drublic/css-modal) - A modal built with pure CSS, enhanced with JavaScript  
+- [CSS-Used-ChromeExt](https://github.com/painty/CSS-Used-ChromeExt) - Get all css rules used by the selected DOM and its children.  
+- [cssstats](https://github.com/cssstats/cssstats) - Visualize various stats about your CSS  
+- [csstree](https://github.com/csstree/csstree) - A tool set for working with CSS including fast detailed parser, walker, generator and lexer based on W3C specs and browser implementations  
+- [csswand](https://github.com/oliver-gomes/csswand) - 🎨✨ Hover your wand and use your magic spell to copy beautiful css  
+- [curl](https://github.com/cujojs/curl) - curl.js is small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.  
+- [currency.js](https://github.com/scurker/currency.js) - A javascript library for handling currencies  
+- [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:  
+- [dark-mode-toggle](https://github.com/GoogleChromeLabs/dark-mode-toggle) - A custom element that allows you to easily put a Dark Mode 🌒 toggle or switch on your site:  
+- [Darker-Medium](https://github.com/Mottie/Darker-Medium) - Read Medium stories with happy eyes!  
+- [Darkmode.js](https://github.com/sandoche/Darkmode.js) - 🌓 Add a dark-mode / night-mode to your website in a few seconds  
+- [darkmodejs](https://github.com/Assortment/darkmodejs) - Utility package for managing Dark Mode on the web  
+- [dashflow](https://github.com/freewheel/dashflow) - Automate local development tasks  
+- [dat-node](https://github.com/datproject/dat-node) - Node module for creating Dat applications with distributed file systems.  
+- [dat.gui](https://github.com/dataarts/dat.gui) - dat.gui is a lightweight controller library for JavaScript.  
+- [data-store](https://github.com/jonschlinkert/data-store) - Easily get, set and persist config data. Fast. Supports dot-notation in keys. No dependencies.  
+- [data-telemetry](https://github.com/WebReflection/data-telemetry) - A simple event tracker for user surfing sessions  
+- [datatable](https://github.com/frappe/datatable) - A simple, modern and interactive datatable library for the web  
+- [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️  
+- [datebook](https://github.com/jshor/datebook) - 📅 Generates URLs and downloads ICS files for adding events to popular calendar apps.  
+- [david](https://github.com/alanshaw/david) - :eyeglasses: Node.js module that tells you when your package npm dependencies are out of date.  
+- [dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API  
+- [deb.js](https://github.com/krasimir/deb.js) - Minimalistic JavaScript library for debugging in the browser  
+- [deepmerge](https://github.com/TehShrike/deepmerge) - A library for deep (recursive) merging of Javascript objects  
+- [deeptissuejs](https://github.com/docluv/deeptissuejs) - A Touch Abstraction Library for MSPointer andWebKit touch APIs  
+- [defer-to-connect](https://github.com/szmarczak/defer-to-connect) - The safe way to handle the `connect ` socket event  
+- [delegate](https://github.com/zenorocha/delegate) - Lightweight event delegation  
+- [delegated-events](https://github.com/dgraham/delegated-events) - A small, fast delegated event library for JavaScript.  
+- [dem](https://github.com/aaronshaf/dem) - Download an ECMAScript module and its relative dependencies  
+- [depcheck](https://github.com/pxpeterxu/depcheck) - A tool for checking for unused dependencies  
+- [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies  
+- [detect-newline](https://github.com/sindresorhus/detect-newline) - Detect the dominant newline character of a string  
+- [devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI  
+- [df](https://github.com/sindresorhus/df) - Get free disk space info from `df -kP`  
+- [differencify](https://github.com/NimaSoroush/differencify) - Differencify is a library for visual regression testing  
+- [diffler](https://github.com/omgaz/diffler) - A recursive JSON comparison script for humans  
+- [dimensions](https://github.com/mrflix/dimensions) - A Chrome extension for measuring screen dimensions  
+- [direct-links-out](https://github.com/nokeya/direct-links-out) - Removes all &#34;You are leaving our site&#34; stuff from links  
+- [disable-downloads-bar](https://github.com/ivan7237d/disable-downloads-bar) - A Chrome extension that disables the downloads bar at the bottom of Chrome windows (does nothing else).  
+- [displace](https://github.com/catc/displace) - Minimal javascript library for creating movable DOM elements  
+- [DisplayJS](https://github.com/arguiot/DisplayJS) - A simple JavaScript framework for building ambitious UIs 😊  
+- [doasync](https://github.com/doasync/doasync) - Promisify functions and objects immutably  
+- [dochub](https://github.com/rgarcia/dochub) - speedy docs  
+- [dockerserver](https://github.com/freaker2k7/dockerserver) - Super lightweight & simple RESTFul distributed server for running docker containers on a remote machine(s).  
+- [doclt](https://github.com/omgimanerd/doclt) - Digital Ocean Command Line Tool  
+- [doctoc](https://github.com/thlorenz/doctoc) - 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.  
+- [dollar-p](https://github.com/indolering/dollar-p) - Clone of js $P (dollar p) gesture recognition library.  
+- [dollar-q](https://github.com/wcchoi/dollar-q) - JavaScript Implementation & Demo UI of $Q Super-Quick Recognizer  
+- [dom-align](https://github.com/yiminghe/dom-align) - Align DOM Node Flexibly  
+- [dom-serialization](https://github.com/swimyoung/dom-serialization) - Serialize the DOM  
+- [dom-testing-library](https://github.com/testing-library/dom-testing-library) - 🐙 Simple and complete DOM testing utilities that encourage good testing practices.  
+- [dom-testing-library-with-anything](https://github.com/kentcdodds/dom-testing-library-with-anything) - you can use dom-testing-library with anything that renders to the DOM  
+- [dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas  
+- [doma](https://github.com/fregante/doma) - Parse an HTML string into `DocumentFragment` or one `Element`, in a few bytes (in browser)  
+- [domc](https://github.com/Freak613/domc) - DOM compiler  
+- [domponent](https://github.com/tamb/domponent) - Build components with the HTML you already have.  
+- [DoNotDiscard](https://github.com/WorldLanguages/DoNotDiscard) - 🗑️❌ Stops Chrome from suspending tabs, and reloading them when you switch to them. 2000+ users on Chrome Web Store.  
+- [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields  
+- [dot-bee](https://github.com/Dvs-Bilisim/dot-bee) - a bee-queue based minimalist toolkit for building fast, decentralized, scalable and fault tolerant microservices  
+- [dot-event](https://github.com/dot-event/dot-event) - Javascript event emitter, foundation of everything  
+- [dot-prop](https://github.com/sindresorhus/dot-prop) - Get, set, or delete a property from a nested object using a dot path  
+- [dotdocker](https://github.com/aj-may/dotdocker) - 🐳 A utility to help setup a docker development environment with host based routing  
+- [Dotgrid](https://github.com/hundredrabbits/Dotgrid) - Minimalist Vector Tool  
+- [DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link (git-github-direct-zip-directory-folder-file)  
+- [download](https://github.com/rndme/download) - file downloading using client-side javascript  
+- [download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.  
+- [download-notifier](https://github.com/ehaagwlke/download-notifier) - A download notification extension for Google Chrome.  
+- [dpi](https://github.com/LeaVerou/dpi) - dpi love - Easily find the DPI/PPI of any screen  
+- [dr-js](https://github.com/dr-js/dr-js) - A collection of strange functions  
+- [dragdealer](https://github.com/skidding/dragdealer) - Drag-based vanilla JS component  
+- [DragDropGrid](https://github.com/FireMuse/DragDropGrid) - Visual DB view for organizing, changing and creating records using drag and drop tags on a grid  
+- [draggabilly](https://github.com/desandro/draggabilly) - :point_down: Make that shiz draggable  
+- [draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.  
+- [dragon-drop](https://github.com/schne324/dragon-drop) - Accessible drag and drop list reorder module  
+- [dragonbinder](https://github.com/Masquerade-Circus/dragonbinder) - 1kb progressive state management library inspired by Vuex.  
+- [dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts  
+- [drift](https://github.com/imgix/drift) - Easily add &#34;zoom on hover&#34; functionality to your site's images. Lightweight, no-dependency JavaScript.  
+- [droppy](https://github.com/silverwind/droppy) - Self-hosted file storage  
+- [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.  
+- [dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) - Data Structures and Algorithms explained and implemented in JavaScript  
+- [dubium](https://github.com/eddiejibson/dubium) - Light Javascript date and time utilities (formatting, ranges e.t.c)  
+- [DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration  
+- [dumpenvy](https://github.com/SouthbankSoftware/dumpenvy) - Serialize and deserialize any JS objects to JSON  
+- [dumper](https://github.com/notable/dumper) - Library for extracting attachments, notes and metadata out of formats used by popular note-taking apps.  
+- [dumper.js](https://github.com/ziishaned/dumper.js) - A better and pretty variable inspector for your Node.js applications  
+- [duplicate-tabs-closer](https://github.com/Peuj/duplicate-tabs-closer) - Duplicate Tabs Closer  - Detects and closes duplicate tabs for Chrome and Firefox.  
+- [dyo](https://github.com/dyo/dyo) - Dyo is a JavaScript library for building user interfaces.  
+- [easy_web_crawler](https://github.com/vivekg13186/easy_web_crawler) - Web crawler around puppeteer to crawler ajax/java script enabled pages.  
+- [edinote](https://github.com/haeringer/edinote) - Note taking web application for self-hosting. Offers tagging & Markdown support; can be used as a simple alternative to Evernote.  
+- [Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies  
+- [editor](https://github.com/lepture/editor) - A markdown editor. http://lab.lepture.com/editor/  
+- [editor-legacy](https://github.com/GitbookIO/editor-legacy) - Legacy editor for writing books using GitBook (for Windows, Mac and Linux)  
+- [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa  
+- [egjs-axes](https://github.com/naver/egjs-axes) - A module used to change the information of user action entered by various input devices such as touch screen or mouse into the logical virtual coordinates.  
+- [egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid) - A module used to arrange card elements including content infinitely on a grid layout.  
+- [ego-cli](https://github.com/egodigital/ego-cli) - Command Line Interface, which is designed to handle things, like Dev(Ops) tasks, much faster.  
+- [element-resize-detector](https://github.com/wnr/element-resize-detector) - Optimized cross-browser resize listener for elements.  
+- [element-resize-event](https://github.com/KyleAMathews/element-resize-event) - Library to make it easy to listen for element resize events  
+- [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter  
+- [emmet-sublime](https://github.com/sergeche/emmet-sublime) - Emmet for Sublime Text  
+- [ems](https://github.com/mogill/ems) - Extended Memory Semantics - Persistent shared object memory and parallelism for Node.js and Python  
+- [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Chrome extension to display size of each file, download link and copy file contents directly to clipboard  
+- [enhanced-history](https://github.com/chrome-enhanced-history/enhanced-history) - Non-hijacked fork of Better History for Chrome  
+- [entropic](https://github.com/entropic-dev/entropic) - 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝  
+- [env-paths](https://github.com/sindresorhus/env-paths) - Get paths for storing things like data, config, cache, etc  
+- [es-iife](https://github.com/eight04/es-iife) - Transform ES module into a simple IIFE  
+- [es6-delegate](https://github.com/MichaelBunting/es6-delegate) - Delegate function built with ES6  
+- [esc-exit](https://github.com/sindresorhus/esc-exit) - Exit the process when the `esc` key is pressed  
+- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters  
+- [esm](https://github.com/standard-things/esm) - Tomorrow's ECMAScript modules today!  
+- [eustia](https://github.com/liriliri/eustia) - Tool for generating utility libraries  
+- [eventemitter3](https://github.com/primus/eventemitter3) - EventEmitter3 - Because there's also a number 2. And we're faster.  
+- [evernote-sdk-js](https://github.com/evernote/evernote-sdk-js) - Evernote SDK for JavaScript  
+- [execa](https://github.com/sindresorhus/execa) - Process execution for humans  
+- [export-all-extensions](https://github.com/gabrielbarros/export-all-extensions) - Export name and url of all installed extensions in Google Chrome  
+- [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.  
+- [express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of Express.js  
+- [express-gateway-plugin-rewrite](https://github.com/ExpressGateway/express-gateway-plugin-rewrite) - A plugin to rewrite urls for Express Gateway  
+- [express-rate-limit](https://github.com/nfriedly/express-rate-limit) - Basic rate-limiting middleware for express  
+- [extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.  
+- [extensionizr](https://github.com/altryne/extensionizr) - Extensionizr! Create a chrome extension in 15 seconds!  
+- [exthouse](https://github.com/treosh/exthouse) - Analyze the impact of a browser extension on web performance.  
+- [extract-values](https://github.com/laktek/extract-values) - A simple helper to extract values from a string based on a pattern.  
+- [face-recognition.js](https://github.com/justadudewhohacks/face-recognition.js) - Simple Node.js package for robust face detection and face recognition. JavaScript and TypeScript API.  
+- [falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!  
+- [fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网  
+- [fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com  
+- [fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier  
+- [fast-gateway](https://github.com/jkyberneees/fast-gateway) - A faster Node.js API Gateway for the masses!  
+- [fast-input](https://github.com/fxnoob/fast-input) - Fastest way to interact with web pages on chrome browser  
+- [fast-json-stringify](https://github.com/fastify/fast-json-stringify) - 2x faster than JSON.stringify()  
+- [fast-on-load](https://github.com/hyperdivision/fast-on-load) - Faster and simplified version of on-load without dom diffing support  
+- [fast-redact](https://github.com/davidmarkclements/fast-redact) - very fast object redaction  
+- [fast-safe-stringify](https://github.com/davidmarkclements/fast-safe-stringify) - Safely and quickly serialize JavaScript objects  
+- [fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js  
+- [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons  
+- [feedly-filtering-and-sorting](https://github.com/soufianesakhi/feedly-filtering-and-sorting) - Enhance the feedly website with advanced filtering and sorting capabilities  
+- [fela](https://github.com/robinweser/fela) - State-Driven Styling in JavaScript  
+- [fetch-github-profile](https://github.com/ericjiang97/fetch-github-profile) - Fetching GitHub Profile into Your Terminal  
+- [figgy-pudding](https://github.com/zkat/figgy-pudding) - Cascading, controlled-visibility options object management.  
+- [file-explorer](https://github.com/Kloudless/file-explorer) - The Kloudless File Explorer is a file picker and uploader for apps that integrates with 20+ cloud storage services with a few lines of code  
+- [file2json-stream](https://github.com/MGardner02/file2json-stream) -   
+- [FileAPI](https://github.com/mailru/FileAPI) - FileAPI — a set of  javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.  
+- [FileIcons](https://github.com/braver/FileIcons) - File icons for Sublime Text  
+- [filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid safe filename  
+- [filerobot-image-editor](https://github.com/scaleflex/filerobot-image-editor) - Edit, resize, and filter any image!  
+- [FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation  
+- [fill-range](https://github.com/jonschlinkert/fill-range) - Fill in a range of numbers or letters, positive or negative, optionally passing an increment or multiplier to use.  
+- [find-css-matches](https://github.com/raingerber/find-css-matches) - Find the CSS selectors that apply to an HTML snippet.  
+- [find-versions](https://github.com/sindresorhus/find-versions) - Find semver versions in a string: `unicorn v1.2.3` → `1.2.3`  
+- [finger-mover](https://github.com/HcySunYang/finger-mover) - 🥊A motion effect library that integrates Fingerd and Moved  
+- [firesass](https://github.com/nex3/firesass) - FireSass allows Firebug to display the original Sass filename and line number of Sass-generated CSS styles.  
+- [fireshell](https://github.com/toddmotto/fireshell) - Fiercely quick front-end boilerplate and workflows, HTML5, Grunt, Sass.  
+- [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.  
+- [flamebearer](https://github.com/mapbox/flamebearer) - Blazing fast flame graph tool for V8 and Node 🔥  
+- [flatted](https://github.com/WebReflection/flatted) - A fast and minimal circular JSON parser.  
+- [FlexiJsonEditor](https://github.com/DavidDurman/FlexiJsonEditor) - JSON editor jQuery plugin  
+- [flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js  
+- [flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels  
+- [flru](https://github.com/lukeed/flru) - A tiny (215B) and fast Least Recently Used (LRU) cache  
+- [Fluidbox](https://github.com/terrymun/Fluidbox) - Replicating and improving the lightbox module seen on Medium with fluid transitions.  
+- [fluidsocket](https://github.com/filipemacedo/fluidsocket) - Package to create socket events dynamically and at high level.  
+- [Fluture](https://github.com/fluture-js/Fluture) - :butterfly: Fantasy Land compliant (monadic) alternative to Promises  
+- [focus-outline-manager](https://github.com/vladimirsiljkovic/focus-outline-manager) - Watch users keyboard input and manage the focus outline visibility  
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit  
+- [fontfaceobserver](https://github.com/bramstein/fontfaceobserver) - Webfont loading. Simple, small, and efficient.  
+- [foresight.js](https://github.com/adamdbradley/foresight.js) - DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is requested from the server. Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage.  
+- [form-data](https://github.com/form-data/form-data) - A module to create readable `&#34;multipart/form-data&#34;` streams.  Can be used to submit forms and file uploads to other web applications.  
+- [form-serialize](https://github.com/riverside/form-serialize) - HTML form serialization  
+- [framework](https://github.com/totaljs/framework) - Node.js framework  
+- [free-proxy](https://github.com/lenconda/free-proxy) - Fetch free proxies from https://www.free-proxy-list.com  
+- [frisbee](https://github.com/niftylettuce/frisbee) - :dog2: Modern fetch-based alternative to axios/superagent/request.  Great for React Native.  
+- [frontail](https://github.com/mthenw/frontail) - 📝 streaming logs to the browser  
+- [ftdomdelegate](https://github.com/Financial-Times/ftdomdelegate) - Create and manage a DOM event delegator  
+- [full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome  
+- [fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar  
+- [function-sniffer](https://github.com/wall-wxk/function-sniffer) - js方法嗅探器  
+- [functional-finite-state-machine](https://github.com/TBPixel/functional-finite-state-machine) - A dead simple finite-state-machine for JavaScript  
+- [FunctionScript](https://github.com/FunctionScript/FunctionScript) - A language and specification for turning JavaScript functions into typed HTTP APIs  
+- [Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript  
+- [futurelink](https://github.com/SamKnows/futurelink) - :crystal_ball: Predicts when a link is about to be clicked  
+- [fuzzy](https://github.com/mattyork/fuzzy) - Filters a list based on a fuzzy string search  
+- [fuzzyset.js](https://github.com/Glench/fuzzyset.js) - fuzzyset.js - A fuzzy string set for javascript  
+- [fuzzysort](https://github.com/farzher/fuzzysort) - Fast SublimeText-like fuzzy search for JavaScript.  
+- [fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥  
+- [gafas](https://github.com/souravray/gafas) - A JSON beautifier, that you have always longed for!  
+- [generator-bones](https://github.com/matt-bailey/generator-bones) - Yeoman generator for scaffolding out a basic web project.  
+- [generator-chrome-extension-kickstart](https://github.com/HaNdTriX/generator-chrome-extension-kickstart) - Scaffold out a Web Extension http://yeoman.io  
+- [generator-express](https://github.com/petecoop/generator-express) - An express generator for Yeoman, based on the express command line tool.  
+- [generator-frontend](https://github.com/nDmitry/generator-frontend) - Scaffolds out a boilerplate for front-end development.  
+- [generator-h5bp](https://github.com/h5bp/generator-h5bp) - Archived!  
+- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module  
+- [gesture-helper](https://github.com/glomotion/gesture-helper) - a *tiny* touch & mouse library to help make tracking interactions more simple.  
+- [get-online-img](https://github.com/ahmadawais/get-online-img) - 📥 Download an image by providing a URL and path in Node.js.  
+- [get-proxy](https://github.com/kevva/get-proxy) - Get configured proxy  
+- [get-stdin](https://github.com/sindresorhus/get-stdin) - Get stdin as a string or buffer  
+- [get-urls](https://github.com/sindresorhus/get-urls) - Get all urls in a string  
+- [get-value](https://github.com/jonschlinkert/get-value) - Use property paths (`a.b.c`) get a nested value from an object.  
+- [getEventListeners](https://github.com/colxi/getEventListeners) - Returns an object containing all the event listeners of a DOM Node  
+- [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the given or current directory repo  
+- [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting  
+- [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing  
+- [GHSDD](https://github.com/charany1/GHSDD) - A chrome extension to download any sub-directory or file from a Github repo .  
+- [Gisto](https://github.com/Gisto/Gisto) - Gisto is a Cross-platform snippets management desktop application that allows you and/or your team share code snippets fast and easily.  Based on GitHub Gists Infrastructure which means you can use all your existing snippets by connecting your GitHub account!  Gisto started as an attempt to fulfill the lack of a syntax highlighted and cloud synchronized code snippet solution.  You may thing of Gisto as Evernote for code.  
+- [git-copy-history](https://github.com/pfrankov/git-copy-history) - Copy commit history from another repository  
+- [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown  
+- [github-chrome](https://github.com/rainforestapp/github-chrome) - Github for Chrome!  
+- [github-custom-tab-size](https://github.com/lukechilds/github-custom-tab-size) - Chrome extension - Set custom tab size for code view on GitHub.com  
+- [GitHub-Dark-Script](https://github.com/StylishThemes/GitHub-Dark-Script) - :octocat: GitHub Dark as a userscript  
+- [github-enhancement-suite](https://github.com/skratchdot/github-enhancement-suite) - A collection of userscripts specific to Github  
+- [github-issue-link-status](https://github.com/fregante/github-issue-link-status) - Colorize issue and PR links to see their status (open, closed, merged)  
+- [github-npm-stats](https://github.com/katranci/github-npm-stats) - Chrome extension that displays npm download stats on GitHub  
+- [github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub  
+- [github-stars-manager](https://github.com/gabrielgodoy/github-stars-manager) - Chrome extension that allows you to manage your Github stars with tags, and to create a bookmark folder with all your stars organized by the tags you created  
+- [github-stars-tagger](https://github.com/benoitgrelard/github-stars-tagger) - A Google Chrome extension that lets you add tags to your starred repositories directly on GitHub  
+- [github-toc](https://github.com/arthurhammer/github-toc) - :book: Browser extension that adds a table of contents to GitHub repos, wikis and gists.  
+- [GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub  
+- [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub  
+- [gitzip](https://github.com/KinoLien/gitzip) - It can make sub-folder/sub-directory of github repository as zip and download it.  
+- [glide](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more  
+- [GM](https://github.com/lkytal/GM) - UserScripts for Firefox, Chrome and etc  
+- [gohttpserver](https://github.com/codeskyblue/gohttpserver) - The best HTTP Static File Server, write with golang+vue  
+- [GoldenRatio](https://github.com/roadhump/GoldenRatio) - Sublime Text 2/3 plugin to resize current group by golden ratio  
+- [google-play-api](https://github.com/facundoolano/google-play-api) - Turns google-play-scraper into a RESTful API  
+- [Google-Play-Music-Album-Sorter](https://github.com/VipSaran/Google-Play-Music-Album-Sorter) - Greasemonkey/Tampermonkey user script for adding sorting functionality to Google Play Music  
+- [Google-Play-Music-Desktop-Player-UNOFFICIAL-](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - A beautiful cross platform Desktop Player for Google Play Music  
+- [google-tracking-b-gone](https://github.com/stacybrock/google-tracking-b-gone) - Userscript to strip click tracking junk from Google search results URLs  
+- [google-unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked browser extension uncensor google search results  
+- [googleimagesrestored](https://github.com/fanfare/googleimagesrestored) - This extension attempts to make Google Images look and feel like it did before they changed everything on August 6th.  
+- [gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript  
+- [gramma](https://github.com/caderek/gramma) - command-line grammar checker  
+- [grande.js](https://github.com/mduvall/grande.js) - It's a Medium at Starbucks. Pinky ring out.  
+- [grapesjs](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding  
+- [greasemonkey](https://github.com/greasemonkey/greasemonkey) - Greasemonkey is a user script manager for Firefox.  
+- [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - GreenSock's GSAP JavaScript animation library (including Draggable).  
+- [grunt-devperf](https://github.com/gmetais/grunt-devperf) - Helps front-end developers to reach a good quality and good performances, based on phantomas and grunt-phantomas.  
+- [grunt-sass](https://github.com/sindresorhus/grunt-sass) - Compile Sass to CSS  
+- [guard-livereload](https://github.com/guard/guard-livereload) - Guard::LiveReload automatically reload your browser when 'view' files are modified.  
+- [gulp](https://github.com/gulpjs/gulp) - The streaming build system  
+- [gulp-autoprefixer](https://github.com/Metrime/gulp-autoprefixer) - Autoprefixer for gulp  
+- [gulp-better-rollup](https://github.com/MikeKovarik/gulp-better-rollup) - 📦 Better Gulp plugin for Rollup ES6 module bundler  
+- [gulp-bro](https://github.com/ngryman/gulp-bro) - :punch: gulp + browserify + incremental build, done right.  
+- [gulp-cssimport](https://github.com/unlight/gulp-cssimport) - Parses a CSS file, finds imports, grabs the content of the linked file and replaces the import statement with it.  
+- [gulp-file-include](https://github.com/haoxins/gulp-file-include) - MAINTAINER WANTED ~ [gulp-file-include] a gulp plugin for file include  
+- [gulp-filter](https://github.com/sindresorhus/gulp-filter) - Filter files in a `vinyl` stream  
+- [gulp-hub](https://github.com/frankwallis/gulp-hub) - Gulp plugin to run tasks in multiple gulpfiles  
+- [gulp-include](https://github.com/wiledal/gulp-include) - Enables functionality similar to that of snockets / sprockets or other file insertion compilation tools.  
+- [gulp-inject](https://github.com/klei/gulp-inject) - A javascript, stylesheet and webcomponent injection plugin for Gulp  
+- [gulp-inject-string](https://github.com/mikehazell/gulp-inject-string) - Inject snippets in build  
+- [gulp-require-tasks](https://github.com/betsol/gulp-require-tasks) - Splits Gulpfile into multiple individual files  
+- [gulp-rollup-each](https://github.com/ko-yelie/gulp-rollup-each) - Gulp plugin for Rollup. Yet another gulp-rollup plugin that allows to input/output multiple files.  
+- [gulp-size](https://github.com/sindresorhus/gulp-size) - Display the size of your project  
+- [gulp-sourcemaps](https://github.com/gulp-sourcemaps/gulp-sourcemaps) - Sourcemap support for gulpjs.  
+- [gulp-terser](https://github.com/duan602728596/gulp-terser) - gulp plugin, compressed es6+ code.  
+- [gulp-umd](https://github.com/eduardolundgren/gulp-umd) - Gulp plugin for build JavaScript files as Universal Module Definition, aka UMD  
+- [gulp-watch](https://github.com/floatdrop/gulp-watch) - Watch, that actually is an endless stream  
+- [gulper](https://github.com/anatoo/gulper) - Gulper is gulp.js cli wrapper to restart gulp automatically on gulpfile change.  
+- [gumshoe](https://github.com/cferdinandi/gumshoe) - A simple vanilla JS scrollspy script.  
+- [h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos  
+- [h265ize](https://github.com/FallingSnow/h265ize) - A node utility utilizing ffmpeg to encode videos with the hevc codec.  
+- [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications  
+- [hain](https://github.com/hainproject/hain) - An 'alt+space' launcher for Windows, built with Electron  
+- [handtrack.js](https://github.com/victordibia/handtrack.js) - A library for prototyping realtime hand detection (bounding box), directly in the browser.  
+- [hapi](https://github.com/hapijs/hapi) - :office: Server Framework  for Node.js  
+- [hardtack](https://github.com/alik0211/hardtack) - An ultra-light (403 bytes) library for working with cookies in JavaScript  
+- [hast-util-parse-selector](https://github.com/syntax-tree/hast-util-parse-selector) - utility to create an element from a simple CSS selector  
+- [hast-util-to-text](https://github.com/syntax-tree/hast-util-to-text) - utility to get the plain-text value of a node according to the `innerText` algorithm  
+- [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.  
+- [HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests  
+- [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome  
+- [headless-crawler](https://github.com/gajus/headless-crawler) - A crawler implemented using a headless browser (Chrome).  
+- [headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it  
+- [heresy](https://github.com/WebReflection/heresy) - React-like Custom Elements via V1 API builtin extends.  
+- [hes-gallery](https://github.com/demtario/hes-gallery) - Light, jQuery free, responsive gallery script  
+- [highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter  
+- [hijax](https://github.com/mobify/hijax) - XHR Proxy to intercept AJAX calls independent of libraries.  
+- [history](https://github.com/ReactTraining/history) - Manage session history with JavaScript  
+- [history.js](https://github.com/browserstate/history.js) - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.  
+- [Hitch](https://github.com/bkardell/Hitch) - A lightweight engine that allows you to hitch new capabilities to the browser (prollyfill).  
+- [HitUP](https://github.com/wonderbeyond/HitUP) - Find top things in New Tab, including GitHub Trending Repositories.  
+- [homehost](https://github.com/ridhwaans/homehost) - self-hosted, Netflix-like app made for streaming  
+- [Hook](https://github.com/jordansinger/Hook) - Pull to refresh for the web  
+- [hooks-fixed](https://github.com/vkarpov15/hooks-fixed) - Augment your methods with pre and post hooks  
+- [hotkey](https://github.com/github/hotkey) - Trigger an action on an element with a keyboard shortcut.  
+- [hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.  
 - [hovercards](https://github.com/kogg/hovercards) - HoverCards is a chrome extension that lets you see what's behind links from youtube, twitter, reddit, soundcloud, imgur, & instagram — all with out ever leaving the web page you're currently on.  
 - [hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover  
-- [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler  
-- [extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.  
-- [crx-hotreload](https://github.com/xpl/crx-hotreload) - Chrome Extension Hot Reloader  
-- [TableExport](https://github.com/clarketm/TableExport) - The simple, easy-to-implement library to export HTML tables to xlsx, xls, csv, and txt files.  
-- [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in PHP  
-- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) - This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.  
-- [extract-values](https://github.com/laktek/extract-values) - A simple helper to extract values from a string based on a pattern.  
-- [magicli](https://github.com/DiegoZoracKy/magicli) - Automagically generates command-line interfaces (CLI) for any module. Expected options and help sections are created automatically based on parameters names, with support to async.  
-- [salita](https://github.com/tbranyen/salita) - Automatically upgrade all NPM dependencies.  
-- [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)  
-- [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)  
-- [tabex](https://github.com/nodeca/tabex) - Cross-tab message bus for browsers.  
-- [AHK-v2-script-converter](https://github.com/mmikeww/AHK-v2-script-converter) - AHK v1 -&gt; v2 script converter WORK IN PROGRESS  
-- [multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser  
-- [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module  
-- [fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.  
-- [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) - Don't waste your time with compliance. Universal Bypass automatically skips annoying link shorteners.  
-- [pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.  
-- [nodist](https://github.com/nullivex/nodist) - Natural node.js and npm version manager for windows.  
-- [Jsome](https://github.com/Javascipt/Jsome) - :sparkles: Make your JSON look AWESOME  
-- [x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the &lt;html&gt; noise.  
-- [merge-windows](https://github.com/sindresorhus/merge-windows) - Chrome extension - Merge windows into the active one  
-- [zookeeper](https://github.com/geekforbrains/zookeeper) - A tool for taming the Evernote API  
-- [uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) - An anti-adblock defuser for Nano Adblocker and uBlock Origin  
-- [anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.  
-- [chrome-tabcounter](https://github.com/asafh/chrome-tabcounter) - Super simple tab/window count indicator for Chrome  
-- [export-all-extensions](https://github.com/gabrielbarros/export-all-extensions) - Export name and url of all installed extensions in Google Chrome  
-- [tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app  
-- [TinySort](https://github.com/Sjeiti/TinySort) - TinySort is a small script that sorts HTML elements. It sorts by text- or attribute value, or by that of one of it's children.  
-- [list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.  
-- [h265ize](https://github.com/FallingSnow/h265ize) - A node utility utilizing ffmpeg to encode videos with the hevc codec.  
-- [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - Boilerplate for Chrome Extension React.js project  
-- [open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.  
-- [dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas  
-- [Collection](https://github.com/kobezzza/Collection) - Minimalistic JavaScript library for working with collections of data.  
-- [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right  
-- [Sublime-JS-Custom](https://github.com/Thom1729/Sublime-JS-Custom) - Customizable JavaScript syntax highlighting for Sublime Text.  
-- [babel-sublime](https://github.com/babel/babel-sublime) - Syntax definitions for ES6 JavaScript with React JSX extensions.  
-- [LastTab](https://github.com/hasinhayder/LastTab) - (Not Maintained Anymore)  
-- [prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow_right: prettier :arrow_right: eslint --fix :arrow_right: Formatted Code :sparkles:  
-- [generator-chrome-extension-kickstart](https://github.com/HaNdTriX/generator-chrome-extension-kickstart) - Scaffold out a Web Extension http://yeoman.io  
-- [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome  
-- [AutoHideDownloadsBar-extension](https://github.com/raingart/AutoHideDownloadsBar-extension) - More information you can read at this link:  
-- [node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()  
-- [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.  
-- [AutoHotKey.js](https://github.com/TheBrokenRail/AutoHotKey.js) - Make AutoHotKey Scripts In JavaScript  
-- [codecopy](https://github.com/zenorocha/codecopy) - A browser extension that adds copy to clipboard buttons on every code block  
-- [archived-nodei.co-chrome](https://github.com/rvagg/archived-nodei.co-chrome) - Chrome extension to display nodei.co npm badges on GitHub README files for Node.js packages  
-- [github-npm-stats](https://github.com/katranci/github-npm-stats) - Chrome extension that displays npm download stats on GitHub  
-- [polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code  
-- [HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests  
-- [ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.  
-- [LokiJS](https://github.com/techfort/LokiJS) - javascript embeddable / in-memory database  
-- [json2html](https://github.com/moappi/json2html) - Json2html is a lightning fast client side javascript HTML templating library with wrappers for both jQuery and Node.js.  
-- [TabFern](https://github.com/cxw42/TabFern) - Google Chrome extension for saving and restoring sets of tabs, and for switching between windows and tabs from a vertical, grouped list.  
-- [download](https://github.com/rndme/download) - file downloading using client-side javascript  
-- [node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading  
-- [gulper](https://github.com/anatoo/gulper) - Gulper is gulp.js cli wrapper to restart gulp automatically on gulpfile change.  
-- [gulp-bro](https://github.com/ngryman/gulp-bro) - :punch: gulp + browserify + incremental build, done right.  
-- [web-server-chrome](https://github.com/kzahel/web-server-chrome) - An HTTP Web Server for Chrome (chrome.sockets API)  
-- [chromeExtensionsShare](https://github.com/printminion/chromeExtensionsShare) -   
-- [vscode-custom-css](https://github.com/be5invis/vscode-custom-css) - Custom CSS Plugin for Visual Studio Code. Based on vscode-icon  
-- [color-js](https://github.com/brehaut/color-js) - A color management API for javascript  
-- [color](https://github.com/Qix-/color) - :rainbow: Javascript color conversion and manipulation library  
-- [chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations  
-- [URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library  
-- [keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies.  
-- [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.  
-- [jwerty](https://github.com/keithamus/jwerty) - ⌨ Awesome handling of keyboard events  
-- [userscripts](https://github.com/Ede123/userscripts) - My humble collection of userscripts!  
-- [src2png](https://github.com/mplewis/src2png) - 📸💻 Turn your source code into beautiful syntax-highlighted images.  
-- [github-issue-link-status](https://github.com/fregante/github-issue-link-status) - Colorize issue and PR links to see their status (open, closed, merged)  
-- [refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features  
-- [chrome-extension-tabs-queue](https://github.com/rubenmv/chrome-extension-tabs-queue) - Chrome extension that limits opened tabs and queue for new tabs  
-- [tabshepherd](https://github.com/sonntag/tabshepherd) - Google chrome extension for managing tabs.  
-- [tabwrangler](https://github.com/tabwrangler/tabwrangler) - A browser extension that automatically closes your unused tabs so you can focus on the tabs that matter  
-- [TinySuspender](https://github.com/arifwn/TinySuspender) - Unload idle tabs to reduce memory and cpu usage.  
-- [chrome-tab-unloader](https://github.com/idupree/chrome-tab-unloader) - Chrome extension to unload tabs to save on RAM/etc.  
-- [TabHibernation](https://github.com/343max/TabHibernation) - Chrome extension that sends your tabs to sleep - like OneTab but without removing them from the tab bar  
-- [lazy_tab](https://github.com/Jman/lazy_tab) - Faster start for Google Chrome.  
-- [svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module  
-- [localStorageDB](https://github.com/knadh/localStorageDB) - A simple database layer for localStorage and sessionStorage for creating structured data in the form of databases and tables  
-- [MouseEventListener](https://github.com/SublimeText/MouseEventListener) - Adds on_pre_click and on_post_click callbacks to Sublime Text's plugin API.  
-- [SublimeOnSaveBuild](https://github.com/alexnj/SublimeOnSaveBuild) - Trigger a build the moment you save a file in Sublime Text 2. Works best with web projects that make use of Less, Compass and any other pre-processor or a makefile.  
-- [Modaal](https://github.com/humaan/Modaal) - An accessible dialog window library for all humans.  
-- [sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.  
-- [jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App  
-- [js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript  
-- [Sublime-HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) - HTML, CSS, JavaScript, JSON, React/JSX and Vue code formatter for Sublime Text 2 and 3 via node.js  
-- [NoCoin](https://github.com/keraf/NoCoin) - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.  
-- [MinerBlock](https://github.com/xd4rker/MinerBlock) - An efficient browser extension to block browser-based cryptocurrency miners all over the web.  
-- [bind.js](https://github.com/mickeyren/bind.js) - bind.js - simple two way data binding to HTML and callbacks  
-- [cloudhole](https://github.com/scakemyer/cloudhole) - Firefox web extension for cross-website CloudFlare cookies  
-- [challenge-bypass-extension](https://github.com/privacypass/challenge-bypass-extension) -   
-- [DisplayJS](https://github.com/arguiot/DisplayJS) - A simple JavaScript framework for building ambitious UIs 😊  
-- [currency.js](https://github.com/scurker/currency.js) - A javascript library for handling currencies  
-- [fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com  
-- [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI  
-- [alertify.js](https://github.com/alertifyjs/alertify.js) - JavaScript Alert/Notification System  
-- [carbon](https://github.com/carbon-app/carbon) - 🎨 Create and share beautiful images of your source code  
-- [osprey](https://github.com/jackcdk/osprey) - an extension for chrome and chromium  
-- [highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter  
-- [javascript-ultimate](https://github.com/JoshuaWise/javascript-ultimate) - Perfect JavaScript syntax for Sublime Text 3  
-- [direct-links-out](https://github.com/nokeya/direct-links-out) - Removes all &#34;You are leaving our site&#34; stuff from links  
-- [JavaScriptDateFormat](https://github.com/JDMcKinstry/JavaScriptDateFormat) - PHP like Date Formatter in 2 flavors  
-- [image-viewer](https://github.com/bradenbest/image-viewer) - image viewer script for greasemonkey  
-- [UserScripts](https://github.com/TimidScript/UserScripts) - Userscripts for: Pixiv, DeviantArt, Nijie.info, NicoVideo Seiga,Google, Youtube and more  
-- [feedly-filtering-and-sorting](https://github.com/soufianesakhi/feedly-filtering-and-sorting) - Enhance the feedly website with advanced filtering and sorting capabilities  
-- [r2](https://github.com/mikeal/r2) - HTTP client. Spiritual successor to request.  
-- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API  
-- [userscripts](https://github.com/chocolateboy/userscripts) - Userscripts for Greasemonkey, Tampermonkey etc.  
-- [userscripts](https://github.com/Farow/userscripts) - Userscripts  
-- [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Chrome extension to display size of each file, download link and copy file contents directly to clipboard  
-- [pinboard-search](https://github.com/mono0x/pinboard-search) - Search Pinboard in Omnibox  
-- [kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows  
-- [nzbget-chrome](https://github.com/hpsu/nzbget-chrome) - Google chrome extension to interact with nzbget  
-- [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.  
-- [GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub  
-- [gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript  
-- [cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain  
-- [hain](https://github.com/hainproject/hain) - An 'alt+space' launcher for Windows, built with Electron  
-- [pinboard-bookmarks-to-chrome](https://github.com/grantwinney/pinboard-bookmarks-to-chrome) - A Chrome extension for displaying bookmarks from Pinboard in the Bookmarks Bar.  
-- [sloth](https://github.com/hrj/sloth) - Lazy load tabs in chromium  
-- [get-urls](https://github.com/sindresorhus/get-urls) - Get all urls in a string  
-- [linkify-urls](https://github.com/sindresorhus/linkify-urls) - Linkify URLs in a string  
-- [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons  
-- [across-tabs](https://github.com/wingify/across-tabs) - Easy communication between cross-origin browser tabs  
-- [background-check](https://github.com/Jantwel/background-check) - Automatically switch to a darker or a lighter version of an element depending on the brightness of images behind it.  
-- [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript  
-- [snap](https://github.com/remy/snap) - Creates a static snapshot of a website. Sort of like wget's mirror mode, but with nice urls  
-- [apk-downloader](https://github.com/Lekensteyn/apk-downloader) - APK Downloader Chrome Extension  
-- [DownGit](https://github.com/MinhasKamal/DownGit) - Create GitHub Resource Download Link (git-github-direct-zip-directory-folder-file)  
-- [GHSDD](https://github.com/charany1/GHSDD) - A chrome extension to download any sub-directory or file from a Github repo .  
-- [gitzip](https://github.com/KinoLien/gitzip) - It can make sub-folder/sub-directory of github repository as zip and download it.  
-- [octotree](https://github.com/ovity/octotree) - GitHub code tree on steroids  
-- [github-enhancement-suite](https://github.com/skratchdot/github-enhancement-suite) - A collection of userscripts specific to Github  
-- [Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.  
-- [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.  
-- [github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub  
-- [github-chrome](https://github.com/rainforestapp/github-chrome) - Github for Chrome!  
-- [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting  
-- [tab-ninja](https://github.com/harshjv/tab-ninja) - 🗡 Close tabs with loads of options (left, right, audible, muted, domain, url, pinned, etc)  
-- [thegreatsuspender](https://github.com/deanoemcke/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory  
-- [violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.  
-- [local-cdn](https://github.com/james-fray/local-cdn) - WebExtension implementation of Decentraleyes project: Local emulation of Content Delivery Networks  
-- [h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos  
-- [uBO-Extra](https://github.com/gorhill/uBO-Extra) - A companion extension to uBlock Origin  
-- [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager  
-- [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.  
-- [web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground  
-- [Particle](https://github.com/ParticleCore/Particle) - Home of the extension YouTube Plus that allows you to experience more on YouTube  
-- [2017-conferences](https://github.com/ryanburgess/2017-conferences) - A list of 2017 web development conferences.  
-- [DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration  
-- [date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️  
-- [XposedBridge](https://github.com/rovo89/XposedBridge) - The Java part of the Xposed framework.  
-- [amazon-autocomplete](https://github.com/caroso1222/amazon-autocomplete) - 🚀  Unlock the full power of the Amazon autocompletion engine right into your search input. JavaScript Plugin.  
-- [asap](https://github.com/kriskowal/asap) - High-priority task queue for Node.js and browsers  
-- [browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way  
-- [setImmediate](https://github.com/YuzuJS/setImmediate) - A cross-browser implementation of the new setImmediate API.  
-- [when-conditional](https://github.com/thekemkid/when-conditional) - A simple little asynchronous if check and statement.  
-- [optimize-js](https://github.com/nolanlawson/optimize-js) - Optimize a JS file for faster parsing (UNMAINTAINED)  
-- [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous  
-- [FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation  
-- [falcon](https://github.com/lengstrom/falcon) - Chrome extension for full text history search!  
-- [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.  
-- [a-s-minus](https://github.com/rojer/a-s-minus) - Awesome Screenshot Minus  
-- [1click-webpage-screenshot](https://github.com/1click-extensions/1click-webpage-screenshot) - Entire page Screenshot extension for Google Chrome. I'm developing open source extension for Google Chrome. All extension are free for use. Let's make Chrome great again!  
-- [clut-chrome-extension](https://github.com/harshayburadkar/clut-chrome-extension) - Chrome extension to switch between last used tabs easily using shortcut. This extension tries to mimic the ALT+TAB behavior from Windows(or Command+TAB in Mac) to allow to switch between open tabs in a Most Recently Used fashion.  
-- [OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org) - The home of FOSS user scripts.  
-- [download-notifier](https://github.com/ehaagwlke/download-notifier) - A download notification extension for Google Chrome.  
-- [disable-downloads-bar](https://github.com/ivan7237d/disable-downloads-bar) - A Chrome extension that disables the downloads bar at the bottom of Chrome windows (does nothing else).  
-- [chrome-remove-affiliate-links](https://github.com/johngodley/chrome-remove-affiliate-links) - Chrome extension to remove Amazon affiliate links  
-- [shop-companion](https://github.com/ShopCompanion/shop-companion) - Get access to full-resolution/largest/xxl/best-size product images and videos on various shopping sites.  
-- [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.  
-- [JoinChrome](https://github.com/joaomgcd/JoinChrome) - Chrome Extension for Join  
-- [Pinboard-Plus](https://github.com/clvrobj/Pinboard-Plus) - Pinboard.in Chrome extension, not official.  
-- [chrome-github-mate](https://github.com/camsong/chrome-github-mate) - Chrome extension to make single file download effortless and with more features  
-- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together  
-- [lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.  
-- [netmonitor](https://github.com/awalgarg/netmonitor) - A Chrome extension which shows background network activity of web pages after they are loaded.  
-- [Google-Play-Music-Album-Sorter](https://github.com/VipSaran/Google-Play-Music-Album-Sorter) - Greasemonkey/Tampermonkey user script for adding sorting functionality to Google Play Music  
-- [zingtouch](https://github.com/zingchart/zingtouch) - A JavaScript touch gesture detection library for the modern web  
-- [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink  
-- [Google-Play-Music-Desktop-Player-UNOFFICIAL-](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - A beautiful cross platform Desktop Player for Google Play Music  
-- [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.  
-- [stylish-chrome](https://github.com/stylish-userstyles/stylish-chrome) - Stylish extension for Chrome and Chrome-like things  
-- [stylish](https://github.com/stylish-userstyles/stylish) - User styles manager for Firefox and other Mozilla software  
-- [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy  
-- [validator.js](https://github.com/validatorjs/validator.js) - String validation  
-- [mailchimp-for-wordpress](https://github.com/ibericode/mailchimp-for-wordpress) - Easily add various sign-up methods for your MailChimp list(s) to your WordPress website using this plugin.  
-- [Fluidbox](https://github.com/terrymun/Fluidbox) - Replicating and improving the lightbox module seen on Medium with fluid transitions.  
-- [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript  
-- [ZoomHoverGold](https://github.com/superlime/ZoomHoverGold) - ZoomHover GOLD!  
-- [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.  
-- [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express  
-- [tabli](https://github.com/antonycourtney/tabli) - A Window and Tab Manager for Google Chrome  
-- [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6  
-- [snapline](https://github.com/pmdartus/snapline) - Unleash your screenshots stored in Chrome Devtool timeline files  
-- [superplaceholder.js](https://github.com/chinchang/superplaceholder.js) - ⚡Super charge your input placeholders  
-- [q](https://github.com/kriskowal/q) - A promise library for JavaScript  
-- [mixitup](https://github.com/patrickkunka/mixitup) - A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more  
-- [Viewport-Dimensions](https://github.com/CSWilson/Viewport-Dimensions) - This is an extension for Google Chrome to display the viewport dimensions on resize.  
-- [atom](https://github.com/atom/atom) - :atom: The hackable text editor  
-- [sassport](https://github.com/davidkpiano/sassport) - Sass with JavaScript superpowers.  
-- [basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading files with localStorage  
-- [full-page-screen-capture-chrome-extension](https://github.com/mrcoles/full-page-screen-capture-chrome-extension) - One-click full page screen captures in Google Chrome  
-- [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.  
-- [fontfaceobserver](https://github.com/bramstein/fontfaceobserver) - Webfont loading. Simple, small, and efficient.  
-- [loadCSS](https://github.com/filamentgroup/loadCSS) - A function for loading CSS asynchronously  
-- [classList.js](https://github.com/eligrey/classList.js) - Cross-browser element.classList  
-- [UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online  
-- [svg-icon-workflow](https://github.com/lukewhitehouse/svg-icon-workflow) - An SVG icon workflow utilising Gulp as a build tool and providing fallbacks for older browsers  
-- [illustrator-svg-exporter](https://github.com/iconic/illustrator-svg-exporter) - A better way to generate SVGs from Illustrator.  
-- [SetiUI-Icons-Sublime](https://github.com/mrmartineau/SetiUI-Icons-Sublime) - Seti UI icons for any ST3 theme  
-- [svg4everybody](https://github.com/jonathantneal/svg4everybody) - Use external SVG spritemaps today  
-- [node-cross-spawn](https://github.com/moxystudio/node-cross-spawn) - A cross platform solution to node's spawn and spawnSync  
-- [lasso](https://github.com/AesopInteractive/lasso) - Code Repository for Editus (formerly Lasso) Commercial Plugin  
-- [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:  
-- [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations  
-- [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent  
-- [rework](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js  
-- [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.  
-- [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.  
-- [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins  
-- [perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.  
-- [headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it  
-- [deb.js](https://github.com/krasimir/deb.js) - Minimalistic JavaScript library for debugging in the browser  
-- [css-colorguard](https://github.com/SlexAxton/css-colorguard) - Keep a watchful eye on your css colors.  
-- [responsive-nav.js](https://github.com/viljamis/responsive-nav.js) - Responsive navigation plugin without library dependencies and with fast touch screen support.  
-- [side-comments](https://github.com/aroc/side-comments) - [UNMAINTAINED] An interface component to give your site/app Medium.com style commenting.  
-- [wp-front-end-editor](https://github.com/ellatrix/wp-front-end-editor) - Front-end Editor for WordPress  
-- [algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript  
-- [laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.  
-- [grunt-devperf](https://github.com/gmetais/grunt-devperf) - Helps front-end developers to reach a good quality and good performances, based on phantomas and grunt-phantomas.  
-- [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown  
-- [editor-legacy](https://github.com/GitbookIO/editor-legacy) - Legacy editor for writing books using GitBook (for Windows, Mac and Linux)  
-- [doctoc](https://github.com/thlorenz/doctoc) - 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.  
-- [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.  
-- [scout_realtime](https://github.com/scoutapp/scout_realtime) - Realtime server metrics in your browser  
-- [grunt-sass](https://github.com/sindresorhus/grunt-sass) - Compile Sass to CSS  
-- [gulp-autoprefixer](https://github.com/Metrime/gulp-autoprefixer) - Autoprefixer for gulp  
-- [draggabilly](https://github.com/desandro/draggabilly) - :point_down: Make that shiz draggable  
-- [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:  
-- [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.  
-- [gulp](https://github.com/gulpjs/gulp) - The streaming build system  
-- [brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.  
-- [imacss](https://github.com/akoenig/imacss) - An application and library that transforms image files to data URIs and embeds them into a single CSS file.  
-- [component](https://github.com/componentjs/component) - frontend package manager and build tool for modular web applications  
-- [parker](https://github.com/katiefenn/parker) - Stylesheet analysis tool.  
-- [stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams  
-- [browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io  
-- [scrollreveal](https://github.com/scrollreveal/scrollreveal) - Animate elements as they scroll into view.  
-- [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.  
-- [editor](https://github.com/lepture/editor) - A markdown editor. http://lab.lepture.com/editor/  
-- [instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.  
-- [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page  
-- [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications  
-- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &#34;loaders&#34;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.  
-- [css-burrito](https://github.com/jasonreece/css-burrito) - An organizational Sass template.  
-- [fireshell](https://github.com/toddmotto/fireshell) - Fiercely quick front-end boilerplate and workflows, HTML5, Grunt, Sass.  
-- [share-button](https://github.com/carrot/share-button) - :warning: :warning: Currently Unmaintained :warning: :warning: - fast, beautiful, and painless social shares:  
-- [linux-dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux  
-- [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.  
-- [sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser metrics using the Navigation Timing API, User Timings and Visual Metrics (FirstVisualChange, SpeedIndex & LastVisualChange).  
-- [GreenSock-JS](https://github.com/greensock/GreenSock-JS) - GreenSock's GSAP JavaScript animation library (including Draggable).  
-- [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.  
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.  
-- [zenpen](https://github.com/tholman/zenpen) - A minimalist writing zone.  
-- [grande.js](https://github.com/mduvall/grande.js) - It's a Medium at Starbucks. Pinky ring out.  
-- [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown)  
-- [lesshat](https://github.com/madebysource/lesshat) - Smart LESS CSS mixins library.  
-- [dochub](https://github.com/rgarcia/dochub) - speedy docs  
-- [Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing  
-- [background-check](https://github.com/kennethcachia/background-check) - Automatically switch to a darker or a lighter version of an element depending on the brightness of images behind it.  
-- [Hook](https://github.com/jordansinger/Hook) - Pull to refresh for the web  
-- [WP-carouFredSel](https://github.com/WebDevStudios/WP-carouFredSel) - Simple plugin that will A) enqueue carouFredSel when requested, and B) (if requested) create a custom &#34;featured&#34; post type for the carousel  
-- [webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.  
-- [Parallax-Scrolling](https://github.com/richardshepherd/Parallax-Scrolling) - Code to accompany the tutorial in Smashing Magazine  
-- [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!  
-- [angular-app](https://github.com/angular-app/angular-app) - Reference application for AngularJS  
-- [ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps (formerly ng-boilerplate). Created by @joshdmiller  
-- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.  
-- [generator-frontend](https://github.com/nDmitry/generator-frontend) - Scaffolds out a boilerplate for front-end development.  
-- [generator-bones](https://github.com/matt-bailey/generator-bones) - Yeoman generator for scaffolding out a basic web project.  
-- [YeoPress](https://github.com/wesleytodd/YeoPress) - A Yeoman generator for WordPress  
-- [yeoman-wordpress](https://github.com/romainberger/yeoman-wordpress) - Yeoman generator for Wordpress project  
-- [yepnope.js](https://github.com/SlexAxton/yepnope.js) - A Script Loader For Your Conditional Builds  
-- [stickymojo](https://github.com/mojotech/stickymojo) - A contained fixed positioned sticky sidebar jQuery plugin.  
-- [tailorfit](https://github.com/rtheunissen/tailorfit) - jQuery plugin that allows you to fit elements (like images) within their containers.  
-- [css-modal](https://github.com/drublic/css-modal) - A modal built with pure CSS, enhanced with JavaScript  
-- [Responsive-Enhance](https://github.com/joshje/Responsive-Enhance) - Javascript to load a larger image where necessary  
-- [alertify.js](https://github.com/fabien-d/alertify.js) - JavaScript Alert/Notification System  
-- [chrome-devtools-autosave](https://github.com/NV/chrome-devtools-autosave) - Auto-saving CSS and JavaScript changes from the Chrome Developer Tools  
-- [dpi](https://github.com/LeaVerou/dpi) - dpi love - Easily find the DPI/PPI of any screen  
-- [responsive-web-apps](https://github.com/webpro/responsive-web-apps) - Building Responsive Web Applications  
-- [caniuse-widget](https://github.com/andismith/caniuse-widget) - Web widget for &#34;When Can I Use&#34; to display browser stats from your blog.  
-- [Hitch](https://github.com/bkardell/Hitch) - A lightweight engine that allows you to hitch new capabilities to the browser (prollyfill).  
+- [How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly) - [全文]如何正确的学习Node.js  
+- [htcrawl](https://github.com/fcavallarin/htcrawl) - Htcrawl is nodejs module for the recursive crawling of single page applications (SPA) using javascript  
+- [html-pages](https://github.com/danielcardoso/html-pages) - Simple development http server for file serving and directory listing made by a Designer. Use it for hacking your HTML/JavaScript/CSS files, but not for deploying your final site.  
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.  
-- [guard-livereload](https://github.com/guard/guard-livereload) - Guard::LiveReload automatically reload your browser when 'view' files are modified.  
-- [rack-livereload](https://github.com/johnbintz/rack-livereload) - https://github.com/onesupercoder/rack-livereload  
-- [AutoHotkey](https://github.com/aviaryan/AutoHotkey) - :symbols: (Discontinued) Sublime Text Autohotkey package.  
-- [pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js  
-- [GoldenRatio](https://github.com/roadhump/GoldenRatio) - Sublime Text 2/3 plugin to resize current group by golden ratio  
-- [picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for &lt;picture&gt;, srcset, sizes, and more  
-- [generator-h5bp](https://github.com/h5bp/generator-h5bp) - Archived!  
-- [Seriously.js](https://github.com/brianchirls/Seriously.js) - A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL  
-- [SublimeLinter-for-ST2](https://github.com/SublimeLinter/SublimeLinter-for-ST2) - [DEPRECATED] Inline lint highlighting for the Sublime Text 2 editor  
-- [emmet-sublime](https://github.com/sergeche/emmet-sublime) - Emmet for Sublime Text  
-- [foresight.js](https://github.com/adamdbradley/foresight.js) - DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is requested from the server. Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage.  
-- [riloadr](https://github.com/tubalmartin/riloadr) - Riloadr - A cross-browser framework-independent responsive images loader written in Javascript.  
-- [SocialCount](https://github.com/filamentgroup/SocialCount) - Unmaintained (see the README): Simple barebones project to show share counts from various social networks.  
-- [SASS-Build-SublimeText2](https://github.com/jaumefontal/SASS-Build-SublimeText2) - SASS build sytem for Sublime Text 2  
-- [firesass](https://github.com/nex3/firesass) - FireSass allows Firebug to display the original Sass filename and line number of Sass-generated CSS styles.  
-- [autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use  
-- [Prepros](https://github.com/Subash/Prepros) - Compile almost any preprocessing language with live browser refresh.  
-- [bower](https://github.com/bower/bower) - A package manager for the web  
-- [Survival-Kit](https://github.com/codingdesigner/Survival-Kit) - Tools and defaults for designing websites in the brower.  
-- [sass](https://github.com/sass/sass) - Sass makes CSS fun!  
-- [Smooth-Div-Scroll](https://github.com/tkahn/Smooth-Div-Scroll) - A jQuery plugin for smooth scrolling.  
-- [jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll) - nicescroll plugin for jquery - scrollbars like iphone/ipad  
-- [jQuery.LazyJaxDavis](https://github.com/Takazudo/jQuery.LazyJaxDavis) - Makes everything ajaxify with flexible URL routing powered by html5 history API.  
-- [history.js](https://github.com/browserstate/history.js) - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.  
-- [multifox](https://github.com/hultmann/multifox) - Multifox is an extension that allows Firefox to connect to websites using different user names.  
-- [treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.  
+- [HTML5-Gesture-Recognition](https://github.com/dmackenz/HTML5-Gesture-Recognition) - Gesture recognition for the browser  
+- [http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server  
+- [http2spy](https://github.com/bcoe/http2spy) - test helpers for working with Node.js' http2 module  
+- [httpe](https://github.com/jonathantneal/httpe) - An http & https compatible module. Simultanious ports & protocols. Set & generate certificates & charsets & mimetypes. Glob & chain requests. Stream & process files.  
+- [husky](https://github.com/typicode/husky) - 🐶 Git hooks made easy  
+- [hybrids](https://github.com/hybridsjs/hybrids) - 👾 Web Components with a strong declarative and functional approach based on plain objects and pure functions  
+- [hyper](https://github.com/rainglow/hyper) - 320+ color themes for Hyper.  
+- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies  
+- [hyper-final-say](https://github.com/amio/hyper-final-say) - Allows local config override any plugin or theme settings applied on top of the defaults `./.hyper.js`.  
+- [hyper-hide-title](https://github.com/sindresorhus/hyper-hide-title) - Hide the Hyper window title when there is only one tab  
+- [hyper-match](https://github.com/danieldelcore/hyper-match) - HyperTerm extension which matches regular expressions with predefined commands  
+- [hyper-pane](https://github.com/chabou/hyper-pane) - Extension for Hyper.app to enhance pane navigation.  
+- [hyper-run](https://github.com/DanInglis/hyper-run) - Extension for hyper.app terminal. Runs a command before hyperterm starts. Intended to be used with hyperlayout  
+- [hyper-savetext](https://github.com/neil-orans/hyper-savetext) - A Hyper™ plugin to export text to a file  
+- [hyper-site](https://github.com/zeit/hyper-site) - The official website for the Hyper terminal  
+- [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) - Elegant Hyper theme with bright colors  
+- [hyper-startup](https://github.com/curz46/hyper-startup) - A plugin for https://hyper.is/. Executes commands when Hyper first starts.  
+- [hyper-statusline](https://github.com/henrikdahl/hyper-statusline) - Status Line Plugin for Hyper  
+- [hyper-systray](https://github.com/telekommander/hyper-systray) - Hyper.app Systray — Supports Windows  
+- [hyper-tabs-enhanced](https://github.com/henrikdahl/hyper-tabs-enhanced) - Enhanced Tabs Plugin for Hyper  
+- [hyper-vertical-tabs](https://github.com/randallsquared/hyper-vertical-tabs) - vertical tabs plugin for Zeit's Hyper terminal  
+- [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building web interfaces.  
+- [hyperlayout](https://github.com/timolins/hyperlayout) - 📐 Layout presets for Hyper.app  
+- [hyperline](https://github.com/Hyperline/hyperline) - ✨ Status line plugin for Hyper ✨  
+- [hyperlinks](https://github.com/zeit/hyperlinks) - HyperTerm autolink extension  
+- [hyperlist](https://github.com/tbranyen/hyperlist) - A performant virtual scrolling list utility capable of rendering millions of rows  
+- [hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views  
+- [hypersimple](https://github.com/WebReflection/hypersimple) - The easiest way to use hyperHTML  
+- [hyperstatic](https://github.com/loteoo/hyperstatic) - Routing, code-splitting and pre-rendering for hyperapp  
+- [ice](https://github.com/alibaba/ice) - 🚀Simple and friendly front-end R&D system（简单友好的前端研发体系 ）  
+- [idlize](https://github.com/GoogleChromeLabs/idlize) - Helper classes and methods for implementing the idle-until-urgent pattern  
+- [iframely](https://github.com/itteco/iframely) - oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph  
+- [ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons  
+- [illustrator-svg-exporter](https://github.com/iconic/illustrator-svg-exporter) - A better way to generate SVGs from Illustrator.  
+- [imacss](https://github.com/akoenig/imacss) - An application and library that transforms image files to data URIs and embeds them into a single CSS file.  
+- [image-data-uri](https://github.com/DiegoZoracKy/image-data-uri) - Library to easily decode/encode Data URI images  
+- [image-picka](https://github.com/eight04/image-picka) - A Firefox/Chrome extension helping you download images.  
+- [image-viewer](https://github.com/bradenbest/image-viewer) - image viewer script for greasemonkey  
+- [imagesloaded](https://github.com/desandro/imagesloaded) - :camera: JavaScript is all like &#34;You images done yet or what?&#34;  
+- [img-ssim](https://github.com/IonicaBizau/img-ssim) - :mount_fuji: Get the structural similarity between two images.  
+- [import-fresh](https://github.com/sindresorhus/import-fresh) - Import a module while bypassing the cache  
+- [import-http](https://github.com/egoist/import-http) - Import modules from URL instead of local node_modules  
+- [import-lazy](https://github.com/sindresorhus/import-lazy) - Import a module lazily  
+- [ims](https://github.com/mafintosh/ims) - Install My Stuff - an opinionated npm module installer  
+- [incarnate](https://github.com/resistdesign/incarnate) - Runtime Dependency Lifecycle Management for JavaScript.  
+- [indexeddb-export-import](https://github.com/Polarisation/indexeddb-export-import) - Export/import an IndexedDB database to/from JSON. Can be used to backup and restore.  
+- [indices](https://github.com/lunaroyster/indices) - Indices creates a Table of Contents sidebar for Medium articles, and enables you to skip around  
+- [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps  
+- [inline-js](https://github.com/eight04/inline-js) - A static assets inliner, like PHP's include, with transformer!  
+- [inline-loops.macro](https://github.com/planttheidea/inline-loops.macro) - Iteration helpers that inline to native loops for performance  
+- [input-event](https://github.com/song940/input-event) - :musical_keyboard: Read and parse input device(like mouse, keyboard, joystick and IR-Remote)'s event data.  
+- [instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant.  
+- [introversion](https://github.com/GeneZharov/introversion) - Swiss army knife for debugging JavaScript expressions and performance measurements  
+- [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.  
+- [ip-finder-node](https://github.com/ipfinder-io/ip-finder-node) - Official Node.js client library for IPfinder  
+- [iris-ql](https://github.com/staeco/iris-ql) - User friendly API query language  
+- [is-hotkey](https://github.com/ianstormtaylor/is-hotkey) - Check whether a browser event matches a hotkey.  
+- [itemizejs](https://github.com/Kosmoon/itemizejs) - Turn any container's children into manageable items  
+- [jager](https://github.com/vmikhav/jager) - Javascript touch gesture recognition library  
+- [javali](https://github.com/diogomoretti/javali) - 🐗 Create a modern JavaScript library that uses ES6 + Jest  
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings  
+- [javascript-ultimate](https://github.com/JoshuaWise/javascript-ultimate) - Perfect JavaScript syntax for Sublime Text 3  
+- [JavaScriptDateFormat](https://github.com/JDMcKinstry/JavaScriptDateFormat) - PHP like Date Formatter in 2 flavors  
+- [jexcel](https://github.com/paulhodel/jexcel) - jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.  
+- [jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.  
+- [JoinChrome](https://github.com/joaomgcd/JoinChrome) - Chrome Extension for Join  
+- [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/  
+- [jp](https://github.com/therealklanni/jp) - A tiny commandline tool for parsing JSON from any source.  
 - [jquery-address](https://github.com/asual/jquery-address) - jQuery Address - Deep linking for the masses  
 - [jquery-bbq](https://github.com/cowboy/jquery-bbq) - jQuery BBQ: Back Button & Query Library  
+- [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.  
+- [jquery-notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - A modern, simple and elegant WYSIWYG rich text editor.  
+- [jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - 🦎 A jQuery plugin for extracting the dominant color from images and applying the color to their parent.  
+- [jQuery.LazyJaxDavis](https://github.com/Takazudo/jQuery.LazyJaxDavis) - Makes everything ajaxify with flexible URL routing powered by html5 history API.  
+- [jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll) - nicescroll plugin for jquery - scrollbars like iphone/ipad  
+- [JQuery2JS](https://github.com/The-Code-Monkey/JQuery2JS) - Turns Jquery into Vanilla JS. Go To The Link To Test.  
+- [js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript  
+- [js-dom-console](https://github.com/burdiuz/js-dom-console) - Small UI helper to display console output on the page  
+- [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the perfomance of a few popular javascript frameworks  
+- [js-imagediff](https://github.com/HumbleSoftware/js-imagediff) - JavaScript / Canvas based image diff utility with Jasmine matchers for testing canvas.  
+- [js-joda](https://github.com/js-joda/js-joda) - :clock2: Immutable date and time library for javascript  
+- [js-keyboard-only-outlines](https://github.com/moxystudio/js-keyboard-only-outlines) - Disable outlines caused by navigation methods other than keyboard  
+- [js-objectdetect](https://github.com/mtschirs/js-objectdetect) - computer vision in your browser - javascript real-time object detection  
+- [js-unused-exports](https://github.com/devbridge/js-unused-exports) -   
+- [js-us](https://github.com/leoncastro/js-us) - general userscripts  
+- [js2bin](https://github.com/criblio/js2bin) - NodeJS application to native executable  
+- [jsbin](https://github.com/jsbin/jsbin) - Collaborative JavaScript Debugging App  
+- [jsconsole](https://github.com/remy/jsconsole) - Web based console - for presentations and workshops  
+- [jsdiff](https://github.com/kpdecker/jsdiff) - A javascript text differencing implementation.  
+- [jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of the WHATWG DOM and HTML standards, for use with node.js  
+- [jsesc](https://github.com/mathiasbynens/jsesc) - Given some data, jsesc returns the shortest possible stringified & ASCII-safe representation of that data.  
+- [JSFrame.js](https://github.com/riversun/JSFrame.js) - An independent lightweight multi-window library for javascript.  
+- [jsnice](https://github.com/brettlangdon/jsnice) - Command line interface to http://jsnice.org.  
+- [Jsome](https://github.com/Javascipt/Jsome) - :sparkles: Make your JSON look AWESOME  
+- [json-apis-with-github](https://github.com/mddanishyusuf/json-apis-with-github) - 🔨 Tool to make Simple and Quick JSON APIs with GitHub.  
+- [json-dry](https://github.com/skerit/json-dry) - 🌞 JSON-dry allows you to serialize & revive objects containing circular references, dates, regexes, class instances,...  
+- [json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor  
+- [json-formatter](https://github.com/gera2ld/json-formatter) - A userscript to display JSON data beautifully.  
+- [json-serializer](https://github.com/QubitProducts/json-serializer) - Library for parsing and serializing javascript. JSON compatible, supports also pretty print, no object prototype pollution, functions and many more.  
+- [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)  
+- [json-stable-stringify](https://github.com/substack/json-stable-stringify) - deterministic JSON.stringify() with custom sorting to get deterministic hashes from stringified results  
+- [json-strictify](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without unintended loss of data or going into an infinite loop due to circular references.  
+- [json-stringify-pretty-compact](https://github.com/lydell/json-stringify-pretty-compact) - The best of both `JSON.stringify(obj)` and `JSON.stringify(obj, null, indent)`.  
+- [json-tree-view](https://github.com/luyuan/json-tree-view) - JavaScript JSON explorer with styles similar to Chrome's devtools  
+- [json2html](https://github.com/moappi/json2html) - Json2html is a lightning fast client side javascript HTML templating library with wrappers for both jQuery and Node.js.  
+- [jsonbin](https://github.com/remy/jsonbin) - A personal JSON store as a RESTful service  
+- [jsonbox](https://github.com/vasanthv/jsonbox) - A Free HTTP based JSON storage.  
+- [jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON  
+- [jsonstore](https://github.com/bluzi/jsonstore) - :rocket: jsonstore offers a free and secured JSON-based cloud datastore for small projects  
+- [jsPanel4](https://github.com/Flyer53/jsPanel4) - A JavaScript library to create highly configurable floating panels, modals, tooltips, hints/notifiers/alerts or contextmenus for use in backend solutions and other web applications.  
+- [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy  
+- [jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript  
+- [just](https://github.com/angus-c/just) - A library of dependency-free JavaScript functions that do just do one thing.  
+- [jwerty](https://github.com/keithamus/jwerty) - ⌨ Awesome handling of keyboard events  
+- [Kantu](https://github.com/A9T9/Kantu) - UI.Vision Kantu for Chrome and Firefox - Modern Web Browser Automation plus Selenium IDE  
+- [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.  
+- [keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies.  
+- [keysim.js](https://github.com/eventualbuddha/keysim.js) - Simulate user keyboard DOM events in tests.  
+- [keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends  
+- [kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows  
+- [ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant HTTP client based on window.fetch  
+- [lad](https://github.com/ladjs/lad) - :boy: Lad scaffolds a Koa webapp and API framework for Node.js  
+- [lando](https://github.com/lando/lando) - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating  
+- [lass](https://github.com/lassjs/lass) - :girl: Lass scaffolds a modern package boilerplate for Node.js  
+- [lasso](https://github.com/AesopInteractive/lasso) - Code Repository for Editus (formerly Lasso) Commercial Plugin  
+- [LastTab](https://github.com/hasinhayder/LastTab) - (Not Maintained Anymore)  
+- [latest-semver](https://github.com/sindresorhus/latest-semver) - Get the latest stable semver version from an array of versions  
+- [laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.  
+- [lawnchair](https://github.com/brianleroux/lawnchair) - A lightweight clientside JSON document store,  
+- [laxxx](https://github.com/alexfoxy/laxxx) - Simple & light weight (3kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive!  
+- [layout-architect](https://github.com/krasimir/layout-architect) - A small utility for building layouts written in vanilla JavaScript  
+- [lazarus](https://github.com/manfontan/lazarus) - patched version of Lazarus Form Recovery for Chrome  
+- [lazy_tab](https://github.com/Jman/lazy_tab) - Faster start for Google Chrome.  
+- [Leftside_Back](https://github.com/Kiuryy/Leftside_Back) - Chrome extension, which allows you to navigate back by just hitting the mouse on the left side of your screen.  
+- [leonsans](https://github.com/cmiscm/leonsans) - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.  
+- [Lepton](https://github.com/hackjutsu/Lepton) - 💻    Democratizing Snippet Management (macOS/Win/Linux)  
+- [lesshat](https://github.com/madebysource/lesshat) - Smart LESS CSS mixins library.  
+- [libgfi](https://github.com/cutenode/libgfi) - A module for finding good-first-issues in open source projects.  
+- [linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library  
+- [linearicons](https://github.com/cjpatoilo/linearicons) - Linearicons is the highest quality set of line icons, matching with minimalist UI designs in iOS.  
+- [linkclump](https://github.com/benblack86/linkclump) - Google chrome extension that allows the user to open multiple links at once.  
+- [linkify-plus-plus](https://github.com/eight04/linkify-plus-plus) - A userscript/extension which can linkify almost everything. Based on Linkify Plus.  
+- [linkify-plus-plus-core](https://github.com/eight04/linkify-plus-plus-core) - A JavaScript library for linkification stuff. Used by linkify-plus-plus.  
+- [linkify-urls](https://github.com/sindresorhus/linkify-urls) - Linkify URLs in a string  
+- [linux-dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux  
+- [lipo](https://github.com/lipojs/lipo) - :lips: Free image manipulation API service built on top of Sharp (an alternative to Jimp, Graphics Magic, Image Magick, and PhantomJS)  
+- [list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.  
+- [listr](https://github.com/SamVerschueren/listr) - Terminal task list  
+- [litedom](https://github.com/mardix/litedom) - A reactive Web Component library to create Custom Element and turns any HTML sections into components  
+- [litestate](https://github.com/mardix/litestate) - An ambitiously tiny, gizp ~800b, flux-like library to manage your state  
+- [livereload-plugins](https://github.com/livereload/livereload-plugins) - LiveReload 2 plugin repository  
+- [loadCSS](https://github.com/filamentgroup/loadCSS) - A function for loading CSS asynchronously  
+- [local-cdn](https://github.com/james-fray/local-cdn) - WebExtension implementation of Decentraleyes project: Local emulation of Content Delivery Networks  
+- [localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.  
+- [localhostd](https://github.com/layerssss/localhostd) - Run and serve your web apps in .test domains on your develop machine.  
+- [localStorageDB](https://github.com/knadh/localStorageDB) - A simple database layer for localStorage and sessionStorage for creating structured data in the form of databases and tables  
+- [locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - 🛤 Detection of elements in viewport & smooth scrolling with parallax.  
+- [log](https://github.com/adamschwartz/log) - Console.log with style.  
+- [log-process-errors](https://github.com/ehmicky/log-process-errors) - Show some ❤️ to Node.js process errors  
+- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels  
+- [log4js-node](https://github.com/log4js-node/log4js-node) - A port of log4js to node.js  
+- [logagent-js](https://github.com/sematext/logagent-js) - Extensible log shipper with input/output plugins, buffering, parsing, data masking, and small memory/CPU footprint  
+- [logarr](https://github.com/Monitorr/logarr) - &#34;Logarr&#34; is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.  
+- [loglevel](https://github.com/pimterry/loglevel) - :ledger: Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods  
+- [LokiJS](https://github.com/techfort/LokiJS) - javascript embeddable / in-memory database  
+- [long-press-event](https://github.com/john-doherty/long-press-event) - Adds `long-press` event to the DOM in 0.5k of pure JavaScript  
+- [lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.  
+- [macOSNotifJS](https://github.com/MattIPv4/macOSNotifJS) - A simple Javascript plugin to create simulated macOS notifications on your website.  
+- [magic-string](https://github.com/Rich-Harris/magic-string) - Manipulate strings like a wizard  
+- [magicli](https://github.com/DiegoZoracKy/magicli) - Automagically generates command-line interfaces (CLI) for any module. Expected options and help sections are created automatically based on parameters names, with support to async.  
+- [magnet.js](https://github.com/lf2com/magnet.js) - Magnet.js is a JavaScript library that groups HTML elements and makes them attractable with each other  
+- [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.  
+- [mailchimp-for-wordpress](https://github.com/ibericode/mailchimp-for-wordpress) - Easily add various sign-up methods for your MailChimp list(s) to your WordPress website using this plugin.  
+- [make-fetch-happen](https://github.com/zkat/make-fetch-happen) - Get in loser, we're making requests!  
+- [map-events](https://github.com/PerimeterX/map-events) - events mapped out completely cross browsers  
+- [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.  
+- [marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun  
+- [marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.  
+- [marky](https://github.com/nolanlawson/marky) - High-resolution JavaScript timer based on performance.mark/measure (461 bytes min+gz)  
+- [match-sorter](https://github.com/kentcdodds/match-sorter) - Simple, expected, and deterministic best-match sorting of an array in JavaScript  
+- [match-tags](https://github.com/mistval/match-tags) - Extract an HTML element and its children from a string  
+- [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching  
+- [matcher-js](https://github.com/telenko/matcher-js) - Article about using matcher-js  
+- [material-table](https://github.com/mbrn/material-table) - Datatable for React based on material-ui's table with additional features  
+- [Matlock-Breadcrumbs](https://github.com/getmatlock/Matlock-Breadcrumbs) - Matlock Breadcrumbs used for technology discovery.  
+- [matter](https://github.com/finnhvman/matter) - Material Design Components in Pure CSS. Materializing HTML at just one class per component 🍰  
+- [mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!  
+- [medium-cli](https://github.com/djadmin/medium-cli) - Medium for Hackers - :computer: A CLI for Medium Stories.  
+- [medium-draft](https://github.com/brijeshb42/medium-draft) - 📝 A medium like Rich Text Editor built on draft-js with a focus on keyboard shortcuts.  
+- [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.  
+- [medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.  
+- [medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium  
+- [meetio](https://github.com/mauroreisvieira/meetio) - The most powerful theme for Sublime Text 3  
+- [mercury-parser](https://github.com/postlight/mercury-parser) - 📜 Extract meaningful content from the chaos of a web page  
+- [merge-windows](https://github.com/sindresorhus/merge-windows) - Chrome extension - Merge windows into the active one  
+- [mern-cli](https://github.com/Hashnode/mern-cli) - ⛔️ DEPRECATED - A cli tool for getting started with MERN  
+- [mern-starter](https://github.com/Hashnode/mern-starter) - ⛔️ DEPRECATED - Boilerplate for getting started with MERN stack  
+- [micro](https://github.com/zeit/micro) - Asynchronous HTTP microservices  
+- [microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.  
+- [micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by webpack, babel core, yarn, jest, browser-sync, documentation.js, stylelint, nyc, ava, and many others!  
+- [Miment](https://github.com/noahlam/Miment) - a fast,light weight,simple and non-dependencies datetime library for javascript ( mini moment )  
+- [MinerBlock](https://github.com/xd4rker/MinerBlock) - An efficient browser extension to block browser-based cryptocurrency miners all over the web.  
+- [minimalcss](https://github.com/peterbe/minimalcss) - Extract the minimal CSS used in a set of URLs with puppeteer  
+- [minimist](https://github.com/substack/minimist) - parse argument options  
+- [mitsuketa](https://github.com/AndrewRedican/mitsuketa) - A Javascript library that enables you to handle deeply nested objects easily.  
+- [mixitup](https://github.com/patrickkunka/mixitup) - A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more  
+- [MMRA](https://github.com/thebaer/MMRA) - Make Medium Readable Again — a browser extension  
+- [Modaal](https://github.com/humaan/Modaal) - An accessible dialog window library for all humans.  
+- [mojs-player](https://github.com/mojs/mojs-player) - GUI player to control your animations  
+- [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.  
+- [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor  
+- [moses](https://github.com/ifrost/moses) - JavaScript mouse/touch gesture recognition library  
+- [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.  
+- [MouseEventListener](https://github.com/SublimeText/MouseEventListener) - Adds on_pre_click and on_post_click callbacks to Sublime Text's plugin API.  
+- [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript  
+- [mout](https://github.com/mout/mout) - Modular JavaScript Utilities  
+- [move-tab-hotkeys](https://github.com/jmmerz/move-tab-hotkeys) - The Move Tab Hotkeys web extension for moving the current tab around.  
+- [mpm](https://github.com/doronoded/mpm) - Multiple Package Manager  
+- [mrgit](https://github.com/cksource/mrgit) - A tool for managing projects build using multiple repositories.  
+- [ms](https://github.com/zeit/ms) - Tiny milisecond conversion utility  
+- [msgpuck.js](https://github.com/AlexMasterov/msgpuck.js) - A fast and memory-efficient MessagePack serialization library  
+- [msngr.js](https://github.com/KrisSiegel/msngr.js) - An asynchronous messaging library, written in JavaScript, for node and the web browser  
+- [multi-download](https://github.com/sindresorhus/multi-download) - Download multiple files at once in the browser  
+- [multifox](https://github.com/hultmann/multifox) - Multifox is an extension that allows Firefox to connect to websites using different user names.  
+- [multimatch](https://github.com/sindresorhus/multimatch) - Extends minimatch.match() with support for multiple patterns  
+- [mutation-summary](https://github.com/rafaelw/mutation-summary) - A JavaScript library that makes observing changes to the DOM easy  
+- [muuri](https://github.com/haltu/muuri) - Responsive, sortable, filterable and draggable grid layouts  
+- [mv-sorter](https://github.com/aigan/mv-sorter) - A custom element that makes the content sortable  
+- [myicons](https://github.com/shanzi/myicons) - Your flat icons manager and font builder.  
+- [myscale](https://github.com/webkul/myscale) - myScale - Quick SVG Icon Resizer  
+- [nanoid](https://github.com/ai/nanoid) - A tiny (141 bytes), secure, URL-friendly, unique string ID generator for JavaScript  
+- [neater-bookmarks](https://github.com/evanshultz/neater-bookmarks) - A neater bookmarks tree popup extension for Chrome  
+- [negative-array](https://github.com/sindresorhus/negative-array) - Negative array index support `array[-1]` using ES2015 Proxy  
+- [nerv](https://github.com/NervJS/nerv) - A blazing fast React alternative, compatible with IE8 and React 16.  
+- [nested-object-diff](https://github.com/eraykose/nested-object-diff) - A lightweight javascript diff library for comparing two javascript object nested with supporting matching by value of the object's choosen key name in array.  
+- [netmonitor](https://github.com/awalgarg/netmonitor) - A Chrome extension which shows background network activity of web pages after they are loaded.  
+- [nexline](https://github.com/sharpart555/nexline) - Read file, stream, string, buffer line by line. Great for execute async job over line by line in large file.  
+- [next.js](https://github.com/zeit/next.js) - The React Framework  
+- [NflxMultiSubs](https://github.com/dannvix/NflxMultiSubs) - (Discontinued) Multiple Subtitles and Enhanced Experiences for Netflix on Chrome & Firefox  
+- [ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps (formerly ng-boilerplate). Created by @joshdmiller  
+- [nice-try](https://github.com/electerious/nice-try) - Tries to execute a function and discards any error that occurs.  
+- [nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more  
+- [nmmes-cli](https://github.com/NMMES/nmmes-cli) - Node Modular Media Encoding System Command Line Frontend  
+- [nmmes-module-normalize](https://github.com/NMMES/nmmes-module-normalize) -   
+- [noapi](https://github.com/hiowenluke/noapi) - The easiest framework for node.js API application, create one in under 5 minutes.  
+- [NoCoin](https://github.com/keraf/NoCoin) - No Coin is a tiny browser extension aiming to block coin miners such as Coinhive.  
+- [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:  
+- [node-cli-boilerplate](https://github.com/sindresorhus/node-cli-boilerplate) - Boilerplate to kickstart creating a Node.js command-line tool  
+- [node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration  
+- [node-cross-spawn](https://github.com/moxystudio/node-cross-spawn) - A cross platform solution to node's spawn and spawnSync  
+- [node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading  
+- [node-draftlog](https://github.com/ivanseidel/node-draftlog) - 📜 Create updatable log lines into the terminal, and give life to your logs!  
+- [node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()  
+- [node-google-calendar](https://github.com/yuhong90/node-google-calendar) - Simple node module that supports Google Calendar API  
+- [node-graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE  
+- [node-http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) - HTTP Man In The Middle (MITM) Proxy  
+- [node-https-proxy-agent](https://github.com/TooTallNate/node-https-proxy-agent) - An HTTP(s) proxy `http.Agent` implementation for HTTPS endpoints  
+- [node-js-8-the-right-way](https://github.com/zucchinidev/node-js-8-the-right-way) - Objective: Continue learning advanced concepts of Node.js  
+- [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html  
+- [node-klaw](https://github.com/jprichardson/node-klaw) - A Node.js file system walker with a Readable stream interface. Extracted from fs-extra.  
+- [node-klaw-sync](https://github.com/manidlou/node-klaw-sync) - Node.js recursive synchronous fast file system walker  
+- [node-mime](https://github.com/broofa/node-mime) - Mime types for JavaScript  
+- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a Node.js module  
+- [node-newsemitter](https://github.com/fent/node-newsemitter) - An event emitter that emits only new events.  
+- [node-notifier](https://github.com/mikaelbr/node-notifier) - A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)  
+- [node-osmosis](https://github.com/rchipka/node-osmosis) - Web scraper for NodeJS  
+- [node-proxy-agent](https://github.com/TooTallNate/node-proxy-agent) - Maps proxy protocols to `http.Agent` implementations  
+- [node-proxying-agent](https://github.com/capriza/node-proxying-agent) - Node HTTP/HTTPS Forward Proxy Agent  
+- [node-pushnotifications](https://github.com/appfeel/node-pushnotifications) - Push notifications for GCM, APNS, MPNS, AMZ (automatic detection from device token)  
+- [node-restify-mongo-api](https://github.com/GetStream/node-restify-mongo-api) - Starter project for a REST API with Node.js, Restify & MongoDB 🔋  
+- [node-socks-proxy-agent](https://github.com/TooTallNate/node-socks-proxy-agent) - A SOCKS (v4a) proxy `http.Agent` implementation for HTTP and HTTPS  
+- [node-tosource](https://github.com/marcello3d/node-tosource) - Converts JavaScript objects to source  
+- [node-unused](https://github.com/Kami/node-unused) - A module which reports defined, but unused variables in your code.  
+- [node-wget](https://github.com/bearjaws/node-wget) - A download tool for nodejs that emulates the functionality of wget  
+- [node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.JS scripts (daemons, eventlog, UAC, etc).  
+- [node-youtube-dl](https://github.com/przemyslawpluta/node-youtube-dl) - youtube-dl driver for node  
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The largest Node.js best practices list (September 2019)  
+- [nodepack](https://github.com/Akryum/nodepack) - 📦 A progressive Node.js framework  
+- [nodist](https://github.com/nullivex/nodist) - Natural node.js and npm version manager for windows.  
+- [NooBox](https://github.com/AInoob/NooBox) - A Chrome Extension that contains useful tools  
+- [nothis](https://github.com/joelnet/nothis) - The complete elimination and eradication of JavaScript's this.  
+- [Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.  
+- [npm-addict](https://github.com/mvila/npm-addict) - Your daily injection of npm packages  
+- [npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.  
+- [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json or bower.json allows  
+- [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page, Yarn page, or GitHub repo of a package  
+- [nps](https://github.com/sezna/nps) - NPM Package Scripts -- All the benefits of npm scripts without the cost of a bloated package.json and limits of json  
+- [ntl](https://github.com/ruyadorno/ntl) - Npm Task List: Interactive cli menu to list/run npm tasks  
+- [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)  
+- [nve](https://github.com/ehmicky/nve) - Run any Node.js version  
+- [nVidia-modded-Inf](https://github.com/CHEF-KOCH/nVidia-modded-Inf) - Modified nVidia .inf files to run drivers on all video cards, research & telemetry free drivers  
+- [nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js  
+- [nzbget-chrome](https://github.com/hpsu/nzbget-chrome) - Google chrome extension to interact with nzbget  
+- [obj-str](https://github.com/lukeed/obj-str) - A tiny (96B) library for serializing Object values to Strings.  
+- [object-observer](https://github.com/gullerya/object-observer) - Implementing JavaScript object observe functionality via native Proxy objects  
+- [Oblecto](https://github.com/robinp7720/Oblecto) - Oblecto is the next generation media server for your home. Made to work for your media consumption needs.  
+- [observable](https://github.com/riot/observable) - Simple script to send and receive events  
+- [observable-slim](https://github.com/ElliotNB/observable-slim) - Observable Slim is a singleton that utilizes ES6 Proxies to observe changes made to an object and any nested children of that object. It is intended to assist with state management and one-way data binding.  
+- [observer-util](https://github.com/nx-js/observer-util) - Transparent reactivity with 100% language coverage. Made with ❤️ and ES6 Proxies.  
+- [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub  
+- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together  
+- [OctoTern](https://github.com/mattzeunert/OctoTern) - Jump to variable definition on Github  
+- [octotree](https://github.com/ovity/octotree) - GitHub code tree on steroids  
+- [oh](https://github.com/cesarferreira/oh) - Quickly open any app in the folder you're currently in (Open Here)  
+- [omi](https://github.com/Tencent/omi) - Front End Cross-Frameworks Framework - 前端跨框架跨平台框架  
+- [omniclone](https://github.com/jfet97/omniclone) - An isomorphic and configurable javascript utility for objects deep cloning that supports circular references.  
+- [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes  
+- [one-click-screenshot](https://github.com/stefansundin/one-click-screenshot) - :camera: Take full-page screenshots in Chrome and Firefox.  
+- [open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.  
+- [openlayers](https://github.com/openlayers/openlayers) - OpenLayers  
+- [opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.  
+- [OpenUserJS.org](https://github.com/OpenUserJS/OpenUserJS.org) - The home of FOSS user scripts.  
+- [optimize-js](https://github.com/nolanlawson/optimize-js) - Optimize a JS file for faster parsing (UNMAINTAINED)  
+- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner  
+- [organize-cli](https://github.com/manrajgrover/organize-cli) - 📋 Organize your files, imagine cleaning up your downloads in an instant  
+- [osprey](https://github.com/jackcdk/osprey) - an extension for chrome and chromium  
+- [oui](https://github.com/wearekuva/oui) - Objects go in, UI comes out  
+- [outline-stroke](https://github.com/elrumordelaluz/outline-stroke) - Convert stroked SVG into the outlined version  
+- [outline-stroke-cli](https://github.com/elrumordelaluz/outline-stroke-cli) - Convert stroked SVG into the outlined version  
+- [outliner](https://github.com/scottcheng/outliner) - A Chrome extension that outlines the page  
+- [outlines](https://github.com/francoislaberge/outlines) - Pointcloud Shape Recognizer  
+- [p-cancelable](https://github.com/sindresorhus/p-cancelable) - Create a promise that can be canceled  
+- [p-immediate](https://github.com/sindresorhus/p-immediate) - Returns a promise resolved in the next event loop - think `setImmediate()`  
+- [p-min-delay](https://github.com/sindresorhus/p-min-delay) - Delay a promise a minimum amount of time  
+- [p-timeout](https://github.com/sindresorhus/p-timeout) - Timeout a promise after a specified amount of time  
+- [packd](https://github.com/Rich-Harris/packd) - Rollup as a service (with a little help from Browserify)  
+- [packery](https://github.com/metafizzy/packery) - :bento: Gapless, draggable grid layouts  
+- [page.js](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router  
+- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots  
+- [paginatex](https://github.com/brunobertolini/paginatex) - A generic pagination algorithm  
+- [panic-overlay](https://github.com/xpl/panic-overlay) - Displays JS errors in browsers. Shows sources. Use with any framework. 💥✨  
+- [panzoom](https://github.com/anvaka/panzoom) - Universal pan and zoom library  
+- [Parallax-Scrolling](https://github.com/richardshepherd/Parallax-Scrolling) - Code to accompany the tutorial in Smashing Magazine  
+- [parent-module](https://github.com/sindresorhus/parent-module) - Get the path of the parent module  
+- [parker](https://github.com/katiefenn/parker) - Stylesheet analysis tool.  
+- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.  
+- [parse-conflict-json](https://github.com/npm/parse-conflict-json) - Parse a JSON string that has git merge conflicts, resolving if possible  
+- [parse-dates](https://github.com/mugendi/parse-dates) - Easy dates parser that leverages on the power of n-gramify & http://www.datejs.com to parse dates that other parsers would fail. The concept is simple, instead on Regex, tokenize string into 'reducing ngrams' & extract!  
+- [parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express  
+- [Particle](https://github.com/ParticleCore/Particle) - Home of the extension YouTube Plus that allows you to experience more on YouTube  
+- [Passerine](https://github.com/gauthamzz/Passerine) - Product Hunt Desktop Client :rocket:  
+- [pauseable.js](https://github.com/fent/pauseable.js) - Create event emitters, intervals, and timeouts that can be paused and resumed.  
+- [pen](https://github.com/sofish/pen) - enjoy live editing (+markdown)  
+- [percollate](https://github.com/danburzo/percollate) - 🌐 → 📖 A command-line tool to turn web pages into beautifully formatted PDFs  
+- [perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.  
+- [petit-dom](https://github.com/yelouafi/petit-dom) - minimalist virtual dom library  
+- [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent  
+- [pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed  
+- [pickr](https://github.com/Simonwep/pickr) - 🍭 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!  
+- [picojs](https://github.com/tehnokv/picojs) - A face detection library in 200 lines of JavaScript  
+- [picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for &lt;picture&gt;, srcset, sizes, and more  
+- [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function  
+- [pinboard-bookmarks-to-chrome](https://github.com/grantwinney/pinboard-bookmarks-to-chrome) - A Chrome extension for displaying bookmarks from Pinboard in the Bookmarks Bar.  
+- [Pinboard-Plus](https://github.com/clvrobj/Pinboard-Plus) - Pinboard.in Chrome extension, not official.  
+- [pinboard-search](https://github.com/mono0x/pinboard-search) - Search Pinboard in Omnibox  
+- [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library  
+- [pixi-viewport](https://github.com/davidfig/pixi-viewport) - A highly configurable viewport/2D camera designed to work with pixi.js  
+- [pluginjs](https://github.com/pluginjs/pluginjs) - A flexible modern vanilla JavaScript plugin.  
+- [png-to-ico](https://github.com/steambap/png-to-ico) - convert png to windows ico format  
+- [polacode](https://github.com/octref/polacode) - 📸 Polaroid for your code  
+- [pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.  
+- [popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces  
+- [popup-multiselect](https://github.com/harshniketseta/popup-multiselect) - A popup with options. Allows multi select.  
+- [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins  
+- [postcss-inline-svg](https://github.com/TrySound/postcss-inline-svg) - PostCSS plugin to reference an SVG file and control its attributes with CSS syntax  
+- [potential-changes-for-github](https://github.com/dzhavat/potential-changes-for-github) - Potential changes for GitHub: Browser extension that shows which pull requests contain changes related to a file.  
+- [pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.  
+- [preact-boilerplate](https://github.com/developit/preact-boilerplate) - :guitar: Ready-to-rock Preact starter project, powered by Webpack.  
+- [preact-cli](https://github.com/preactjs/preact-cli) - 😺 Your next Preact PWA starts in 30 seconds.  
+- [Prepros](https://github.com/Subash/Prepros) - Compile almost any preprocessing language with live browser refresh.  
+- [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.  
+- [prettier-eslint](https://github.com/prettier/prettier-eslint) - Code :arrow_right: prettier :arrow_right: eslint --fix :arrow_right: Formatted Code :sparkles:  
+- [prettyjson](https://github.com/rafeca/prettyjson) - Package for formatting JSON data in a coloured YAML-style, perfect for CLI output  
+- [primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.  
+- [print-sizes](https://github.com/daybrush/print-sizes) - Prints a list of files in the directory.  
+- [prioqueue](https://github.com/klaussinani/prioqueue) - Priority queues for ES6  
+- [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.  
+- [progress-catalog](https://github.com/SHERlocked93/progress-catalog) - Generate a progress catalog by html tag (h1, h2, h3, h4, h5, h6) 😜  
+- [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Makes any webpage feel like an artboard via a little extension https://visbug.page.link/extension  
+- [promise-waitlist](https://github.com/indutny/promise-waitlist) - Promise-based Wait List for your apps  
+- [prompt-confirm](https://github.com/enquirer/prompt-confirm) - This repository has been archived, use Enquirer instead.  
+- [prompt-grid](https://github.com/enquirer/prompt-grid) - Prompt that allows the user to re-arrange the cells in a grid in the terminal. This can be used for configuration for layouts, tables, HTML grids, etc.  
+- [prompt-list](https://github.com/enquirer/prompt-list) - This repository has been archived, use Enquirer instead.  
+- [prompts](https://github.com/terkelg/prompts) - ❯ Lightweight, beautiful and user-friendly interactive prompts.  
+- [propagate](https://github.com/nock/propagate) - Propagate events from one event emitter into another  
+- [proxy-list-builder](https://github.com/asadhaider13/proxy-list-builder) - NodeJS application to scrape proxies from internet from many different websites and store them into MongoDb  
+- [proxy-lists](https://github.com/chill117/proxy-lists) - Node.js module and CLI tool to get proxies from publicly available proxy lists.  
+- [proxy-supervisor](https://github.com/Vladislao/proxy-supervisor) - Refresh, monitor and balance your proxies  
+- [pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js  
+- [Pulsarr](https://github.com/roboticsound/Pulsarr) -   
+- [pupa](https://github.com/sindresorhus/pupa) - Simple micro templating  
+- [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API  
+- [puppeteer-browser](https://github.com/EasyWebApp/puppeteer-browser) - Multiple Web browser controller based on Puppeteer API  
+- [puppeteer-extensions](https://github.com/HuddleEng/puppeteer-extensions) - Convenience functions for the Puppeteer  
+- [puppeteer-extra](https://github.com/berstend/puppeteer-extra) - 💯 Teach puppeteer new tricks through plugins.  
+- [puppeteer-extra-commands](https://github.com/k03mad/puppeteer-extra-commands) - Tiny library with additional puppeteer commands  
+- [Puppeteer-IE](https://github.com/TechQuery/Puppeteer-IE) - Headless Internet Explorer NodeJS API inspired by Puppeteer  
+- [puppeteer-infinite-scroll](https://github.com/tawsbob/puppeteer-infinite-scroll) - aabstraction to help scrape data from sites with infinite scroll  
+- [puppeteer-page-object](https://github.com/lamartire/puppeteer-page-object) - 📄 Tiny page object implementation with puppeteer  
+- [puppeteer-recorder](https://github.com/clipisode/puppeteer-recorder) - Record animations using puppeteer. Based on electron-recorder.  
+- [puppeteer-recorder](https://github.com/checkly/puppeteer-recorder) - Puppeteer recorder is a Chrome extension that records your browser interactions and generates a  Puppeteer script.  
+- [puppeteer-service](https://github.com/shenfe/puppeteer-service) - 🎠 Run headless Chrome (aka Puppeteer) as a service.  
+- [push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth_americas:  
+- [pushbullet-backup](https://github.com/rebolyte/pushbullet-backup) - Tool to export and download your data from Pushbullet - https://rebolyte.github.io/pushbullet-backup/  
+- [putout](https://github.com/coderaiser/putout) - the pluggable code transformer  
+- [pws](https://github.com/porsager/pws) - 🤝 Persistent Web Sockets  
+- [q](https://github.com/kriskowal/q) - A promise library for JavaScript  
+- [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings  
+- [queue-microtask](https://github.com/feross/queue-microtask) - fast, tiny `queueMicrotask` shim for modern engines  
+- [QuicKey](https://github.com/fwextensions/QuicKey) - Jump between recent tabs in Chrome via keyboard shortcuts or a most recently used (MRU) menu.  
+- [quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time  
+- [r](https://github.com/ariiiman/r) - 🌿 A light JavaScript library.  
+- [r2](https://github.com/mikeal/r2) - HTTP client. Spiritual successor to request.  
+- [rack-livereload](https://github.com/johnbintz/rack-livereload) - https://github.com/onesupercoder/rack-livereload  
+- [radialMenu](https://github.com/victorqribeiro/radialMenu) - A highly customizable radial menu that's very easy to setup.  
+- [ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript  
+- [rarbg](https://github.com/grantholle/rarbg) - A wrapper for RARBG's api in Node  
+- [rater-js](https://github.com/fredolss/rater-js) - Star rating widget for the browser. Unlimited number of stars. No dependencies. No Jquery required.  
+- [rax](https://github.com/alibaba/rax) - The fastest way to build universal application.  
+- [react-autocomplete](https://github.com/reactjs/react-autocomplete) - WAI-ARIA compliant React autocomplete (combobox) component  
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React  
+- [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - :fire: A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.  
+- [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - Boilerplate for Chrome Extension React.js project  
+- [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) - Roadmap to becoming a React developer in 2019  
+- [react-easy-boilerplates](https://github.com/nimahkh/react-easy-boilerplates) - react boilerplate generator  
+- [react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of React spinners components with pure css  
+- [reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development.  
+- [reactime](https://github.com/open-source-labs/reactime) - chrome extension for react debugging and time travel  
+- [read-cmd-shim](https://github.com/npm/read-cmd-shim) - Read the path a cmd-shim is pointing at. Acts like fs.readlink but for cmd-shims.  
+- [reading-position-indicator](https://github.com/kunukn/reading-position-indicator) -   
+- [realworld](https://github.com/gothinkster/realworld) - &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅  
+- [recent-history](https://github.com/umarsheikh13/recent-history) - A chrome extension which displays your history in a pop-up.  
+- [recipes](https://github.com/BrowserSync/recipes) - Fully working project examples showing how to use BrowserSync in various ways.  
+- [reconnecting-websocket](https://github.com/joewalnes/reconnecting-websocket) - A small decorator for the JavaScript WebSocket API that automatically reconnects  
+- [reconnecting-websocket](https://github.com/pladaria/reconnecting-websocket) - Reconnecting WebSocket. For Web, React Native, cli (Node.js)  
+- [redbird](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node  
+- [Reddit-New-Comments-Highlighter](https://github.com/shadyabhi/Reddit-New-Comments-Highlighter) - Highlights new comments in  a thread on reddit  
+- [reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google) - Simple userscript that adds a button to your Google searches to search only for Reddit posts  
+- [redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.  
+- [refined-hacker-news](https://github.com/plibither8/refined-hacker-news) - ✨ Hacker News, but refined — Interface tweaks and features to make the HN experience better  
+- [refined-twitter](https://github.com/sindresorhus/refined-twitter) - Browser extension that simplifies the Twitter interface and adds useful features  
+- [rembrandt](https://github.com/imgly/rembrandt) - Image comparison using node-canvas  
+- [reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager  
+- [remote-browser](https://github.com/intoli/remote-browser) - A low-level browser automation framework built on top of the Web Extensions API standard.  
+- [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.  
+- [remove-web-limits](https://github.com/Cat7373/remove-web-limits) - 通杀大部分网站，可以解除禁止复制、剪切、选择文本、右键菜单的限制。  
+- [RemoveAMP](https://github.com/bentasker/RemoveAMP) - A small script to be pulled in by Greasemonkey, attempting to locate non AMP versions of pages and direct the user there  
+- [replace-in-file](https://github.com/adamreisnz/replace-in-file) - A simple utility to quickly replace contents in one or more files  
+- [replicator](https://github.com/inikulin/replicator) - Advanced JavaScript objects serialization.  
+- [request-stats](https://github.com/watson/request-stats) - Get stats on your Node.js HTTP server requests  
+- [Resemble.js](https://github.com/rsmbl/Resemble.js) - Image analysis and comparison  
+- [resize-event](https://github.com/shama/resize-event) - Detect resize on an element without polling or iframes  
+- [resize-optimize-images](https://github.com/ahmadawais/resize-optimize-images) - 🗃 Resize and optimize bmp, gif, jpeg, png, & tiff images in Node.js.  
+- [resolve-from](https://github.com/sindresorhus/resolve-from) - Resolve the path of a module like require.resolve() but from a given path  
+- [ResourceOverride](https://github.com/kylepaulsen/ResourceOverride) - An extension to help you gain full control of any website by redirecting traffic, replacing, editing, or inserting new content.  
+- [Responsive-Enhance](https://github.com/joshje/Responsive-Enhance) - Javascript to load a larger image where necessary  
+- [responsive-nav.js](https://github.com/viljamis/responsive-nav.js) - Responsive navigation plugin without library dependencies and with fast touch screen support.  
+- [responsive-sidebar-navigation](https://github.com/CodyHouse/responsive-sidebar-navigation) - An easy-to-integrate side, vertical navigation, ideal for dashboards and admin areas.  
+- [responsive-web-apps](https://github.com/webpro/responsive-web-apps) - Building Responsive Web Applications  
+- [rest](https://github.com/diegohaz/rest) - REST API generator with Node.js, Express and Mongoose  
+- [rest-hapi](https://github.com/JKHeadley/rest-hapi) - 🚀 A RESTful API generator for Node.js  
+- [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations  
+- [rework](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js  
+- [riloadr](https://github.com/tubalmartin/riloadr) - Riloadr - A cross-browser framework-independent responsive images loader written in Javascript.  
+- [riot](https://github.com/riot/riot) - Simple and elegant component-based UI library  
+- [rivets](https://github.com/mikeric/rivets) - Lightweight and powerful data binding.  
+- [roast-my-deps](https://github.com/jamiebuilds/roast-my-deps) - Your dependencies are bad and you should feel bad  
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler  
+- [rollup-plugin-cdn](https://github.com/WebReflection/rollup-plugin-cdn) - Resolve locally all dependencies loaded through fully qualified CDN urls.  
+- [rollup-plugin-iife](https://github.com/eight04/rollup-plugin-iife) - Convert ES modules into IIFEs.  
+- [rollup-plugin-import-file](https://github.com/jlocoding/rollup-plugin-import-file) - A rollup plugin that allows you to import any file type in your project  
+- [rollup-plugin-inline-js](https://github.com/eight04/rollup-plugin-inline-js) - Rollup with inline-js.  
+- [rollup-plugin-loadz0r](https://github.com/surma/rollup-plugin-loadz0r) - An ill-named rollup plugin that makes code splitting “just work”, even with workers.  
+- [rollup-plugin-multi-entry](https://github.com/rollup/rollup-plugin-multi-entry) - Use multiple entry points in your rollup bundle.  
+- [rollup-plugin-node-resolve](https://github.com/rollup/rollup-plugin-node-resolve) - Use the Node.js resolution algorithm with Rollup (formerly rollup-plugin-npm)  
+- [rollup-plugin-replace](https://github.com/rollup/rollup-plugin-replace) - Replace content while bundling  
+- [rollup-plugin-smart-asset](https://github.com/sormy/rollup-plugin-smart-asset) - Rollup plugin to rebase, inline or copy assets referenced from the code  
+- [rollup-plugin-string](https://github.com/TrySound/rollup-plugin-string) - Converts text files to modules  
+- [rollup-plugin-terser](https://github.com/TrySound/rollup-plugin-terser) - Rollup plugin to minify generated bundle  
+- [rollup-plugin-url](https://github.com/rollup/rollup-plugin-url) - Inline import files as data-URIs, or copy them to output  
+- [rollup-plugin-url-import](https://github.com/thgh/rollup-plugin-url-import) - Resolve URL imports just like Deno  
+- [rollup-plugin-url-resolve](https://github.com/mjackson/rollup-plugin-url-resolve) - Use URLs in your Rollup imports  
+- [rollup-starter-lib](https://github.com/rollup/rollup-starter-lib) - Bare-bones example of how to create a library using Rollup  
+- [rollup-stream](https://github.com/Permutatrix/rollup-stream) - a wrapper around Rollup that returns a stream instead of a Promise  
+- [rondel](https://github.com/alfdocimo/rondel) - Rondel is a library that makes use of the JavaScript Proxy API and exposes certain functionalities to control objects through the use of handlers.  
+- [router-elements](https://github.com/Seanmclem/router-elements) - Native Web Component SPA Router  
+- [roya](https://github.com/mouafa/roya) - 🔎 Find diff between two images  
+- [runnerty](https://github.com/runnerty/runnerty) - Orchestrator of processes  
+- [saasify](https://github.com/saasify-sh/saasify) - The easiest way to launch your own SaaS. (Active WIP)  
+- [safe-await](https://github.com/DavidWells/safe-await) - Safely use async/await without all the try catch blocks  
+- [safer-pass](https://github.com/WebReflection/safer-pass) - A safer and easy way to protect with password text or files.  
+- [salita](https://github.com/tbranyen/salita) - Automatically upgrade all NPM dependencies.  
+- [sanic.js](https://github.com/kb-dev/sanic.js) - JS Gotta go fast ! | Increase native JS functions performances  
+- [sass](https://github.com/sass/sass) - Sass makes CSS fun!  
+- [SASS-Build-SublimeText2](https://github.com/jaumefontal/SASS-Build-SublimeText2) - SASS build sytem for Sublime Text 2  
+- [sassport](https://github.com/davidkpiano/sassport) - Sass with JavaScript superpowers.  
+- [scoop-viewer](https://github.com/prezesp/scoop-viewer) - A gui client for scoop.  
+- [scoop.sh](https://github.com/pakeweb/scoop.sh) - Better documentation for Scoop.sh  
+- [scout_realtime](https://github.com/scoutapp/scout_realtime) - Realtime server metrics in your browser  
+- [scramjet](https://github.com/signicode/scramjet) - Simple yet powerful live data computation framework  
+- [scrape-github-trending](https://github.com/transitive-bullshit/scrape-github-trending) - Tutorial for web scraping / crawling with Node.js.  
+- [scrape-it](https://github.com/IonicaBizau/scrape-it) - 🔮 A Node.js scraper for humans.  
+- [scrapoxy](https://github.com/fabienvauchelles/scrapoxy) - Scrapoxy hides your scraper behind a cloud. It starts a pool of proxies to send your requests. Now, you can crawl without thinking about blacklisting!  
+- [screenlog.js](https://github.com/chinchang/screenlog.js) - Bring console.log on the screen  
+- [screenshot-capture](https://github.com/simov/screenshot-capture) - Screenshot Capture / Browser Extension  
+- [Script-Handler](https://github.com/stefanXO/Script-Handler) - Greasemonkey-like script handler for the Chrome browser  
+- [Scriptlets](https://github.com/AdguardTeam/Scriptlets) - AdGuard scriptlets library  
+- [scrollreveal](https://github.com/scrollreveal/scrollreveal) - Animate elements as they scroll into view.  
+- [sdk](https://github.com/microlinkhq/sdk) - Turn any URL into a beautiful link preview.  
+- [sdk-for-js](https://github.com/appwrite/sdk-for-js) - [READ-ONLY] Official Appwrite JS SDK  
+- [search-all-tabs](https://github.com/lunu-bounir/search-all-tabs) - search all opened tabs in a browser popup and see the matching previews  
+- [search-comparison](https://github.com/fiatjaf/search-comparison) - visualize { fast-fuzzy, fuzzyset, sifter, lunr, fuse, fuzzy } results at the same time  
+- [select](https://github.com/HubSpot/select) - Styleable select elements built on Tether. #hubspot-open-source  
+- [selection](https://github.com/Simonwep/selection) - 🖱️ Selection - A simple and lightweight library to realize visual DOM Selections, like on your Desktop. No jQuery. Supports any CSS library, e.g. Bootstrap. Including vertical & horizontal scroll support.  
+- [Selection-js](https://github.com/prateekkalra/Selection-js) - A lightweight javascipt library which provides users with a set of options in the form of a small popover over the selected portion of text.  
+- [selector-observer](https://github.com/rkusa/selector-observer) - Observe newly added and removed DOM nodes matching a given selector  
+- [selector-observer](https://github.com/josh/selector-observer) - Allows you to monitor DOM elements that match a CSS selector  
+- [SelectorListener](https://github.com/csuwildcat/SelectorListener) - Listen for CSS selector rule matches at document or element level  
+- [semver-regex](https://github.com/sindresorhus/semver-regex) - Regular expression for matching semver versions  
+- [sentineljs](https://github.com/muicss/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)  
+- [serialijse](https://github.com/erossignon/serialijse) - serialize and deserialize javascript object, preserve your object model  
+- [serializator](https://github.com/jsreport/serializator) - Serialize javascript objects to JSON with support for rich data structures  
+- [serialize-javascript](https://github.com/yahoo/serialize-javascript) - Serialize JavaScript to a superset of JSON that includes regular expressions and functions.  
+- [serialize-json](https://github.com/node-modules/serialize-json) - A serialize algorithm for JSON  
+- [serialize-to-js](https://github.com/commenthol/serialize-to-js) - serialize objects to javascript  
+- [Seriously.js](https://github.com/brianchirls/Seriously.js) - A real-time, node-based video effects compositor for the web built with HTML5, Javascript and WebGL  
+- [serv](https://github.com/ramlmn/serv) - 💻 A development server for serving static files  
+- [serve](https://github.com/zeit/serve) - Static file serving and directory listing  
+- [server](https://github.com/turtl/server) - The new Turtl server  
+- [servicebus](https://github.com/mateodelnorte/servicebus) - Simple service bus for sending events between processes using amqp.  
+- [setImmediate](https://github.com/YuzuJS/setImmediate) - A cross-browser implementation of the new setImmediate API.  
+- [SetiUI-Icons-Sublime](https://github.com/mrmartineau/SetiUI-Icons-Sublime) - Seti UI icons for any ST3 theme  
+- [share-button](https://github.com/carrot/share-button) - :warning: :warning: Currently Unmaintained :warning: :warning: - fast, beautiful, and painless social shares:  
+- [share-info](https://github.com/catcto/share-info) - Metadata Crawler, Scraping meta information, Get Sharing content  
+- [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.  
+- [sharp-cli](https://github.com/vseventer/sharp-cli) - CLI for sharp.  
+- [shimport](https://github.com/Rich-Harris/shimport) - Use JavaScript modules in all browsers, including dynamic imports  
+- [shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go  
+- [shop-companion](https://github.com/ShopCompanion/shop-companion) - Get access to full-resolution/largest/xxl/best-size product images and videos on various shopping sites.  
+- [shr](https://github.com/sampotts/shr) - Simple, clean, and customizable social sharing buttons.  
+- [shrimpit](https://github.com/yamafaktory/shrimpit) - Shrimpit 🍤 is a small CLI analysis tool for checking unused JavaScript, JSX & Vue templates ES6 exports in your project.  
+- [shunter](https://github.com/springernature/shunter) - A Node.js application built to read JSON and translate it into HTML  
+- [side-comments](https://github.com/aroc/side-comments) - [UNMAINTAINED] An interface component to give your site/app Medium.com style commenting.  
+- [signale](https://github.com/klaussinani/signale) - Highly configurable logging utility  
+- [silkrouter](https://github.com/scssyworks/silkrouter) - Silk router is a library for creating single page apps  
+- [silver-request](https://github.com/silverboyir/silver-request) -   
+- [simple-console](https://github.com/1j01/simple-console) - Add an elegant command-line interface to any page  
+- [Simple-JavaScript-DOM-Inspector](https://github.com/oldprojects/Simple-JavaScript-DOM-Inspector) - A simple JavaScript DOM inspector that highlights elements on mouseover and can perform actions on click (by default, finds the element's full or optimised CSS path.)  
+- [simplecrawler](https://github.com/simplecrawler/simplecrawler) - Flexible event driven crawler for node.  
+- [simulacra](https://github.com/daliwali/simulacra) - A data-binding function for the DOM.  
+- [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete web page as a single HTML file  
+- [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - SingleFileZ is a Web Extension for saving web pages as self-extracting HTML/ZIP hybrid files.  
+- [sitespeed.io](https://github.com/sitespeedio/sitespeed.io) - Sitespeed.io is an open source tool that helps you monitor, analyze and optimize your website speed and performance, based on performance best practices advices from the coach and collecting browser metrics using the Navigation Timing API, User Timings and Visual Metrics (FirstVisualChange, SpeedIndex & LastVisualChange).  
+- [skaler](https://github.com/terkelg/skaler) - A 329B client-side image resizer  
+- [skatejs](https://github.com/skatejs/skatejs) - Effortless custom elements powered by modern view libraries.  
+- [skyscanner-flights-scraping](https://github.com/TheJoin95/skyscanner-flights-scraping) - A scraping tool (for personal use, not commercial) to get some information about flights  
+- [SlickGrid](https://github.com/6pac/SlickGrid) - A lightning fast JavaScript grid/spreadsheet  
+- [slip](https://github.com/kornelski/slip) - Slip.js — UI library for manipulating lists via swipe and drag gestures  
+- [sloth](https://github.com/hrj/sloth) - Lazy load tabs in chromium  
+- [smart-table-core](https://github.com/smart-table/smart-table-core) - smart table core programmatic behaviors (no view related)  
+- [smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping  
+- [smartup](https://github.com/zimocode/smartup) -   
+- [Smooth-Div-Scroll](https://github.com/tkahn/Smooth-Div-Scroll) - A jQuery plugin for smooth scrolling.  
+- [smooth-scroll](https://github.com/cferdinandi/smooth-scroll) - A lightweight script to animate scrolling to anchor links.  
+- [snap](https://github.com/remy/snap) - Creates a static snapshot of a website. Sort of like wget's mirror mode, but with nice urls  
+- [snap-state](https://github.com/andrevenancio/snap-state) - State management in a snap 👌  
+- [snapline](https://github.com/pmdartus/snapline) - Unleash your screenshots stored in Chrome Devtool timeline files  
+- [snippet](https://github.com/opensource-matrix/snippet) - A library of code snippets.  
+- [SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:  
+- [SocialCount](https://github.com/filamentgroup/SocialCount) - Unmaintained (see the README): Simple barebones project to show share counts from various social networks.  
+- [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)  
+- [socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)  
+- [sockette](https://github.com/lukeed/sockette) - The cutest little WebSocket wrapper! 🧦  
+- [sockjs-client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - Javascript client  
+- [sockjs-node](https://github.com/sockjs/sockjs-node) - WebSocket emulation - Node.js server  
+- [solid](https://github.com/ryansolid/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.  
+- [sortable](https://github.com/davidfig/sortable) - Vanilla drag-and-drop sortable list(s)  
+- [Sortable](https://github.com/SortableJS/Sortable) - Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Ember, Knockout and any CSS library, e.g. Bootstrap.  
+- [sourcemap-validator](https://github.com/ben-ng/sourcemap-validator) - Map all the things, validate all the maps  
+- [Spectral](https://github.com/jxnblk/Spectral) - Click the Rainbow  
+- [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI  
+- [spinnies](https://github.com/jcarpanelli/spinnies) - Node.js module to create and manage multiple spinners in command-line interface programs  
+- [split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views  
+- [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS  
+- [spotlight](https://github.com/nextapps-de/spotlight) - Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.  
+- [src2png](https://github.com/mplewis/src2png) - 📸💻 Turn your source code into beautiful syntax-highlighted images.  
+- [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js  
+- [star-rating.js](https://github.com/pryley/star-rating.js) - This zero-dependency plugin transforms a select with numerical-range values (i.e. 1-5) into a dynamic star rating element.  
+- [stardog.js](https://github.com/stardog-union/stardog.js) - Stardog JavaScript Framework for node.js and the browser  
+- [stargazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!  
+- [starter-project-cli](https://github.com/maliMirkec/starter-project-cli) - Starter Project CLI creates a perfect Gulp development environment within a few minutes.  
+- [state-copy](https://github.com/jekrb/state-copy) - takes an object as input then serializes it as JSON and copies it to your clipboard from the browser  
+- [static-module](https://github.com/browserify/static-module) - convert module usage to inline expressions  
+- [Stein](https://github.com/SteinHQ/Stein) - Use Google Sheets as your no-setup database  
+- [stickymojo](https://github.com/mojotech/stickymojo) - A contained fixed positioned sticky sidebar jQuery plugin.  
+- [Stikked](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin written in PHP  
+- [stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams  
+- [streamlink-twitch-gui](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink  
+- [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous  
+- [string-argv](https://github.com/mccormicka/string-argv) -   
+- [strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes from a string  
+- [Stubmatic](https://github.com/NaturalIntelligence/Stubmatic) - Mock HTTP calls without coding. Designed specially for testing and testers.  
+- [Studddent](https://github.com/calumptrck/Studddent) - ✨ Curated online discounts for students. 🎒  
+- [styled-icons](https://github.com/jacobwgillespie/styled-icons) - 💅 Popular icon packs like Font Awesome, Material Design, and Octicons, available as React Styled Components  
+- [stylish](https://github.com/stylish-userstyles/stylish) - User styles manager for Firefox and other Mozilla software  
+- [stylish-chrome](https://github.com/stylish-userstyles/stylish-chrome) - Stylish extension for Chrome and Chrome-like things  
+- [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager  
+- [subcolor](https://github.com/ibrahimtelman/subcolor) - Subcolor is a tool to generate colors between two colors  
+- [subimage-match](https://github.com/dieterwalckiers/subimage-match) - Lightweight library that finds matches of an image within another image  
+- [subjx](https://github.com/nichollascarter/subjx) - Drag and drop pure javascript library(no dependencies)  
+- [Subl-AutoHotkey](https://github.com/cocobelgica/Subl-AutoHotkey) - AutoHotkey package for Sublime Text  
+- [Sublime-HTMLPrettify](https://github.com/victorporof/Sublime-HTMLPrettify) - HTML, CSS, JavaScript, JSON, React/JSX and Vue code formatter for Sublime Text 2 and 3 via node.js  
+- [Sublime-JS-Custom](https://github.com/Thom1729/Sublime-JS-Custom) - Customizable JavaScript syntax highlighting for Sublime Text.  
+- [SublimeLinter-for-ST2](https://github.com/SublimeLinter/SublimeLinter-for-ST2) - [DEPRECATED] Inline lint highlighting for the Sublime Text 2 editor  
+- [SublimeOnSaveBuild](https://github.com/alexnj/SublimeOnSaveBuild) - Trigger a build the moment you save a file in Sublime Text 2. Works best with web projects that make use of Less, Compass and any other pre-processor or a makefile.  
+- [substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.  
+- [Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.  
+- [superfine](https://github.com/jorgebucaran/superfine) - Minimal view layer for building web interfaces.  
+- [superplaceholder.js](https://github.com/chinchang/superplaceholder.js) - ⚡Super charge your input placeholders  
+- [superstatic](https://github.com/firebase/superstatic) - Superstatic: a static file server for fancy apps.  
+- [surplus](https://github.com/adamhaile/surplus) - High performance JSX web views for S.js applications  
+- [Survival-Kit](https://github.com/codingdesigner/Survival-Kit) - Tools and defaults for designing websites in the brower.  
+- [sushi-browser](https://github.com/kura52/sushi-browser) - Sushi Browser is the next generation browser which mounts the multi-panel and the video support function and so on.  Its goal is to be as fantastic as sushi. :sushi:  
+- [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps  
+- [svg-icon-workflow](https://github.com/lukewhitehouse/svg-icon-workflow) - An SVG icon workflow utilising Gulp as a build tool and providing fallbacks for older browsers  
+- [svg4everybody](https://github.com/jonathantneal/svg4everybody) - Use external SVG spritemaps today  
+- [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser  
+- [svgexport](https://github.com/shakiba/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module  
+- [svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files  
+- [sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.  
+- [swheel](https://github.com/qutran/swheel) - ☸Ultimate svelte router  
+- [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions  
+- [sylvanas](https://github.com/umijs/sylvanas) - Convert TypeScript to JavaScript  
+- [systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS  
+- [tab-gear](https://github.com/pobedit-instruments/tab-gear) - Tag Gears is an extension for Google Chrome that provides an intuitive tabs management.  
+- [tab-ninja](https://github.com/harshjv/tab-ninja) - 🗡 Close tabs with loads of options (left, right, audible, muted, domain, url, pinned, etc)  
+- [Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for saving and restoring sessions  
+- [tabex](https://github.com/nodeca/tabex) - Cross-tab message bus for browsers.  
+- [TabFern](https://github.com/cxw42/TabFern) - Google Chrome extension for saving and restoring sets of tabs, and for switching between windows and tabs from a vertical, grouped list.  
+- [TabHibernation](https://github.com/343max/TabHibernation) - Chrome extension that sends your tabs to sleep - like OneTab but without removing them from the tab bar  
+- [tabio](https://github.com/colebemis/tabio) - An open source tab manager for Chrome  
+- [table-dragger](https://github.com/sindu12jun/table-dragger) - Turn your old table to drag-and-drop table with columns and rows sorting like magic!  
+- [table-of-contents-sidebar](https://github.com/table-of-contents-sidebar/table-of-contents-sidebar) - An extension for Chrome. An outline tool makes it easier to navigate your novel. Automatically creates table of contents in the sidebar that can be clicked through, for easy document navigation.  
+- [table-turn](https://github.com/spencermountain/table-turn) - html-table parser on the command line  
+- [TableExport](https://github.com/clarketm/TableExport) - The simple, easy-to-implement library to export HTML tables to xlsx, xls, csv, and txt files.  
+- [TableOfContents](https://github.com/nikkas/TableOfContents) - Chrome-extension that creates an expandable table-of-contents on any web-page with heading-elements.  
+- [tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap  
+- [tablesaw](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables.  
+- [tabli](https://github.com/antonycourtney/tabli) - A Window and Tab Manager for Google Chrome  
+- [tabshepherd](https://github.com/sonntag/tabshepherd) - Google chrome extension for managing tabs.  
+- [tabstops](https://github.com/jonschlinkert/tabstops) - Empower your text editor or prompt with full-featured code snippets! JavaScript library and API for parsing and compiling code snippets with tabstops. Supports variables, placeholders, transforms, unlimited nesting, and all of the features of popular text editor snippets, including VSCode, Atom, TextMate and Sublime Text.  
+- [tabtalk](https://github.com/rapid7/tabtalk) - Secure, encrypted cross-tab communication in the browser  
+- [tabulator](https://github.com/olifolkerd/tabulator) - Interactive Tables and Data Grids for JavaScript  
+- [tabwrangler](https://github.com/tabwrangler/tabwrangler) - A browser extension that automatically closes your unused tabs so you can focus on the tabs that matter  
+- [tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support  
+- [tailorfit](https://github.com/rtheunissen/tailorfit) - jQuery plugin that allows you to fit elements (like images) within their containers.  
+- [tamperchrome](https://github.com/google/tamperchrome) - Tamper Chrome is a Chrome extension that allows you to modify HTTP requests on the fly and aid on web security testing. Tamper Chrome works across all operating systems (including Chrome OS).  
+- [tamperdav](https://github.com/Tampermonkey/tamperdav) - A WebDAV-like server to sync Tampermonkey scripts and edit them with an external editor  
+- [tampermonkey](https://github.com/Tampermonkey/tampermonkey) - Tampermonkey is the most popular userscript manager, with over 10 million users. It's available for Chrome, Microsoft Edge, Safari, Opera Next, and Firefox.  
+- [tampermonkey-scripts](https://github.com/moderntribe/tampermonkey-scripts) - Tribe Tampermonkey scripts  
+- [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat  
+- [tasklemon](https://github.com/Cykelero/tasklemon) - Painless automation in JavaScript.  
+- [techoverdose](https://github.com/SCHKN/techoverdose) - Tech aggregator for the trendiest topics (front, devops, ml, cryptos)  
+- [template-colors-web](https://github.com/icodeforlove/template-colors-web) - :art: beautiful color usage within template literals for console.log on the web  
+- [terminal-link](https://github.com/sindresorhus/terminal-link) - Create clickable links in the terminal  
+- [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player  
+- [terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+  
+- [tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥  
+- [tether](https://github.com/shipshapecode/tether) - A positioning engine to make overlays, tooltips and dropdowns better  
+- [textblock](https://github.com/glyphic-co/textblock) - Continuously responsive typesetting — Demo:  
+- [textocry](https://github.com/rinormaloku/textocry) - Textocry - Copy text from Images (chrome extension)  
+- [thegreatdiscarder](https://github.com/deanoemcke/thegreatdiscarder) -   
+- [thegreatsuspender](https://github.com/deanoemcke/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory  
+- [themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).  
+- [themer.js](https://github.com/krestaino/themer.js) - 🌗 Automatically switch between dark and light themes at sunset and sunrise using the user's location.  
+- [theroomjs](https://github.com/hsynlms/theroomjs) - a vanilla javascript plugin that allows you to outline dom elements like web inspectors  
+- [thetool](https://github.com/sfninja/thetool) - thetool is a CLI tool to capture different cpu, memory and other profiles for your node app in Chrome DevTools friendly format  
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.  
+- [throttle-debounce](https://github.com/niksy/throttle-debounce) - Throttle and debounce functions.  
+- [thumbnail-rating-bar-for-youtube](https://github.com/elliotwaite/thumbnail-rating-bar-for-youtube) - Chrome Extension: Show the rating bar (likes/dislikes) on the bottom of every YouTube thumbnail.  
+- [thundermole](https://github.com/springernature/thundermole) - Proxy or redirect requests to different applications based on an API response  
+- [tickedoff](https://github.com/jamiebuilds/tickedoff) - Tiny library (&lt;200B gzip) for deferring something by a &#34;tick&#34;  
+- [time-profile](https://github.com/node-modules/time-profile) - Measuring execution time of functions  
+- [tingle](https://github.com/robinparisi/tingle) - Vanilla modal plugin with no dependencies  
+- [tiny-care-terminal](https://github.com/notwaldorf/tiny-care-terminal) - 💖💻 A little dashboard that tries to take care of you when you're using your terminal.  
+- [tiny-warning](https://github.com/alexreardon/tiny-warning) - A tiny warning function  
+- [tinybind](https://github.com/blikblum/tinybind) - Lightweight and powerful data binding + templating solution  
+- [TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript  
+- [tinydate](https://github.com/lukeed/tinydate) - A tiny (349B) reusable date formatter. Extremely fast!  
+- [tinyify](https://github.com/browserify/tinyify) - a browserify plugin that runs various optimizations, so you don't have to install them all manually. makes your bundles tiny!  
+- [TinySort](https://github.com/Sjeiti/TinySort) - TinySort is a small script that sorts HTML elements. It sorts by text- or attribute value, or by that of one of it's children.  
+- [TinySuspender](https://github.com/arifwn/TinySuspender) - Unload idle tabs to reduce memory and cpu usage.  
+- [tinytime](https://github.com/aweary/tinytime) - ⏰ A straightforward date and time formatter in &lt;1kb  
+- [tippyjs](https://github.com/atomiks/tippyjs) - Highly customizable tooltip and popover library  
+- [tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.  
+- [to-query](https://github.com/Kikobeats/to-query) - Get query object from a request url  
+- [to-semver](https://github.com/sindresorhus/to-semver) - Get an array of valid, sorted, and cleaned semver versions from an array of strings  
+- [toast](https://github.com/pyrsmk/toast) - A modern JS/CSS asset loader  
+- [Tobi](https://github.com/rqrauhvmra/Tobi) - An accessible, simple and light-weight open source lightbox script with no dependencies.  
+- [Tools-for-Instagram](https://github.com/linkfy/Tools-for-Instagram) - Automation scripts for Instagram  
+- [tor-browser-portable](https://github.com/garethflowers/tor-browser-portable) - Portable version of the Tor Browser, for Windows  
+- [tornis](https://github.com/robb0wen/tornis) - Tornis helps you watch and respond to changes in your browser's viewport 🌲  
+- [tosin](https://github.com/FullHuman/tosin) - Initialize a npm package with everything included, from CI to documentation website  
+- [transducer-code-samples](https://github.com/pfrend/transducer-code-samples) -   
+- [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash  
+- [tree-cli](https://github.com/MrRaindrop/tree-cli) - List contents of directories in tree-like format.  
+- [treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.  
+- [truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.  
+- [tunnel-agent](https://github.com/request/tunnel-agent) - HTTP proxy tunneling agent. Formerly part of mikeal/request, now a standalone module.  
+- [tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app  
+- [twm](https://github.com/serapath/twm) - the window manager  
+- [TypeScript-Sublime-Plugin](https://github.com/microsoft/TypeScript-Sublime-Plugin) - IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins  
+- [typography.js](https://github.com/KyleAMathews/typography.js) - A powerful toolkit for building websites with beautiful design  
+- [ua-string](https://github.com/sindresorhus/ua-string) - Get the user agent of a recent Chrome version to pretend to be a browser in network requests  
+- [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.  
+- [uBlockProtector](https://github.com/jspenguin2017/uBlockProtector) - An anti-adblock defuser for Nano Adblocker and uBlock Origin  
+- [uBO-Extra](https://github.com/gorhill/uBO-Extra) - A companion extension to uBlock Origin  
+- [UglifyJS2](https://github.com/mishoo/UglifyJS2) - JavaScript parser / mangler / compressor / beautifier toolkit  
+- [ui-event-observer](https://github.com/azu/ui-event-observer) - Provide performant way to subscribe to browser UI Events.  
+- [umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.  
+- [uncaught](https://github.com/aleksandr-oleynikov/uncaught) - Module for handle uncaught errors and promises rejections  
+- [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.  
+- [undo](https://github.com/storeon/undo) - Module for storeon which allows undoing or redoing the latest event  
+- [undoer](https://github.com/samthor/undoer) - Native undo/redo behavior for web  
+- [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.  
+- [unique-selector](https://github.com/ericclemmons/unique-selector) - Given a DOM node, return a unique CSS selector matching only that element  
+- [Universal-Bypass](https://github.com/timmyRS/Universal-Bypass) - Don't waste your time with compliance. Universal Bypass automatically skips annoying link shorteners.  
+- [universal-router](https://github.com/kriasoft/universal-router) - A simple middleware-style router for isomorphic JavaScript web apps  
+- [unrequired](https://github.com/spencermountain/unrequired) - find unused javascript files in your project  
+- [unset-value](https://github.com/jonschlinkert/unset-value) - Delete nested properties from an object using dot notation.  
+- [unused-filename](https://github.com/sindresorhus/unused-filename) - Get an unused filename by appending a number if it exists: `file.txt` → `file (1).txt`  
+- [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:  
+- [UpUp](https://github.com/TalAter/UpUp) - ✈️ Easily create sites that work offline as well as online  
+- [URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library  
+- [url-incrementer](https://github.com/roysix/url-incrementer) - URLI, a URL Incrementer extension for Google Chrome and Mozilla Firefox  
+- [url-to-options](https://github.com/stevenvachon/url-to-options) - Convert a WHATWG URL to an http(s).request options object.  
+- [urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL  
+- [urlparser](https://github.com/petkaantonov/urlparser) - Fast url parser  
+- [urls-tool](https://github.com/raut-andrey/urls-tool) - Tool for simple work with url, params, hash  
+- [use-tensorflow](https://github.com/franciscop/use-tensorflow) - A React hook to use tensorflow.js easily  
+- [Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection written by me  
+- [userscript-proxy](https://github.com/eBay/userscript-proxy) - HTTP proxy to inject scripts and stylesheets into existing sites.  
+- [UserScripts](https://github.com/SO-Close-Vote-Reviewers/UserScripts) - Various user scripts that add features to the review queue or to the chat room  
+- [Userscripts](https://github.com/AdguardTeam/Userscripts) - Userscripts made by our team  
+- [userscripts](https://github.com/Ede123/userscripts) - My humble collection of userscripts!  
+- [UserScripts](https://github.com/TimidScript/UserScripts) - Userscripts for: Pixiv, DeviantArt, Nijie.info, NicoVideo Seiga,Google, Youtube and more  
+- [userscripts](https://github.com/chocolateboy/userscripts) - Userscripts for Greasemonkey, Tampermonkey etc.  
+- [userscripts](https://github.com/Farow/userscripts) - Userscripts  
+- [validator.js](https://github.com/validatorjs/validator.js) - String validation  
+- [van11y-accessible-hide-show-aria](https://github.com/nico3333fr/van11y-accessible-hide-show-aria) - ES2015 accessible hide-show system (collapsible regions), using ARIA  
+- [vanilla-caret-js](https://github.com/abhas9/vanilla-caret-js) - Set and get Caret position (contenteditable or TextArea) using Vanilla JavaScript  
+- [var-diff](https://github.com/flfwzgl/var-diff) - javascript variable diff algorithm  
+- [vBookmarks](https://github.com/windviki/vBookmarks) - A mod of Neat Bookmarks  
+- [verminal](https://github.com/defringe/verminal) - A Hyper theme. 💻  
+- [viewerjs](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer.  
+- [Viewport-Dimensions](https://github.com/CSWilson/Viewport-Dimensions) - This is an extension for Google Chrome to display the viewport dimensions on resize.  
+- [violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.  
+- [virtual-scroller](https://github.com/catamphetamine/virtual-scroller) - A component for efficiently rendering large lists of variable height items  
+- [virtualized-list](https://github.com/clauderic/virtualized-list) - A tiny, Vanilla JS, dependency free, virtualization library  
+- [vissense](https://github.com/vissense/vissense) - A utility library for observing visibility changes of DOM elements.  
+- [vivid](https://github.com/webkul/vivid) - a JavaScript library which is built to easily customize and use the SVG Icons with a blaze.  
+- [voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library  
+- [vscode-custom-css](https://github.com/be5invis/vscode-custom-css) - Custom CSS Plugin for Visual Studio Code. Based on vscode-icon  
+- [vscode-fix-checksums](https://github.com/lehni/vscode-fix-checksums) - A VSCode extension to adjust checksums after changes to core files  
+- [vue-devtools](https://github.com/vuejs/vue-devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.  
+- [vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.  
+- [wanda](https://github.com/clemmy/wanda) - Simple Javascript Gesture Recognition.  
+- [Watch.JS](https://github.com/melanke/Watch.JS) - watch the changes of any object or attribute  
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️  
+- [way.js](https://github.com/gwendall/way.js) - Simple, lightweight, persistent two-way databinding  
+- [wayang](https://github.com/lukluk/wayang) - Remote Chrome Headless , bypass reCAPTCHA dan anything that needs to be done by human  
+- [wConsequence](https://github.com/Wandalen/wConsequence) - Advanced synchronization mechanism. Asynchronous routines may use Consequence to wrap postponed result, what allows classify callback for such routines as output, not input, what improves analyzability of a program. Consequence may be used to make a queue for mutually exclusive access to a resource.  
+- [Web-Component-Dev-Environment](https://github.com/Seanmclem/Web-Component-Dev-Environment) - Easily build and use components and javascript  
+- [web-components-angular-react](https://github.com/andrewdacenko/web-components-angular-react) - Multiple apps as components POC  
+- [web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.  
+- [web-components-todo](https://github.com/shprink/web-components-todo) - A simple todo list built with various Web Components technologies  
+- [web-maker](https://github.com/chinchang/web-maker) - A blazing fast & offline frontend playground  
+- [web-resource-inliner](https://github.com/jrit/web-resource-inliner) - Inlines img, script and link tags into the same file  
+- [web-server-chrome](https://github.com/kzahel/web-server-chrome) - An HTTP Web Server for Chrome (chrome.sockets API)  
+- [web-worker-proxy](https://github.com/satya164/web-worker-proxy) - A better way of working with web workers  
+- [webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome  
+- [webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts via @font-face.  
+- [webframe](https://github.com/1productaweek/webframe) - A showcase of beautiful and well designed web app screens for design inspiration  
+- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through &#34;loaders&#34;, modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.  
+- [webpack-external-import](https://github.com/ScriptedAlchemy/webpack-external-import) - Load other Webpack bundles or chunk from the frontend. Without providing any context at build time  
+- [webpack-plugin-ramdisk](https://github.com/shellscape/webpack-plugin-ramdisk) - 🐏 A webpack plugin for blazing fast builds on a RAM disk / drive  
+- [webpack-userscript](https://github.com/momocow/webpack-userscript) - A Webpack4+ plugin for userscript projects. 🙈  
+- [webpage-capture](https://github.com/b4dnewz/webpage-capture) - :camera: Capture the web using headless browser with many options  
+- [webparsy](https://github.com/joseconstela/webparsy) - Node.JS library and cli for scraping websites using Puppeteer (or not) and YAML definitions  
+- [webrunify](https://github.com/brechtcs/webrunify) - Bundle a CommonJS module and its dependencies into a single ES module  
+- [webscrapbook](https://github.com/danny0838/webscrapbook) - A browser extension that captures the web page faithfully with highly customizable configurations. This project inherits from ScrapBook X.  
+- [website-scraper-puppeteer](https://github.com/website-scraper/website-scraper-puppeteer) - Plugin for website-scraper which returns html for dynamic websites using puppeteer  
+- [websocket-as-promised](https://github.com/vitalets/websocket-as-promised) - A Promise-based API for WebSockets  
+- [websocket-driver-node](https://github.com/faye/websocket-driver-node) - WebSocket protocol handler with pluggable I/O  
+- [WhatFont-Bookmarklet](https://github.com/chengyin/WhatFont-Bookmarklet) - The core of WhatFont Tool  
+- [wheelzoom](https://github.com/jackmoore/wheelzoom) - A small script for zooming IMG elements with the mousewheel/trackpad.  
+- [when-conditional](https://github.com/thekemkid/when-conditional) - A simple little asynchronous if check and statement.  
+- [whistle](https://github.com/avwo/whistle) - HTTP, HTTPS, WebSocket debugging proxy  
+- [windows-interact](https://github.com/Arlodotexe/windows-interact) - An npm library of utilities for interacting with and automating Windows  
+- [winreg-cli](https://github.com/notlmn/winreg-cli) - Command line tool with a fluent API for modifying the Windows registry  
+- [winston](https://github.com/winstonjs/winston) - A logger for just about everything.  
+- [winston-console-formatter](https://github.com/eugeny-dementev/winston-console-formatter) - Pretty print console formatter in yaml like style  
+- [wmjs](https://github.com/zacanger/wmjs) - [WIP] Tiling X window manager in Node  
+- [wml](https://github.com/wix/wml) - An alternative to symlinks that actually copies changed files from source to destination folders  
+- [worker-threads-pool](https://github.com/watson/worker-threads-pool) - Easily manage a pool of Node.js Worker Threads  
+- [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page  
+- [wp-calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com  
+- [WP-carouFredSel](https://github.com/WebDevStudios/WP-carouFredSel) - Simple plugin that will A) enqueue carouFredSel when requested, and B) (if requested) create a custom &#34;featured&#34; post type for the carousel  
+- [wp-front-end-editor](https://github.com/ellatrix/wp-front-end-editor) - Front-end Editor for WordPress  
+- [ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js  
+- [ws-server-wrapper](https://github.com/bminer/ws-server-wrapper) - Lightweight WebSocketServer wrapper lib using ws-wrapper to wrap connected WebSockets  
+- [ws-wrapper](https://github.com/bminer/ws-wrapper) - Lightweight WebSocket lib with socket.io-like event handling, requests, and channels  
+- [x_team_build_tool_round_up](https://github.com/Thoughtscript/x_team_build_tool_round_up) - X-Team Rollup v Webpack v Parcel comparison!  
+- [x-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery  
+- [x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the &lt;html&gt; noise.  
+- [x-ray-phantom](https://github.com/lapwinglabs/x-ray-phantom) - phantom driver for x-ray.  
+- [x-ray-puppeteer](https://github.com/brandonmp/x-ray-puppeteer) - Chromium Puppeteer driver for x-ray, for the discerning scrapist.  
+- [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - A web-based JavaScript（canvas） spreadsheet  
+- [xhook](https://github.com/jpillora/xhook) - Easily intercept and modify XHR request and response  
+- [xml-js](https://github.com/nashwaan/xml-js) - Converter utility between XML text and Javascript object / JSON text.  
+- [xo](https://github.com/xojs/xo) - ❤️ JavaScript linter with great defaults  
+- [XposedBridge](https://github.com/rovo89/XposedBridge) - The Java part of the Xposed framework.  
+- [yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.  
+- [yargs-parser](https://github.com/yargs/yargs-parser) - :muscle: the mighty option parser used by yargs  
+- [yeoman-wordpress](https://github.com/romainberger/yeoman-wordpress) - Yeoman generator for Wordpress project  
+- [YeoPress](https://github.com/wesleytodd/YeoPress) - A Yeoman generator for WordPress  
+- [yepnope.js](https://github.com/SlexAxton/yepnope.js) - A Script Loader For Your Conditional Builds  
+- [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs) - List of functions which you can use to replace moment.js + ESLint Plugin  
+- [yourchoice](https://github.com/actano/yourchoice) - :horse_racing: Pure calculation of selection state, no UI involved.  
+- [youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) - Interactively select the quality and format for youtube-dl  
+- [zazu](https://github.com/tinytacoteam/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.  
+- [zenpen](https://github.com/tholman/zenpen) - A minimalist writing zone.  
+- [zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.  
+- [zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.  
+- [zethus](https://github.com/rapyuta-robotics/zethus) - Realtime robot data visualization in the browser  
+- [zii](https://github.com/staltz/zii) - Chain function calls using a prototype function z  
+- [zingtouch](https://github.com/zingchart/zingtouch) - A JavaScript touch gesture detection library for the modern web  
+- [zip-text-nodes](https://github.com/fregante/zip-text-nodes) - Merge the DOM of 2 elements with the same textContent.  
+- [zookeeper](https://github.com/geekforbrains/zookeeper) - A tool for taming the Evernote API  
+- [ZoomHoverGold](https://github.com/superlime/ZoomHoverGold) - ZoomHover GOLD!  
+- [zoomify](https://github.com/craigfrancis/zoomify) - Absolutely minimal version of GSIV to work with touch screens and very slow processors.  
+- [zuckerjs](https://github.com/saposs-org/zuckerjs) - A simple Javascript library to build any SPA(Single Page Application) web application in a new way(component-based architecture + all uncoupled components).  
 
 ## Kotlin
-- [tipatch](https://github.com/kdrag0n/tipatch) - A patcher for TWRP to backup internal storage/emulated SD card contents (photos, downloads, videos, etc).  
-- [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.  
 - [Changelogs](https://github.com/GSala/Changelogs) -   
-- [RunInBackgroundPermissionSetter](https://github.com/MrBIMC/RunInBackgroundPermissionSetter) - App to set android's hidden RUN_IN_BACKGROUND permission. Requires root.  
 - [Enlightened](https://github.com/0xFireball/Enlightened) - An elegant, minimalist highlighting code editor for Android  
+- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.  
+- [red-moon](https://github.com/LibreShift/red-moon) - An android screen filter app for night time phone use  
+- [RunInBackgroundPermissionSetter](https://github.com/MrBIMC/RunInBackgroundPermissionSetter) - App to set android's hidden RUN_IN_BACKGROUND permission. Requires root.  
 - [SELinuxModeChanger](https://github.com/MrBIMC/SELinuxModeChanger) - Simple android app that sets SELinux into desired mode on each boot. 
 I opensourced it because google banned such apps from Google Play. 
 Licence is GPLv3. 
 
 Enjoy!  
-- [red-moon](https://github.com/LibreShift/red-moon) - An android screen filter app for night time phone use  
-- [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.  
+- [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.  
+- [tipatch](https://github.com/kdrag0n/tipatch) - A patcher for TWRP to backup internal storage/emulated SD card contents (photos, downloads, videos, etc).  
 
 ## LiveScript
 - [ramda-cli](https://github.com/raine/ramda-cli) - :ram: A CLI tool for processing data with functional pipelines  
 
 ## Lua
+- [keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard  
+- [Remotes](https://github.com/unifiedremote/Remotes) -   
 - [scoop-clink-completion](https://github.com/Elvyria/scoop-clink-completion) - Clink completion file for lukesampson/scoop.  
 - [vlc-clickpause](https://github.com/3demax/vlc-clickpause) - &#34;clickpause.lua&#34; is lua extension for VLC. After activation, click video to toggle Play/Pause  
-- [Remotes](https://github.com/unifiedremote/Remotes) -   
-- [keyboard](https://github.com/jasonrudolph/keyboard) - ⌨ Toward a more useful keyboard  
 
 ## MQL4
 - [naomi](https://github.com/borela/naomi) - Sublime Text enhanced syntax highlighting for JavaScript ES6/ES7/ES2015/ES2016/ES2017+, Babel, FlowType, React JSX, Styled Components, HTML5, SCSS3, PHP 7, phpDoc, PHPUnit, MQL4. Basic: Git config files.  
@@ -2127,8 +2127,8 @@ Enjoy!
 - [svg-explorer-extension](https://github.com/maphew/svg-explorer-extension) - Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files  
 
 ## NSIS
-- [SourceTreePortable](https://github.com/cosmomill/SourceTreePortable) - Atlassian SourceTree, Portable Edition  
 - [gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer for Windows.  
+- [SourceTreePortable](https://github.com/cosmomill/SourceTreePortable) - Atlassian SourceTree, Portable Edition  
 
 ## Nim
 - [ff](https://github.com/genotrance/ff) - Windows wrapper for fzf  
@@ -2137,791 +2137,791 @@ Enjoy!
 - [Batsh](https://github.com/BYVoid/Batsh) - A language that compiles to Bash and Windows Batch  
 
 ## Objective-C
-- [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.  
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web  
-- [Honer.app](https://github.com/puffnfresh/Honer.app) - OS X application to draw a border around the focused window  
-- [MacGap1](https://github.com/MacGapProject/MacGap1) - Desktop WebKit wrapper for HTML/CSS/JS applications.  
-- [launchrocket](https://github.com/jimbojsb/launchrocket) - A Mac PrefPane to manage all your Homebrew-installed services  
 - [EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms) - EKAlgorithms contains some well known CS algorithms & data structures.  
+- [expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.  
+- [Honer.app](https://github.com/puffnfresh/Honer.app) - OS X application to draw a border around the focused window  
 - [iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.  
+- [launchrocket](https://github.com/jimbojsb/launchrocket) - A Mac PrefPane to manage all your Homebrew-installed services  
 - [LiveReload](https://github.com/livereload/LiveReload) - LiveReload.app for Mac and Windows. See “develop” branch for the latest Windows release and LiveReload 3 progress. (NOTE: renamed from LiveReload2.)  
+- [MacGap1](https://github.com/MacGapProject/MacGap1) - Desktop WebKit wrapper for HTML/CSS/JS applications.  
 
 ## Others
-- [awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed  
-- [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.  
-- [ECMAScript-new-features-list](https://github.com/daumann/ECMAScript-new-features-list) - A comprehensive list of new ES features, including ES2015 (ES6), ES2016, ES2017, ES2018, ES2019  
-- [icondrop](https://github.com/Iconscout/icondrop) - A Sketch Plugin & Adobe CC Extension (Photoshop & Illustrator) to Enhance your designs with high-quality icons from Iconscout.  
-- [XDA-Labs-Issues-and-Suggestions](https://github.com/Wood-Man/XDA-Labs-Issues-and-Suggestions) - List of known issues and already suggested features  
-- [jsitor](https://github.com/jsitor/jsitor) - Online JS, CSS and HTML editor  
-- [uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues) - This is the community-maintained issue tracker for uBlock Origin  
-- [awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT  
-- [sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended) - Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.  
-- [logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos  
-- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)  
-- [bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (101 icons, 12kb)  
-- [desktop-releases](https://github.com/dashblock/desktop-releases) -   
-- [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.  
-- [module-requests](https://github.com/sindresorhus/module-requests) - Need a JavaScript module or looking for ideas? Welcome ✨  
-- [behave-theme](https://github.com/fnky/behave-theme) - A theme that makes you happy like cats on the internet, and Morgan Freeman's sexy voice.  
-- [proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.  
+- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.  
+- [adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) - Block lists to prevent JavaScript miners  
 - [AdGuardExtra](https://github.com/AdguardTeam/AdGuardExtra) - AdGuard Extra is designed to solve complicated cases when regular ad blocking rules aren't enough.  
-- [amazing-node-opensource-2019](https://github.com/Mybridge/amazing-node-opensource-2019) - 45 Amazing Node.js Open Source Tools & Projects for the Past Year (v.2019)  
-- [machine-learning-open-source](https://github.com/Mybridge/machine-learning-open-source) - Monthly Series - Machine Learning Top 10 Open Source Projects  
-- [nodejs-open-source](https://github.com/Mybridge/nodejs-open-source) - Monthly Series - Node.js Top 10 Open Source Projects  
-- [python-open-source](https://github.com/Mybridge/python-open-source) - Monthly Series - Python Top 10 Open Source Projects  
-- [vuejs-open-source](https://github.com/Mybridge/vuejs-open-source) - Monthly Series - Vue.js Top 10 Open Source Projects  
-- [javascript-open-source](https://github.com/Mybridge/javascript-open-source) - Monthly Series - JavaScript Top 10 Open Source Projects Edit Add topics  
-- [machine-learning-articles](https://github.com/Mybridge/machine-learning-articles) - Monthly Series - Top 10 Machine Learning Articles  
-- [web-development-articles](https://github.com/Mybridge/web-development-articles) - Monthly Series - Top 10 Web Development Articles  
-- [nodejs-articles](https://github.com/Mybridge/nodejs-articles) - Monthly Series - Top 10 Node.js Articles  
-- [vuejs-articles](https://github.com/Mybridge/vuejs-articles) - Monthly Series - Top 10 Vue.js Articles  
-- [javascript-articles](https://github.com/Mybridge/javascript-articles) - Monthly Series - Top 10 JavaScript Articles  
-- [python-articles](https://github.com/Mybridge/python-articles) - Monthly Series - Top 10 Python Articles  
-- [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers  
-- [awesome-sass](https://github.com/Famolus/awesome-sass) - 🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.  
-- [jquery-ui-sortable-animation](https://github.com/egorshar/jquery-ui-sortable-animation) - jQuery UI Sortable Animation  
-- [mojoicons](https://github.com/webkul/mojoicons) - Handcrafted 100 Outline and Flat Icons for Free -  
-- [DevopsWiki](https://github.com/Leo-G/DevopsWiki) - A wiki of Devops Tools, Tutorials and Scripts  
-- [codeexpander](https://github.com/oncework/codeexpander) - A cross-platform cloud synchronization development tool for developers that includes input enhancement, code snippet management, and Markdown. (专为开发者开发的一个集输入增强、代码片段管理(支持 Markdown)为一体跨平台云同步的开发工具。)  
-- [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - :two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code  
-- [awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)  
-- [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data  
-- [New-York-Theme](https://github.com/Bernardi23/New-York-Theme) -   
-- [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.  
-- [browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos  
-- [for-win](https://github.com/docker/for-win) - Bug reports for Docker Desktop for Windows  
-- [proxy-list](https://github.com/opsxcq/proxy-list) - A curated list of free public proxy servers  
-- [proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!  
-- [magisk_files](https://github.com/topjohnwu/magisk_files) - Magisk File Host  
-- [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem  
-- [onlineConsultantBlocker](https://github.com/pafnuty/onlineConsultantBlocker) - hosts-файл для блокировки онлайн-консультантов и виджетов обратного звонка  
 - [AdguardForAndroid](https://github.com/AdguardTeam/AdguardForAndroid) - Open bug tracker for Android version of AdGuard.  
-- [scoop-customize](https://github.com/ChinLong/scoop-customize) - It is customize for scoop-extras  
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019  
-- [list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources  
-- [DoxyDoxygen](https://github.com/20Tauri/DoxyDoxygen) - The last word in code documentation generation  
-- [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials  
-- [awesome](https://github.com/rollup/awesome) - ⚡️ Delightful Rollup Plugins, Packages, and Resources  
+- [amazing-node-opensource-2019](https://github.com/Mybridge/amazing-node-opensource-2019) - 45 Amazing Node.js Open Source Tools & Projects for the Past Year (v.2019)  
+- [AndroidShell](https://github.com/cesards/AndroidShell) - Android Developers are used to use an amount of shell commands in their everyday work, so I'm gonna recopilate some good shell commands to make search easier  
+- [ansible-role-android-sdk](https://github.com/nickpack/ansible-role-android-sdk) - Install Android SDK tools and packages, headless, with ansible.  
 - [Ansible-WSL](https://github.com/Wintus/Ansible-WSL) - Provisioning your Windows from inside of WSL by Ansible  
-- [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH  
-- [material-incognito-dark-theme](https://github.com/Fiddle-N/material-incognito-dark-theme) - A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.  
-- [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.  
-- [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.  
+- [ApacheConf.tmLanguage](https://github.com/colinta/ApacheConf.tmLanguage) - Adapted from text mate bundle by GreyWyvern  
+- [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API  
+- [art-of-readme](https://github.com/noffle/art-of-readme) - :love_letter: Things I've learned about writing good READMEs.  
+- [asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)  
+- [awesome](https://github.com/rollup/awesome) - ⚡️ Delightful Rollup Plugins, Packages, and Resources  
+- [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.  
+- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics  
+- [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全  
+- [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.  
+- [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - 🐢🚀 An Awesome list of Awesome lists related to Node.js.  
+- [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.  
+- [awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem  
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps  
-- [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux  
-- [SysmonTools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon  
-- [hidusbf](https://github.com/LordOfMice/hidusbf) - USB Mice Overclocking Software (for Windows)  
+- [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps) - :shell: Use your terminal shell to do awesome things.  
+- [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - :two_men_holding_hands: A curated list of awesome developer tools for writing cross-platform Node.js code  
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects  
+- [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.  
+- [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron  
+- [awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything  
 - [awesome-grid](https://github.com/FancyGrid/awesome-grid) - A curated list of grid(table) libraries and resources that developers may find useful.  
+- [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources  
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.  
+- [awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.  
+- [awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.  
+- [awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).  
+- [awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)  
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources  
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips  
+- [awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments  
+- [awesome-opensource-documents](https://github.com/hubtee/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.  
+- [awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT  
+- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem  
+- [awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software  
+- [awesome-sass](https://github.com/Famolus/awesome-sass) - 🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.  
+- [awesome-sass](https://github.com/HugoGiraudel/awesome-sass) - A curated list of awesome Sass.  
+- [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.  
+- [awesome-stars](https://github.com/abhijithvijayan/awesome-stars) - A curated list of my GitHub stars by stargazed  
+- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites  
+- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.  
+- [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.  
+- [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.  
+- [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js  
+- [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux  
+- [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.  
+- [behave-theme](https://github.com/fnky/behave-theme) - A theme that makes you happy like cats on the internet, and Morgan Freeman's sexy voice.  
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.  
+- [bookmarks](https://github.com/CodepediaOrg/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.bookmarks.dev  
+- [browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos  
+- [bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (101 icons, 12kb)  
+- [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.  
+- [ci-snippets](https://github.com/mpmont/ci-snippets) - A list of codeigniter 3 snippets for Sublime Text 2/3  
+- [codeexpander](https://github.com/oncework/codeexpander) - A cross-platform cloud synchronization development tool for developers that includes input enhancement, code snippet management, and Markdown. (专为开发者开发的一个集输入增强、代码片段管理(支持 Markdown)为一体跨平台云同步的开发工具。)  
+- [Core](https://github.com/SublimeTextIssues/Core) - Bug tracking for Sublime Text's &#34;Core&#34;  
+- [critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools) - Tools to prioritize above-the-fold (critical-path) CSS  
 - [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.  
 - [css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro  
-- [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects  
-- [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js  
-- [Seer](https://github.com/ccseer/Seer) - Seer bug report  
-- [win-cross-dev](https://github.com/george-haddad/win-cross-dev) - Cross Platform Development Setup for Windows  
-- [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.  
-- [awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments  
-- [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.  
-- [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem  
-- [modules](https://github.com/nodejs/modules) - Node.js Foundation Modules Team  
-- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL  
-- [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources  
-- [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features  
-- [awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.  
-- [megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.  
-- [quokka](https://github.com/wallabyjs/quokka) - Repository for quokka.js questions and issues  
-- [dracula-theme](https://github.com/dracula/dracula-theme) - :scream: A dark theme for all the things!  
-- [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.  
-- [JavaScriptNext.tmLanguage](https://github.com/Benvie/JavaScriptNext.tmLanguage) -   
-- [bookmarks](https://github.com/CodepediaOrg/bookmarks) - :bookmark: :star: Collection of public dev bookmarks, shared with :heart: from www.bookmarks.dev  
-- [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron  
-- [monokai-pro-vscode](https://github.com/Monokai/monokai-pro-vscode) - Issue tracking for Monokai Pro for Visual Studio Code  
-- [FiraSans](https://github.com/bBoxType/FiraSans) - Fira is a large OpenSource typeface family licensed under OFL  
-- [sublime-build-systems](https://github.com/addyosmani/sublime-build-systems) - Sublime Text build systems  
-- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips  
-- [awesome-awesome-nodejs](https://github.com/bnb/awesome-awesome-nodejs) - 🐢🚀 An Awesome list of Awesome lists related to Node.js.  
-- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources  
-- [adblock-nocoin-list](https://github.com/hoshsadiq/adblock-nocoin-list) - Block lists to prevent JavaScript miners  
-- [awesome-userscripts](https://github.com/brunocvcunha/awesome-userscripts) - 📖  A curated list of Awesome Userscripts.  
-- [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.  
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know  
-- [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.  
-- [qpython3](https://github.com/qpython-android/qpython3) - QPython3 is a script engine that runs Python3 on android devices.  
-- [thejsway](https://github.com/bpesquet/thejsway) - The JavaScript Way book  
-- [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way  
-- [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API  
-- [Keypirinha](https://github.com/Keypirinha/Keypirinha) - A fast keystroke launcher for Windows  
-- [monokai-pro-sublime-text](https://github.com/Monokai/monokai-pro-sublime-text) - Monokai Pro: beautiful functionality for professional developers  
-- [Docs](https://github.com/unifiedremote/Docs) - Official API documentation.  
-- [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.  
-- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.  
-- [Javascript-Cheatsheets](https://github.com/divyanshu-rawat/Javascript-Cheatsheets) - This repository consist of cheatsheets of JS Framworks & Libraries.  
-- [Sublime-Text-Plugins-for-Frontend-Web-Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development) - 📝 A Collection of Plugins for Frontend Web Development  
-- [usenet-docker](https://github.com/justinhamlett/usenet-docker) - Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.  
-- [awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github) - A collection of awesome browser extensions for GitHub.  
-- [awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.  
-- [monaco.ttf](https://github.com/todylu/monaco.ttf) - the monaco font improved: add special characters in monaco.ttf  
-- [projectmanagement](https://github.com/efidroid/projectmanagement) - EFIDroid Project Management  
-- [awesome-adb](https://github.com/mzlogin/awesome-adb) - :lollipop: ADB Usage Complete / ADB 用法大全  
-- [termux-sudo](https://github.com/st42/termux-sudo) - A bash script that provides sudo for Termux  
-- [ansible-role-android-sdk](https://github.com/nickpack/ansible-role-android-sdk) - Install Android SDK tools and packages, headless, with ansible.  
-- [sdmaid-public](https://github.com/d4rken/sdmaid-public) - SD Maid is an Android app that helps you manage files and apps.  
-- [AndroidShell](https://github.com/cesards/AndroidShell) - Android Developers are used to use an amount of shell commands in their everyday work, so I'm gonna recopilate some good shell commands to make search easier  
-- [MonokaiC](https://github.com/avivace/MonokaiC) - A Monokai color scheme for Sublime Text 3, providing both colored and text-style preview for Markdown editing.  
-- [understandinges6](https://github.com/nzakas/understandinges6) - Content for the ebook &#34;Understanding ECMAScript 6&#34;  
-- [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects  
-- [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) - Sublime Text essential plugins and resources  
-- [art-of-readme](https://github.com/noffle/art-of-readme) - :love_letter: Things I've learned about writing good READMEs.  
-- [tasker-tasks](https://github.com/dudeofawesome/tasker-tasks) - A collection of my Tasker tasks that others might be interested in  
-- [SmartTheme](https://github.com/KonradIT/SmartTheme) - Tasker tasks that change apps night/day theme (aka: blackout theme)  
-- [jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!  
-- [awesome-fonts](https://github.com/brabadu/awesome-fonts) - Curated list of fonts and everything  
-- [awesome-regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software  
-- [asuswrt-merlin](https://github.com/RMerl/asuswrt-merlin) - Enhanced version of Asus's router firmware (Asuswrt) (legacy code base)  
-- [trellis-backup](https://github.com/MWDelaney/trellis-backup) - Ansible role to set up Stouts.backup jobs for Roots/Trellis sites  
-- [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document  
-- [Core](https://github.com/SublimeTextIssues/Core) - Bug tracking for Sublime Text's &#34;Core&#34;  
-- [sidewise](https://github.com/joelpt/sidewise) - Persistent sidebar extension for Chrome featuring tree style tabs and tab hibernation.  
-- [awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites  
-- [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) - A useful list of must-watch talks about CSS  
-- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics  
-- [awesome-opensource-documents](https://github.com/hubtee/awesome-opensource-documents) - :blue_book: A curated list of awesome open source or open source licensed documents, guides, books.  
-- [github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github  
-- [awesome-sass](https://github.com/HugoGiraudel/awesome-sass) - A curated list of awesome Sass.  
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page  
-- [js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript **Looking for maintainer**  
-- [Seti_ST3](https://github.com/ctf0/Seti_ST3) - Seti_UI Port for ST3.  
-- [flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.  
-- [awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.  
-- [critical-path-css-tools](https://github.com/addyosmani/critical-path-css-tools) - Tools to prioritize above-the-fold (critical-path) CSS  
-- [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs  
-- [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.  
-- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.  
-- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates  
-- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.  
-- [roots-sass](https://github.com/roots/roots-sass) - Deprecated in favor of Sage  
-- [influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming  
-- [awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).  
-- [beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.  
-- [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript  
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.  
-- [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text  
-- [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)  
-- [sublime-js-snippets](https://github.com/jprichardson/sublime-js-snippets) - Snippets for JavaScript / JS Programming in Sublime Text 2 & 3  
-- [monaco-bold](https://github.com/vjpr/monaco-bold) - The Monaco font with a bold variant  
-- [css3-sass-mixins](https://github.com/madr/css3-sass-mixins) - Sass mixins which makes it easy to use css3 in Sass or SCSS powered projects  
-- [microframe](https://github.com/jglovier/microframe) - :microscope: :triangular_ruler: :pencil2: Microframe is a micro (&lt;200px wide), grid based wireframe PSD template for UI and UX designers mocking up website and app layouts.  
-- [node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) - Moved to https://github.com/nodejs/node  
-- [jade-tmbundle](https://github.com/ThisIsMissEm/jade-tmbundle) - [DEPRECATED] A textmate bundle for the Jade language  
-- [pyv8-binaries](https://github.com/emmetio/pyv8-binaries) - Archive of pre-compiled PyV8 binaries  
-- [ApacheConf.tmLanguage](https://github.com/colinta/ApacheConf.tmLanguage) - Adapted from text mate bundle by GreyWyvern  
-- [HTMLAttributes](https://github.com/agibsonsw/HTMLAttributes) - HTML(5) attribute completions  
-- [Placeholders](https://github.com/mrmartineau/Placeholders) - Placeholder HTML & content (lorem ipsum) package for Sublime Text 2  
-- [Emmet-Css-Snippets-for-Sublime-Text-2](https://github.com/P233/Emmet-Css-Snippets-for-Sublime-Text-2) - Emmet CSS completions for Sublime Text  
-- [sublime-jquery-snippets](https://github.com/aaronpowell/sublime-jquery-snippets) - Code snippets for developing with jQuery  
-- [Media-Query-Snippets](https://github.com/davezatch/Media-Query-Snippets) -   
-- [ci-snippets](https://github.com/mpmont/ci-snippets) - A list of codeigniter 3 snippets for Sublime Text 2/3  
-- [sublime-phpsnippets](https://github.com/stuartherbert/sublime-phpsnippets) - A collection of miscellaneous snippets for coding in PHP using Sublime Text 2  
-- [soda-theme](https://github.com/buymeasoda/soda-theme) - Dark and light custom UI themes for Sublime Text  
-- [SublimeTextSetup](https://github.com/brandonb927/SublimeTextSetup) - My Sublime Text Setup  
-- [CSS-Snippets](https://github.com/joshnh/CSS-Snippets) - A set of custom CSS snippets for Sublime Text  
-- [Sublime-Super-Snippets](https://github.com/jakebresnehan/Sublime-Super-Snippets) - A collection of front end developer snippets for Sublime Text  
-- [phoenix-theme](https://github.com/netatoo/phoenix-theme) - Dark & Light custom UI themes with colors variations for Sublime Text 2  
 - [css-selector-benchmarking](https://github.com/truetone/css-selector-benchmarking) - CSS Selector Benchmarking Tests  
-- [sass-textmate-bundle](https://github.com/nathos/sass-textmate-bundle) - Sass support for TextMate & Sublime Text (2 & 3)  
-- [notepad-plus-plus-scss-syntax-highlighting](https://github.com/marvinlabs/notepad-plus-plus-scss-syntax-highlighting) - Add some syntax highlighting with the default CSS settings provided by Notepad++  
+- [CSS-Snippets](https://github.com/joshnh/CSS-Snippets) - A set of custom CSS snippets for Sublime Text  
+- [css3-sass-mixins](https://github.com/madr/css3-sass-mixins) - Sass mixins which makes it easy to use css3 in Sass or SCSS powered projects  
+- [desktop-releases](https://github.com/dashblock/desktop-releases) -   
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2019  
+- [DevopsWiki](https://github.com/Leo-G/DevopsWiki) - A wiki of Devops Tools, Tutorials and Scripts  
+- [Docs](https://github.com/unifiedremote/Docs) - Official API documentation.  
+- [DoxyDoxygen](https://github.com/20Tauri/DoxyDoxygen) - The last word in code documentation generation  
+- [dracula-theme](https://github.com/dracula/dracula-theme) - :scream: A dark theme for all the things!  
+- [ECMAScript-new-features-list](https://github.com/daumann/ECMAScript-new-features-list) - A comprehensive list of new ES features, including ES2015 (ES6), ES2016, ES2017, ES2018, ES2019  
+- [Emmet-Css-Snippets-for-Sublime-Text-2](https://github.com/P233/Emmet-Css-Snippets-for-Sublime-Text-2) - Emmet CSS completions for Sublime Text  
+- [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features  
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know  
+- [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)  
+- [FiraSans](https://github.com/bBoxType/FiraSans) - Fira is a large OpenSource typeface family licensed under OFL  
+- [flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.  
+- [for-win](https://github.com/docker/for-win) - Bug reports for Docker Desktop for Windows  
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.  
+- [github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github  
+- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates  
+- [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document  
+- [hidusbf](https://github.com/LordOfMice/hidusbf) - USB Mice Overclocking Software (for Windows)  
+- [HTMLAttributes](https://github.com/agibsonsw/HTMLAttributes) - HTML(5) attribute completions  
+- [icondrop](https://github.com/Iconscout/icondrop) - A Sketch Plugin & Adobe CC Extension (Photoshop & Illustrator) to Enhance your designs with high-quality icons from Iconscout.  
+- [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript  
+- [influential-cs-books](https://github.com/cs-books/influential-cs-books) - Most influential books on Computer Science/programming  
+- [jade-tmbundle](https://github.com/ThisIsMissEm/jade-tmbundle) - [DEPRECATED] A textmate bundle for the Jade language  
+- [javascript-articles](https://github.com/Mybridge/javascript-articles) - Monthly Series - Top 10 JavaScript Articles  
+- [Javascript-Cheatsheets](https://github.com/divyanshu-rawat/Javascript-Cheatsheets) - This repository consist of cheatsheets of JS Framworks & Libraries.  
+- [javascript-open-source](https://github.com/Mybridge/javascript-open-source) - Monthly Series - JavaScript Top 10 Open Source Projects Edit Add topics  
+- [javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)  
+- [JavaScriptNext.tmLanguage](https://github.com/Benvie/JavaScriptNext.tmLanguage) -   
+- [jquery-ui-sortable-animation](https://github.com/egorshar/jquery-ui-sortable-animation) - jQuery UI Sortable Animation  
 - [jQuery.bindLast](https://github.com/nickyleach/jQuery.bindLast) - Binds events to be triggered after all the other &#34;normally&#34; bound events  
+- [js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript **Looking for maintainer**  
+- [jsitor](https://github.com/jsitor/jsitor) - Online JS, CSS and HTML editor  
+- [jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!  
+- [Keypirinha](https://github.com/Keypirinha/Keypirinha) - A fast keystroke launcher for Windows  
+- [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way  
+- [lime](https://github.com/limetext/lime) - Open source API-compatible alternative to the text editor Sublime Text  
+- [list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources  
+- [logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos  
+- [machine-learning-articles](https://github.com/Mybridge/machine-learning-articles) - Monthly Series - Top 10 Machine Learning Articles  
+- [machine-learning-open-source](https://github.com/Mybridge/machine-learning-open-source) - Monthly Series - Machine Learning Top 10 Open Source Projects  
+- [magisk_files](https://github.com/topjohnwu/magisk_files) - Magisk File Host  
+- [material-incognito-dark-theme](https://github.com/Fiddle-N/material-incognito-dark-theme) - A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.  
+- [Media-Query-Snippets](https://github.com/davezatch/Media-Query-Snippets) -   
+- [megatools](https://github.com/megous/megatools) - Open-source command line tools for accessing Mega.co.nz cloud storage.  
+- [microframe](https://github.com/jglovier/microframe) - :microscope: :triangular_ruler: :pencil2: Microframe is a micro (&lt;200px wide), grid based wireframe PSD template for UI and UX designers mocking up website and app layouts.  
+- [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.  
+- [module-requests](https://github.com/sindresorhus/module-requests) - Need a JavaScript module or looking for ideas? Welcome ✨  
+- [modules](https://github.com/nodejs/modules) - Node.js Foundation Modules Team  
+- [mojoicons](https://github.com/webkul/mojoicons) - Handcrafted 100 Outline and Flat Icons for Free -  
+- [monaco-bold](https://github.com/vjpr/monaco-bold) - The Monaco font with a bold variant  
+- [monaco.ttf](https://github.com/todylu/monaco.ttf) - the monaco font improved: add special characters in monaco.ttf  
+- [monokai-pro-sublime-text](https://github.com/Monokai/monokai-pro-sublime-text) - Monokai Pro: beautiful functionality for professional developers  
+- [monokai-pro-vscode](https://github.com/Monokai/monokai-pro-vscode) - Issue tracking for Monokai Pro for Visual Studio Code  
+- [MonokaiC](https://github.com/avivace/MonokaiC) - A Monokai color scheme for Sublime Text 3, providing both colored and text-style preview for Markdown editing.  
+- [must-watch-css](https://github.com/AllThingsSmitty/must-watch-css) - A useful list of must-watch talks about CSS  
+- [New-York-Theme](https://github.com/Bernardi23/New-York-Theme) -   
+- [node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) - Moved to https://github.com/nodejs/node  
+- [nodejs-articles](https://github.com/Mybridge/nodejs-articles) - Monthly Series - Top 10 Node.js Articles  
+- [nodejs-open-source](https://github.com/Mybridge/nodejs-open-source) - Monthly Series - Node.js Top 10 Open Source Projects  
+- [notepad-plus-plus-scss-syntax-highlighting](https://github.com/marvinlabs/notepad-plus-plus-scss-syntax-highlighting) - Add some syntax highlighting with the default CSS settings provided by Notepad++  
+- [onlineConsultantBlocker](https://github.com/pafnuty/onlineConsultantBlocker) - hosts-файл для блокировки онлайн-консультантов и виджетов обратного звонка  
+- [openlogos](https://github.com/arasatasaygin/openlogos) - Free logos for open source projects  
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.  
+- [phoenix-theme](https://github.com/netatoo/phoenix-theme) - Dark & Light custom UI themes with colors variations for Sublime Text 2  
+- [Placeholders](https://github.com/mrmartineau/Placeholders) - Placeholder HTML & content (lorem ipsum) package for Sublime Text 2  
+- [proggyfonts](https://github.com/bluescan/proggyfonts) - Monospaced fonts for programming.  
+- [projectmanagement](https://github.com/efidroid/projectmanagement) - EFIDroid Project Management  
+- [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.  
+- [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials  
+- [proxy-list](https://github.com/opsxcq/proxy-list) - A curated list of free public proxy servers  
+- [proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!  
+- [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.  
+- [python-articles](https://github.com/Mybridge/python-articles) - Monthly Series - Top 10 Python Articles  
+- [python-open-source](https://github.com/Mybridge/python-open-source) - Monthly Series - Python Top 10 Open Source Projects  
+- [pyv8-binaries](https://github.com/emmetio/pyv8-binaries) - Archive of pre-compiled PyV8 binaries  
+- [qpython3](https://github.com/qpython-android/qpython3) - QPython3 is a script engine that runs Python3 on android devices.  
+- [quokka](https://github.com/wallabyjs/quokka) - Repository for quokka.js questions and issues  
+- [roots-sass](https://github.com/roots/roots-sass) - Deprecated in favor of Sage  
+- [sass-textmate-bundle](https://github.com/nathos/sass-textmate-bundle) - Sass support for TextMate & Sublime Text (2 & 3)  
 - [sb_tvdb_scene_exceptions](https://github.com/midgetspy/sb_tvdb_scene_exceptions) - TVDB scene exceptions for Sick Beard  
+- [scoop-customize](https://github.com/ChinLong/scoop-customize) - It is customize for scoop-extras  
+- [sdmaid-public](https://github.com/d4rken/sdmaid-public) - SD Maid is an Android app that helps you manage files and apps.  
+- [Seer](https://github.com/ccseer/Seer) - Seer bug report  
+- [server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs  
+- [Seti_ST3](https://github.com/ctf0/Seti_ST3) - Seti_UI Port for ST3.  
+- [sidewise](https://github.com/joelpt/sidewise) - Persistent sidebar extension for Chrome featuring tree style tabs and tab hibernation.  
+- [SmartTheme](https://github.com/KonradIT/SmartTheme) - Tasker tasks that change apps night/day theme (aka: blackout theme)  
+- [soda-theme](https://github.com/buymeasoda/soda-theme) - Dark and light custom UI themes for Sublime Text  
+- [structured-text-tools](https://github.com/dbohdan/structured-text-tools) - A list of command line tools for manipulating structured text data  
+- [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks) - Sublime Text essential plugins and resources  
+- [sublime-build-systems](https://github.com/addyosmani/sublime-build-systems) - Sublime Text build systems  
+- [sublime-jquery-snippets](https://github.com/aaronpowell/sublime-jquery-snippets) - Code snippets for developing with jQuery  
+- [sublime-js-snippets](https://github.com/jprichardson/sublime-js-snippets) - Snippets for JavaScript / JS Programming in Sublime Text 2 & 3  
+- [sublime-monokai-extended](https://github.com/jonschlinkert/sublime-monokai-extended) - Extends Monokai from Soda with additional syntax highlighting for Markdown, LESS, HTML, Handlebars and more.  
+- [sublime-phpsnippets](https://github.com/stuartherbert/sublime-phpsnippets) - A collection of miscellaneous snippets for coding in PHP using Sublime Text 2  
+- [Sublime-Super-Snippets](https://github.com/jakebresnehan/Sublime-Super-Snippets) - A collection of front end developer snippets for Sublime Text  
+- [Sublime-Text-Plugins-for-Frontend-Web-Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development) - 📝 A Collection of Plugins for Frontend Web Development  
+- [SublimeTextSetup](https://github.com/brandonb927/SublimeTextSetup) - My Sublime Text Setup  
+- [SysmonTools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon  
+- [tasker-tasks](https://github.com/dudeofawesome/tasker-tasks) - A collection of my Tasker tasks that others might be interested in  
+- [termux-sudo](https://github.com/st42/termux-sudo) - A bash script that provides sudo for Termux  
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page  
+- [thejsway](https://github.com/bpesquet/thejsway) - The JavaScript Way book  
+- [trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers  
+- [trellis-backup](https://github.com/MWDelaney/trellis-backup) - Ansible role to set up Stouts.backup jobs for Roots/Trellis sites  
+- [uBlock-issues](https://github.com/uBlockOrigin/uBlock-issues) - This is the community-maintained issue tracker for uBlock Origin  
+- [understandinges6](https://github.com/nzakas/understandinges6) - Content for the ebook &#34;Understanding ECMAScript 6&#34;  
+- [usenet-docker](https://github.com/justinhamlett/usenet-docker) - Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.  
+- [vuejs-articles](https://github.com/Mybridge/vuejs-articles) - Monthly Series - Top 10 Vue.js Articles  
+- [vuejs-open-source](https://github.com/Mybridge/vuejs-open-source) - Monthly Series - Vue.js Top 10 Open Source Projects  
+- [web-development-articles](https://github.com/Mybridge/web-development-articles) - Monthly Series - Top 10 Web Development Articles  
+- [win-cross-dev](https://github.com/george-haddad/win-cross-dev) - Cross Platform Development Setup for Windows  
+- [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH  
+- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL  
+- [XDA-Labs-Issues-and-Suggestions](https://github.com/Wood-Man/XDA-Labs-Issues-and-Suggestions) - List of known issues and already suggested features  
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.  
 
 ## PHP
-- [safebox](https://github.com/404labfr/safebox) - Safebox is a tool to manage your websites, accounts, clients, procedures and more. Built with Laravel 5.  
-- [elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.  
-- [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease  
-- [wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.  
-- [toolserver-misc](https://github.com/Krinkle/toolserver-misc) - Source code of decommissioned Wikipedia user tools.  
-- [HRCloud2](https://github.com/zelon88/HRCloud2) - A full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool & More!  
-- [phpfm](https://github.com/dulldusk/phpfm) - phpFileManager is a complete filesystem management tool on a single file. This is a tool meant for rapid file access, and also to verify the server php configuration and security. The script can be renamed and deployed on an unique known url, and offers password protection.  
-- [ifm](https://github.com/misterunknown/ifm) - Improved File Manager  
-- [Segnalibro](https://github.com/unnikked/Segnalibro) - Save and comment your favorite links from the web. It's just a bookmarking application.  
-- [plugin-php](https://github.com/prettier/plugin-php) - Prettier PHP Plugin  
-- [flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List  
-- [wp-cli-valet-command](https://github.com/aaemnnosttv/wp-cli-valet-command) - Harness the power of Laravel Valet for creating fully functional WordPress installs in seconds.  
-- [valet-plus](https://github.com/weprovide/valet-plus) - Blazing fast macOS PHP development environment  
-- [valet-wsl](https://github.com/valeryan/valet-wsl) - A fork of Laravel Valet for Ubuntu modified to work in WSL.  
-- [Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo  
 - [alltube](https://github.com/Rudloff/alltube) - HTML GUI for youtube-dl  
-- [simple-autoloader-for-wordpress](https://github.com/tommcfarlin/simple-autoloader-for-wordpress) - An autoloader that aims to be as simple as dropping it into your WordPress project. All you need is a well-organized project.  
-- [Fossdroid-Core](https://github.com/SnaKKo/Fossdroid-Core) - Fossdroid Core is a web frontend of F-Droid: an alternative software repository comprising only free, open source software for Android. This repo is the open source version of fossdroid.com.  
 - [apk-parser-php](https://github.com/evozi/apk-parser-php) - Read basic android application info from APK file using PHP  
-- [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP  
-- [Sublime-WP-Customizer](https://github.com/ahmadawais/Sublime-WP-Customizer) - 🚀 Sublime Text package of snippets for WordPress Customizer. Helps you write standard WordPress code for Customizer with different kinds of snippets — in seconds.  
-- [wp-stage-switcher](https://github.com/roots/wp-stage-switcher) - WordPress plugin that allows you to switch between different environments from the admin bar  
-- [popups](https://github.com/timersys/popups) - WordPress Popups Plugin  
-- [soil](https://github.com/roots/soil) - WordPress plugin which contains a collection of modules to apply theme-agnostic front-end modifications  
-- [wp-gistpen](https://github.com/intraxia/wp-gistpen) - A self-hosted alternative to putting your code snippets on Gist.  
-- [roots-example-project.com](https://github.com/roots/roots-example-project.com) - Example Roots stack project (Trellis, Bedrock, Sage)  
-- [VVV-Dashboard](https://github.com/leogopal/VVV-Dashboard) - A Beautiful, Simple and Easy-To-Use Dashboard for Varying Vagrant Vagrants (VVV)  
-- [sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow  
+- [astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease  
+- [bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure  
+- [csscomb-for-sublime](https://github.com/csscomb/csscomb-for-sublime) - ! DEPRECATED ! Please use https://github.com/csscomb/sublime-csscomb instead  
 - [DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP) - sample code for several design patterns in PHP  
+- [elementor](https://github.com/elementor/elementor) - The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.  
+- [flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List  
+- [Fossdroid-Core](https://github.com/SnaKKo/Fossdroid-Core) - Fossdroid Core is a web frontend of F-Droid: an alternative software repository comprising only free, open source software for Android. This repo is the open source version of fossdroid.com.  
+- [HRCloud2](https://github.com/zelon88/HRCloud2) - A full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool & More!  
+- [http-client-hints](https://github.com/jonathantneal/http-client-hints) - Hurray for server-side content negotiation  
+- [ifm](https://github.com/misterunknown/ifm) - Improved File Manager  
+- [joomla-start](https://github.com/jures/joomla-start) - Blank mobile first Joomla template with all of the core scripts unset  
 - [opcache-status](https://github.com/rlerdorf/opcache-status) - A one-page opcache status page  
 - [OpCacheGUI](https://github.com/PeeHaa/OpCacheGUI) - GUI for PHP's OpCache  
-- [csscomb-for-sublime](https://github.com/csscomb/csscomb-for-sublime) - ! DEPRECATED ! Please use https://github.com/csscomb/sublime-csscomb instead  
-- [bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure  
-- [http-client-hints](https://github.com/jonathantneal/http-client-hints) - Hurray for server-side content negotiation  
-- [WordPress-Starter-Theme](https://github.com/mattbanks/WordPress-Starter-Theme) - WordPress Starter Theme for use as a starting template for building custom themes. Uses SCSS, Normalize, AutoPrefixr, Grunt for compilation/linting/deployments, and BrowserSync for cross-device auto refreshing.  
+- [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP  
+- [phpfm](https://github.com/dulldusk/phpfm) - phpFileManager is a complete filesystem management tool on a single file. This is a tool meant for rapid file access, and also to verify the server php configuration and security. The script can be renamed and deployed on an unique known url, and offers password protection.  
 - [pinboard-api](https://github.com/kijin/pinboard-api) - Pinboard API Client in PHP  
-- [joomla-start](https://github.com/jures/joomla-start) - Blank mobile first Joomla template with all of the core scripts unset  
+- [plugin-php](https://github.com/prettier/plugin-php) - Prettier PHP Plugin  
+- [popups](https://github.com/timersys/popups) - WordPress Popups Plugin  
+- [roots-example-project.com](https://github.com/roots/roots-example-project.com) - Example Roots stack project (Trellis, Bedrock, Sage)  
+- [safebox](https://github.com/404labfr/safebox) - Safebox is a tool to manage your websites, accounts, clients, procedures and more. Built with Laravel 5.  
+- [sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow  
+- [Segnalibro](https://github.com/unnikked/Segnalibro) - Save and comment your favorite links from the web. It's just a bookmarking application.  
+- [Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo  
+- [simple-autoloader-for-wordpress](https://github.com/tommcfarlin/simple-autoloader-for-wordpress) - An autoloader that aims to be as simple as dropping it into your WordPress project. All you need is a well-organized project.  
+- [soil](https://github.com/roots/soil) - WordPress plugin which contains a collection of modules to apply theme-agnostic front-end modifications  
+- [Sublime-WP-Customizer](https://github.com/ahmadawais/Sublime-WP-Customizer) - 🚀 Sublime Text package of snippets for WordPress Customizer. Helps you write standard WordPress code for Customizer with different kinds of snippets — in seconds.  
 - [toolkit](https://github.com/getkirby-v1/toolkit) - Deprecated! Please see: https://github.com/getkirby/toolkit  
+- [toolserver-misc](https://github.com/Krinkle/toolserver-misc) - Source code of decommissioned Wikipedia user tools.  
+- [valet-plus](https://github.com/weprovide/valet-plus) - Blazing fast macOS PHP development environment  
+- [valet-wsl](https://github.com/valeryan/valet-wsl) - A fork of Laravel Valet for Ubuntu modified to work in WSL.  
+- [VVV-Dashboard](https://github.com/leogopal/VVV-Dashboard) - A Beautiful, Simple and Easy-To-Use Dashboard for Varying Vagrant Vagrants (VVV)  
+- [wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.  
+- [WordPress-Starter-Theme](https://github.com/mattbanks/WordPress-Starter-Theme) - WordPress Starter Theme for use as a starting template for building custom themes. Uses SCSS, Normalize, AutoPrefixr, Grunt for compilation/linting/deployments, and BrowserSync for cross-device auto refreshing.  
+- [wp-cli-valet-command](https://github.com/aaemnnosttv/wp-cli-valet-command) - Harness the power of Laravel Valet for creating fully functional WordPress installs in seconds.  
+- [wp-gistpen](https://github.com/intraxia/wp-gistpen) - A self-hosted alternative to putting your code snippets on Gist.  
+- [wp-stage-switcher](https://github.com/roots/wp-stage-switcher) - WordPress plugin that allows you to switch between different environments from the admin bar  
 
 ## PLpgSQL
 - [node-sqlite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js  
 
 ## Pascal
-- [ekeyfinder](https://github.com/samrocketman/ekeyfinder) - Archive of my sourceforge project Enchanted Keyfinder.  Software key retrieval on Windows.  
-- [xidel](https://github.com/benibela/xidel) - A command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern templates.  It can also create new or transformed XML/HTML/JSON documents.  
-- [winff](https://github.com/WinFF/winff) - Automatically exported from code.google.com/p/winff  
-- [rdpwrap](https://github.com/stascorp/rdpwrap) - RDP Wrapper Library  
 - [Anti-WebMiner](https://github.com/greatis/Anti-WebMiner) - Anti-WebMiner protects your PC against web cryptocurrency miners (JS scripts like Coinhive executed in the browser) by modifying Windows hosts file  
+- [ekeyfinder](https://github.com/samrocketman/ekeyfinder) - Archive of my sourceforge project Enchanted Keyfinder.  Software key retrieval on Windows.  
+- [rdpwrap](https://github.com/stascorp/rdpwrap) - RDP Wrapper Library  
+- [winff](https://github.com/WinFF/winff) - Automatically exported from code.google.com/p/winff  
+- [xidel](https://github.com/benibela/xidel) - A command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern templates.  It can also create new or transformed XML/HTML/JSON documents.  
 
 ## Perl
-- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer  
 - [cloc](https://github.com/kentcdodds/cloc) - An npm module for distributing cloc by Al Danial  
 - [cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.  
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:  
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer  
 - [HTTP--Proxy--GreaseMonkey](https://github.com/AndyA/HTTP--Proxy--GreaseMonkey) - Run GreaseMonkey scripts in any browser  
 - [ls--](https://github.com/trapd00r/ls--) - ls on steroids  
-- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:  
 - [rsnapshot](https://github.com/rsnapshot/rsnapshot) - a tool for backing up your data using rsync (if you want to get help, use https://lists.sourceforge.net/lists/listinfo/rsnapshot-discuss)  
 
 ## PowerShell
-- [scoop-nonportable](https://github.com/oltolm/scoop-nonportable) - Scoop bucket for nonportable apps  
-- [shark](https://github.com/kenijo/shark) - Create the shell environment of your dreams  
+- [BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations  
+- [boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages  
+- [chocolatey](https://github.com/chocolatey-archive/chocolatey) - [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.  
+- [chocolatey-coreteampackages](https://github.com/chocolatey-community/chocolatey-coreteampackages) - Chocolatey Core Community Maintainers Team Packages - packages that are managed and maintained by core community team for community package repository (https://chocolatey.org/packages)  
+- [concfg](https://github.com/lukesampson/concfg) - Import / export Windows console settings  
+- [ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes) - Color themes for ConEmu  
+- [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A collection of Scripts which disable / remove Windows 10 Features and Apps  
 - [Main](https://github.com/ScoopInstaller/Main) - 📦 The next-generation default bucket for Scoop.  
 - [Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.  
-- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.  
 - [psake](https://github.com/psake/psake) - A build automation tool written in PowerShell  
 - [pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz.  
-- [scoop-Ash258](https://github.com/Ash258/scoop-Ash258) - Personal bucket with wide variety of applications of all kind.  
-- [concfg](https://github.com/lukesampson/concfg) - Import / export Windows console settings  
-- [BlackViperScript](https://github.com/madbomb122/BlackViperScript) - Sets Win 10 Services based on Black Viper's Service Configurations  
-- [scoop-extras](https://github.com/lukesampson/scoop-extras) - &#34;Extras&#34; bucket for Scoop  
-- [chocolatey-coreteampackages](https://github.com/chocolatey-community/chocolatey-coreteampackages) - Chocolatey Core Community Maintainers Team Packages - packages that are managed and maintained by core community team for community package repository (https://chocolatey.org/packages)  
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.  
-- [ConEmu-Color-Themes](https://github.com/joonro/ConEmu-Color-Themes) - Color themes for ConEmu  
-- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019  
-- [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A collection of Scripts which disable / remove Windows 10 Features and Apps  
-- [boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages  
+- [scoop-Ash258](https://github.com/Ash258/scoop-Ash258) - Personal bucket with wide variety of applications of all kind.  
+- [scoop-extras](https://github.com/lukesampson/scoop-extras) - &#34;Extras&#34; bucket for Scoop  
+- [scoop-nonportable](https://github.com/oltolm/scoop-nonportable) - Scoop bucket for nonportable apps  
 - [Set-Privacy](https://github.com/hahndorf/Set-Privacy) - PowerShell script to batch-change privacy settings in Windows 10  
-- [chocolatey](https://github.com/chocolatey-archive/chocolatey) - [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.  
+- [shark](https://github.com/kenijo/shark) - Create the shell environment of your dreams  
+- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019  
+- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.  
 
 ## Python
-- [constructor](https://github.com/conda/constructor) - tool for creating installers from conda packages  
-- [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem  
-- [exec-wrappers](https://github.com/gqmelo/exec-wrappers) - A command line tool to create wrappers around executable files  
-- [conda-execute](https://github.com/conda-tools/conda-execute) - Execute scripts in their own temporary environment  
-- [yip](https://github.com/balzss/yip) - Frontend for searching PyPI, a feature rich alternative to pip search  
-- [sublimetext-syntaxfold](https://github.com/jamalsenouci/sublimetext-syntaxfold) - Sublime Text Plugin that provides a configurable command and popup for folding code based on syntax  
-- [SimpleCV](https://github.com/sightmachine/SimpleCV) - The Open Source Framework for Machine Vision  
-- [pip-upgrader](https://github.com/simion/pip-upgrader) - An interactive pip requirements upgrader. It also updates the version in your requirements.txt file.  
-- [pip_upgrade_outdated](https://github.com/defjaf/pip_upgrade_outdated) - Install outdated python packages.  
-- [pip-review](https://github.com/jgonggrijp/pip-review) - A tool to keep track of your Python package updates.  
-- [FileHistory](https://github.com/FichteFoll/FileHistory) - Sublime Text plugin that keeps track of files which have been recently closed, as well as files that have been recently accessed.  
-- [nefarious](https://github.com/lardbit/nefarious) - Web application for downloading TV & Movies  
-- [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.  
-- [traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.  
-- [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites  
-- [nounscraper](https://github.com/yourcelf/nounscraper) - Scraper for The Noun Project.  
-- [enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python  
-- [pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS  
-- [py-gui](https://github.com/JakeCoxon/py-gui) - Work in progress  
-- [tabnine-sublime](https://github.com/zxqfl/tabnine-sublime) - Sublime Text client for TabNine  
-- [SickChill](https://github.com/SickChill/SickChill) - Less rage, more chill.  
-- [Watcher3](https://github.com/nosmokingbandit/Watcher3) -   
+- [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - A curated collection of useful Python snippets that you can understand in 30 seconds or less.  
+- [adb-sync](https://github.com/google/adb-sync) -   
 - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud  
-- [jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion and static analysis library for python.  
-- [Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line  
-- [PyUserInput](https://github.com/SavinaRoja/PyUserInput) - A module for cross-platform control of the mouse and keyboard in python that is simple to install and use.  
+- [anaconda](https://github.com/DamnWidget/anaconda) - Anaconda turns your Sublime Text 3 in a full featured Python development IDE including autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker Vagrant and Docker support for Sublime Text 3 using Jedi, PyFlakes, pep8, MyPy, PyLint, pep257 and McCabe that will never freeze your Sublime Text 3  
+- [Apk-Changer](https://github.com/Furniel/Apk-Changer) - Command line program for modifying apk files  
+- [asyncpushbullet](https://github.com/rharder/asyncpushbullet) - An asyncio-based python client for http://pushbullet.com  
+- [Auto-Subliminal](https://github.com/h3llrais3r/Auto-Subliminal) - Auto-Subliminal, the automated subliminal subtitle downloader  
+- [AutoFileName](https://github.com/evandrocoan/AutoFileName) - Sublime Text plugin that autocompletes filenames  
+- [AutoFileName](https://github.com/BoundInCode/AutoFileName) - Sublime Text plugin that autocompletes filenames  
+- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line  
+- [AutomaticPackageReloader](https://github.com/randy3k/AutomaticPackageReloader) - Automatically reload submodules while developing a Sublime Text package.  
+- [AutoSelect](https://github.com/SublimeText/AutoSelect) - Sticky Selection  
+- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources  
 - [AXUI](https://github.com/xcgspring/AXUI) - AXUI is short for &#34;Auto eXecute UI&#34;, is an UI automation framework, target to minimize the gap between tools and testers  
-- [lackey](https://github.com/glitchassassin/lackey) - Lackey - Graphical desktop automation with Python  
-- [pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)  
-- [pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.  
-- [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.  
-- [pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Automate your Python Dependency Management.  
-- [flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.  
-- [nzbgetpp](https://github.com/Prinz23/nzbgetpp) - nzbget scripts  
-- [Highlighter](https://github.com/bluegray/Highlighter) - Sublime Text plugin to highlight any sequence of characters. Highlights mixed tabs and spaces, some unicode characters and trailing space by default.  
-- [dynaconf](https://github.com/rochacbruno/dynaconf) - The dynamic configurator for your Python Project :wrench:  
-- [wand](https://github.com/emcconville/wand) - The ctypes-based simple ImageMagick binding for Python  
-- [node-canvas-prebuilt](https://github.com/node-gfx/node-canvas-prebuilt) - Repo used to build binaries for node-canvas on CI  
-- [eg](https://github.com/srsudar/eg) - Useful examples at the command line.  
-- [dafter](https://github.com/vinzeebreak/dafter) - 📥 Command-line downloader for public datasets  
+- [B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage  
+- [background](https://github.com/ParthS007/background) - Runs things in the background.  
+- [bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.  
+- [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.  
+- [BetterFindNext](https://github.com/notbaab/BetterFindNext) - Sublime plugin for a better find next  
+- [bidict](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality.  
+- [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) - Bracket and tag highlighter for Sublime Text http://facelessuser.github.io/BracketHighlighter/  
+- [carbonSublime](https://github.com/molnarmark/carbonSublime) - 🖥️ A Sublime Text 3 Plugin for Carbon. (https://carbon.now.sh)  
+- [catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data  
+- [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.  
 - [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.  
-- [SublimeOutline](https://github.com/warmdev/SublimeOutline) - Outline view for Sublime Text 3  
-- [hyperhelpcore](https://github.com/STealthy-and-haSTy/hyperhelpcore) - A hyperlinked help system for Sublime Text 3  
-- [SnAPI](https://github.com/STealthy-and-haSTy/SnAPI) - View Sublime Text 3 API documentation directly from within Sublime Text.  
-- [yq](https://github.com/kislyuk/yq) - Command-line YAML and XML processor - jq wrapper for YAML/XML documents  
-- [repren](https://github.com/jlevy/repren) - Rename anything  
-- [shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers  
+- [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need  
+- [ChromeREPL](https://github.com/acarabott/ChromeREPL) - A Sublime Text plugin to execute JavaScript in Google Chrome  
+- [classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders  
+- [clevernote](https://github.com/dvj/clevernote) - A command line interface to Evernote  
+- [ClickableRequires](https://github.com/hajnalben/ClickableRequires) - Open the required javascript files with a mouseclick in SublimeText3  
+- [ClickableUrls_SublimeText](https://github.com/leonid-shevtsov/ClickableUrls_SublimeText) - Underlines URLs in Sublime Text, and lets you open them with a keystroke.  
+- [CodeComplice](https://github.com/spectacles/CodeComplice) - CodeIntel for Sublime Text 2 / 3  
+- [CommonRegex](https://github.com/madisonmay/CommonRegex) - A collection of common regular expressions bundled with an easy to use interface.  
+- [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem  
+- [conda-execute](https://github.com/conda-tools/conda-execute) - Execute scripts in their own temporary environment  
+- [conemu](https://github.com/dracula/conemu) - :scream: A dark theme for ConEmu  
+- [configyaml](https://github.com/dropseed/configyaml) - Parse and validate YAML config files using Python classes  
+- [consolewrap](https://github.com/unknownuser88/consolewrap) - This plugin helps you to work easily with log statements  
+- [constructor](https://github.com/conda/constructor) - tool for creating installers from conda packages  
+- [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.  
+- [CopyAsHtml](https://github.com/liulex/CopyAsHtml) - Copy code in Sublime Text with syntax highlighting  
+- [CouchPotatoV1](https://github.com/CouchPotato/CouchPotatoV1) - This is the old version, please use https://github.com/CouchPotato/CouchPotatoServer  
+- [cpython](https://github.com/python/cpython) - The Python programming language  
+- [CursorRuler](https://github.com/icylace/CursorRuler) - Marks the current cursor position(s) using dynamic rulers.  For Sublime Text 2 and 3.  
+- [cython](https://github.com/cython/cython) - The most widely used Python to C compiler  
+- [dafter](https://github.com/vinzeebreak/dafter) - 📥 Command-line downloader for public datasets  
+- [DashDoc](https://github.com/farcaller/DashDoc) - Dash integration for Sublime Text  
+- [debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project  
+- [delegator.py](https://github.com/amitt001/delegator.py) - Subprocesses for Humans 2.0.  
+- [diary](https://github.com/SamGRosen/diary) - An async logger module for python  
+- [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to minimize tracking in Windows 10  
+- [dom](https://github.com/zachwill/dom) - Check domain name availability from the command line.  
+- [dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files  
+- [duplicate_and_increment](https://github.com/112KA/duplicate_and_increment) - It is a sublimetext plugin that increments while duplicating lines.  
+- [dynaconf](https://github.com/rochacbruno/dynaconf) - The dynamic configurator for your Python Project :wrench:  
+- [eg](https://github.com/srsudar/eg) - Useful examples at the command line.  
+- [enaml](https://github.com/nucleic/enaml) - Declarative User Interfaces for Python  
+- [ESLint-Formatter](https://github.com/TheSavior/ESLint-Formatter) - Sublime Text 3 Plugin to Autoformat with Eslint  
+- [EventGhost](https://github.com/EventGhost/EventGhost) - EventGhost is an advanced, yet easy-to-use extensible automation tool for Windows.  
+- [exec-wrappers](https://github.com/gqmelo/exec-wrappers) - A command line tool to create wrappers around executable files  
+- [ExportHtml](https://github.com/facelessuser/ExportHtml) - Sublime Text - Export code to HTML for copying/printing/saving.  http://facelessuser.github.com/ExportHtml  
+- [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line  
+- [FailureLink](https://github.com/nzbget/FailureLink) - FailureLink script for NZBGet  
+- [FakeDetector](https://github.com/nzbget/FakeDetector) - Fake detection script for NZBGet  
+- [fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.  
+- [feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python  
+- [FileHeader](https://github.com/shiyanhui/FileHeader) - A powerful file templating plugin for Sublime Text  
+- [FileHistory](https://github.com/FichteFoll/FileHistory) - Sublime Text plugin that keeps track of files which have been recently closed, as well as files that have been recently accessed.  
+- [flamescope](https://github.com/Netflix/flamescope) - FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.  
+- [Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository  
+- [FoldFunctions](https://github.com/math2001/FoldFunctions) - Sublime Text plugin to fold functions. And it supports functions with arguments on more than one line!  
+- [funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools  
+- [FuzzyFilePath](https://github.com/sagold/FuzzyFilePath) - Autocomplete relative or absolute file paths in Sublime Text project folder  
+- [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites  
 - [gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface  
 - [geeknote](https://github.com/jeffkowalski/geeknote) - Console client for Evernote.  
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.  
-- [ImageScraper](https://github.com/sananth12/ImageScraper) - :scissors: High performance, multi-threaded image scraper  
-- [catcli](https://github.com/deadc0de6/catcli) - The command line catalog tool for your offline data  
-- [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.  
-- [logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python module for analyzing log files and other data.  
-- [terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Terminal script for fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)  
-- [pdd](https://github.com/jarun/pdd) - :date: Tiny date, time diff calculator with timers  
-- [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell  
-- [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.  
-- [dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files  
-- [nonoCAPTCHA](https://github.com/mikeyy/nonoCAPTCHA) - An asynchronized Python library to automate solving ReCAPTCHA v2 using audio  
-- [uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy  
-- [bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.  
-- [sprutio](https://github.com/LTD-Beget/sprutio) - Beget File Manager App  
-- [srv01](https://github.com/nodiscc/srv01) - [mirror] Run your own network services - sharing/communication/collaboration systems, file storage, websites, multimedia, office/organization, development, automation, IT infrastructure, and many more, hosted on a server you control.  
-- [Python-Scripts-and-Games](https://github.com/aashutoshrathi/Python-Scripts-and-Games) - These are daily life scripts for windows users to make their day easy.  
-- [proxy_requests](https://github.com/rootVIII/proxy_requests) - a class that uses scraped proxies to make an http GET/POST request (Python requests)  
-- [pip-outdated](https://github.com/eight04/pip-outdated) - Find outdated dependencies in your requirements.txt or setup.cfg file. Report missing/outdated/incompatible packages with table and colors.  
-- [FileHeader](https://github.com/shiyanhui/FileHeader) - A powerful file templating plugin for Sublime Text  
-- [SublimeResizeGroupWithKeyboard](https://github.com/VPashkov/SublimeResizeGroupWithKeyboard) - Sublime Text 2 and 3 Plugin to resize active group with keyboard  
-- [KeyboardNavigation](https://github.com/robertcollier4/KeyboardNavigation) - Navigate fast between contiguous boundaries. Keyboard movement and selection and deletion to custom delimeters. For SublimeText ST2 ST3  
-- [sublime-keymaps](https://github.com/MiroHibler/sublime-keymaps) - Find a keymap for... and show all enabled keymaps in a Cheat Sheet.  
-- [SublimeANSI](https://github.com/aziz/SublimeANSI) - ANSI escape codes color highlighting for SublimeText 3  
-- [Sublime-Colorcoder](https://github.com/vprimachenko/Sublime-Colorcoder) - Semantic highlight for Sublime Text  
-- [npm-install](https://github.com/fcannizzaro/npm-install) - sublime package to auto install/uninstall npm modules, show current status, open npmjs documentation.  
-- [SublimePypiPackageInfo](https://github.com/gh640/SublimePypiPackageInfo) - 🐍 A Sublime Text 3 package which provides a popup function for Python PyPI packages.  
-- [Sublime-AutoSetSyntax](https://github.com/jfcherng/Sublime-AutoSetSyntax) - This plugin automatically sets the syntax for your file if possible.  
-- [sublime_insert-to-column](https://github.com/abluescarab/sublime_insert-to-column) - Sublime Text 3 plugin to insert a character up to a certain column  
-- [sublime-compressor](https://github.com/joernhees/sublime-compressor) - Open gzip & bzip2 files with Sublime Text  
-- [GitHubinator](https://github.com/ehamiter/GitHubinator) - Sublime Text plugin that shows selected text on remote GitHub or Bitbucket repo  
-- [Terminus](https://github.com/randy3k/Terminus) - Best Terminal Emulator of Sublime Text.  
-- [TerminalView](https://github.com/Wramberg/TerminalView) - Terminal inside Sublime Text 3 view  
-- [Sheller](https://github.com/bantya/Sheller) - A brand new package to work with Command Prompt without using Command Prompt  
-- [IndentTips_sublime_plugin](https://github.com/QS20199/IndentTips_sublime_plugin) - show the context position in your code with indents  
-- [Sublime-AutoSetIndentation](https://github.com/jfcherng/Sublime-AutoSetIndentation) - This plugin automatically detects and sets the indentation for you, by default, when a file is loaded.  
-- [scoops](https://github.com/rasa/scoops) - :fries: A bucket of tasty scoop flavored apps.  
-- [scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows  
-- [PyGitUp](https://github.com/msiemens/PyGitUp) - A nicer `git pull`  
-- [pysubd](https://github.com/sahilgupta/pysubd) - Downloads subtitles from opensubtitles.org and addic7ed.com  
-- [tern_for_sublime](https://github.com/ternjs/tern_for_sublime) - Sublime Text package adding Tern support  
-- [sublime-boxy-theme](https://github.com/bofm/sublime-boxy-theme) - Boxy Theme for Sublime Text  
-- [consolewrap](https://github.com/unknownuser88/consolewrap) - This plugin helps you to work easily with log statements  
-- [AutomaticPackageReloader](https://github.com/randy3k/AutomaticPackageReloader) - Automatically reload submodules while developing a Sublime Text package.  
-- [sublime_debugger](https://github.com/daveleroy/sublime_debugger) - Graphical Debugger for Sublime Text using the debug adapter protocol  
-- [svglib](https://github.com/deeplook/svglib) - Read SVG files and convert them to other formats.  
-- [image_size](https://github.com/scardine/image_size) - Get image width and height given a file path using minimal dependencies (no need for PIL, libjpeg, libpng, etc)  
-- [hover-preview](https://github.com/alvesjtiago/hover-preview) - Sublime Text 3 Plugin for previewing images.  
-- [PackageDev](https://github.com/SublimeText/PackageDev) - Tools to ease the creation of snippets, syntax definitions, etc. for Sublime Text.  
-- [package_control](https://github.com/wbond/package_control) - The Sublime Text package manager  
-- [premailer](https://github.com/peterbe/premailer) - Turns CSS blocks into style attributes  
-- [Auto-Subliminal](https://github.com/h3llrais3r/Auto-Subliminal) - Auto-Subliminal, the automated subliminal subtitle downloader  
-- [sublime_lib](https://github.com/SublimeText/sublime_lib) - Utility library for frequently used functionality in Sublime Text and convenience functions or classes  
-- [LSP](https://github.com/tomv564/LSP) - Language Server Protocol support for Sublime Text 3  
-- [B2_Command_Line_Tool](https://github.com/Backblaze/B2_Command_Line_Tool) - The command-line tool that gives easy access to all of the capabilities of B2 Cloud Storage  
-- [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.  
-- [PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.  
-- [sublimetext-stringutilities](https://github.com/akalongman/sublimetext-stringutilities) - Sublime Text 2/3 plugin for string manipulations  
-- [pyvisualcompare](https://github.com/nspo/pyvisualcompare) - Graphical tool to help monitor visual changes on web pages  
-- [FailureLink](https://github.com/nzbget/FailureLink) - FailureLink script for NZBGet  
-- [session-buddy-tool](https://github.com/tgrk/session-buddy-tool) - Session Buddy Chrome Extension tool  
-- [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.  
-- [classifier](https://github.com/bhrigu123/classifier) - Organize files in your directory instantly, by classifying them into different folders  
-- [ClickableRequires](https://github.com/hajnalben/ClickableRequires) - Open the required javascript files with a mouseclick in SublimeText3  
-- [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.  
-- [SublimeText-Nodejs](https://github.com/tanepiper/SublimeText-Nodejs) - nodejs snippets and bindings for Sublime Text 3  
-- [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need  
-- [sublime-hooks](https://github.com/twolfson/sublime-hooks) - Run Sublime commands on common event hooks (e.g. on_new, on_post_save).  
-- [SickGear](https://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.  
-- [NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.  
-- [SublimeTmpl](https://github.com/kairyou/SublimeTmpl) - Create File From Templates for SublimeText 2 / SublimeText 3  
-- [SublimeSnippetMaker](https://github.com/jugyo/SublimeSnippetMaker) - Makes managing snippets easy in Sublime Text  
-- [ChromeREPL](https://github.com/acarabott/ChromeREPL) - A Sublime Text plugin to execute JavaScript in Google Chrome  
-- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.  
-- [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.  
-- [iQuail](https://github.com/QuailTeam/iQuail) - Easy to use cross-platform installer & updater for desktop applications  
-- [ProjectMaker](https://github.com/bit101/ProjectMaker) - A Sublime Text 2/3 plugin to allow creating any kind of project from your own custom templates  
-- [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - A curated collection of useful Python snippets that you can understand in 30 seconds or less.  
-- [SublimeQuickFileCreator](https://github.com/noklesta/SublimeQuickFileCreator) - Quick File Creator plugin for Sublime Text  
-- [QuickEdit](https://github.com/gamcoh/QuickEdit) - a Sublime text plugin like brackets quick edit  
-- [SublimeHyperClick](https://github.com/aziz/SublimeHyperClick) - Quickly and easily jump between your files. The missing part of Go to definition functionality in Sublime.  
-- [style-token](https://github.com/vcharnahrebel/style-token) - A sublime plugin that allows to highlight certain pieces of text with different colors (similar to notepad++ &#34;Style token&#34; functionality)  
-- [proselint](https://github.com/amperser/proselint) - A linter for prose.  
-- [chardet](https://github.com/chardet/chardet) - Python 2/3 compatible character encoding detector.  
-- [uniout](https://github.com/moskytw/uniout) - Never see escaped bytes in output.  
-- [bidict](https://github.com/jab/bidict) - Efficient, Pythonic bidirectional map data structures and related functionality.  
-- [better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.  
-- [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.  
-- [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line  
-- [sublime-import-cost](https://github.com/julianburr/sublime-import-cost) - Sublime Text 3 plugin that shows the import costs of imported JS modules  
-- [logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3.  
-- [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.  
-- [sweep](https://github.com/dropseed/sweep) - A command line interface for managing GitHub repos in bulk.  
-- [configyaml](https://github.com/dropseed/configyaml) - Parse and validate YAML config files using Python classes  
-- [timesearch](https://github.com/voussoir/timesearch) - The subreddit archiver  
-- [carbonSublime](https://github.com/molnarmark/carbonSublime) - 🖥️ A Sublime Text 3 Plugin for Carbon. (https://carbon.now.sh)  
-- [munch](https://github.com/Infinidat/munch) - A Munch is a Python dictionary that provides attribute-style access (a la JavaScript objects).  
-- [pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python  
-- [modern-paste](https://github.com/LINKIWI/modern-paste) - A modern, feature-rich Pastebin alternative  
-- [Windows-10-Toast-Notifications](https://github.com/jithurjacob/Windows-10-Toast-Notifications) - Python library to display Windows 10 Toast Notifications  
-- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line  
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net  
-- [nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv  
-- [pynzbget](https://github.com/caronc/pynzbget) - A Python Framework for NZBGet & SABnzbd Scripting  
-- [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.  
-- [conemu](https://github.com/dracula/conemu) - :scream: A dark theme for ConEmu  
-- [SublimeTextAlternativeAutocompletion](https://github.com/colinta/SublimeTextAlternativeAutocompletion) - Adds TextMate-like autocompletion to Sublime Text 2  
-- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.  
-- [DashDoc](https://github.com/farcaller/DashDoc) - Dash integration for Sublime Text  
-- [SublimeSimpleMovements](https://github.com/colinta/SublimeSimpleMovements) - Adds caret moving and newline entering commands.  
-- [IncrementSelection](https://github.com/yulanggong/IncrementSelection) - Add a number to each selection in Sublime Text, incremented once per selection  
-- [duplicate_and_increment](https://github.com/112KA/duplicate_and_increment) - It is a sublimetext plugin that increments while duplicating lines.  
-- [AutoFileName](https://github.com/evandrocoan/AutoFileName) - Sublime Text plugin that autocompletes filenames  
-- [sublime-fscompletion](https://github.com/lingo/sublime-fscompletion) - Auto-complete paths and filenames from the filesystem, à la Ctrl-X,Ctrl-F in VIM  
-- [FuzzyFilePath](https://github.com/sagold/FuzzyFilePath) - Autocomplete relative or absolute file paths in Sublime Text project folder  
-- [IndentX](https://github.com/socsieng/IndentX) - A Sublime Text package for indenting and formatting XML and JSON content  
-- [RegReplace](https://github.com/facelessuser/RegReplace) - Simple find and replace sequencer plugin for Sublime Text http://facelessuser.github.io/RegReplace/  
-- [SidebarSeparator](https://github.com/ekazyam/SidebarSeparator) - AddSeparate for Sublime Text 3  
-- [SidebarHoverToggle](https://github.com/Skullsneeze/SidebarHoverToggle) - A sublime text 3 plugin that opens and closes the sidebar, based on where your mouse is  
-- [SublimeJsPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - JsPrettier is a Sublime Text Plug-in for Prettier, the opinionated code formatter.  
-- [ESLint-Formatter](https://github.com/TheSavior/ESLint-Formatter) - Sublime Text 3 Plugin to Autoformat with Eslint  
-- [JavaScriptEnhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) - JavaScript Enhancements is a plugin for Sublime Text 3. It offers not only a smart javascript autocomplete but also a lot of features about creating, developing and managing javascript projects (real-time errors, code refactoring, etc.).  
-- [BetterFindNext](https://github.com/notbaab/BetterFindNext) - Sublime plugin for a better find next  
-- [ScrollOffset](https://github.com/SublimeText/ScrollOffset) -   
-- [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet  
-- [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™  
-- [SassSolution](https://github.com/ahmedam55/SassSolution) - sublime plugin to autocomplete all vars and mixins in files you set in the setting file  
-- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp  
-- [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python  
-- [cython](https://github.com/cython/cython) - The most widely used Python to C compiler  
-- [cpython](https://github.com/python/cpython) - The Python programming language  
-- [CursorRuler](https://github.com/icylace/CursorRuler) - Marks the current cursor position(s) using dynamic rulers.  For Sublime Text 2 and 3.  
-- [requests-for-qpython](https://github.com/frodo821/requests-for-qpython) -   
-- [PythonImproved](https://github.com/MattDMo/PythonImproved) - The best Python language definition for Sublime Text - ever. Includes full support for Unicode, as well as both Python 2 and Python 3 syntax. Check out the Neon Color Scheme for highlighting.  
-- [FakeDetector](https://github.com/nzbget/FakeDetector) - Fake detection script for NZBGet  
-- [sublime-text-2-buildview](https://github.com/rctay/sublime-text-2-buildview) - A Sublime Text 2/3 plugin to show build output in a view.  
-- [sublime_libsass](https://github.com/blitzrk/sublime_libsass) - Build system for Sass/scss files in Sublime Text 2/3 with no external dependencies  
-- [sublime-snippet-manager](https://github.com/shagabutdinov/sublime-snippet-manager) - Create snippet with hotkey  
-- [highlight-dodgy-chars](https://github.com/TuureKaunisto/highlight-dodgy-chars) - This is a plugin for Sublime Text 3 that highlights non-ascii chars making eg. spotting zero width spaces much easier.  
-- [rainbowth](https://github.com/whitequark/rainbowth) - Rainbowth is a Sublime Text 3 plugin that highlights matching parentheses in Lisp source code.  
-- [subliminal](https://github.com/Diaoul/subliminal) - Subliminal - Subtitles, faster than your thoughts  
-- [sublimetext-codeformatter](https://github.com/akalongman/sublimetext-codeformatter) - Code Formatter plugin for ST2/ST3  
-- [open_in_browser](https://github.com/vicke4/open_in_browser) - Sublime Text 3 plugin to open hyper links in browsers.  
-- [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.  
-- [Sublime-BracketGuard](https://github.com/philippotto/Sublime-BracketGuard) - A Sublime Text 2/3 Plugin which immediately highlights incorrect brackets.  
-- [waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.  
-- [feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python  
-- [SubNotify](https://github.com/facelessuser/SubNotify) - Sublime Text notification plugin http://facelessuser.github.io/SubNotify/  
-- [ExportHtml](https://github.com/facelessuser/ExportHtml) - Sublime Text - Export code to HTML for copying/printing/saving.  http://facelessuser.github.com/ExportHtml  
-- [CopyAsHtml](https://github.com/liulex/CopyAsHtml) - Copy code in Sublime Text with syntax highlighting  
-- [SublimeHighlight](https://github.com/n1k0/SublimeHighlight) - A humble SublimeText package for exporting highlighted code as RTF or HTML  
-- [jaraco.clipboard](https://github.com/jaraco/jaraco.clipboard) -   
-- [pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions.  
-- [SublimeFunctionNameDisplay](https://github.com/akrabat/SublimeFunctionNameDisplay) - Display current class and function name on the status bar  
-- [nzbToMedia](https://github.com/clinton-hall/nzbToMedia) - Provides NZB and Torrent postprocessing To CouchPotatoServer, SickBeard/SickRage, HeadPhones, Mylar and Gamez  
-- [background](https://github.com/ParthS007/background) - Runs things in the background.  
-- [adb-sync](https://github.com/google/adb-sync) -   
-- [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - awesome Python autocompletion with SublimeText  
-- [sublime-goto-last-edit-enhanced](https://github.com/shagabutdinov/sublime-goto-last-edit-enhanced) - Better goto last edit  
-- [SyntaxManager](https://github.com/randy3k/SyntaxManager) - Applying settings to a given syntax/extension  
-- [PasswordDetector](https://github.com/JVMed/PasswordDetector) - NZBGet queue script for early detection of password protecteded files whist downloading  
 - [GetScripts](https://github.com/clinton-hall/GetScripts) - A Collection of NZBGet Post-Process Scripts  
-- [dom](https://github.com/zachwill/dom) - Check domain name availability from the command line.  
-- [FoldFunctions](https://github.com/math2001/FoldFunctions) - Sublime Text plugin to fold functions. And it supports functions with arguments on more than one line!  
-- [sublime-selectuntil](https://github.com/xavi-/sublime-selectuntil) - A sublime package that lets you expand your current selection until a specific character, regex, or char-count is encountered.  
-- [AutoSelect](https://github.com/SublimeText/AutoSelect) - Sticky Selection  
-- [sublime-color-scheme-unit](https://github.com/gerardroche/sublime-color-scheme-unit) - A testing framework for Sublime Text color schemes.  
+- [GitGutter](https://github.com/jisaacks/GitGutter) - A Sublime Text 2/3 plugin to see git diff in gutter  
+- [GitHubinator](https://github.com/ehamiter/GitHubinator) - Sublime Text plugin that shows selected text on remote GitHub or Bitbucket repo  
+- [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.  
+- [Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line  
 - [google-login](https://github.com/tubaman/google-login) - Simple python script that logs in to your Google account and saves the cookies  
-- [sublimeBookmark](https://github.com/bollu/sublimeBookmark) - a better bookmark system for SublimeText  
-- [sublime-betterbookmarks](https://github.com/dusk125/sublime-betterbookmarks) - BetterBookmarks extends the built-in Sublime Text 3 bookmarking system to allow for persistent bookmarks and bookmark layers.  
-- [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:  
-- [sublime-skins](https://github.com/deathaxe/sublime-skins) - Easily switch theme and color scheme of Sublime Text with only one command.  
-- [Text-Pastry](https://github.com/duydao/Text-Pastry) - Extend the power of multiple selections in Sublime Text. Modify selections, insert numeric sequences, incremental numbers, generate uuids, date ranges, insert continuously from a word list and more.  
-- [Open-Include](https://github.com/titoBouzout/Open-Include) - Will open file paths found under the cursor with ALT+D  
-- [asyncpushbullet](https://github.com/rharder/asyncpushbullet) - An asyncio-based python client for http://pushbullet.com  
-- [pushbullet.py](https://github.com/rbrcsk/pushbullet.py) - A python client for http://pushbullet.com  
-- [Apk-Changer](https://github.com/Furniel/Apk-Changer) - Command line program for modifying apk files  
-- [clevernote](https://github.com/dvj/clevernote) - A command line interface to Evernote  
-- [sh](https://github.com/amoffat/sh) - Python process launching  
-- [delegator.py](https://github.com/amitt001/delegator.py) - Subprocesses for Humans 2.0.  
-- [watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.  
-- [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of config from code.  
-- [Needle](https://github.com/moosd/Needle) - Android framework injection made easy  
-- [tingle](https://github.com/ale5000-git/tingle) - Tingle - Android patcher  
-- [local-history](https://github.com/vishr/local-history) - A Sublime Text 2/3 plugin for maintaining local history of files. [backup | open | compare | incremental diff]  
-- [EventGhost](https://github.com/EventGhost/EventGhost) - EventGhost is an advanced, yet easy-to-use extensible automation tool for Windows.  
-- [sublime_logging_control](https://github.com/scholer/sublime_logging_control) - Enable and adjust logging output from the standard logging library. (Plugin for Sublime Text 2/3+)  
-- [SublimeLogMagic](https://github.com/syko/SublimeLogMagic) - Javascript console.log statements at the tip of your fingers  
-- [SublimeLog](https://github.com/yrammos/SublimeLog) - A bare-bones console logger for Sublime Text 2 and 3.  
-- [Log-Highlight](https://github.com/poucotm/Log-Highlight) - 🔦 Plugin for Sublime Text 2/3, Log Highlight helps to view a log (any type) supporting customizable log syntax & color scheme, extensible severity levels, clickable links  
-- [imgp](https://github.com/jarun/imgp) - :camera_flash: High-performance batch image resizer & rotator  
-- [ClickableUrls_SublimeText](https://github.com/leonid-shevtsov/ClickableUrls_SublimeText) - Underlines URLs in Sublime Text, and lets you open them with a keystroke.  
-- [open-url](https://github.com/noahcoad/open-url) - Open URLs, files, folders, or google text under the cursor or in selected text for Sublime Text.  
-- [nzbhydra](https://github.com/theotherp/nzbhydra) - Meta search for NZB indexers  
-- [Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository  
 - [googleplay-api](https://github.com/egirault/googleplay-api) - Google Play Unofficial Python API - This project was a PoC and is not maintained anymore. Please feel free to fork it and improve it in any way.  
+- [hayaku](https://github.com/hayaku/hayaku) - Fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster  
+- [headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd  
+- [highlight-dodgy-chars](https://github.com/TuureKaunisto/highlight-dodgy-chars) - This is a plugin for Sublime Text 3 that highlights non-ascii chars making eg. spotting zero width spaces much easier.  
+- [Highlighter](https://github.com/bluegray/Highlighter) - Sublime Text plugin to highlight any sequence of characters. Highlights mixed tabs and spaces, some unicode characters and trailing space by default.  
+- [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.  
+- [hover-preview](https://github.com/alvesjtiago/hover-preview) - Sublime Text 3 Plugin for previewing images.  
+- [howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:  
+- [HTML5](https://github.com/mrmartineau/HTML5) - HTML5 bundle for Sublime Text  
+- [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting  
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp  
+- [huptime](https://github.com/amscanne/huptime) - Utility for zero downtime restarts of unmodified programs.  
+- [hyperhelpcore](https://github.com/STealthy-and-haSTy/hyperhelpcore) - A hyperlinked help system for Sublime Text 3  
+- [Iconic](https://github.com/somerandomdude/Iconic) - A minimal set of icons in raster, vector and font formats — free for public use.  
+- [image_size](https://github.com/scardine/image_size) - Get image width and height given a file path using minimal dependencies (no need for PIL, libjpeg, libpng, etc)  
+- [ImageScraper](https://github.com/sananth12/ImageScraper) - :scissors: High performance, multi-threaded image scraper  
+- [imgp](https://github.com/jarun/imgp) - :camera_flash: High-performance batch image resizer & rotator  
+- [IncrementSelection](https://github.com/yulanggong/IncrementSelection) - Add a number to each selection in Sublime Text, incremented once per selection  
+- [IndentTips_sublime_plugin](https://github.com/QS20199/IndentTips_sublime_plugin) - show the context position in your code with indents  
+- [IndentX](https://github.com/socsieng/IndentX) - A Sublime Text package for indenting and formatting XML and JSON content  
 - [InstaGoogling](https://github.com/Ivanca/InstaGoogling) - Instagoogling is the fastest and most efficient way to Google from Sublime Text  
-- [sublimetext-autobackups](https://github.com/akalongman/sublimetext-autobackups) - Sublime Text 2/3 Auto backups plugin  
-- [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.  
+- [iQuail](https://github.com/QuailTeam/iQuail) - Easy to use cross-platform installer & updater for desktop applications  
+- [jaraco.clipboard](https://github.com/jaraco/jaraco.clipboard) -   
+- [JavaScriptEnhancements](https://github.com/pichillilorenzo/JavaScriptEnhancements) - JavaScript Enhancements is a plugin for Sublime Text 3. It offers not only a smart javascript autocomplete but also a lot of features about creating, developing and managing javascript projects (real-time errors, code refactoring, etc.).  
+- [jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion and static analysis library for python.  
+- [JsMinifier](https://github.com/cgutierrez/JsMinifier) - Sublime Text plugin for javascript minification using Google Closure compiler  
+- [keyboard](https://github.com/boppreh/keyboard) - Hook and simulate global keyboard events on Windows and Linux.  
+- [KeyboardNavigation](https://github.com/robertcollier4/KeyboardNavigation) - Navigate fast between contiguous boundaries. Keyboard movement and selection and deletion to custom delimeters. For SublimeText ST2 ST3  
+- [lackey](https://github.com/glitchassassin/lackey) - Lackey - Graphical desktop automation with Python  
+- [livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.  
+- [livestyle-sublime-old](https://github.com/emmetio/livestyle-sublime-old) - Live bi-directional CSS edit of new generation  
+- [local-history](https://github.com/vishr/local-history) - A Sublime Text 2/3 plugin for maintaining local history of files. [backup | open | compare | incremental diff]  
+- [Log-Highlight](https://github.com/poucotm/Log-Highlight) - 🔦 Plugin for Sublime Text 2/3, Log Highlight helps to view a log (any type) supporting customizable log syntax & color scheme, extensible severity levels, clickable links  
+- [logdissect](https://github.com/dogoncouch/logdissect) - CLI utility and Python module for analyzing log files and other data.  
+- [logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3.  
+- [LoremIpsum](https://github.com/billymoon/LoremIpsum) - Lorem Ipsum plugin for Sublime Text  
+- [LSP](https://github.com/tomv564/LSP) - Language Server Protocol support for Sublime Text 3  
+- [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features  
+- [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.  
+- [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.  
+- [mist-ce](https://github.com/mistio/mist-ce) - Mist Cloud Management Platform - Community Edition  
+- [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow  
+- [modern-paste](https://github.com/LINKIWI/modern-paste) - A modern, feature-rich Pastebin alternative  
+- [Modific](https://github.com/gornostal/Modific) - Highlight lines changed since the last commit (supports Git, SVN, Bazaar, Mercurial and TFS) / ST2(3) plugin  
+- [munch](https://github.com/Infinidat/munch) - A Munch is a Python dictionary that provides attribute-style access (a la JavaScript objects).  
+- [mylar](https://github.com/evilhero/mylar) - An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents  
+- [Needle](https://github.com/moosd/Needle) - Android framework injection made easy  
+- [nefarious](https://github.com/lardbit/nefarious) - Web application for downloading TV & Movies  
+- [Nettuts-Fetch](https://github.com/weslly/Nettuts-Fetch) - Fetch the latest version of remote files and zip packages  
+- [NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.  
 - [NextAction](https://github.com/nikdoof/NextAction) - A more GTD-like workflow for Todoist. Uses the REST API to add and remove a @next_action label from tasks.  
 - [NextAction](https://github.com/akramer/NextAction) - A more GTD-like workflow for Todoist. Uses the REST API to add and remove a @next_action label from tasks.  
+- [ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server  
+- [NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.  
+- [node-canvas-prebuilt](https://github.com/node-gfx/node-canvas-prebuilt) - Repo used to build binaries for node-canvas on CI  
+- [nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv  
+- [nonoCAPTCHA](https://github.com/mikeyy/nonoCAPTCHA) - An asynchronized Python library to automate solving ReCAPTCHA v2 using audio  
+- [nounscraper](https://github.com/yourcelf/nounscraper) - Scraper for The Noun Project.  
+- [npm-install](https://github.com/fcannizzaro/npm-install) - sublime package to auto install/uninstall npm modules, show current status, open npmjs documentation.  
+- [nzb-subliminal](https://github.com/caronc/nzb-subliminal) - Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.  
+- [nzbgetpp](https://github.com/Prinz23/nzbgetpp) - nzbget scripts  
+- [nzbhydra](https://github.com/theotherp/nzbhydra) - Meta search for NZB indexers  
+- [nzbToMedia](https://github.com/clinton-hall/nzbToMedia) - Provides NZB and Torrent postprocessing To CouchPotatoServer, SickBeard/SickRage, HeadPhones, Mylar and Gamez  
+- [open_in_browser](https://github.com/vicke4/open_in_browser) - Sublime Text 3 plugin to open hyper links in browsers.  
+- [Open-Include](https://github.com/titoBouzout/Open-Include) - Will open file paths found under the cursor with ALT+D  
+- [open-url](https://github.com/noahcoad/open-url) - Open URLs, files, folders, or google text under the cursor or in selected text for Sublime Text.  
+- [Origami](https://github.com/SublimeText/Origami) - Split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.  
+- [oscrypto](https://github.com/wbond/oscrypto) - Compiler-free Python crypto library backed by the OS, supporting CPython and PyPy  
+- [package_control](https://github.com/wbond/package_control) - The Sublime Text package manager  
+- [PackageDev](https://github.com/SublimeText/PackageDev) - Tools to ease the creation of snippets, syntax definitions, etc. for Sublime Text.  
+- [PasswordDetector](https://github.com/JVMed/PasswordDetector) - NZBGet queue script for early detection of password protecteded files whist downloading  
+- [PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.  
+- [pdd](https://github.com/jarun/pdd) - :date: Tiny date, time diff calculator with timers  
+- [percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell  
+- [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.  
 - [pinboard.py](https://github.com/lionheart/pinboard.py) - A full-featured Python wrapper (and command-line utility) for the Pinboard API. Built by the makers of Pushpin for Pinboard.  
+- [pip_upgrade_outdated](https://github.com/defjaf/pip_upgrade_outdated) - Install outdated python packages.  
+- [pip-outdated](https://github.com/eight04/pip-outdated) - Find outdated dependencies in your requirements.txt or setup.cfg file. Report missing/outdated/incompatible packages with table and colors.  
+- [pip-review](https://github.com/jgonggrijp/pip-review) - A tool to keep track of your Python package updates.  
+- [pip-upgrader](https://github.com/simion/pip-upgrader) - An interactive pip requirements upgrader. It also updates the version in your requirements.txt file.  
+- [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.  
+- [pipupgrade](https://github.com/achillesrasquinha/pipupgrade) - 🗽 Like yarn outdated/upgrade, but for pip. Automate your Python Dependency Management.  
+- [premailer](https://github.com/peterbe/premailer) - Turns CSS blocks into style attributes  
+- [ProjectMaker](https://github.com/bit101/ProjectMaker) - A Sublime Text 2/3 plugin to allow creating any kind of project from your own custom templates  
+- [proselint](https://github.com/amperser/proselint) - A linter for prose.  
+- [proxy_requests](https://github.com/rootVIII/proxy_requests) - a class that uses scraped proxies to make an http GET/POST request (Python requests)  
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.  
+- [pushbullet.py](https://github.com/rbrcsk/pushbullet.py) - A python client for http://pushbullet.com  
+- [py-gui](https://github.com/JakeCoxon/py-gui) - Work in progress  
+- [pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.  
+- [PyGitUp](https://github.com/msiemens/PyGitUp) - A nicer `git pull`  
+- [pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python  
+- [pynzbget](https://github.com/caronc/pynzbget) - A Python Framework for NZBGet & SABnzbd Scripting  
+- [pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions.  
+- [pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet  
+- [pysubd](https://github.com/sahilgupta/pysubd) - Downloads subtitles from opensubtitles.org and addic7ed.com  
+- [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of config from code.  
+- [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.  
+- [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python  
+- [python-pinboard](https://github.com/mgan59/python-pinboard) - A Python module to access Pinboard.in via its API.  This is a fork/modification of mudge/python-delicious  
+- [Python-Scripts-and-Games](https://github.com/aashutoshrathi/Python-Scripts-and-Games) - These are daily life scripts for windows users to make their day easy.  
+- [PythonImproved](https://github.com/MattDMo/PythonImproved) - The best Python language definition for Sublime Text - ever. Includes full support for Unicode, as well as both Python 2 and Python 3 syntax. Check out the Neon Color Scheme for highlighting.  
+- [PyUserInput](https://github.com/SavinaRoja/PyUserInput) - A module for cross-platform control of the mouse and keyboard in python that is simple to install and use.  
+- [pyvisualcompare](https://github.com/nspo/pyvisualcompare) - Graphical tool to help monitor visual changes on web pages  
+- [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.  
+- [pywebview](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS  
+- [pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)  
+- [QuickEdit](https://github.com/gamcoh/QuickEdit) - a Sublime text plugin like brackets quick edit  
+- [rainbowth](https://github.com/whitequark/rainbowth) - Rainbowth is a Sublime Text 3 plugin that highlights matching parentheses in Lisp source code.  
+- [RegReplace](https://github.com/facelessuser/RegReplace) - Simple find and replace sequencer plugin for Sublime Text http://facelessuser.github.io/RegReplace/  
+- [repren](https://github.com/jlevy/repren) - Rename anything  
+- [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.  
+- [requests-for-qpython](https://github.com/frodo821/requests-for-qpython) -   
+- [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™  
+- [SassBeautify](https://github.com/badsyntax/SassBeautify) - A Sublime Text plugin that beautifies Sass files.  
+- [SassSolution](https://github.com/ahmedam55/SassSolution) - sublime plugin to autocomplete all vars and mixins in files you set in the setting file  
+- [scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows  
+- [scoops](https://github.com/rasa/scoops) - :fries: A bucket of tasty scoop flavored apps.  
+- [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.  
+- [ScrollOffset](https://github.com/SublimeText/ScrollOffset) -   
+- [session-buddy-tool](https://github.com/tgrk/session-buddy-tool) - Session Buddy Chrome Extension tool  
+- [sh](https://github.com/amoffat/sh) - Python process launching  
+- [Sheller](https://github.com/bantya/Sheller) - A brand new package to work with Command Prompt without using Command Prompt  
+- [shutit](https://github.com/ianmiell/shutit) - Automation framework for programmers  
+- [Sick-Beard](https://github.com/lad1337/Sick-Beard) - PVR & episode guide that downloads and manages all your TV shows  
+- [Sick-Beard](https://github.com/midgetspy/Sick-Beard) - PVR & episode guide that downloads and manages all your TV shows  
+- [SickChill](https://github.com/SickChill/SickChill) - Less rage, more chill.  
+- [SickGear](https://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.  
+- [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.  
+- [SidebarHoverToggle](https://github.com/Skullsneeze/SidebarHoverToggle) - A sublime text 3 plugin that opens and closes the sidebar, based on where your mouse is  
+- [SidebarSeparator](https://github.com/ekazyam/SidebarSeparator) - AddSeparate for Sublime Text 3  
+- [SimpleCV](https://github.com/sightmachine/SimpleCV) - The Open Source Framework for Machine Vision  
+- [SnAPI](https://github.com/STealthy-and-haSTy/SnAPI) - View Sublime Text 3 API documentation directly from within Sublime Text.  
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net  
+- [sprutio](https://github.com/LTD-Beget/sprutio) - Beget File Manager App  
+- [srv01](https://github.com/nodiscc/srv01) - [mirror] Run your own network services - sharing/communication/collaboration systems, file storage, websites, multimedia, office/organization, development, automation, IT infrastructure, and many more, hosted on a server you control.  
+- [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.  
+- [style-token](https://github.com/vcharnahrebel/style-token) - A sublime plugin that allows to highlight certain pieces of text with different colors (similar to notepad++ &#34;Style token&#34; functionality)  
+- [sublime_debugger](https://github.com/daveleroy/sublime_debugger) - Graphical Debugger for Sublime Text using the debug adapter protocol  
+- [sublime_insert-to-column](https://github.com/abluescarab/sublime_insert-to-column) - Sublime Text 3 plugin to insert a character up to a certain column  
+- [sublime_lib](https://github.com/SublimeText/sublime_lib) - Utility library for frequently used functionality in Sublime Text and convenience functions or classes  
+- [sublime_libsass](https://github.com/blitzrk/sublime_libsass) - Build system for Sass/scss files in Sublime Text 2/3 with no external dependencies  
+- [sublime_logging_control](https://github.com/scholer/sublime_logging_control) - Enable and adjust logging output from the standard logging library. (Plugin for Sublime Text 2/3+)  
+- [sublime_terminal](https://github.com/wbond/sublime_terminal) - Launch terminals from the current file or the root project folder  
+- [Sublime-AutoSetIndentation](https://github.com/jfcherng/Sublime-AutoSetIndentation) - This plugin automatically detects and sets the indentation for you, by default, when a file is loaded.  
+- [Sublime-AutoSetSyntax](https://github.com/jfcherng/Sublime-AutoSetSyntax) - This plugin automatically sets the syntax for your file if possible.  
+- [sublime-betterbookmarks](https://github.com/dusk125/sublime-betterbookmarks) - BetterBookmarks extends the built-in Sublime Text 3 bookmarking system to allow for persistent bookmarks and bookmark layers.  
+- [sublime-boxy-theme](https://github.com/bofm/sublime-boxy-theme) - Boxy Theme for Sublime Text  
+- [Sublime-BracketGuard](https://github.com/philippotto/Sublime-BracketGuard) - A Sublime Text 2/3 Plugin which immediately highlights incorrect brackets.  
+- [sublime-color-scheme-unit](https://github.com/gerardroche/sublime-color-scheme-unit) - A testing framework for Sublime Text color schemes.  
+- [Sublime-Colorcoder](https://github.com/vprimachenko/Sublime-Colorcoder) - Semantic highlight for Sublime Text  
+- [sublime-compressor](https://github.com/joernhees/sublime-compressor) - Open gzip & bzip2 files with Sublime Text  
+- [sublime-fscompletion](https://github.com/lingo/sublime-fscompletion) - Auto-complete paths and filenames from the filesystem, à la Ctrl-X,Ctrl-F in VIM  
+- [sublime-goto-last-edit-enhanced](https://github.com/shagabutdinov/sublime-goto-last-edit-enhanced) - Better goto last edit  
+- [sublime-hooks](https://github.com/twolfson/sublime-hooks) - Run Sublime commands on common event hooks (e.g. on_new, on_post_save).  
+- [sublime-import-cost](https://github.com/julianburr/sublime-import-cost) - Sublime Text 3 plugin that shows the import costs of imported JS modules  
+- [sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++  
+- [sublime-jslint](https://github.com/fbzhong/sublime-jslint) - JSLint support for Sublime Text 2  
+- [sublime-keymaps](https://github.com/MiroHibler/sublime-keymaps) - Find a keymap for... and show all enabled keymaps in a Cheat Sheet.  
+- [sublime-markdown-popups](https://github.com/facelessuser/sublime-markdown-popups) - Markdown popup dependency for Sublime http://facelessuser.github.io/sublime-markdown-popups/  
+- [sublime-selectuntil](https://github.com/xavi-/sublime-selectuntil) - A sublime package that lets you expand your current selection until a specific character, regex, or char-count is encountered.  
+- [sublime-skins](https://github.com/deathaxe/sublime-skins) - Easily switch theme and color scheme of Sublime Text with only one command.  
+- [sublime-snippet-manager](https://github.com/shagabutdinov/sublime-snippet-manager) - Create snippet with hotkey  
+- [Sublime-Text--cdnjs](https://github.com/dafrancis/Sublime-Text--cdnjs) - Sublime plugin to add scripts from http://www.cdnjs.com/  
+- [sublime-text-2-buildview](https://github.com/rctay/sublime-text-2-buildview) - A Sublime Text 2/3 plugin to show build output in a view.  
+- [Sublime-Text-2-Inc-Dec-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value) - increase / decrease of numbers, dates, hex color values, etc.  
+- [Sublime-Text-2-Settings](https://github.com/mischah/Sublime-Text-2-Settings) - My personal settings and installed packages.  
+- [sublime-text-git](https://github.com/kemayo/sublime-text-git) - Plugin for some git integration into sublime text  
+- [SublimeAllAutocomplete](https://github.com/alienhard/SublimeAllAutocomplete) - Extend Sublime autocompletion to find matches in all open files of the current window  
+- [SublimeANSI](https://github.com/aziz/SublimeANSI) - ANSI escape codes color highlighting for SublimeText 3  
+- [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.  
+- [SublimeAutoSemiColon](https://github.com/vivait/SublimeAutoSemiColon) - ARCHIVED: Automatically moves a semi-colon to the outside of the last bracket when pressed inside  
+- [sublimeBookmark](https://github.com/bollu/sublimeBookmark) - a better bookmark system for SublimeText  
+- [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text  
+- [SublimeFunctionNameDisplay](https://github.com/akrabat/SublimeFunctionNameDisplay) - Display current class and function name on the status bar  
+- [SublimeHighlight](https://github.com/n1k0/SublimeHighlight) - A humble SublimeText package for exporting highlighted code as RTF or HTML  
+- [SublimeHyperClick](https://github.com/aziz/SublimeHyperClick) - Quickly and easily jump between your files. The missing part of Go to definition functionality in Sublime.  
+- [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - awesome Python autocompletion with SublimeText  
+- [SublimeJsPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - JsPrettier is a Sublime Text Plug-in for Prettier, the opinionated code formatter.  
+- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - The code linting framework for Sublime Text 3  
+- [SublimeLog](https://github.com/yrammos/SublimeLog) - A bare-bones console logger for Sublime Text 2 and 3.  
+- [SublimeLogMagic](https://github.com/syko/SublimeLogMagic) - Javascript console.log statements at the tip of your fingers  
+- [SublimeOutline](https://github.com/warmdev/SublimeOutline) - Outline view for Sublime Text 3  
+- [SublimePrettyJson](https://github.com/dzhibas/SublimePrettyJson) - Prettify/Minify/Query/Goto/Validate/Lint JSON plugin for Sublime Text 2 & 3  
+- [SublimePypiPackageInfo](https://github.com/gh640/SublimePypiPackageInfo) - 🐍 A Sublime Text 3 package which provides a popup function for Python PyPI packages.  
+- [SublimeQuickFileCreator](https://github.com/noklesta/SublimeQuickFileCreator) - Quick File Creator plugin for Sublime Text  
+- [SublimeREPL](https://github.com/wuub/SublimeREPL) - SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself)  
+- [SublimeResizeGroupWithKeyboard](https://github.com/VPashkov/SublimeResizeGroupWithKeyboard) - Sublime Text 2 and 3 Plugin to resize active group with keyboard  
+- [SublimeSimpleMovements](https://github.com/colinta/SublimeSimpleMovements) - Adds caret moving and newline entering commands.  
+- [SublimeSnippetMaker](https://github.com/jugyo/SublimeSnippetMaker) - Makes managing snippets easy in Sublime Text  
+- [SublimeStringEncode](https://github.com/colinta/SublimeStringEncode) - Converts characters from one &#34;encoding&#34; to another using a transformation (think HTML entities, not character encodings)  
+- [sublimetext-autobackups](https://github.com/akalongman/sublimetext-autobackups) - Sublime Text 2/3 Auto backups plugin  
+- [sublimetext-automatic-backups](https://github.com/joelpt/sublimetext-automatic-backups) - Automatic backups with historical navigation for Sublime Text.  
+- [sublimetext-codeformatter](https://github.com/akalongman/sublimetext-codeformatter) - Code Formatter plugin for ST2/ST3  
+- [sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3  
+- [SublimeText-Nodejs](https://github.com/tanepiper/SublimeText-Nodejs) - nodejs snippets and bindings for Sublime Text 3  
+- [SublimeText-Package-Syncing](https://github.com/csch0/SublimeText-Package-Syncing) - Keep your Sublime Text installations synchronised across multiple machines  
+- [sublimetext-stringutilities](https://github.com/akalongman/sublimetext-stringutilities) - Sublime Text 2/3 plugin for string manipulations  
+- [sublimetext-syntaxfold](https://github.com/jamalsenouci/sublimetext-syntaxfold) - Sublime Text Plugin that provides a configurable command and popup for folding code based on syntax  
+- [SublimeTextAlternativeAutocompletion](https://github.com/colinta/SublimeTextAlternativeAutocompletion) - Adds TextMate-like autocompletion to Sublime Text 2  
+- [SublimeTmpl](https://github.com/kairyou/SublimeTmpl) - Create File From Templates for SublimeText 2 / SublimeText 3  
+- [subliminal](https://github.com/Diaoul/subliminal) - Subliminal - Subtitles, faster than your thoughts  
+- [SubNotify](https://github.com/facelessuser/SubNotify) - Sublime Text notification plugin http://facelessuser.github.io/SubNotify/  
+- [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.  
+- [sudo-for-cygwin](https://github.com/nu774/sudo-for-cygwin) - poor sudo clone for cygwin  
+- [super-awesome-paste](https://github.com/huntie/super-awesome-paste) - Intelligent paste handling for Sublime  
+- [svglib](https://github.com/deeplook/svglib) - Read SVG files and convert them to other formats.  
+- [sweep](https://github.com/dropseed/sweep) - A command line interface for managing GitHub repos in bulk.  
+- [SyntaxManager](https://github.com/randy3k/SyntaxManager) - Applying settings to a given syntax/extension  
+- [tabnine-sublime](https://github.com/zxqfl/tabnine-sublime) - Sublime Text client for TabNine  
+- [Tag](https://github.com/titoBouzout/Tag) - Collection of packages about HTML/XML tags.  
+- [terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Terminal script for fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin)  
+- [TerminalView](https://github.com/Wramberg/TerminalView) - Terminal inside Sublime Text 3 view  
+- [Terminus](https://github.com/randy3k/Terminus) - Best Terminal Emulator of Sublime Text.  
+- [tern_for_sublime](https://github.com/ternjs/tern_for_sublime) - Sublime Text package adding Tern support  
+- [Text-Pastry](https://github.com/duydao/Text-Pastry) - Extend the power of multiple selections in Sublime Text. Modify selections, insert numeric sequences, incremental numbers, generate uuids, date ranges, insert continuously from a word list and more.  
+- [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com  
+- [timesearch](https://github.com/voussoir/timesearch) - The subreddit archiver  
+- [tingle](https://github.com/ale5000-git/tingle) - Tingle - Android patcher  
+- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages  
+- [traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.  
+- [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack  
+- [tvdb_api](https://github.com/midgetspy/tvdb_api) - Simple to use TVDB (thetvdb.com) API in Python. The automatic TV episode namer &#34;tvnamer&#34; is now in a separate repository http://github.com/dbr/tvnamer  
+- [uncaptcha2](https://github.com/ecthros/uncaptcha2) - defeating the latest version of ReCaptcha with 91% accuracy  
+- [uniout](https://github.com/moskytw/uniout) - Never see escaped bytes in output.  
 - [urlwatch](https://github.com/lechuckcaptain/urlwatch) - A tool for monitoring webpages for updates  
 - [urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you  
-- [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.  
-- [diary](https://github.com/SamGRosen/diary) - An async logger module for python  
 - [VideoSort](https://github.com/nzbget/VideoSort) - Video sorting script for NZBGet  
-- [sublime-markdown-popups](https://github.com/facelessuser/sublime-markdown-popups) - Markdown popup dependency for Sublime http://facelessuser.github.io/sublime-markdown-popups/  
-- [SublimeAllAutocomplete](https://github.com/alienhard/SublimeAllAutocomplete) - Extend Sublime autocompletion to find matches in all open files of the current window  
-- [SublimeAutoSemiColon](https://github.com/vivait/SublimeAutoSemiColon) - ARCHIVED: Automatically moves a semi-colon to the outside of the last bracket when pressed inside  
-- [livestreamer](https://github.com/chrippa/livestreamer) - Command-line utility that extracts streams from various services and pipes them into a video player of choice. No longer maintained, use streamlink or youtube-dl instead.  
-- [sublime_terminal](https://github.com/wbond/sublime_terminal) - Launch terminals from the current file or the root project folder  
-- [super-awesome-paste](https://github.com/huntie/super-awesome-paste) - Intelligent paste handling for Sublime  
-- [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting  
-- [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow  
-- [oscrypto](https://github.com/wbond/oscrypto) - Compiler-free Python crypto library backed by the OS, supporting CPython and PyPy  
-- [statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.  
-- [anaconda](https://github.com/DamnWidget/anaconda) - Anaconda turns your Sublime Text 3 in a full featured Python development IDE including autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker Vagrant and Docker support for Sublime Text 3 using Jedi, PyFlakes, pep8, MyPy, PyLint, pep257 and McCabe that will never freeze your Sublime Text 3  
-- [nzb-subliminal](https://github.com/caronc/nzb-subliminal) - Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.  
-- [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to minimize tracking in Windows 10  
-- [SublimeText-Package-Syncing](https://github.com/csch0/SublimeText-Package-Syncing) - Keep your Sublime Text installations synchronised across multiple machines  
-- [hayaku](https://github.com/hayaku/hayaku) - Fuzzy abbreviations, support for preprocessors (Sass, Less, Stylus) and a lot of other features in easily configurable set of tools for writing CSS faster  
-- [debops-playbooks](https://github.com/debops/debops-playbooks) - Ansible playbooks used by DebOps project  
-- [trellis](https://github.com/roots/trellis) - Ansible playbooks for a WordPress LEMP stack  
-- [CodeComplice](https://github.com/spectacles/CodeComplice) - CodeIntel for Sublime Text 2 / 3  
-- [Mailpile](https://github.com/mailpile/Mailpile) - A free & open modern, fast email client with user-friendly encryption and privacy features  
-- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources  
-- [funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools  
-- [Modific](https://github.com/gornostal/Modific) - Highlight lines changed since the last commit (supports Git, SVN, Bazaar, Mercurial and TFS) / ST2(3) plugin  
-- [ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server  
-- [sudo-for-cygwin](https://github.com/nu774/sudo-for-cygwin) - poor sudo clone for cygwin  
-- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages  
-- [CommonRegex](https://github.com/madisonmay/CommonRegex) - A collection of common regular expressions bundled with an easy to use interface.  
-- [huptime](https://github.com/amscanne/huptime) - Utility for zero downtime restarts of unmodified programs.  
-- [fantasque-sans](https://github.com/belluzj/fantasque-sans) - A font family with a great monospaced variant for programmers.  
-- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - The code linting framework for Sublime Text 3  
-- [livestyle-sublime-old](https://github.com/emmetio/livestyle-sublime-old) - Live bi-directional CSS edit of new generation  
-- [python-pinboard](https://github.com/mgan59/python-pinboard) - A Python module to access Pinboard.in via its API.  This is a fork/modification of mudge/python-delicious  
-- [sublimetext-automatic-backups](https://github.com/joelpt/sublimetext-automatic-backups) - Automatic backups with historical navigation for Sublime Text.  
-- [Iconic](https://github.com/somerandomdude/Iconic) - A minimal set of icons in raster, vector and font formats — free for public use.  
-- [Origami](https://github.com/SublimeText/Origami) - Split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.  
-- [SublimeAutoHotkey](https://github.com/ahkscript/SublimeAutoHotkey) - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.  
-- [LoremIpsum](https://github.com/billymoon/LoremIpsum) - Lorem Ipsum plugin for Sublime Text  
-- [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.  
+- [wand](https://github.com/emcconville/wand) - The ctypes-based simple ImageMagick binding for Python  
+- [watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.  
+- [Watcher3](https://github.com/nosmokingbandit/Watcher3) -   
+- [waybackpack](https://github.com/jsvine/waybackpack) - Download the entire Wayback Machine archive for a given URL.  
+- [Windows-10-Toast-Notifications](https://github.com/jithurjacob/Windows-10-Toast-Notifications) - Python library to display Windows 10 Toast Notifications  
 - [WordHighlight](https://github.com/SublimeText/WordHighlight) - Highlight all copies of the currently selected word.  
-- [Nettuts-Fetch](https://github.com/weslly/Nettuts-Fetch) - Fetch the latest version of remote files and zip packages  
-- [Sublime-Text-2-Inc-Dec-Value](https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value) - increase / decrease of numbers, dates, hex color values, etc.  
-- [AutoFileName](https://github.com/BoundInCode/AutoFileName) - Sublime Text plugin that autocompletes filenames  
-- [SublimeStringEncode](https://github.com/colinta/SublimeStringEncode) - Converts characters from one &#34;encoding&#34; to another using a transformation (think HTML entities, not character encodings)  
-- [Tag](https://github.com/titoBouzout/Tag) - Collection of packages about HTML/XML tags.  
-- [HTML5](https://github.com/mrmartineau/HTML5) - HTML5 bundle for Sublime Text  
-- [SublimePrettyJson](https://github.com/dzhibas/SublimePrettyJson) - Prettify/Minify/Query/Goto/Validate/Lint JSON plugin for Sublime Text 2 & 3  
-- [Sublime-Text--cdnjs](https://github.com/dafrancis/Sublime-Text--cdnjs) - Sublime plugin to add scripts from http://www.cdnjs.com/  
-- [JsMinifier](https://github.com/cgutierrez/JsMinifier) - Sublime Text plugin for javascript minification using Google Closure compiler  
-- [sublimetext-markdown-preview](https://github.com/revolunet/sublimetext-markdown-preview) - markdown preview and build plugin for sublime text 2/3  
-- [SublimeREPL](https://github.com/wuub/SublimeREPL) - SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself)  
-- [GitGutter](https://github.com/jisaacks/GitGutter) - A Sublime Text 2/3 plugin to see git diff in gutter  
-- [sublime-text-git](https://github.com/kemayo/sublime-text-git) - Plugin for some git integration into sublime text  
-- [sublime-jslint](https://github.com/fbzhong/sublime-jslint) - JSLint support for Sublime Text 2  
-- [sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++  
-- [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) - Bracket and tag highlighter for Sublime Text http://facelessuser.github.io/BracketHighlighter/  
-- [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) - 💡 Full-featured code intelligence and smart autocomplete for Sublime Text  
-- [mist-ce](https://github.com/mistio/mist-ce) - Mist Cloud Management Platform - Community Edition  
-- [Sublime-Text-2-Settings](https://github.com/mischah/Sublime-Text-2-Settings) - My personal settings and installed packages.  
-- [thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com  
-- [SassBeautify](https://github.com/badsyntax/SassBeautify) - A Sublime Text plugin that beautifies Sass files.  
-- [mylar](https://github.com/evilhero/mylar) - An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents  
 - [xbmc-soundcloud-plugin](https://github.com/pietervanh/xbmc-soundcloud-plugin) - XBMC 'Eden' music plugin for browsing and playing content from SoundCloud.  
-- [headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd  
-- [Sick-Beard](https://github.com/lad1337/Sick-Beard) - PVR & episode guide that downloads and manages all your TV shows  
-- [CouchPotatoV1](https://github.com/CouchPotato/CouchPotatoV1) - This is the old version, please use https://github.com/CouchPotato/CouchPotatoServer  
-- [tvdb_api](https://github.com/midgetspy/tvdb_api) - Simple to use TVDB (thetvdb.com) API in Python. The automatic TV episode namer &#34;tvnamer&#34; is now in a separate repository http://github.com/dbr/tvnamer  
-- [Sick-Beard](https://github.com/midgetspy/Sick-Beard) - PVR & episode guide that downloads and manages all your TV shows  
+- [yip](https://github.com/balzss/yip) - Frontend for searching PyPI, a feature rich alternative to pip search  
+- [youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.  
+- [yq](https://github.com/kislyuk/yq) - Command-line YAML and XML processor - jq wrapper for YAML/XML documents  
 
 ## Roff
 - [hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal  
-- [YousList](https://github.com/yous/YousList) - Block filter for advertisements, mainly on Korean sites  
 - [InteractiveGovernorProfiles](https://github.com/wingoku/InteractiveGovernorProfiles) - This repo contains profiles written specifically for Google's interactive governor. These profiles are targeted towards best battery life with minimal to zero perceivable performance reduction.  
+- [YousList](https://github.com/yous/YousList) - Block filter for advertisements, mainly on Korean sites  
 
 ## Ruby
+- [animate.sass](https://github.com/adamstac/animate.sass) - Sass and Compass CSS animation library based on Animate.css  
 - [asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.  
-- [bro](https://github.com/hubsmoke/bro) - A CLI to interact with bropages.org  
-- [evil-icons](https://github.com/evil-icons/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN  
-- [vj](https://github.com/busyloop/vj) - vj - JSON Humanizer  
-- [whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.  
-- [flickake](https://github.com/juntaki/flickake) - Self-hosted video library like Netflix  
-- [onebox](https://github.com/discourse/onebox) - A gem for turning URLs into website previews  
-- [foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications  
-- [octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications  
-- [docker-web-framework-examples](https://github.com/nickjj/docker-web-framework-examples) - Example apps that demonstate how to use Docker with your favorite web frameworks.  
-- [docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux  
-- [libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service  
-- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness  
-- [dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow  
-- [vagrant-winnfsd](https://github.com/winnfsd/vagrant-winnfsd) - Manage and adds support for NFS for Vagrant on Windows.  
-- [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries  
-- [opskeleton](https://github.com/opskeleton/opskeleton) - A complete configuration lifecycle managment, from dev to production  
-- [librarian-puppet-vagrant](https://github.com/garethr/librarian-puppet-vagrant) - Vagrant middleware to run librarian puppet before each vagrant up and vagrant provision  
 - [autoprefixer-rails](https://github.com/ai/autoprefixer-rails) - Autoprefixer for Ruby and Ruby on Rails  
-- [puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application  
-- [vagrant-puppet-example](https://github.com/blalor/vagrant-puppet-example) - Example Puppet config that can be reused between Vagrant and &#34;real&#34; systems  
-- [vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.  
-- [gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.  
-- [puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes  
-- [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.  
-- [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser  
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness  
+- [bootstrap-sass](https://github.com/twbs/bootstrap-sass) - Official Sass port of Bootstrap 2 and 3.  
 - [bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set  
+- [breakpoint](https://github.com/codingdesigner/breakpoint) - Really simple media queries in Sass  
+- [bro](https://github.com/hubsmoke/bro) - A CLI to interact with bropages.org  
+- [CompassApp](https://github.com/KKBOX/CompassApp) - Compass.app helps designers compile stylesheets easily without resorting to command line interface  
+- [dev.to](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow  
+- [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser  
+- [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.  
+- [docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux  
+- [docker-web-framework-examples](https://github.com/nickjj/docker-web-framework-examples) - Example apps that demonstate how to use Docker with your favorite web frameworks.  
+- [evil-icons](https://github.com/evil-icons/evil-icons) - Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN  
+- [fancy-buttons](https://github.com/imathis/fancy-buttons) - Fancy CSS Buttons using Compass  
+- [flickake](https://github.com/juntaki/flickake) - Self-hosted video library like Netflix  
+- [foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications  
+- [gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.  
 - [gitlabhq](https://github.com/gitlabhq/gitlabhq) - GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com  
-- [pik](https://github.com/vertiginous/pik) - Ruby version manager for Windows  
 - [guard](https://github.com/guard/guard) - Guard is a command line tool to easily handle events on file system modifications.  
 - [guard-compass](https://github.com/guard/guard-compass) - Guard::Compass automatically rebuilds scss|sass files when a modification occurs taking in account your compass configuration.  
-- [slim](https://github.com/slim-template/slim) - Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.  
-- [SCSS-sublime](https://github.com/danro/SCSS-sublime) - SCSS syntax highlighting for Sublime Text 2.  
-- [animate.sass](https://github.com/adamstac/animate.sass) - Sass and Compass CSS animation library based on Animate.css  
+- [homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries  
 - [less-rails-bootstrap](https://github.com/metaskills/less-rails-bootstrap) - The most popular front-end framework for developing responsive, mobile first projects on the web for Rails asset pipeline.  
-- [bootstrap-sass](https://github.com/twbs/bootstrap-sass) - Official Sass port of Bootstrap 2 and 3.  
-- [CompassApp](https://github.com/KKBOX/CompassApp) - Compass.app helps designers compile stylesheets easily without resorting to command line interface  
-- [fancy-buttons](https://github.com/imathis/fancy-buttons) - Fancy CSS Buttons using Compass  
-- [breakpoint](https://github.com/codingdesigner/breakpoint) - Really simple media queries in Sass  
+- [librarian-puppet-vagrant](https://github.com/garethr/librarian-puppet-vagrant) - Vagrant middleware to run librarian puppet before each vagrant up and vagrant provision  
+- [libraries.io](https://github.com/librariesio/libraries.io) - :books: The Open Source Discovery Service  
+- [octobox](https://github.com/octobox/octobox) - 📮Untangle your GitHub Notifications  
+- [onebox](https://github.com/discourse/onebox) - A gem for turning URLs into website previews  
+- [opskeleton](https://github.com/opskeleton/opskeleton) - A complete configuration lifecycle managment, from dev to production  
+- [pik](https://github.com/vertiginous/pik) - Ruby version manager for Windows  
+- [puppet](https://github.com/puppetlabs/puppet) - Server automation framework and application  
+- [puppet-nginx](https://github.com/voxpupuli/puppet-nginx) - Puppet Module to manage NGINX on various UNIXes  
+- [SCSS-sublime](https://github.com/danro/SCSS-sublime) - SCSS syntax highlighting for Sublime Text 2.  
+- [slim](https://github.com/slim-template/slim) - Slim is a template language whose goal is to reduce the syntax to the essential parts without becoming cryptic.  
+- [vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.  
+- [vagrant-puppet-example](https://github.com/blalor/vagrant-puppet-example) - Example Puppet config that can be reused between Vagrant and &#34;real&#34; systems  
+- [vagrant-winnfsd](https://github.com/winnfsd/vagrant-winnfsd) - Manage and adds support for NFS for Vagrant on Windows.  
+- [vj](https://github.com/busyloop/vj) - vj - JSON Humanizer  
+- [whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.  
 
 ## Rust
-- [volta](https://github.com/volta-cli/volta) - Volta: The JavaScript Launcher ⚡  
-- [vector](https://github.com/timberio/vector) - A High-Performance, Logs, Metrics, & Events Router  
 - [adblock-rust](https://github.com/brave/adblock-rust) - Rust-based adblock engine prototype  
-- [vtebench](https://github.com/jwilm/vtebench) - Generate benchmarks for terminal emulators  
 - [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator  
-- [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.  
-- [Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command  
-- [just](https://github.com/casey/just) - 🤖 Just a command runner  
-- [genact](https://github.com/svenstaro/genact) - :cyclone: A nonsense activity generator  
-- [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.  
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern  
-- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.  
-- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'  
-- [node2object](https://github.com/vorot93/node2object) - Convert between XML Nodes (treexml::Element) and JSON objects (serde_json::Value)  
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell  
+- [backup-pinboard](https://github.com/alexwlchan/backup-pinboard) - Create a local backup of your Pinboard backups  
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.  
+- [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.  
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'  
+- [genact](https://github.com/svenstaro/genact) - :cyclone: A nonsense activity generator  
+- [just](https://github.com/casey/just) - 🤖 Just a command runner  
+- [Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command  
+- [node2object](https://github.com/vorot93/node2object) - Convert between XML Nodes (treexml::Element) and JSON objects (serde_json::Value)  
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern  
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.  
 - [servo](https://github.com/servo/servo) - The Servo Browser Engine  
-- [backup-pinboard](https://github.com/alexwlchan/backup-pinboard) - Create a local backup of your Pinboard backups  
+- [vector](https://github.com/timberio/vector) - A High-Performance, Logs, Metrics, & Events Router  
+- [volta](https://github.com/volta-cli/volta) - Volta: The JavaScript Launcher ⚡  
+- [vtebench](https://github.com/jwilm/vtebench) - Generate benchmarks for terminal emulators  
+- [xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.  
 
 ## Shell
-- [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +3.9K awesome resources for geeks and software crafters :beer:  
-- [awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font  
-- [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications  
+- [Adebar](https://github.com/IzzySoft/Adebar) - Android DEvice Backup And Report, using Bash and ADB  
+- [advanced_development_shell_tools](https://github.com/AdrianDC/advanced_development_shell_tools) - http://adriandc.github.io/advanced_development_shell_tools  
+- [aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.  
+- [android_update-binary_replacement](https://github.com/doppelhelix/android_update-binary_replacement) - Replace update-binary in flashable zips by a shell script  
+- [android-bloatware](https://github.com/jaredsburrows/android-bloatware) - Keeping tracking of Bloatware that is safe to disable.  
+- [android-completion](https://github.com/mbrubeck/android-completion) - Bash completion for &#34;adb&#34; from the Google Android SDK  
 - [android-disable-direct-share](https://github.com/stefansundin/android-disable-direct-share) - :robot: Disable direct share in Android.  
-- [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+  
-- [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理  
-- [n](https://github.com/tj/n) - Node version management  
-- [nave](https://github.com/isaacs/nave) - Virtual Environments for Node  
-- [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files  
-- [k](https://github.com/lingtalfi/k) - K get kool aliases (and more) working with a simple one-liner.  
-- [k](https://github.com/supercrabtree/k) - k is the new l, yo  
+- [Android-Tools](https://github.com/nathanchance/Android-Tools) - Publicly available Android stuff  
+- [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.  
+- [AOSiP-Helper-Bot](https://github.com/LuckyRepo/AOSiP-Helper-Bot) - Shell script to help with syncing, building or initializing AOSiP  
+- [APK-Patcher](https://github.com/osm0sis/APK-Patcher) - Patch APKs on-the-fly from Android recovery (Proof of Concept)  
+- [AppSystemizer](https://github.com/stangri/AppSystemizer) - AppSystemizer  
+- [apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin  
+- [AtoMiC-ToolKit](https://github.com/htpcBeginner/AtoMiC-ToolKit) - AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, Jackett, Kodi, Lazylibrarian, Madsonic, Mono, Mylar, Nzbget, Nzbhydra, NzbToMedia, Ombi, Plex, Plexpy, Pyload, qBittorrent, Radarr, Sabnzbd+, Sickgear, Sickrage, Sonarr, Subsonic, Transmission, Unrar, Watcher, and Webmin.  
+- [Audio-Modification-Library](https://github.com/therealahrion/Audio-Modification-Library) - AudModLib  
+- [awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font  
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.  
+- [babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!  
+- [base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells  
+- [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.  
+- [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash  
+- [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell  
+- [bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes  
 - [bitpocket](https://github.com/sickill/bitpocket) - &#34;DIY Dropbox&#34; or &#34;2-way directory (r)sync with proper deletion&#34;  
-- [tldr](https://github.com/raylee/tldr) - Simplified and community-driven man pages  
-- [spot](https://github.com/rauchg/spot) - Tiny file search utility (bash)  
-- [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).  
+- [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +3.9K awesome resources for geeks and software crafters :beer:  
+- [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:  
+- [composure](https://github.com/erichs/composure) - Don't fear the Unix chainsaw  
+- [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications  
+- [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere  
+- [dotfiles](https://github.com/evilsocket/dotfiles) - My zsh, bash and vim dot files  
+- [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)  
+- [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles  
+- [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.  
+- [Fdroid-Priv](https://github.com/Magisk-Modules-Repo/Fdroid-Priv) - Fdroid-Priv  
+- [Flashize](https://github.com/Lanchon/Flashize) - Turn Shell Scripts Into Flashable Android Recovery Zips  
+- [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.  
+- [generate-ssl-certs-for-local-development](https://github.com/kingkool68/generate-ssl-certs-for-local-development) - A bash script for generating trusted self-signed SSL certs for local development on your Mac  
+- [gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates  
 - [hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.  
 - [hhighlighter](https://github.com/paoloantinori/hhighlighter) - A command line tool to highlight terms  
-- [shell-utils](https://github.com/pierrekilly/shell-utils) - Some shell utility tools  
-- [Myflix](https://github.com/pastapojken/Myflix) - Myflix, a Netflix clone!  
-- [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing  
+- [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash  
+- [Increase-vol-steps-magisk](https://github.com/veez21/Increase-vol-steps-magisk) - increase_vol_steps  
+- [ITE](https://github.com/evandrocoan/ITE) - An Integrated Toolset Environment over the Sublime Text editor aiming to develop on any programming language.  
+- [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理  
+- [k](https://github.com/lingtalfi/k) - K get kool aliases (and more) working with a simple one-liner.  
+- [k](https://github.com/supercrabtree/k) - k is the new l, yo  
+- [L_SPEED](https://github.com/Paget96/L_SPEED) -   
+- [LaSi](https://github.com/Mar2zz/LaSi) - LaSi is short for: Lazy admin Scripted Installers. Aim is to create 'easy' walkthrough-installers written in Bash for programs that are not inside official *nix-repo's, but for example only on Github or Googlecode. Main focus is headless servers, right now it supports debian-based systems, freeBSD-deratives (thx to Kriss1981) and bootstrapped Synology NAS devices (thx to Jeroenve)).  
+- [librarian-puppet-vagrant](https://github.com/purple52/librarian-puppet-vagrant) - An example of how to use Librarian-puppet to manage Puppet modules for a Vagrant box  
+- [local-cert-generator](https://github.com/dakshshah96/local-cert-generator) - 🚀 A set of scripts to quickly generate a HTTPS certificate for your local development environment.  
+- [magisk-manager-snapshot-updater](https://github.com/DeicPro/magisk-manager-snapshot-updater) - magisk-manager-snapshot-updater  
+- [magisk-module-installer](https://github.com/topjohnwu/magisk-module-installer) - An installer template for Magisk modules  
+- [magisk-module-template-eviltheme](https://github.com/djb77/magisk-module-template-eviltheme) - Magisk Module Template with built in EVilTheme Patcher  
+- [magisk-permissive-script](https://github.com/Jman420/magisk-permissive-script) - Installs a simple script to enable Permissive Mode during Magisk Startup  
+- [magisk-single-user](https://github.com/seebz/magisk-single-user) - Disables the multi-users feature  
+- [MagiskFiles](https://github.com/stangri/MagiskFiles) - Unofficial snapshots of Magisk and Magisk Manager built from github sources.  
 - [MagiskHidePropsConf](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf) - MagiskHidePropsConf  
+- [materialshell](https://github.com/carloscuesta/materialshell) - A material design theme for your terminal. ✨  
+- [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - This Windows Batchscript helps setup a MinGW compiler environment for building ffmpeg and other media tools under Windows.  
+- [movecert](https://github.com/Magisk-Modules-Repo/movecert) - movecert  
+- [Myflix](https://github.com/pastapojken/Myflix) - Myflix, a Netflix clone!  
+- [n](https://github.com/tj/n) - Node version management  
+- [n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash  
+- [NanoDroid](https://github.com/Nanolx/NanoDroid) - [MIRROR] See https://gitlab.com/Nanolx/NanoDroid for main repository  
+- [NavBarEnabler-Magisk](https://github.com/putridfoetus/NavBarEnabler-Magisk) -   
+- [nave](https://github.com/isaacs/nave) - Virtual Environments for Node  
+- [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+  
+- [nginx](https://github.com/ANXS/nginx) - A fairly flexible and feature full Ansible role for the NGINX web server.  
+- [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.  
+- [nginx-init-ubuntu](https://github.com/JasonGiedymin/nginx-init-ubuntu) - Tried and true Nginx init script - got enhancements? Send a pull!  
+- [node-startup](https://github.com/chovy/node-startup) - Startup script for Linux-based systems for running node app when rebooting using an /etc/init.d script.  
+- [oh-my-cygwin](https://github.com/haithembelhaj/oh-my-cygwin) - Setup a functioning terminal for Windows  
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.  
+- [optparse](https://github.com/nk412/optparse) - Simple command line arguments parser for BASH  
+- [pear](https://github.com/cup/pear) - Cygwin binary package manager  
+- [prebuildify-cross](https://github.com/prebuild/prebuildify-cross) - Cross-compile Node.js native module prebuilds. Superseded by https://github.com/prebuild/docker-images  
+- [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh  
+- [puppet-bootstrap](https://github.com/hashicorp/puppet-bootstrap) - A collection of single-file scripts to bootstrap your machines with Puppet.  
+- [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt  
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.  
+- [rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment  
+- [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).  
+- [Ricky310711RomKitchen](https://github.com/Ricky310711/Ricky310711RomKitchen) - A kitchen for android rom development to run natively on windows  
+- [ScriBt](https://github.com/ScriBt/ScriBt) - Building ROMs made understandable  
+- [scripts](https://github.com/ezio84/scripts) - Build scripts, tip and tricks, custom commits list, vendor blobs extraction  
+- [senv](https://github.com/josh/senv) - Encrypted .env variables  
+- [settings](https://github.com/spences10/settings) - Settings, for when things die and you can't quite remember how things were 🙃  
+- [shell-utils](https://github.com/pierrekilly/shell-utils) - Some shell utility tools  
+- [spot](https://github.com/rauchg/spot) - Tiny file search utility (bash)  
 - [sqlite3](https://github.com/Magisk-Modules-Repo/sqlite3) - sqlite3  
 - [ssh](https://github.com/Magisk-Modules-Repo/ssh) - ssh  
-- [terminalmods](https://github.com/Magisk-Modules-Repo/terminalmods) - terminalmods  
-- [movecert](https://github.com/Magisk-Modules-Repo/movecert) - movecert  
-- [prebuildify-cross](https://github.com/prebuild/prebuildify-cross) - Cross-compile Node.js native module prebuilds. Superseded by https://github.com/prebuild/docker-images  
-- [gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates  
-- [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things; @ssllabs A+ 100%, @mozilla A+ 120/100.  
-- [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere  
-- [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash  
-- [n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash  
-- [wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems  
-- [generate-ssl-certs-for-local-development](https://github.com/kingkool68/generate-ssl-certs-for-local-development) - A bash script for generating trusted self-signed SSL certs for local development on your Mac  
-- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.  
-- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh  
-- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.  
-- [settings](https://github.com/spences10/settings) - Settings, for when things die and you can't quite remember how things were 🙃  
-- [dotfiles](https://github.com/evilsocket/dotfiles) - My zsh, bash and vim dot files  
-- [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt  
-- [the_silver_searcher-win32](https://github.com/k-takata/the_silver_searcher-win32) - The silver searcher Win32 unofficial daily builds  
-- [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.  
-- [local-cert-generator](https://github.com/dakshshah96/local-cert-generator) - 🚀 A set of scripts to quickly generate a HTTPS certificate for your local development environment.  
-- [media-autobuild_suite](https://github.com/m-ab-s/media-autobuild_suite) - This Windows Batchscript helps setup a MinGW compiler environment for building ffmpeg and other media tools under Windows.  
-- [sublime](https://github.com/rainglow/sublime) - 320+ color themes for Sublime Text and Textmate.  
-- [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:  
-- [top-programming-fonts](https://github.com/hbin/top-programming-fonts) -   
-- [magisk-single-user](https://github.com/seebz/magisk-single-user) - Disables the multi-users feature  
-- [zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh  
-- [android-completion](https://github.com/mbrubeck/android-completion) - Bash completion for &#34;adb&#34; from the Google Android SDK  
-- [Adebar](https://github.com/IzzySoft/Adebar) - Android DEvice Backup And Report, using Bash and ADB  
-- [Systemless_TZData](https://github.com/Magisk-Modules-Repo/Systemless_TZData) - Systemless_TZData  
-- [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.  
-- [Ricky310711RomKitchen](https://github.com/Ricky310711/Ricky310711RomKitchen) - A kitchen for android rom development to run natively on windows  
-- [ITE](https://github.com/evandrocoan/ITE) - An Integrated Toolset Environment over the Sublime Text editor aiming to develop on any programming language.  
-- [terminal_app_systemizer](https://github.com/veez21/terminal_app_systemizer) - terminal_systemizer  
-- [terminal_systemizer](https://github.com/Magisk-Modules-Repo/terminal_systemizer) - terminal_systemizer  
-- [AppSystemizer](https://github.com/stangri/AppSystemizer) - AppSystemizer  
-- [AOSiP-Helper-Bot](https://github.com/LuckyRepo/AOSiP-Helper-Bot) - Shell script to help with syncing, building or initializing AOSiP  
-- [unify-magisk-module-template](https://github.com/veez21/unify-magisk-module-template) - System/Less Module Template for Magisk - discontinued lol  
-- [advanced_development_shell_tools](https://github.com/AdrianDC/advanced_development_shell_tools) - http://adriandc.github.io/advanced_development_shell_tools  
-- [magisk-module-template-eviltheme](https://github.com/djb77/magisk-module-template-eviltheme) - Magisk Module Template with built in EVilTheme Patcher  
-- [wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove node_modules folder of non-active projects  
-- [magisk-manager-snapshot-updater](https://github.com/DeicPro/magisk-manager-snapshot-updater) - magisk-manager-snapshot-updater  
-- [optparse](https://github.com/nk412/optparse) - Simple command line arguments parser for BASH  
-- [composure](https://github.com/erichs/composure) - Don't fear the Unix chainsaw  
-- [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell  
-- [aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.  
-- [base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells  
-- [ScriBt](https://github.com/ScriBt/ScriBt) - Building ROMs made understandable  
-- [terminal_debloater](https://github.com/Magisk-Modules-Repo/terminal_debloater) - terminal_debloater  
-- [Audio-Modification-Library](https://github.com/therealahrion/Audio-Modification-Library) - AudModLib  
-- [MagiskFiles](https://github.com/stangri/MagiskFiles) - Unofficial snapshots of Magisk and Magisk Manager built from github sources.  
-- [Fdroid-Priv](https://github.com/Magisk-Modules-Repo/Fdroid-Priv) - Fdroid-Priv  
-- [Increase-vol-steps-magisk](https://github.com/veez21/Increase-vol-steps-magisk) - increase_vol_steps  
-- [NanoDroid](https://github.com/Nanolx/NanoDroid) - [MIRROR] See https://gitlab.com/Nanolx/NanoDroid for main repository  
-- [terminal_debloater_magisk](https://github.com/veez21/terminal_debloater_magisk) - terminal_debloater  
-- [NavBarEnabler-Magisk](https://github.com/putridfoetus/NavBarEnabler-Magisk) -   
-- [APK-Patcher](https://github.com/osm0sis/APK-Patcher) - Patch APKs on-the-fly from Android recovery (Proof of Concept)  
-- [magisk-module-installer](https://github.com/topjohnwu/magisk-module-installer) - An installer template for Magisk modules  
-- [magisk-permissive-script](https://github.com/Jman420/magisk-permissive-script) - Installs a simple script to enable Permissive Mode during Magisk Startup  
-- [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.  
-- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.  
-- [babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!  
-- [pear](https://github.com/cup/pear) - Cygwin binary package manager  
-- [scripts](https://github.com/ezio84/scripts) - Build scripts, tip and tricks, custom commits list, vendor blobs extraction  
-- [android_update-binary_replacement](https://github.com/doppelhelix/android_update-binary_replacement) - Replace update-binary in flashable zips by a shell script  
-- [materialshell](https://github.com/carloscuesta/materialshell) - A material design theme for your terminal. ✨  
-- [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.  
-- [AtoMiC-ToolKit](https://github.com/htpcBeginner/AtoMiC-ToolKit) - AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, Jackett, Kodi, Lazylibrarian, Madsonic, Mono, Mylar, Nzbget, Nzbhydra, NzbToMedia, Ombi, Plex, Plexpy, Pyload, qBittorrent, Radarr, Sabnzbd+, Sickgear, Sickrage, Sonarr, Subsonic, Transmission, Unrar, Watcher, and Webmin.  
-- [Flashize](https://github.com/Lanchon/Flashize) - Turn Shell Scripts Into Flashable Android Recovery Zips  
-- [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)  
-- [Android-Tools](https://github.com/nathanchance/Android-Tools) - Publicly available Android stuff  
-- [L_SPEED](https://github.com/Paget96/L_SPEED) -   
-- [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.  
-- [android-bloatware](https://github.com/jaredsburrows/android-bloatware) - Keeping tracking of Bloatware that is safe to disable.  
-- [apt-cyg](https://github.com/transcode-open/apt-cyg) - Apt-cyg, an apt-get like tool for Cygwin  
 - [Stouts.backup](https://github.com/Stouts/Stouts.backup) - Ansible role to backup files, databases  
-- [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash  
-- [nginx](https://github.com/ANXS/nginx) - A fairly flexible and feature full Ansible role for the NGINX web server.  
-- [WordPressVPS](https://github.com/kevinohashi/WordPressVPS) -   
+- [sublime](https://github.com/rainglow/sublime) - 320+ color themes for Sublime Text and Textmate.  
+- [Systemless_TZData](https://github.com/Magisk-Modules-Repo/Systemless_TZData) - Systemless_TZData  
+- [terminal_app_systemizer](https://github.com/veez21/terminal_app_systemizer) - terminal_systemizer  
+- [terminal_debloater](https://github.com/Magisk-Modules-Repo/terminal_debloater) - terminal_debloater  
+- [terminal_debloater_magisk](https://github.com/veez21/terminal_debloater_magisk) - terminal_debloater  
+- [terminal_systemizer](https://github.com/Magisk-Modules-Repo/terminal_systemizer) - terminal_systemizer  
+- [terminalmods](https://github.com/Magisk-Modules-Repo/terminalmods) - terminalmods  
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.  
+- [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.  
+- [the_silver_searcher-win32](https://github.com/k-takata/the_silver_searcher-win32) - The silver searcher Win32 unofficial daily builds  
+- [tldr](https://github.com/raylee/tldr) - Simplified and community-driven man pages  
+- [top-programming-fonts](https://github.com/hbin/top-programming-fonts) -   
+- [unify-magisk-module-template](https://github.com/veez21/unify-magisk-module-template) - System/Less Module Template for Magisk - discontinued lol  
+- [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing  
 - [VVV](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration for developing with WordPress  
-- [nginx-init-ubuntu](https://github.com/JasonGiedymin/nginx-init-ubuntu) - Tried and true Nginx init script - got enhancements? Send a pull!  
-- [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles  
-- [puppet-bootstrap](https://github.com/hashicorp/puppet-bootstrap) - A collection of single-file scripts to bootstrap your machines with Puppet.  
-- [librarian-puppet-vagrant](https://github.com/purple52/librarian-puppet-vagrant) - An example of how to use Librarian-puppet to manage Puppet modules for a Vagrant box  
-- [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh  
-- [bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes  
-- [rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment  
-- [oh-my-cygwin](https://github.com/haithembelhaj/oh-my-cygwin) - Setup a functioning terminal for Windows  
-- [senv](https://github.com/josh/senv) - Encrypted .env variables  
-- [node-startup](https://github.com/chovy/node-startup) - Startup script for Linux-based systems for running node app when rebooting using an /etc/init.d script.  
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.  
-- [LaSi](https://github.com/Mar2zz/LaSi) - LaSi is short for: Lazy admin Scripted Installers. Aim is to create 'easy' walkthrough-installers written in Bash for programs that are not inside official *nix-repo's, but for example only on Github or Googlecode. Main focus is headless servers, right now it supports debian-based systems, freeBSD-deratives (thx to Kriss1981) and bootstrapped Synology NAS devices (thx to Jeroenve)).  
+- [wipe-modules](https://github.com/bntzio/wipe-modules) - 🗑️ Easily remove node_modules folder of non-active projects  
+- [WordPressVPS](https://github.com/kevinohashi/WordPressVPS) -   
+- [wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems  
+- [yaml-cli](https://github.com/pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files  
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh  
+- [zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh  
 
 ## Swift
-- [iina](https://github.com/iina/iina) - The modern video player for macOS.  
-- [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web  
 - [CapacitorGoogleAuth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Capacitor plugin for Google Auth. Lightweight & no dependencies.  
 - [chrome-active-tab](https://github.com/yoihito/chrome-active-tab) -   
+- [iina](https://github.com/iina/iina) - The modern video player for macOS.  
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS.  
+- [SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI) - A demo implementation of SwiftUI for the Web  
 
 ## Tcl
 - [nzbhydra-windows-releases](https://github.com/theotherp/nzbhydra-windows-releases) - Binary releases of NZBHydra  
@@ -2930,235 +2930,235 @@ Enjoy!
 - [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Algorithms and Data structures  
 
 ## TypeScript
-- [alva](https://github.com/meetalva/alva) - Create living prototypes with code components.  
-- [remirror](https://github.com/ifiokjr/remirror) - A universal react text editor built with prosemirror  
-- [ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components  
-- [web-build-tools](https://github.com/microsoft/web-build-tools) - A tool box for large scale web development  
-- [marble](https://github.com/marblejs/marble) - Marble.js - functional reactive Node.js framework for building server-side applications, based on TypeScript and RxJS.  
-- [lowloader](https://github.com/nicholas-johnson/lowloader) - An unsurprising script loader. Give it a URL, it will give you a promise that will resolve when the script is loaded. Then do what you like..  
-- [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.  
-- [await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch  
-- [await-here](https://github.com/Harshit369/await-here) - A helper package for ES6 async/await  
-- [web](https://github.com/pikapkg/web) - :package: :sparkles: Bundle only once, at install time. https://www.pika.dev/blog/pika-web-a-future-without-webpack/  
-- [use-simple-storage](https://github.com/vadymbiliuk/use-simple-storage) -   
-- [databaker](https://github.com/wan2land/databaker) -   
-- [keyv-file](https://github.com/zaaack/keyv-file) - File storage adapter for Keyv, using json to serialize data.  
-- [snackbar](https://github.com/egoist/snackbar) - A tiny browser library for showing a brief message at the bottom of the screen (1kB gzipped).  
-- [egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Reliable, flexible and extendable carousel used by 30 million people everyday.  
-- [data-dom](https://github.com/daybrush/data-dom) -   
-- [shape-svg](https://github.com/daybrush/shape-svg) - Make SVG Polygon & Star Shape  
-- [utils](https://github.com/daybrush/utils) - utils for daybrush  
-- [list-map](https://github.com/daybrush/list-map) - 📋 A list-map collection in the form of key, value, that ensures the index.  
-- [keycon](https://github.com/daybrush/keycon) - Keyboard Controller  
-- [TypePicker](https://github.com/Fi2zz/TypePicker) - A date picker use in web and react-native  
-- [xplat](https://github.com/nstudio/xplat) - Cross-platform (xplat) tools for Nx workspaces https://nstudio.io/xplat  
-- [termy-the-terminal](https://github.com/ctaylo21/termy-the-terminal) - Web-based terminal powered by React  
-- [moveable](https://github.com/daybrush/moveable) - ↔️ ↕️ 🔄 Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable!  
-- [kites](https://github.com/kitesjs/kites) - Template-based Web Application Framework  
-- [npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.  
-- [kmdr-cli](https://github.com/ediardo/kmdr-cli) - The CLI tool for explaining commands from your terminal  
-- [koa-node-resolve](https://github.com/Polymer/koa-node-resolve) - Koa middleware that transforms Node package specifiers to relative paths  
-- [cashify](https://github.com/xxczaki/cashify) - 💸 Lightweight currency conversion library, successor of money.js  
-- [localsync](https://github.com/noderaider/localsync) - Real-time browser state synchronization across multiple tabs.  
-- [popup-trigger](https://github.com/jamesknelson/popup-trigger) - A helper for triggering popups on focus, hover, and selection.  
-- [delegate-it](https://github.com/fregante/delegate-it) - DOM event delegation, in &lt;1KB  
-- [pointer-tracker](https://github.com/GoogleChromeLabs/pointer-tracker) - Track mouse/touch/pointer events for a given element.  
-- [p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress  
-- [fun-little-utilities](https://github.com/ksxnodeapps/fun-little-utilities) - Khải's fun little utilities  
-- [queso](https://github.com/jedmao/queso) - A library of tiny, dependency-free TypeScript functions that do just one thing.  
-- [wana](https://github.com/alloc/wana) - Observable state with ease ⚡️  
-- [just](https://github.com/microsoft/just) - The task library that just works  
-- [sync-request](https://github.com/ForbesLindesay/sync-request) - Make synchronous web requests with cross platform support.  
-- [cjs-to-esm-transformer](https://github.com/wessberg/cjs-to-esm-transformer) - A Custom Transformer for Typescript that transforms Node-style CommonJS to tree-shakeable ES Modules  
-- [snq](https://github.com/armanozak/snq) - A utility function to avoid type errors when traversing over arrays and object properties.  
-- [date-io](https://github.com/dmtrKovalenko/date-io) - Abstraction over common javascript date management libraries  
-- [geckos.io](https://github.com/geckosio/geckos.io) - Real-time client/server communication over UDP using WebRTC and Node.js http://geckos.io  
-- [resource-x](https://github.com/khalidx/resource-x) - Resource and domain modeling for quick APIs, CMSs, and applications.  
-- [plugin-pug](https://github.com/prettier/plugin-pug) - Prettier Pug Plugin  
-- [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web  
-- [github-repo-tools](https://github.com/lightness/github-repo-tools) - A set of useful tools helping search dependencies in all repos of github user/org  
-- [request-registry](https://github.com/namics/request-registry) - RequestRegistry is a generic utility to be used as part of your frontend data fetching layer to provide a typed, simplified and consistent API over various remote web services via caching.  
-- [reatom](https://github.com/artalar/reatom) - State manager with a focus of all needs  
-- [frontity](https://github.com/frontity/frontity) - » Frontity - Create amazing sites using WordPress & React  
-- [mort](https://github.com/joereynolds/mort) - Dead CSS detection  
-- [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.  
-- [repeater](https://github.com/repeaterjs/repeater) - The missing constructor for creating safe async iterators  
-- [pkgdrop](https://github.com/swimlane/pkgdrop) - Easy deployment of ES modules without external connection needed at runtime  
-- [x-atm](https://github.com/Zaynex/x-atm) - async task manager  
-- [reattempt](https://github.com/wsmd/reattempt) - 🤞 Give your functions another chance  
-- [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry  
-- [turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster  
-- [stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have  
-- [ag-grid-autocomplete-editor](https://github.com/avallete/ag-grid-autocomplete-editor) - Quick implementation of autocompletion into ag-Grid cell using autocompleter package.  
 - [8track](https://github.com/jrf0110/8track) - A service worker router with async middleware and neato type-inference inspired by Koa  
-- [talker.js](https://github.com/secondstreet/talker.js) - A tiny, promise-based library for cross-origin communication between frames and windows.  
-- [afterframe](https://github.com/andrewiggins/afterframe) - ⏱ A simple method to invoke a function after the browser has rendered & painted a frame  
-- [icomponent](https://github.com/prasannavl/icomponent) - A super simple, render-agnostic component library for the modern web that emphasizes framework and renderer freedom  
-- [smart-toc](https://github.com/FallenMax/smart-toc) - A Chrome extension for auto-generating a table of contents  
-- [parse-css-font](https://github.com/jedmao/parse-css-font) - Parses the CSS font property value.  
-- [stencil](https://github.com/ionic-team/stencil) - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team  
-- [devhub](https://github.com/devhubapp/devhub) - GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop  
-- [fabulous](https://github.com/Raathigesh/fabulous) - 🎨 CSS properties sidebar for VS Code  
-- [lit-element](https://github.com/Polymer/lit-element) - A simple base class for creating fast, lightweight web components  
-- [mhead-js](https://github.com/FrDH/mhead-js) - A small framework for creating a beautiful mobile navigation header to accompany the jQuery.mmenu menu on your website and webapp.  
-- [onno](https://github.com/wagerfield/onno) - Responsive style props for building themed design systems  
 - [adblocker](https://github.com/cliqz-oss/adblocker) - A fast, pure-JavaScript content-blocking library  
-- [r2curl](https://github.com/uyu423/r2curl) - Node.js Request Wrapper (axios, fetch, ..) to cURL Command String  
-- [nestjs-console](https://github.com/Pop-Code/nestjs-console) - A Nestjs module that provide a cli to your application.  
-- [date-filtersjs](https://github.com/PeterHdd/date-filtersjs) - A typescript library to help developers in filtering according to specific date range  
-- [wordpress-sdk](https://github.com/iclouds/wordpress-sdk) -   
-- [jsoq](https://github.com/nire0510/jsoq) - Query and manipulate JSON arrays easily. Powered by lodash, inspired by knex and SQL in general.  
-- [secure-require](https://github.com/secure-require/secure-require) - A secure require implementation for ECMAScript  
-- [effepi](https://github.com/OctoD/effepi) - Fun functional programming with pipelinable functions  
-- [ottavino](https://github.com/betterthancode/ottavino) - tiny, fast and declarative ui - using custom elements API (but not only)  
-- [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - A upgrade from 🔥webpack-chrome-extension-reloader🔥, now on all browsers  
-- [react-grid-dnd](https://github.com/bmcmahen/react-grid-dnd) - drag and drop, grid edition. built with react  
-- [simple-dom](https://github.com/ember-fastboot/simple-dom) -   
-- [minna-ui](https://github.com/WeAreGenki/minna-ui) - 😸 A fast, friendly, and fun web UI kit for everyone.  
-- [object-cull](https://github.com/Rich-Harris/object-cull) - Create a copy of an object with just the bits you actually need  
-- [table-selection](https://github.com/PXLWidgets/table-selection) - Adds rectangular selection to HTML tables  
-- [request](https://github.com/poppinss/request) - Node.Js request wrapper used by AdonisJs framework  
-- [quilt](https://github.com/Shopify/quilt) - A loosely related set of packages for JavaScript / TypeScript projects at Shopify  
-- [iteratez](https://github.com/ClickerMonkey/iteratez) - A powerful functional iterator, transformer, and mutator - like Underscore.js, except for everything  
-- [drag-drop-stage-component](https://github.com/silexlabs/drag-drop-stage-component) - A component to &#34;drag'n drop&#34;-enable your projects, maintained and simple, light on dependencies  
-- [rollup-pluginutils](https://github.com/rollup/rollup-pluginutils) - A set of functions commonly used by Rollup plugins  
-- [babel-plugin-remove-unused-vars](https://github.com/steelbrain/babel-plugin-remove-unused-vars) - Babel plugin to remove unused variables and imports (Babel autofix for ESLint's no-unused-vars)  
-- [node-easyimage](https://github.com/hacksparrow/node-easyimage) - Node.js module for image processing and manipulation  
-- [basic-ftp](https://github.com/patrickjuchli/basic-ftp) - FTP client for Node.js, supports explicit FTPS over TLS, passive mode over IPv6, async/await, and Typescript.  
-- [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans  
+- [afterframe](https://github.com/andrewiggins/afterframe) - ⏱ A simple method to invoke a function after the browser has rendered & painted a frame  
+- [ag-grid](https://github.com/ag-grid/ag-grid) - Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components  
+- [ag-grid-autocomplete-editor](https://github.com/avallete/ag-grid-autocomplete-editor) - Quick implementation of autocompletion into ag-Grid cell using autocompleter package.  
+- [alva](https://github.com/meetalva/alva) - Create living prototypes with code components.  
+- [atmo](https://github.com/Raathigesh/atmo) - :heavy_check_mark: Mock data for your prototypes and demos. Remote deployments to Zeit now.  
 - [Autolinker.js](https://github.com/gregjacobs/Autolinker.js) - Utility to Automatically Link URLs, Email Addresses, Phone Numbers, Twitter handles, and Hashtags in a given block of text/HTML  
-- [svg-pan-zoom-container](https://github.com/luncheon/svg-pan-zoom-container) - A vanilla-js module for adding zoom-on-wheel and pan-on-drag behavior to inline SVG elements.  
-- [pinch-zoom](https://github.com/GoogleChromeLabs/pinch-zoom) -   
-- [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line. :hammer:  
-- [SourceScraper](https://github.com/OpenByteDev/SourceScraper) - Simple library which helps you to retrieve the source of various video streaming sites.  
-- [puppet-run](https://github.com/andywer/puppet-run) - 🤖 Run anything JavaScript in a headless Chrome from your command line  
-- [x-ray-chrome](https://github.com/ssbeefeater/x-ray-chrome) - x-ray chrome driver using puppeteer  
-- [puppeteer-fetchbot](https://github.com/AOEpeople/puppeteer-fetchbot) - Library and Shell command that provides a simple JSON-API to perform human like interactions and data extractions on any website. Built on top of puppeteer.  
-- [foxr](https://github.com/deepsweet/foxr) - 🦊 Node.js API to control Firefox  
-- [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript  
-- [stor](https://github.com/flume-cloud-services/stor) - STOR provides a JSON database with the power of HTTP requests 🚀  
-- [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output  
-- [multrin](https://github.com/sentialx/multrin) - Cross-platform replacement for abandoned Windows Sets  
-- [nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node  
-- [decaffeinate](https://github.com/decaffeinate/decaffeinate) - Goodbye CoffeeScript, hello JavaScript!  
-- [Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB  
-- [history-actions](https://github.com/BeardScript/history-actions) - Action manager framework with undo/redo  
-- [node-common-constants](https://github.com/andfaulkner/node-common-constants) - Collection of commonly used constants such as various dates and times, mathematical constants like PI, log levels, and default ports  
-- [css-inliner](https://github.com/E-goi/css-inliner) - Inline your css 100% in the browser and with no dependencies  
-- [functions-framework-nodejs](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) - FaaS (Function as a service) framework for writing portable Node.js functions  
-- [socks](https://github.com/JoshGlazebrook/socks) - Fully featured SOCKS proxy client supporting SOCKSv4, SOCKSv4a, and SOCKSv5. Includes Bind and Associate functionality.  
-- [devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't  
-- [json-helpers](https://github.com/emmkimme/json-helpers) - JSON stringify/parser managing 'undefined', Buffer and Date  
-- [serialism](https://github.com/voodooattack/serialism) - Serialize complex JavaScript objects or ES6 classes with circular dependencies natively.  
+- [await-here](https://github.com/Harshit369/await-here) - A helper package for ES6 async/await  
+- [await-of](https://github.com/xobotyi/await-of) - await wrapper for easier errors handling without try-catch  
+- [await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch  
+- [babel-plugin-remove-unused-vars](https://github.com/steelbrain/babel-plugin-remove-unused-vars) - Babel plugin to remove unused variables and imports (Babel autofix for ESLint's no-unused-vars)  
+- [basic-ftp](https://github.com/patrickjuchli/basic-ftp) - FTP client for Node.js, supports explicit FTPS over TLS, passive mode over IPv6, async/await, and Typescript.  
+- [blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs  
 - [browserslist-useragent-regexp](https://github.com/browserslist/browserslist-useragent-regexp) - A utility to compile browserslist query to a RegExp to test browser useragent.  
-- [pixel-icon](https://github.com/Samitier/pixel-icon) - The simplest javascript icon editor  
-- [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic Framework and web apps everywhere  
-- [form-wrapper-js](https://github.com/Nevoss/form-wrapper-js) - JS abstraction for forms  
-- [umbrella](https://github.com/thi-ng/umbrella) - ⛱ Mono-repository of 100+ TypeScript/ES6 projects for functional, data driven development  
-- [preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 A smart build tool for libraries  
-- [devalue](https://github.com/nuxt/devalue) - Gets the job done when JSON.stringify can't  
-- [mjn](https://github.com/micheleriva/mjn) - ⚡️Simple pseudo-monoid to check if a key or a value exist in an object.  
-- [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:  
-- [webpack-chrome-extension-reloader](https://github.com/rubenspgcavalcante/webpack-chrome-extension-reloader) - 🔥 Hot reloading while developing Chrome extensions with webpack 🔥  
-- [Custom-JavaScript-for-Websites-2](https://github.com/xcv58/Custom-JavaScript-for-Websites-2) - Run custom JavaScript on any website  
-- [foy](https://github.com/zaaack/foy) - A simple, light-weight and modern task runner for general purpose.  
+- [cacher-cli](https://github.com/CacherApp/cacher-cli) - The command line interface to Cacher.  
+- [cashify](https://github.com/xxczaki/cashify) - 💸 Lightweight currency conversion library, successor of money.js  
+- [Chocolatey-Quickstart](https://github.com/RoryCrispin/Chocolatey-Quickstart) - A quickstart utility for the Chocolatey package manager  
+- [chrome-promise](https://github.com/tfoxy/chrome-promise) - Promises for chrome JavaScript APIs used in extensions and apps.  
+- [cjs-to-esm-transformer](https://github.com/wessberg/cjs-to-esm-transformer) - A Custom Transformer for Typescript that transforms Node-style CommonJS to tree-shakeable ES Modules  
+- [client](https://github.com/Ulterius/client) - [WIP] Ulterius™ HTML5 react frontend.  
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.  
-- [fween-js](https://github.com/zeh/fween-js) - Fween.  
-- [imgstry](https://github.com/visual-cortex/imgstry) - Image editing module in JavaScript.  
-- [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.  
-- [zoe](https://github.com/jorgegonzalez/zoe) - 🌀 Zero-config JavaScript Linter and Formatter.  
-- [font-picker](https://github.com/samuelmeuli/font-picker) - ✏️ Font selector component for Google Fonts  
-- [emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers  
-- [cwait](https://github.com/charto/cwait) - :hourglass: Limit number of promises running in parallel  
-- [uos](https://github.com/vaneenige/uos) - 🐭 A tiny 250b scroll listener with progress.  
-- [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age  
-- [riba](https://github.com/ribajs/riba) - Lightweight and powerful data binding + web components + templating + routing solution  
-- [kalm.js](https://github.com/kalm/kalm.js) - The socket manager  
-- [template-vscode-extension](https://github.com/fabiospampinato/template-vscode-extension) - A template for starting a new vscode extension quickly.  
-- [template](https://github.com/fabiospampinato/template) - A super-simple way to create new projects based on templates.  
-- [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code  
 - [copee](https://github.com/styfle/copee) - 📄 Copy text from browser to clipboard...natively! &lt; 1kB  
 - [copie](https://github.com/deepsweet/copie) - 👯‍♀️ Copy a file  
-- [idley](https://github.com/yosbelms/idley) - Helper functions for implementing the idle-until-urgent pattern  
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js  
-- [reddit-comment-highlights](https://github.com/aesy/reddit-comment-highlights) - A browser extension with minimal permissions that highlights Reddit.com comments since you've been away.  
-- [got](https://github.com/sindresorhus/got) - Simplified HTTP requests  
-- [microjob](https://github.com/wilk/microjob) - A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.  
-- [nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner  
-- [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm  
-- [http-timer](https://github.com/szmarczak/http-timer) - Timings for HTTP requests  
-- [await-of](https://github.com/xobotyi/await-of) - await wrapper for easier errors handling without try-catch  
-- [ueli](https://github.com/oliverschwendener/ueli) - This is a keystroke launcher for Windows and macOS.  
-- [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron  
-- [blob-util](https://github.com/nolanlawson/blob-util) - Cross-browser utils for working with binary Blobs  
-- [pnpm](https://github.com/pnpm/pnpm) - 📦🚀 Fast, disk space efficient package manager  
-- [wait-for-element-transition](https://github.com/mkay581/wait-for-element-transition) - Easily wait for an element to CSS transition using native vanilla JavaScript  
-- [yet-another-pinboard-extension](https://github.com/seeba8/yet-another-pinboard-extension) - Manage your Pinboard bookmarks in your browser.  
-- [Vimtur](https://github.com/simplyboo6/Vimtur) - Vimtur Media Manager  
-- [trans-loader](https://github.com/mizchi/trans-loader) - webpack-less frontend with service-worker  
-- [tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!  
+- [css-inliner](https://github.com/E-goi/css-inliner) - Inline your css 100% in the browser and with no dependencies  
+- [Custom-JavaScript-for-Websites-2](https://github.com/xcv58/Custom-JavaScript-for-Websites-2) - Run custom JavaScript on any website  
+- [cwait](https://github.com/charto/cwait) - :hourglass: Limit number of promises running in parallel  
+- [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code  
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension  
-- [atmo](https://github.com/Raathigesh/atmo) - :heavy_check_mark: Mock data for your prototypes and demos. Remote deployments to Zeit now.  
-- [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)  
-- [unibeautify](https://github.com/Unibeautify/unibeautify) - One Beautifier to rule them all, One Beautifier to clean them, One Beautifier to bring them all and in the darkness sheen them  
-- [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web  
-- [chrome-promise](https://github.com/tfoxy/chrome-promise) - Promises for chrome JavaScript APIs used in extensions and apps.  
-- [cacher-cli](https://github.com/CacherApp/cacher-cli) - The command line interface to Cacher.  
-- [macro-chrome-extension](https://github.com/UseMacro/macro-chrome-extension) - [Deprecated] Keyboard shortcuts for the web  
-- [vscode-localhistory](https://github.com/gayanhewa/vscode-localhistory) - Local history for Visual Studio Code Files  
+- [data-dom](https://github.com/daybrush/data-dom) -   
+- [databaker](https://github.com/wan2land/databaker) -   
+- [date-filtersjs](https://github.com/PeterHdd/date-filtersjs) - A typescript library to help developers in filtering according to specific date range  
+- [date-io](https://github.com/dmtrKovalenko/date-io) - Abstraction over common javascript date management libraries  
+- [decaffeinate](https://github.com/decaffeinate/decaffeinate) - Goodbye CoffeeScript, hello JavaScript!  
+- [delegate-it](https://github.com/fregante/delegate-it) - DOM event delegation, in &lt;1KB  
+- [devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't  
+- [devalue](https://github.com/nuxt/devalue) - Gets the job done when JSON.stringify can't  
+- [devhub](https://github.com/devhubapp/devhub) - GitHub Notifications Manager & Activity Watcher - Web, Mobile & Desktop  
+- [drag-drop-stage-component](https://github.com/silexlabs/drag-drop-stage-component) - A component to &#34;drag'n drop&#34;-enable your projects, maintained and simple, light on dependencies  
+- [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output  
+- [effepi](https://github.com/OctoD/effepi) - Fun functional programming with pipelinable functions  
+- [egjs-flicking](https://github.com/naver/egjs-flicking) - 🎠 ♻️ Reliable, flexible and extendable carousel used by 30 million people everyday.  
+- [emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers  
+- [evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.  关于 token 的问题请去 https://github.com/michalyao/evermonkey/issues/94 中查看！  
+- [fabulous](https://github.com/Raathigesh/fabulous) - 🎨 CSS properties sidebar for VS Code  
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js  
+- [fiddle](https://github.com/electron/fiddle) - :electron: 🚀 The easiest way to get started with Electron  
 - [file-record](https://github.com/ianwalter/file-record) - A VS Code extension to automatically keep a local record of file changes  
+- [font-picker](https://github.com/samuelmeuli/font-picker) - ✏️ Font selector component for Google Fonts  
+- [form-wrapper-js](https://github.com/Nevoss/form-wrapper-js) - JS abstraction for forms  
+- [foxr](https://github.com/deepsweet/foxr) - 🦊 Node.js API to control Firefox  
+- [foy](https://github.com/zaaack/foy) - A simple, light-weight and modern task runner for general purpose.  
+- [frontity](https://github.com/frontity/frontity) - » Frontity - Create amazing sites using WordPress & React  
+- [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Better file system API for Node.js  
+- [fun-little-utilities](https://github.com/ksxnodeapps/fun-little-utilities) - Khải's fun little utilities  
+- [functions-framework-nodejs](https://github.com/GoogleCloudPlatform/functions-framework-nodejs) - FaaS (Function as a service) framework for writing portable Node.js functions  
+- [fween-js](https://github.com/zeh/fween-js) - Fween.  
+- [geckos.io](https://github.com/geckosio/geckos.io) - Real-time client/server communication over UDP using WebRTC and Node.js http://geckos.io  
+- [github-repo-tools](https://github.com/lightness/github-repo-tools) - A set of useful tools helping search dependencies in all repos of github user/org  
+- [got](https://github.com/sindresorhus/got) - Simplified HTTP requests  
+- [history-actions](https://github.com/BeardScript/history-actions) - Action manager framework with undo/redo  
+- [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript  
+- [http-timer](https://github.com/szmarczak/http-timer) - Timings for HTTP requests  
+- [icomponent](https://github.com/prasannavl/icomponent) - A super simple, render-agnostic component library for the modern web that emphasizes framework and renderer freedom  
+- [idley](https://github.com/yosbelms/idley) - Helper functions for implementing the idle-until-urgent pattern  
+- [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process  
+- [imgstry](https://github.com/visual-cortex/imgstry) - Image editing module in JavaScript.  
+- [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)  
+- [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉  
+- [ionicons](https://github.com/ionic-team/ionicons) - The premium icon font for Ionic Framework and web apps everywhere  
+- [iteratez](https://github.com/ClickerMonkey/iteratez) - A powerful functional iterator, transformer, and mutator - like Underscore.js, except for everything  
+- [json-helpers](https://github.com/emmkimme/json-helpers) - JSON stringify/parser managing 'undefined', Buffer and Date  
+- [jsoq](https://github.com/nire0510/jsoq) - Query and manipulate JSON arrays easily. Powered by lodash, inspired by knex and SQL in general.  
+- [just](https://github.com/microsoft/just) - The task library that just works  
+- [kalm.js](https://github.com/kalm/kalm.js) - The socket manager  
+- [keycon](https://github.com/daybrush/keycon) - Keyboard Controller  
+- [keyv-file](https://github.com/zaaack/keyv-file) - File storage adapter for Keyv, using json to serialize data.  
+- [kites](https://github.com/kitesjs/kites) - Template-based Web Application Framework  
+- [kmdr-cli](https://github.com/ediardo/kmdr-cli) - The CLI tool for explaining commands from your terminal  
+- [koa-node-resolve](https://github.com/Polymer/koa-node-resolve) - Koa middleware that transforms Node package specifiers to relative paths  
+- [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line. :hammer:  
+- [list-map](https://github.com/daybrush/list-map) - 📋 A list-map collection in the form of key, value, that ensures the index.  
+- [lit-element](https://github.com/Polymer/lit-element) - A simple base class for creating fast, lightweight web components  
+- [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.  
 - [local-history](https://github.com/zabel-xyz/local-history) - local-history for vscode  
+- [localsync](https://github.com/noderaider/localsync) - Real-time browser state synchronization across multiple tabs.  
+- [lowloader](https://github.com/nicholas-johnson/lowloader) - An unsurprising script loader. Give it a URL, it will give you a promise that will resolve when the script is loaded. Then do what you like..  
+- [macro-chrome-extension](https://github.com/UseMacro/macro-chrome-extension) - [Deprecated] Keyboard shortcuts for the web  
+- [maia-yt](https://github.com/YePpHa/maia-yt) - Currently codenamed maia-yt is a userscript (and browser extension) that enhances the user's experience on YouTube.  
+- [Maptz.VSCode.Extensions.CamelCaseNavigation](https://github.com/maptz/Maptz.VSCode.Extensions.CamelCaseNavigation) -   
+- [marble](https://github.com/marblejs/marble) - Marble.js - functional reactive Node.js framework for building server-side applications, based on TypeScript and RxJS.  
+- [mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications  
+- [mhead-js](https://github.com/FrDH/mhead-js) - A small framework for creating a beautiful mobile navigation header to accompany the jQuery.mmenu menu on your website and webapp.  
+- [microjob](https://github.com/wilk/microjob) - A tiny wrapper for turning Node.js worker threads into easy-to-use routines for heavy CPU loads.  
+- [minna-ui](https://github.com/WeAreGenki/minna-ui) - 😸 A fast, friendly, and fun web UI kit for everyone.  
+- [mjn](https://github.com/micheleriva/mjn) - ⚡️Simple pseudo-monoid to check if a key or a value exist in an object.  
+- [Mongoku](https://github.com/huggingface/Mongoku) - 🔥The Web-scale GUI for MongoDB  
+- [mort](https://github.com/joereynolds/mort) - Dead CSS detection  
+- [moveable](https://github.com/daybrush/moveable) - ↔️ ↕️ 🔄 Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable!  
+- [multrin](https://github.com/sentialx/multrin) - Cross-platform replacement for abandoned Windows Sets  
+- [nestjs-console](https://github.com/Pop-Code/nestjs-console) - A Nestjs module that provide a cli to your application.  
+- [node-common-constants](https://github.com/andfaulkner/node-common-constants) - Collection of commonly used constants such as various dates and times, mathematical constants like PI, log levels, and default ports  
+- [node-easyimage](https://github.com/hacksparrow/node-easyimage) - Node.js module for image processing and manipulation  
+- [nodebook](https://github.com/netgusto/nodebook) - Nodebook - Multi-Lang Web REPL + CLI Code runner  
+- [npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.  
+- [nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node  
+- [object-cull](https://github.com/Rich-Harris/object-cull) - Create a copy of an object with just the bits you actually need  
+- [onno](https://github.com/wagerfield/onno) - Responsive style props for building themed design systems  
+- [ottavino](https://github.com/betterthancode/ottavino) - tiny, fast and declarative ui - using custom elements API (but not only)  
+- [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans  
+- [p-progress](https://github.com/sindresorhus/p-progress) - Create a promise that reports progress  
+- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots  
+- [parse-css-font](https://github.com/jedmao/parse-css-font) - Parses the CSS font property value.  
 - [path-autocomplete](https://github.com/ionutvmi/path-autocomplete) - Path autocomplete for visual studio code.  
 - [PathIntellisense](https://github.com/ChristianKohler/PathIntellisense) - Visual Studio Code plugin that autocompletes filenames  
-- [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Better file system API for Node.js  
+- [pinch-zoom](https://github.com/GoogleChromeLabs/pinch-zoom) -   
+- [pixel-icon](https://github.com/Samitier/pixel-icon) - The simplest javascript icon editor  
+- [pkgdrop](https://github.com/swimlane/pkgdrop) - Easy deployment of ES modules without external connection needed at runtime  
+- [plugin-pug](https://github.com/prettier/plugin-pug) - Prettier Pug Plugin  
+- [pnpm](https://github.com/pnpm/pnpm) - 📦🚀 Fast, disk space efficient package manager  
+- [pointer-tracker](https://github.com/GoogleChromeLabs/pointer-tracker) - Track mouse/touch/pointer events for a given element.  
+- [popup-trigger](https://github.com/jamesknelson/popup-trigger) - A helper for triggering popups on focus, hover, and selection.  
+- [preconstruct](https://github.com/preconstruct/preconstruct) - 🎁 A smart build tool for libraries  
+- [puppet-run](https://github.com/andywer/puppet-run) - 🤖 Run anything JavaScript in a headless Chrome from your command line  
+- [puppeteer-fetchbot](https://github.com/AOEpeople/puppeteer-fetchbot) - Library and Shell command that provides a simple JSON-API to perform human like interactions and data extractions on any website. Built on top of puppeteer.  
+- [queso](https://github.com/jedmao/queso) - A library of tiny, dependency-free TypeScript functions that do just one thing.  
 - [quickTask](https://github.com/lkytal/quickTask) - Task runner and manager extension for VSCode  
+- [quilt](https://github.com/Shopify/quilt) - A loosely related set of packages for JavaScript / TypeScript projects at Shopify  
+- [r2curl](https://github.com/uyu423/r2curl) - Node.js Request Wrapper (axios, fetch, ..) to cURL Command String  
+- [react-grid-dnd](https://github.com/bmcmahen/react-grid-dnd) - drag and drop, grid edition. built with react  
+- [reatom](https://github.com/artalar/reatom) - State manager with a focus of all needs  
+- [reattempt](https://github.com/wsmd/reattempt) - 🤞 Give your functions another chance  
+- [reddit-comment-highlights](https://github.com/aesy/reddit-comment-highlights) - A browser extension with minimal permissions that highlights Reddit.com comments since you've been away.  
+- [refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features  
+- [remirror](https://github.com/ifiokjr/remirror) - A universal react text editor built with prosemirror  
+- [repeater](https://github.com/repeaterjs/repeater) - The missing constructor for creating safe async iterators  
+- [request](https://github.com/poppinss/request) - Node.Js request wrapper used by AdonisJs framework  
+- [request-registry](https://github.com/namics/request-registry) - RequestRegistry is a generic utility to be used as part of your frontend data fetching layer to provide a typed, simplified and consistent API over various remote web services via caching.  
+- [resource-x](https://github.com/khalidx/resource-x) - Resource and domain modeling for quick APIs, CMSs, and applications.  
+- [riba](https://github.com/ribajs/riba) - Lightweight and powerful data binding + web components + templating + routing solution  
+- [rollup-pluginutils](https://github.com/rollup/rollup-pluginutils) - A set of functions commonly used by Rollup plugins  
+- [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web  
+- [secure-require](https://github.com/secure-require/secure-require) - A secure require implementation for ECMAScript  
+- [serialism](https://github.com/voodooattack/serialism) - Serialize complex JavaScript objects or ES6 classes with circular dependencies natively.  
+- [shape-svg](https://github.com/daybrush/shape-svg) - Make SVG Polygon & Star Shape  
+- [simple-dom](https://github.com/ember-fastboot/simple-dom) -   
+- [smart-toc](https://github.com/FallenMax/smart-toc) - A Chrome extension for auto-generating a table of contents  
+- [snackbar](https://github.com/egoist/snackbar) - A tiny browser library for showing a brief message at the bottom of the screen (1kB gzipped).  
+- [snq](https://github.com/armanozak/snq) - A utility function to avoid type errors when traversing over arrays and object properties.  
+- [socks](https://github.com/JoshGlazebrook/socks) - Fully featured SOCKS proxy client supporting SOCKSv4, SOCKSv4a, and SOCKSv5. Includes Bind and Associate functionality.  
+- [SourceScraper](https://github.com/OpenByteDev/SourceScraper) - Simple library which helps you to retrieve the source of various video streaming sites.  
+- [stencil](https://github.com/ionic-team/stencil) - A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team  
+- [stimulus](https://github.com/stimulusjs/stimulus) - A modest JavaScript framework for the HTML you already have  
+- [stor](https://github.com/flume-cloud-services/stor) - STOR provides a JSON database with the power of HTTP requests 🚀  
 - [subtle-brackets](https://github.com/rafamel/subtle-brackets) - Underlined matching brackets for VSCode  
-- [vscode-wrap-console-log](https://github.com/midnightsyntax/vscode-wrap-console-log) - Visual Studio Code extension for fast console.log:ing  
-- [Maptz.VSCode.Extensions.CamelCaseNavigation](https://github.com/maptz/Maptz.VSCode.Extensions.CamelCaseNavigation) -   
-- [vscode-copy-syntax](https://github.com/atian25/vscode-copy-syntax) - copy your code with syntax highlight to clipboard, can be used at your slide.  
-- [vscode-backspace](https://github.com/microsoft/vscode-backspace) -   
-- [vscode-project-snippet](https://github.com/rebornix/vscode-project-snippet) - Workspace/Project Level Snippet  
-- [vscode-subword-navigation](https://github.com/ow--/vscode-subword-navigation) - Provides subword navigation for Visual Studio Code.  
-- [vscode-mark-jump](https://github.com/spywhere/vscode-mark-jump) - Jump to the marked section in the code  
-- [vscode-text-marker](https://github.com/ryu1kn/vscode-text-marker) - Visual Studio Code Extension. Select text in your code and mark all matches. The marking colour is configurable  
+- [svg-pan-zoom-container](https://github.com/luncheon/svg-pan-zoom-container) - A vanilla-js module for adding zoom-on-wheel and pan-on-drag behavior to inline SVG elements.  
+- [sync-request](https://github.com/ForbesLindesay/sync-request) - Make synchronous web requests with cross platform support.  
+- [table-selection](https://github.com/PXLWidgets/table-selection) - Adds rectangular selection to HTML tables  
+- [talker.js](https://github.com/secondstreet/talker.js) - A tiny, promise-based library for cross-origin communication between frames and windows.  
+- [template](https://github.com/fabiospampinato/template) - A super-simple way to create new projects based on templates.  
+- [template-vscode-extension](https://github.com/fabiospampinato/template-vscode-extension) - A template for starting a new vscode extension quickly.  
+- [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age  
+- [termy-the-terminal](https://github.com/ctaylo21/termy-the-terminal) - Web-based terminal powered by React  
+- [tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.  
+- [trans-loader](https://github.com/mizchi/trans-loader) - webpack-less frontend with service-worker  
+- [tui.grid](https://github.com/nhn/tui.grid) - 🍞🔡 The Powerful Component to Display and Edit Data. Experience the Ultimate Data Transformer!  
+- [turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster  
+- [TypePicker](https://github.com/Fi2zz/TypePicker) - A date picker use in web and react-native  
+- [ueli](https://github.com/oliverschwendener/ueli) - This is a keystroke launcher for Windows and macOS.  
+- [umbrella](https://github.com/thi-ng/umbrella) - ⛱ Mono-repository of 100+ TypeScript/ES6 projects for functional, data driven development  
+- [unibeautify](https://github.com/Unibeautify/unibeautify) - One Beautifier to rule them all, One Beautifier to clean them, One Beautifier to bring them all and in the darkness sheen them  
+- [uos](https://github.com/vaneenige/uos) - 🐭 A tiny 250b scroll listener with progress.  
+- [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.  
+- [use-simple-storage](https://github.com/vadymbiliuk/use-simple-storage) -   
+- [utils](https://github.com/daybrush/utils) - utils for daybrush  
+- [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry  
+- [Vimtur](https://github.com/simplyboo6/Vimtur) - Vimtur Media Manager  
+- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code  
 - [vscode-allautocomplete](https://github.com/atishay/vscode-allautocomplete) - Autocomplete from open files for VSCode  
-- [vscode-sublime-keybindings](https://github.com/microsoft/vscode-sublime-keybindings) - Sublime Text Keymap extension for VS Code  
-- [vscode-quick-select](https://github.com/dbankier/vscode-quick-select) - Quick and Simple Jumping Text Selection  
+- [vscode-backspace](https://github.com/microsoft/vscode-backspace) -   
+- [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.  
+- [vscode-copy-syntax](https://github.com/atian25/vscode-copy-syntax) - copy your code with syntax highlight to clipboard, can be used at your slide.  
 - [vscode-css-peek](https://github.com/pranaygp/vscode-css-peek) - A vscode extension for peeking at CSS definitions from a class or id tag in HTML  
 - [vscode-icons](https://github.com/vscode-icons/vscode-icons) - Icons for Visual Studio Code  
-- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code  
-- [maia-yt](https://github.com/YePpHa/maia-yt) - Currently codenamed maia-yt is a userscript (and browser extension) that enhances the user's experience on YouTube.  
-- [evermonkey](https://github.com/michalyao/evermonkey) - Evernote Editing. Redefined.  关于 token 的问题请去 https://github.com/michalyao/evermonkey/issues/94 中查看！  
-- [refined-github](https://github.com/sindresorhus/refined-github) - Browser extension that simplifies the GitHub interface and adds useful features  
-- [client](https://github.com/Ulterius/client) - [WIP] Ulterius™ HTML5 react frontend.  
-- [Chocolatey-Quickstart](https://github.com/RoryCrispin/Chocolatey-Quickstart) - A quickstart utility for the Chocolatey package manager  
-- [upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.  
-- [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉  
-- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots  
-- [mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications  
-- [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process  
+- [vscode-localhistory](https://github.com/gayanhewa/vscode-localhistory) - Local history for Visual Studio Code Files  
+- [vscode-mark-jump](https://github.com/spywhere/vscode-mark-jump) - Jump to the marked section in the code  
+- [vscode-project-snippet](https://github.com/rebornix/vscode-project-snippet) - Workspace/Project Level Snippet  
+- [vscode-quick-select](https://github.com/dbankier/vscode-quick-select) - Quick and Simple Jumping Text Selection  
+- [vscode-sublime-keybindings](https://github.com/microsoft/vscode-sublime-keybindings) - Sublime Text Keymap extension for VS Code  
+- [vscode-subword-navigation](https://github.com/ow--/vscode-subword-navigation) - Provides subword navigation for Visual Studio Code.  
+- [vscode-text-marker](https://github.com/ryu1kn/vscode-text-marker) - Visual Studio Code Extension. Select text in your code and mark all matches. The marking colour is configurable  
+- [vscode-wrap-console-log](https://github.com/midnightsyntax/vscode-wrap-console-log) - Visual Studio Code extension for fast console.log:ing  
+- [wait-for-element-transition](https://github.com/mkay581/wait-for-element-transition) - Easily wait for an element to CSS transition using native vanilla JavaScript  
+- [wana](https://github.com/alloc/wana) - Observable state with ease ⚡️  
+- [web](https://github.com/pikapkg/web) - :package: :sparkles: Bundle only once, at install time. https://www.pika.dev/blog/pika-web-a-future-without-webpack/  
+- [web-build-tools](https://github.com/microsoft/web-build-tools) - A tool box for large scale web development  
+- [webpack-chrome-extension-reloader](https://github.com/rubenspgcavalcante/webpack-chrome-extension-reloader) - 🔥 Hot reloading while developing Chrome extensions with webpack 🔥  
+- [webpack-extension-reloader](https://github.com/rubenspgcavalcante/webpack-extension-reloader) - A upgrade from 🔥webpack-chrome-extension-reloader🔥, now on all browsers  
+- [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - :package: Install C++ Build Tools for Windows using npm  
+- [wordpress-sdk](https://github.com/iclouds/wordpress-sdk) -   
+- [wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:  
+- [x-atm](https://github.com/Zaynex/x-atm) - async task manager  
+- [x-ray-chrome](https://github.com/ssbeefeater/x-ray-chrome) - x-ray chrome driver using puppeteer  
+- [xplat](https://github.com/nstudio/xplat) - Cross-platform (xplat) tools for Nx workspaces https://nstudio.io/xplat  
+- [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web  
+- [yet-another-pinboard-extension](https://github.com/seeba8/yet-another-pinboard-extension) - Manage your Pinboard bookmarks in your browser.  
+- [zoe](https://github.com/jorgegonzalez/zoe) - 🌀 Zero-config JavaScript Linter and Formatter.  
 
 ## Vala
 - [Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and Gtk  
 
 ## Vim script
-- [valet-windows](https://github.com/cretueusebiu/valet-windows) - Laravel Valet for Windows.  
 - [Syntax-Themes](https://github.com/StylishThemes/Syntax-Themes) - :art: Information and files on various syntax highlighting themes  
+- [valet-windows](https://github.com/cretueusebiu/valet-windows) - Laravel Valet for Windows.  
 
 ## Visual Basic
-- [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor plus more, for all Windows editions  
 - [dotAPK](https://github.com/AwaisKing/dotAPK) - A tool for installing and managing batch APK files.  
+- [PolicyPlus](https://github.com/Fleex255/PolicyPlus) - Local Group Policy Editor plus more, for all Windows editions  
 - [SLAM](https://github.com/SilentSys/SLAM) - Source Live Audio Mixer  
 
 ## Vue
-- [refined-prime-video](https://github.com/shroudedcode/refined-prime-video) - 🎞️ ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video.  
-- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - Helps you create your requests faster, saving you precious time on your development https://postwoman.io  
-- [victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️  
-- [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans  
 - [cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮Generate basic CSS Grid code to make dynamic layouts!  
+- [KawAnime](https://github.com/Kylart/KawAnime) - Desktop app for anime fans  
+- [postwoman](https://github.com/liyasthomas/postwoman) - 👽 API request builder - Helps you create your requests faster, saving you precious time on your development https://postwoman.io  
+- [refined-prime-video](https://github.com/shroudedcode/refined-prime-video) - 🎞️ ​ A browser extension that adds small tweaks and useful new features to Amazon Prime Video.  
 - [tld.party](https://github.com/SaraVieira/tld.party) - Damn, that's a lot of TLD  
-- [vue-unicons](https://github.com/antonreshetov/vue-unicons) - 1000+ Pixel-perfect svg icons for your next project as Vue components  
 - [Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - :monkey: Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本  
+- [victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️  
+- [vue-unicons](https://github.com/antonreshetov/vue-unicons) - 1000+ Pixel-perfect svg icons for your next project as Vue components  
 
 ## XSLT
 - [jQuery](https://github.com/SublimeText/jQuery) - Sublime Text package bundle for jQuery  
